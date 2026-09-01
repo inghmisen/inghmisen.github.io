@@ -1,20 +1,22 @@
-# Daily Briefing — world wars, Morocco 🇲🇦, the Netherlands 🇳🇱 & AI 🤖
+# Daily Briefing — AI 🤖, Utrecht 📍, Morocco 🇲🇦, the Netherlands 🇳🇱 & the wars 🌍
 
 A **static** news site that pulls the day's headlines from public RSS feeds
-into five topic **lanes** on one clean page — no API key, no database, no
+into six topic **lanes** on one clean page — no API key, no database, no
 server of your own.
 
 ## The lanes
 
-Each lane has its own feed mix and a keyword gate that decides what counts:
+Each lane has its own feed mix and a keyword gate that decides what counts
+(in page order):
 
 | Lane | What ships | Gate |
 |---|---|---|
-| 🇺🇦 Ukraine War | Kyiv Independent, Ukrainska Pravda, BBC/Guardian/Al Jazeera world feeds | Ukraine-war keywords only |
-| 🌍 Iran & Middle East | Al Jazeera, BBC, Guardian | Gaza/Israel/Iran keywords only |
+| 🤖 AI & Models | r/LocalLLaMA (top of day), HuggingFace blog, Verge AI, HN ≥100 pts | AI/model keywords only |
+| 📍 Utrecht (UToday) | utoday.nl via a Google News `site:` feed (it publishes no RSS of its own) | everything UToday runs |
 | 🇲🇦 Morocco | TelQuel + Hespress | everything fresh |
 | 🇳🇱 The Netherlands | NU.nl, Telegraaf, AD | only policy/money/"worth knowing" stories — an **empty lane is a correct answer** ("Nothing big worth knowing today.") |
-| 🤖 AI & Models | r/LocalLLaMA (top of day), HuggingFace blog, Verge AI, HN ≥100 pts | AI/model keywords only |
+| 🌍 Iran & Middle East | Al Jazeera, BBC, Guardian | Gaza/Israel/Iran keywords only |
+| 🇺🇦 Ukraine War | Kyiv Independent, Ukrainska Pravda, BBC/Guardian/Al Jazeera world feeds | Ukraine-war keywords only |
 
 Inside a lane, related headlines are grouped into **clusters** labeled with
 words that literally appear in their own headlines (`clusters.py`) — nothing

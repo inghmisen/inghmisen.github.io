@@ -1,13 +1,16 @@
 """Fetch and filter the day's stories into topic lanes for the static site.
 
-The site is organized in lanes (see LANES below):
+The site is organized in lanes (see LANES below), in page order:
 
-- Ukraine war / Iran & Middle East — world feeds, keyword-gated to the conflict.
+- AI & models — r/LocalLLaMA (top of day), HuggingFace blog, Verge AI,
+  HN front page ≥100 points, keyword-gated to AI.
+- Utrecht (UToday) — utoday.nl has no RSS of its own, so we ride Google
+  News' site-scoped feed and drop the " - UToday" title suffix.
 - Morocco — TelQuel + Hespress, everything fresh.
 - The Netherlands — general feeds, but only stories that pass the
   "worth knowing" keyword gate; if none do, the lane stays empty by design.
-- AI & models — r/LocalLLaMA (top of day), HuggingFace blog, Verge AI,
-  HN front page ≥100 points, keyword-gated to AI.
+- Iran & Middle East / Ukraine war — world feeds, keyword-gated to the
+  conflicts.
 
 Resilient by design: one feed going down never blanks a lane, and a lane
 raises only when ALL of its feeds fail.
@@ -112,29 +115,33 @@ _AI_RE = re.compile(
 # 403 on it too — then the AI lane silently keeps its other three sources.
 LANES = [
     {
-        "key": "ukraine",
-        "title": "Ukraine War",
-        "icon": "🇺🇦",
-        "cap": 12,
-        "keep": _UKRAINE_RE,
+        "key": "ai",
+        "title": "AI & Models",
+        "icon": "🤖",
+        "cap": 14,
+        "keep": _AI_RE,
         "feeds": [
-            ("Kyiv Independent", "https://kyivindependent.com/feed/rss/"),
-            ("Ukrainska Pravda", "https://www.pravda.com.ua/rss/"),
-            ("BBC World", "https://feeds.bbci.co.uk/news/world/rss.xml"),
-            ("Guardian World", "https://www.theguardian.com/world/rss"),
-            ("Al Jazeera", "https://www.aljazeera.com/xml/rss/all.xml"),
+            ("r/LocalLLaMA", "https://www.reddit.com/r/LocalLLaMA/top.rss?t=day&limit=25"),
+            ("HuggingFace", "https://huggingface.co/blog/feed.xml"),
+            ("Verge AI", "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"),
+            ("Hacker News", "https://hnrss.org/frontpage?points=100"),
         ],
     },
     {
-        "key": "mideast",
-        "title": "Iran & Middle East",
-        "icon": "🌍",
-        "cap": 12,
-        "keep": _MIDEAST_RE,
+        # utoday.nl publishes no RSS/Atom feed of its own; a Google News
+        # site-search feed is the stable substitute (links are Google
+        # redirects that land on the UToday article).
+        "key": "utoday",
+        "title": "Utrecht (UToday)",
+        "icon": "📍",
+        "cap": 10,
+        "keep": None,
         "feeds": [
-            ("Al Jazeera", "https://www.aljazeera.com/xml/rss/all.xml"),
-            ("BBC World", "https://feeds.bbci.co.uk/news/world/rss.xml"),
-            ("Guardian World", "https://www.theguardian.com/world/rss"),
+            (
+                "UToday",
+                "https://news.google.com/rss/search"
+                "?q=site:utoday.nl&hl=nl&gl=NL&ceid=NL:nl&scoring=n",
+            ),
         ],
     },
     {
@@ -162,16 +169,29 @@ LANES = [
         ],
     },
     {
-        "key": "ai",
-        "title": "AI & Models",
-        "icon": "🤖",
-        "cap": 14,
-        "keep": _AI_RE,
+        "key": "mideast",
+        "title": "Iran & Middle East",
+        "icon": "🌍",
+        "cap": 12,
+        "keep": _MIDEAST_RE,
         "feeds": [
-            ("r/LocalLLaMA", "https://www.reddit.com/r/LocalLLaMA/top.rss?t=day&limit=25"),
-            ("HuggingFace", "https://huggingface.co/blog/feed.xml"),
-            ("Verge AI", "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"),
-            ("Hacker News", "https://hnrss.org/frontpage?points=100"),
+            ("Al Jazeera", "https://www.aljazeera.com/xml/rss/all.xml"),
+            ("BBC World", "https://feeds.bbci.co.uk/news/world/rss.xml"),
+            ("Guardian World", "https://www.theguardian.com/world/rss"),
+        ],
+    },
+    {
+        "key": "ukraine",
+        "title": "Ukraine War",
+        "icon": "🇺🇦",
+        "cap": 12,
+        "keep": _UKRAINE_RE,
+        "feeds": [
+            ("Kyiv Independent", "https://kyivindependent.com/feed/rss/"),
+            ("Ukrainska Pravda", "https://www.pravda.com.ua/rss/"),
+            ("BBC World", "https://feeds.bbci.co.uk/news/world/rss.xml"),
+            ("Guardian World", "https://www.theguardian.com/world/rss"),
+            ("Al Jazeera", "https://www.aljazeera.com/xml/rss/all.xml"),
         ],
     },
 ]
@@ -191,6 +211,8 @@ def _parse_feed(url: str, source: str) -> list[Article]:
     articles = []
     for entry in feed.entries:
         title = _strip_html(entry.get("title", ""))
+        # Aggregators (Google News) append " - <source>" to titles.
+        title = re.sub(rf"\s+-\s*{re.escape(source)}\.?$", "", title).strip()
         if not title:
             continue
         published = entry.get("published_parsed") or entry.get("updated_parsed")

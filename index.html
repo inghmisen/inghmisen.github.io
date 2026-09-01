@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#f2f3f7" media="(prefers-color-scheme: light)">
   <meta name="theme-color" content="#0f1116" media="(prefers-color-scheme: dark)">
-  <title>Daily Briefing — Wars, Morocco, NL &amp; AI</title>
+  <title>Daily Briefing — AI, Utrecht, Morocco, NL &amp; the wars</title>
   <style>
     :root {
       color-scheme: light dark;
@@ -21,6 +21,7 @@
       --acc-ma: #d92b55;   --acc-ma-2: #ff7a9c;
       --acc-nl: #e0671f;   --acc-nl-2: #ffa064;
       --acc-ai: #7c5cfa;   --acc-ai-2: #a78bfa;
+      --acc-ut: #0891b2;   --acc-ut-2: #38cfe0;
       --good: #16a34a;
       --bad: #e5484d;
       --chip: #eef0f5;
@@ -45,6 +46,7 @@
         --acc-ma: #ff5d80;   --acc-ma-2: #d92b55;
         --acc-nl: #ff8a47;   --acc-nl-2: #c8531a;
         --acc-ai: #9b7dff;   --acc-ai-2: #7c5cfa;
+        --acc-ut: #3ccbe6;   --acc-ut-2: #0891b2;
         --good: #3ddc84;
         --bad: #ff6b6e;
         --chip: #232833;
@@ -107,25 +109,26 @@
     /* ---------- segmented lane switch (mobile only) ---------- */
     .tabs { display: none; }
     @media (max-width: 880px) {
+      /* Six lanes never fit one pill row on a phone — 2 rows of 3. */
       .tabs {
-        display: flex;
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
         gap: 3px;
         padding: 4px;
         margin: 18px 0 2px;
         background: var(--surface);
         border: 1px solid var(--line);
-        border-radius: var(--r-pill);
+        border-radius: var(--r-lg);
         box-shadow: var(--shadow);
         position: sticky;
         top: 10px;
         z-index: 20;
       }
       .tabs button {
-        flex: 1;
         min-width: 0;
         border: 0;
-        border-radius: var(--r-pill);
-        padding: 11px 4px;
+        border-radius: 14px;
+        padding: 10px 4px;
         font: 700 12.5px var(--sans);
         color: var(--ink-soft);
         background: transparent;
@@ -159,11 +162,12 @@
       transition: box-shadow .25s ease, transform .25s ease;
     }
     .lane:hover { box-shadow: var(--shadow-lift); }
-    .ukraine     { --accent: var(--acc-ua); --accent-2: var(--acc-ua-2); }
-    .mideast     { --accent: var(--acc-me); --accent-2: var(--acc-me-2); }
+    .ai          { --accent: var(--acc-ai); --accent-2: var(--acc-ai-2); }
+    .utoday      { --accent: var(--acc-ut); --accent-2: var(--acc-ut-2); }
     .morocco     { --accent: var(--acc-ma); --accent-2: var(--acc-ma-2); }
     .netherlands { --accent: var(--acc-nl); --accent-2: var(--acc-nl-2); }
-    .ai          { --accent: var(--acc-ai); --accent-2: var(--acc-ai-2); }
+    .mideast     { --accent: var(--acc-me); --accent-2: var(--acc-me-2); }
+    .ukraine     { --accent: var(--acc-ua); --accent-2: var(--acc-ua-2); }
 
     .lane-head {
       display: flex;
@@ -339,7 +343,7 @@
       <div class="logo" aria-hidden="true">🗞️</div>
       <div>
         <h1>Daily Briefing</h1>
-        <p class="tagline">🇺🇦 Ukraine &nbsp;·&nbsp; 🌍 Middle East &nbsp;·&nbsp; 🇲🇦 Morocco &nbsp;·&nbsp; 🇳🇱 Netherlands &nbsp;·&nbsp; 🤖 AI</p>
+        <p class="tagline">🤖 AI &nbsp;·&nbsp; 📍 Utrecht &nbsp;·&nbsp; 🇲🇦 Morocco &nbsp;·&nbsp; 🇳🇱 Netherlands &nbsp;·&nbsp; 🌍 Middle East &nbsp;·&nbsp; 🇺🇦 Ukraine</p>
       </div>
       <div class="pills">
         <span class="pill fx" id="fxchip" hidden></span>
@@ -367,10 +371,10 @@
     var timer = null;
     var loadedOnce = false;
 
-    // Short labels for the mobile segmented switch (5 lanes are cramped).
+    // Short labels for the mobile switcher (6 lanes, full titles don't fit).
     var TAB_LABELS = {
-      ukraine: "Ukraine", mideast: "Mideast", morocco: "Morocco",
-      netherlands: "NL", ai: "AI"
+      ai: "AI", utoday: "Utrecht", morocco: "Morocco",
+      netherlands: "NL", mideast: "Mideast", ukraine: "Ukraine"
     };
 
     function esc(value) {
