@@ -1,8 +1,8 @@
 """Generate data.json for the static news site.
 
-Fetches the feeds (news_client), builds each country's briefing (summarizer)
-and writes data.json next to this script. Designed to run on a schedule in
-GitHub Actions, but works identically on your machine.
+Fetches the feeds (news_client) and writes data.json next to this script.
+Designed to run on a schedule in GitHub Actions, but works identically on
+your machine.
 
 Behavior notes:
 - If the country payload is unchanged (ignoring the volatile date/time fields)
@@ -18,7 +18,6 @@ import time
 from pathlib import Path
 
 from news_client import NewsFetchError, fetch_all_news
-from summarizer import briefing_for
 
 DATA_PATH = Path(__file__).resolve().parent / "data.json"
 # A JS mirror of data.json. Pages uses fetch() for live refresh, but browsers
@@ -34,8 +33,6 @@ _VOLATILE = ("date", "generated_at")
 def build_payload() -> dict:
     """Full site payload. Raises NewsFetchError if nothing could be fetched."""
     countries = fetch_all_news()
-    for country in countries:
-        country.briefing = briefing_for(country.articles)
 
     now = time.localtime()
     return {
@@ -51,7 +48,6 @@ def build_payload() -> dict:
                 "code": c.code,
                 "name": c.name,
                 "flag": c.flag,
-                "briefing": c.briefing,
                 "articles": [
                     {
                         "title": a.title,

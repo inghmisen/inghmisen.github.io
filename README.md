@@ -1,8 +1,8 @@
 # Daily News Briefing — Morocco 🇲🇦 & The Netherlands 🇳🇱
 
 A **static** news site that pulls the latest headlines for Morocco and the
-Netherlands from public RSS feeds and generates a short "Today in …" briefing
-for each country — no API key, no database, no server of your own.
+Netherlands from public RSS feeds into one clean page — no API key, no
+database, no server of your own.
 
 ## How it works
 
@@ -13,7 +13,7 @@ refreshes one file, `data.json`; the static page reads it:
 GitHub cron (every 30 min)
       │  runs
       ▼
-generate_data.py ──► news_client.py (RSS) ──► summarizer.py (briefing)
+generate_data.py ──► news_client.py (RSS)
       │  writes, but only if content actually changed
       ▼
    data.json  ── committed & pushed ──► GitHub Pages serves it
@@ -22,14 +22,15 @@ generate_data.py ──► news_client.py (RSS) ──► summarizer.py (briefin
    index.html (client-side render, no build step)
 ```
 
-- **`generate_data.py`** — the entry point. Fetches, summarizes, writes
-  `data.json` **and** `data.js` (a JS mirror for the offline case below). It
-  *skips the write when nothing changed* (so the cron only commits when the
-  news moved), and on a total feed outage it exits non-zero *without*
-  overwriting, so the last good data stays published.
+- **`generate_data.py`** — the entry point. Fetches and writes `data.json`
+  **and** `data.js` (a JS mirror for the offline case below). It *skips the
+  write when nothing changed* (so the cron only commits when the news moved),
+  and on a total feed outage it exits non-zero *without* overwriting, so the
+  last good data stays published.
 - **`news_client.py`** — merges each country's RSS/Atom feeds, dedupes, keeps
   the freshest items. One feed going down never blanks a country.
-- **`summarizer.py`** — language-agnostic Luhn-style extractive summarizer.
+- **`summarizer.py`** — extractive summarizer, kept for the archived Flask
+  preview; the static site no longer generates briefing text.
 - **`index.html`** — the whole front end: dashboard UI rendered from
   `data.json`, mobile country switch, auto-refresh. No build step, no deps.
 - **`data.js`** — a committed `window.__NEWS__ = {…}` snapshot. Browsers block
