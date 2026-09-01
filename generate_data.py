@@ -1,15 +1,17 @@
 """Generate data.json for the static news site.
 
-Fetches the feeds (news_client) and writes data.json next to this script.
-Designed to run on a schedule in GitHub Actions, but works identically on
-your machine.
+Fetches each lane (news_client), clusters related headlines (clusters.py),
+picks up the EUR/MAD rate, and writes data.json + data.js next to this
+script. Designed to run on a schedule in GitHub Actions, but works
+identically on your machine.
 
 Behavior notes:
-- If the country payload is unchanged (ignoring the volatile date/time fields)
-  the file is left untouched and we exit 0 — the workflow then skips the
+- If the payload is unchanged (ignoring the volatile date/time fields) the
+  files are left untouched and we exit 0 — the workflow then skips the
   commit, so the repo only gains a commit when the news actually changed.
-- If every feed for every country fails we exit non-zero WITHOUT writing, so
-  the last good data.json stays published (stale beats broken).
+- If every feed of every lane fails we exit non-zero WITHOUT writing, so the
+  last good snapshot stays published (stale beats broken). A lane that fails
+  while others work is fine: it ships as an empty lane with a note.
 """
 
 import json
@@ -17,7 +19,19 @@ import sys
 import time
 from pathlib import Path
 
-from news_client import NewsFetchError, fetch_all_news
+import requests
+
+from clusters import cluster
+from news_client import LANES, NewsFetchError, fetch_lane
+
+
+def article_dict(a) -> dict:
+    return {
+        "title": a.title,
+        "url": a.url,
+        "source": a.source,
+        "published_at": a.published_at,
+    }
 
 DATA_PATH = Path(__file__).resolve().parent / "data.json"
 # A JS mirror of data.json. Pages uses fetch() for live refresh, but browsers
@@ -26,40 +40,71 @@ DATA_PATH = Path(__file__).resolve().parent / "data.json"
 # the payload as a plain assignment and the page falls back to it offline.
 DATA_JS_PATH = Path(__file__).resolve().parent / "data.js"
 
+FX_URL = "https://open.er-api.com/v6/latest/EUR"
+
 # Volatile fields excluded when deciding whether anything actually changed.
 _VOLATILE = ("date", "generated_at")
 
 
-def build_payload() -> dict:
-    """Full site payload. Raises NewsFetchError if nothing could be fetched."""
-    countries = fetch_all_news()
+def fetch_fx(previous_rate: float | None) -> dict | None:
+    """EUR→MAD rate; day change measured against the last published value."""
+    try:
+        rates = requests.get(FX_URL, timeout=15).json()["rates"]
+        rate = round(rates["MAD"], 3)
+    except Exception as exc:
+        print(f"fx unavailable: {exc}", file=sys.stderr)
+        return None
+    change = (
+        round((rate - previous_rate) / previous_rate * 100, 2)
+        if previous_rate
+        else None
+    )
+    return {"pair": "EUR/MAD", "rate": rate, "change_pct": change}
+
+
+def build_payload(previous: dict | None) -> dict:
+    lanes_out = []
+    problems = []
+    ok = 0
+    for lane in LANES:
+        entry = {
+            "key": lane["key"],
+            "title": lane["title"],
+            "icon": lane["icon"],
+            "note": None,
+            "clusters": [],
+            "count": 0,
+        }
+        try:
+            articles = fetch_lane(lane)
+            ok += 1
+            entry["clusters"] = [
+                {"label": c["label"], "articles": [article_dict(a) for a in c["articles"]]}
+                for c in cluster(articles)
+            ]
+            entry["count"] = len(articles)
+            if not articles and lane.get("empty_note"):
+                entry["note"] = lane["empty_note"]
+        except NewsFetchError as exc:
+            problems.append(str(exc))
+            entry["note"] = "Feeds unreachable right now."
+        lanes_out.append(entry)
+
+    if ok == 0:
+        raise NewsFetchError("Could not fetch any news: " + " | ".join(problems))
 
     now = time.localtime()
+    prev_rate = ((previous or {}).get("fx") or {}).get("rate")
     return {
         "date": (
             f"{time.strftime('%A', now)} {now.tm_mday} "
             f"{time.strftime('%B', now)} {now.tm_year}"
         ),
         "generated_at": time.strftime("%H:%M UTC", time.gmtime()),
-        "error": None,
-        "total_stories": sum(len(c.articles) for c in countries),
-        "countries": [
-            {
-                "code": c.code,
-                "name": c.name,
-                "flag": c.flag,
-                "articles": [
-                    {
-                        "title": a.title,
-                        "url": a.url,
-                        "source": a.source,
-                        "published_at": a.published_at,
-                    }
-                    for a in c.articles
-                ],
-            }
-            for c in countries
-        ],
+        "error": " | ".join(problems) if problems else None,
+        "total_stories": sum(l["count"] for l in lanes_out),
+        "fx": fetch_fx(prev_rate),
+        "lanes": lanes_out,
     }
 
 
@@ -68,33 +113,37 @@ def core(payload: dict) -> dict:
 
 
 def main() -> int:
+    previous = None
+    if DATA_PATH.exists():
+        try:
+            previous = json.loads(DATA_PATH.read_text(encoding="utf-8"))
+        except (OSError, json.JSONDecodeError):
+            previous = None  # unreadable: just write fresh
+
     try:
-        payload = build_payload()
+        payload = build_payload(previous)
     except NewsFetchError as exc:
         print(f"error: {exc}", file=sys.stderr)
         return 1
 
-    if DATA_PATH.exists() and DATA_JS_PATH.exists():
-        try:
-            previous = json.loads(DATA_PATH.read_text(encoding="utf-8"))
-            if core(previous) == core(payload):
-                print("data.json unchanged — skipping write")
-                return 0
-        except (OSError, json.JSONDecodeError):
-            pass  # unreadable/absent: just write fresh
+    if previous is not None and core(previous) == core(payload):
+        print("data.json unchanged — skipping write")
+        return 0
 
     serialized = json.dumps(payload, ensure_ascii=False, indent=1)
     DATA_PATH.write_text(serialized + "\n", encoding="utf-8")
-    # JSON is valid JS object-literal syntax, so we wrap the same bytes as an
-    # assignment. U+2028/U+2029 are legal in JSON strings but were historically
-    # illegal in JS string literals, so we escape them to keep both files safe.
+    # Reuse the same bytes as a JS assignment. U+2028/U+2029 are legal inside
+    # JSON strings but were historically illegal in JS, so escape them.
     js = serialized.replace(" ", "\u2028").replace(" ", "\u2029")
     DATA_JS_PATH.write_text(
         "// Generated by generate_data.py — do not edit; see data.json.\n"
         "window.__NEWS__ = " + js + ";\n",
         encoding="utf-8",
     )
-    print(f"wrote data.json + data.js: {payload['total_stories']} stories")
+    for lane in payload["lanes"]:
+        clusters = ", ".join(c["label"] for c in lane["clusters"] if c["label"])
+        print(f'{lane["icon"]} {lane["title"]:20} {lane["count"]:3}  [{clusters}]')
+    print(f'fx: {payload["fx"]}')
     return 0
 
 

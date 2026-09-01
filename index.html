@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#f2f3f7" media="(prefers-color-scheme: light)">
   <meta name="theme-color" content="#0f1116" media="(prefers-color-scheme: dark)">
-  <title>Daily Briefing — Morocco &amp; The Netherlands</title>
+  <title>Daily Briefing — Wars, Morocco, NL &amp; AI</title>
   <style>
     :root {
       color-scheme: light dark;
@@ -16,10 +16,13 @@
       --ink-soft: #4b4f58;
       --muted: #8b909c;
       --line: #e4e6ee;
-      --accent-ma: #d92b55;
-      --accent-nl: #e0671f;
-      --accent-ma-2: #ff7a9c;
-      --accent-nl-2: #ffa064;
+      --acc-ua: #2f6fed;   --acc-ua-2: #e8a91d;
+      --acc-me: #0f9d8a;   --acc-me-2: #35c4b0;
+      --acc-ma: #d92b55;   --acc-ma-2: #ff7a9c;
+      --acc-nl: #e0671f;   --acc-nl-2: #ffa064;
+      --acc-ai: #7c5cfa;   --acc-ai-2: #a78bfa;
+      --good: #16a34a;
+      --bad: #e5484d;
       --chip: #eef0f5;
       --shadow: 0 1px 2px rgba(18, 20, 28, .05), 0 10px 30px -12px rgba(18, 20, 28, .12);
       --shadow-lift: 0 2px 4px rgba(18, 20, 28, .06), 0 18px 40px -14px rgba(18, 20, 28, .2);
@@ -37,10 +40,13 @@
         --ink-soft: #b8bdca;
         --muted: #7d8394;
         --line: #262b35;
-        --accent-ma: #ff5d80;
-        --accent-nl: #ff8a47;
-        --accent-ma-2: #d92b55;
-        --accent-nl-2: #c8531a;
+        --acc-ua: #5b8ff5;   --acc-ua-2: #f0b429;
+        --acc-me: #2cc0aa;   --acc-me-2: #58dccb;
+        --acc-ma: #ff5d80;   --acc-ma-2: #d92b55;
+        --acc-nl: #ff8a47;   --acc-nl-2: #c8531a;
+        --acc-ai: #9b7dff;   --acc-ai-2: #7c5cfa;
+        --good: #3ddc84;
+        --bad: #ff6b6e;
         --chip: #232833;
         --shadow: 0 1px 2px rgba(0, 0, 0, .4), 0 12px 32px -14px rgba(0, 0, 0, .55);
         --shadow-lift: 0 2px 6px rgba(0, 0, 0, .45), 0 20px 44px -16px rgba(0, 0, 0, .65);
@@ -51,8 +57,8 @@
     body {
       margin: 0;
       background:
-        radial-gradient(900px 420px at 85% -10%, color-mix(in srgb, var(--accent-nl) 11%, transparent), transparent 65%),
-        radial-gradient(900px 420px at 10% -10%, color-mix(in srgb, var(--accent-ma) 11%, transparent), transparent 65%),
+        radial-gradient(900px 420px at 85% -10%, color-mix(in srgb, var(--acc-ai) 10%, transparent), transparent 65%),
+        radial-gradient(900px 420px at 10% -10%, color-mix(in srgb, var(--acc-ma) 11%, transparent), transparent 65%),
         var(--bg);
       color: var(--ink);
       font: 15px/1.55 var(--sans);
@@ -70,11 +76,12 @@
       border-radius: 13px;
       display: grid; place-items: center;
       font-size: 21px;
-      background: linear-gradient(135deg, var(--accent-ma), var(--accent-nl));
+      background: linear-gradient(135deg, var(--acc-ma), var(--acc-ai));
       box-shadow: var(--shadow);
     }
     .app-bar h1 { margin: 0; font-size: 21px; font-weight: 800; letter-spacing: -0.02em; }
     .app-bar .tagline { margin: 1px 0 0; font-size: 12.5px; color: var(--muted); }
+    .pills { display: flex; align-items: center; gap: 8px; margin-left: auto; flex-wrap: wrap; }
     .pill {
       display: inline-flex;
       align-items: center;
@@ -87,20 +94,22 @@
       font-size: 12.5px;
       font-weight: 600;
       color: var(--ink-soft);
-      margin-left: auto;
     }
     .live-dot {
       width: 8px; height: 8px; border-radius: 50%;
       background: #22c55e;
       box-shadow: 0 0 0 3px color-mix(in srgb, #22c55e 22%, transparent);
     }
+    .fx b { font-weight: 800; color: var(--ink); }
+    .fx .up { color: var(--good); font-weight: 800; }
+    .fx .down { color: var(--bad); font-weight: 800; }
 
-    /* ---------- segmented country switch (mobile only) ---------- */
+    /* ---------- segmented lane switch (mobile only) ---------- */
     .tabs { display: none; }
     @media (max-width: 880px) {
       .tabs {
         display: flex;
-        gap: 4px;
+        gap: 3px;
         padding: 4px;
         margin: 18px 0 2px;
         background: var(--surface);
@@ -113,22 +122,26 @@
       }
       .tabs button {
         flex: 1;
+        min-width: 0;
         border: 0;
         border-radius: var(--r-pill);
-        padding: 11px 10px;
-        font: 700 13.5px var(--sans);
+        padding: 11px 4px;
+        font: 700 12.5px var(--sans);
         color: var(--ink-soft);
         background: transparent;
         cursor: pointer;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
         transition: background .18s ease, color .18s ease;
       }
       .tabs button.active { background: var(--ink); color: var(--bg); }
-      .tabs button:focus-visible { outline: 2px solid var(--accent-ma); outline-offset: 2px; }
-      body.tabs-active .country { display: none; }
-      body.tabs-active .country.show { display: block; }
+      .tabs button:focus-visible { outline: 2px solid var(--acc-ma); outline-offset: 2px; }
+      body.tabs-active .lane { display: none; }
+      body.tabs-active .lane.show { display: block; }
     }
 
-    /* ---------- country cards ---------- */
+    /* ---------- lane cards ---------- */
     main {
       margin-top: 26px;
       display: grid;
@@ -136,7 +149,7 @@
       gap: 26px;
       align-items: start;
     }
-    .country {
+    .lane {
       min-width: 0;
       background: var(--surface);
       border: 1px solid var(--line);
@@ -145,11 +158,14 @@
       overflow: hidden;
       transition: box-shadow .25s ease, transform .25s ease;
     }
-    .country:hover { box-shadow: var(--shadow-lift); }
-    .ma { --accent: var(--accent-ma); --accent-2: var(--accent-ma-2); }
-    .nl { --accent: var(--accent-nl); --accent-2: var(--accent-nl-2); }
+    .lane:hover { box-shadow: var(--shadow-lift); }
+    .ukraine     { --accent: var(--acc-ua); --accent-2: var(--acc-ua-2); }
+    .mideast     { --accent: var(--acc-me); --accent-2: var(--acc-me-2); }
+    .morocco     { --accent: var(--acc-ma); --accent-2: var(--acc-ma-2); }
+    .netherlands { --accent: var(--acc-nl); --accent-2: var(--acc-nl-2); }
+    .ai          { --accent: var(--acc-ai); --accent-2: var(--acc-ai-2); }
 
-    .country-head {
+    .lane-head {
       display: flex;
       align-items: center;
       gap: 12px;
@@ -157,7 +173,7 @@
       background: linear-gradient(135deg, color-mix(in srgb, var(--accent) 14%, var(--surface)), var(--surface) 70%);
       border-bottom: 1px solid var(--line);
     }
-    .flag-badge {
+    .lane-badge {
       width: 42px; height: 42px;
       border-radius: 12px;
       display: grid; place-items: center;
@@ -165,7 +181,7 @@
       background: linear-gradient(135deg, var(--accent), var(--accent-2));
       box-shadow: var(--shadow);
     }
-    .country-head h2 { margin: 0; font-size: 19px; font-weight: 800; letter-spacing: -0.015em; }
+    .lane-head h2 { margin: 0; font-size: 19px; font-weight: 800; letter-spacing: -0.015em; }
     .stories-chip {
       margin-left: auto;
       display: inline-flex;
@@ -179,7 +195,27 @@
       font-weight: 700;
     }
 
-    .country-body { padding: 18px 22px 10px; }
+    .lane-body { padding: 18px 22px 10px; }
+
+    /* ---------- clusters (keyword groups) ---------- */
+    .cluster + .cluster { margin-top: 8px; border-top: 1px solid var(--line); }
+    .cluster-label {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin: 14px 2px 4px;
+      font-size: 11px;
+      font-weight: 800;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      color: var(--muted);
+    }
+    .cluster-label::before {
+      content: "";
+      width: 12px; height: 4px;
+      border-radius: 2px;
+      background: linear-gradient(90deg, var(--accent), var(--accent-2));
+    }
 
     /* ---------- stories ---------- */
     .stories { margin: 0; padding: 0; list-style: none; }
@@ -188,15 +224,18 @@
     .stories li + li { border-top: 1px solid var(--line); }
     .story-link {
       display: block;
-      padding: 14px 12px;
+      padding: 13px 12px;
       text-decoration: none;
       color: inherit;
       border-radius: inherit;
     }
     .story-link:focus-visible { outline: 2px solid var(--accent); outline-offset: -2px; }
-    .stories li:first-child .story-link { padding: 16px 14px; }
-    .stories li:first-child .story-title { font-size: 20px; line-height: 1.3; font-weight: 800; letter-spacing: -0.018em; }
-    .stories li:first-child .story-title::before {
+    /* The single top story of the lane (only the FIRST cluster gets it). */
+    .cluster:first-child .stories li:first-child .story-link { padding: 16px 14px; }
+    .cluster:first-child .stories li:first-child .story-title {
+      font-size: 20px; line-height: 1.3; font-weight: 800; letter-spacing: -0.018em;
+    }
+    .cluster:first-child .stories li:first-child .story-title::before {
       content: "LEAD";
       display: inline-block;
       vertical-align: 3px;
@@ -209,7 +248,7 @@
       letter-spacing: 0.12em;
     }
     .story-title {
-      font-size: 14.5px;
+      font-size: 14px;
       font-weight: 650;
       line-height: 1.42;
       color: var(--ink);
@@ -221,7 +260,7 @@
       display: flex;
       align-items: center;
       gap: 8px;
-      margin-top: 8px;
+      margin-top: 7px;
       font-size: 11.5px;
       color: var(--muted);
       font-weight: 600;
@@ -244,7 +283,7 @@
       background: var(--accent);
     }
 
-    .empty { padding: 18px 14px; color: var(--muted); font-weight: 600; }
+    .empty { padding: 18px 14px; margin: 0; color: var(--muted); font-weight: 600; }
 
     /* ---------- notices ---------- */
     .notice {
@@ -281,10 +320,11 @@
     @media (max-width: 880px) {
       .app { padding: 18px 14px 44px; }
       .app-bar h1 { font-size: 18px; }
-      .pill { display: none; }
-      .country-head { padding: 16px 16px 14px; }
-      .country-body { padding: 14px 14px 8px; }
-      .stories li:first-child .story-title { font-size: 18px; }
+      .app-bar .tagline { display: none; }
+      .pills { width: 100%; margin-left: 0; }
+      .lane-head { padding: 16px 16px 14px; }
+      .lane-body { padding: 14px 14px 8px; }
+      .cluster:first-child .stories li:first-child .story-title { font-size: 18px; }
       footer { flex-direction: column; align-items: center; gap: 2px; }
       footer span + span::before { display: none; }
     }
@@ -299,9 +339,12 @@
       <div class="logo" aria-hidden="true">🗞️</div>
       <div>
         <h1>Daily Briefing</h1>
-        <p class="tagline">🇲🇦 Morocco &nbsp;·&nbsp; 🇳🇱 The Netherlands</p>
+        <p class="tagline">🇺🇦 Ukraine &nbsp;·&nbsp; 🌍 Middle East &nbsp;·&nbsp; 🇲🇦 Morocco &nbsp;·&nbsp; 🇳🇱 Netherlands &nbsp;·&nbsp; 🤖 AI</p>
       </div>
-      <span class="pill" id="dateline" hidden></span>
+      <div class="pills">
+        <span class="pill fx" id="fxchip" hidden></span>
+        <span class="pill" id="dateline" hidden></span>
+      </div>
     </header>
 
     <div id="content">
@@ -317,11 +360,18 @@
   <script src="data.js"></script>
   <script>
     // Render the page from data.json (written by generate_data.py on a
-    // schedule). Refetches every few minutes and whenever the tab regains
-    // focus, so an always-open tab keeps itself current.
+    // schedule): topic lanes, each with keyword-labeled clusters of headlines,
+    // plus the EUR/MAD rate chip. Refetches every few minutes and whenever the
+    // tab regains focus, so an always-open tab keeps itself current.
     var REFRESH_MS = 5 * 60 * 1000;
     var timer = null;
     var loadedOnce = false;
+
+    // Short labels for the mobile segmented switch (5 lanes are cramped).
+    var TAB_LABELS = {
+      ukraine: "Ukraine", mideast: "Mideast", morocco: "Morocco",
+      netherlands: "NL", ai: "AI"
+    };
 
     function esc(value) {
       return String(value).replace(/[&<>"']/g, function (c) {
@@ -333,28 +383,51 @@
       return /^https?:\/\//i.test(url || "") ? url : "#";
     }
 
-    function countryHTML(c) {
-      var stories = c.articles.map(function (a) {
-        return '<li><a class="story-link" href="' + esc(safeUrl(a.url)) + '" target="_blank" rel="noopener">' +
-          '<span class="story-title">' + esc(a.title) + '</span>' +
-          '<span class="story-meta"><span class="source-chip">' + esc(a.source) + '</span>' +
-          esc(a.published_at) + '</span></a></li>';
-      }).join("");
-      if (!stories) {
-        stories = '<li class="empty">No articles returned for this country right now.</li>';
+    function storyHTML(a) {
+      return '<li><a class="story-link" href="' + esc(safeUrl(a.url)) + '" target="_blank" rel="noopener">' +
+        '<span class="story-title">' + esc(a.title) + '</span>' +
+        '<span class="story-meta"><span class="source-chip">' + esc(a.source) + '</span>' +
+        esc(a.published_at) + '</span></a></li>';
+    }
+
+    function laneHTML(lane) {
+      var body = "";
+      (lane.clusters || []).forEach(function (c) {
+        var stories = (c.articles || []).map(storyHTML).join("");
+        if (!stories) return;
+        body += '<div class="cluster">' +
+          (c.label ? '<h3 class="cluster-label">' + esc(c.label) + '</h3>' : "") +
+          '<ol class="stories">' + stories + '</ol></div>';
+      });
+      if (!body) {
+        body = '<p class="empty">' + esc(lane.note || "No stories right now.") + '</p>';
+      } else if (lane.note) {
+        // e.g. some of this lane's feeds were unreachable.
+        body += '<p class="empty">' + esc(lane.note) + '</p>';
       }
-      return '<section class="country ' + esc(c.code) + '" id="country-' + esc(c.code) + '" aria-label="' + esc(c.name) + '">' +
-        '<div class="country-head">' +
-        '<span class="flag-badge" aria-hidden="true">' + esc(c.flag) + '</span>' +
-        '<h2>' + esc(c.name) + '</h2>' +
-        '<span class="stories-chip">' + c.articles.length + ' stories</span>' +
-        '</div><div class="country-body">' +
-        '<ol class="stories">' + stories + '</ol></div></section>';
+      return '<section class="lane ' + esc(lane.key) + '" id="lane-' + esc(lane.key) +
+        '" aria-label="' + esc(lane.title) + '">' +
+        '<div class="lane-head">' +
+        '<span class="lane-badge" aria-hidden="true">' + esc(lane.icon) + '</span>' +
+        '<h2>' + esc(lane.title) + '</h2>' +
+        '<span class="stories-chip">' + (lane.count || 0) + ' stories</span>' +
+        '</div><div class="lane-body">' + body + '</div></section>';
     }
 
     function noticeHTML(title, message) {
       return '<div class="notice"><strong>' + esc(title) + '</strong><p>' + esc(message) +
         '</p></div>';
+    }
+
+    function fxHTML(fx) {
+      if (!fx || !fx.rate) return "";
+      var delta = "";
+      if (fx.change_pct !== null && fx.change_pct !== undefined) {
+        var up = fx.change_pct >= 0;
+        delta = ' <span class="' + (up ? "up" : "down") + '">' + (up ? "▲" : "▼") + " " +
+          Math.abs(fx.change_pct).toFixed(2) + "%</span>";
+      }
+      return "€1 = <b>" + esc(fx.rate.toFixed(3)) + " MAD</b>" + delta;
     }
 
     function render(data) {
@@ -366,6 +439,11 @@
           esc(data.date || "") + (data.generated_at ? " · refreshed " + esc(data.generated_at) : "");
       }
 
+      var fxchip = document.getElementById("fxchip");
+      var fx = fxHTML(data.fx);
+      fxchip.hidden = !fx;
+      fxchip.innerHTML = fx;
+
       var footer = document.getElementById("footer");
       footer.hidden = false;
       footer.innerHTML =
@@ -373,40 +451,41 @@
         "<span>Public RSS feeds · no API keys · no tracking</span>";
 
       var content = document.getElementById("content");
-      var countries = data.countries || [];
+      var lanes = data.lanes || [];
 
-      if (!countries.length) {
+      if (!lanes.length) {
         content.innerHTML = noticeHTML("Couldn’t load the news",
           (data.error || "No data has been published yet.") +
           " — this is usually a temporary problem with the feeds. The page refreshes itself.");
         return;
       }
 
-      var tabs = countries.length > 1
-        ? '<nav class="tabs" aria-label="Switch country">' + countries.map(function (c) {
-            return '<button type="button" data-target="' + esc(c.code) + '" role="tab" aria-selected="false">' +
-              esc(c.flag) + " " + esc(c.name) + "</button>";
+      var tabs = lanes.length > 1
+        ? '<nav class="tabs" aria-label="Switch topic">' + lanes.map(function (l) {
+            var label = TAB_LABELS[l.key] || l.title;
+            return '<button type="button" data-target="' + esc(l.key) + '" role="tab" aria-selected="false">' +
+              esc(l.icon) + " " + esc(label) + "</button>";
           }).join("") + "</nav>"
         : "";
 
-      content.innerHTML = tabs + "<main>" + countries.map(countryHTML).join("") + "</main>" +
+      content.innerHTML = tabs + "<main>" + lanes.map(laneHTML).join("") + "</main>" +
         (data.error ? noticeHTML("Some feeds are failing", data.error) : "");
 
       initTabs();
     }
 
-    // Mobile country switch. CSS gates the hiding behind the narrow
+    // Mobile lane switch. CSS gates the hiding behind the narrow
     // breakpoint + .tabs-active, so with JS disabled everything stays stacked.
     function initTabs() {
       var tabs = document.querySelector(".tabs");
       if (!tabs) return;
-      var countries = Array.prototype.slice.call(document.querySelectorAll(".country"));
-      if (countries.length < 2) return;
+      var lanes = Array.prototype.slice.call(document.querySelectorAll(".lane"));
+      if (lanes.length < 2) return;
       document.body.classList.add("tabs-active");
-      function show(code) {
-        countries.forEach(function (c) { c.classList.toggle("show", c.id === "country-" + code); });
+      function show(key) {
+        lanes.forEach(function (l) { l.classList.toggle("show", l.id === "lane-" + key); });
         tabs.querySelectorAll("button").forEach(function (b) {
-          var on = b.dataset.target === code;
+          var on = b.dataset.target === key;
           b.classList.toggle("active", on);
           b.setAttribute("aria-selected", on ? "true" : "false");
         });
@@ -415,7 +494,7 @@
         var b = e.target.closest("button[data-target]");
         if (b) show(b.dataset.target);
       });
-      show(countries[0].id.replace("country-", ""));
+      show(lanes[0].id.replace("lane-", ""));
     }
 
     function load() {
