@@ -6,8 +6,9 @@ The site is organized in lanes (see LANES below), in page order:
   is already the curation), HuggingFace trending new model repos via the
   JSON API, HuggingFace blog, Verge AI, HN front page ≥100 points
   (gated feeds use the AI keyword list).
-- Utrecht (UToday) — utoday.nl has no RSS of its own, so we ride Google
-  News' site-scoped feed and drop the " - UToday" title suffix.
+- UTwente (UToday) — the University of Twente campus paper (Enschede);
+  utoday.nl has no RSS of its own, so we ride Google News' site-scoped feed
+  and drop the " - UToday" title suffix.
 - Morocco — TelQuel + Hespress, everything fresh.
 - The Netherlands — general feeds, but only stories that pass the
   "worth knowing" keyword gate; if none do, the lane stays empty by design.
@@ -142,7 +143,7 @@ LANES = [
         # site-search feed is the stable substitute (links are Google
         # redirects that land on the UToday article).
         "key": "utoday",
-        "title": "Utrecht (UToday)",
+        "title": "UTwente (UToday)",
         "icon": "📍",
         "cap": 10,
         "keep": None,

@@ -1,4 +1,4 @@
-# Daily Briefing — AI 🤖, Utrecht 📍, Morocco 🇲🇦, the Netherlands 🇳🇱 & the wars 🌍
+# Daily Briefing — AI 🤖, UTwente 📍, Morocco 🇲🇦, the Netherlands 🇳🇱 & the wars 🌍
 
 A **static** news site that pulls the day's headlines from public RSS feeds
 into six topic **lanes** on one clean page — no API key, no database, no
@@ -12,7 +12,7 @@ Each lane has its own feed mix and a keyword gate that decides what counts
 | Lane | What ships | Gate |
 |---|---|---|
 | 🤖 AI & Models | r/LocalLLaMA top of day **and** week (ungated), brand-new trending HuggingFace model repos (direct JSON API — the "new weights" feed, 6 slots reserved so releases can't get out-voted out of the lane), HuggingFace blog, Verge AI, HN ≥100 pts | Reddit/HF-model items ship raw; blog & news feeds gated to AI keywords |
-| 📍 Utrecht (UToday) | utoday.nl via a Google News `site:` feed (it publishes no RSS of its own); title suffix stripped, tag pages dropped | everything UToday runs |
+| 📍 UTwente (UToday) | University of Twente campus paper (Enschede) via a Google News `site:` feed (it publishes no RSS of its own); title suffix stripped, tag pages dropped | everything UToday runs |
 | 🇲🇦 Morocco | TelQuel + Hespress | everything fresh |
 | 🇳🇱 The Netherlands | NU.nl, Telegraaf, AD | only policy/money/"worth knowing" stories — an **empty lane is a correct answer** ("Nothing big worth knowing today.") |
 | 🌍 Iran & Middle East | Al Jazeera, BBC, Guardian | Gaza/Israel/Iran keywords only |
