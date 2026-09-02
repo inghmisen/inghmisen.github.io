@@ -1,6 +1,6 @@
 {
  "date": "Wednesday 2 September 2026",
- "generated_at": "21:39 UTC",
+ "generated_at": "23:55 UTC",
  "error": null,
  "total_stories": 73,
  "fx": {
@@ -16,8 +16,20 @@
    "note": null,
    "clusters": [
     {
-     "label": "Flash · Gemini",
+     "label": "Flash · Qwen",
      "articles": [
+      {
+       "title": "Qwen3.8-flash-next sees corruption everywhere",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w5qbpk/qwen38flashnext_sees_corruption_everywhere/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-02 23:08"
+      },
+      {
+       "title": "Qwen3.8 Flash AP Quants",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w5ow8w/qwen38_flash_ap_quants/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-02 22:10"
+      },
       {
        "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
        "url": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
@@ -31,22 +43,22 @@
        "published_at": "2026-09-02 17:13"
       },
       {
-       "title": "Vision support merged for DeepSeek-V4-Flash-Vision-Exp",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w5e9fi/vision_support_merged_for_deepseekv4flashvisionexp/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-09-02 15:52"
-      },
-      {
-       "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
-       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
-       "source": "Hacker News",
-       "published_at": "2026-09-02 15:12"
+       "title": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp · 503 ♥",
+       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+       "source": "HF new models",
+       "published_at": "2026-08-31 06:16"
       }
      ]
     },
     {
-     "label": "Into",
+     "label": "Qwen",
      "articles": [
+      {
+       "title": "Perplexity open-sourced their Mac inference server for Qwen 3.6",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w5ozl4/perplexity_opensourced_their_mac_inference_server/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-02 22:13"
+      },
       {
        "title": "Confirmed bolting Q8 NGram into IQ4 Qwen no speed degradation",
        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w5isz3/confirmed_bolting_q8_ngram_into_iq4_qwen_no_speed/",
@@ -54,56 +66,27 @@
        "published_at": "2026-09-02 18:32"
       },
       {
-       "title": "Google is sending MrBeast into the wilderness, armed with AI",
-       "url": "https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit",
-       "source": "Verge AI",
-       "published_at": "2026-09-02 15:47"
-      },
-      {
-       "title": "H3-World: Turning Language Understanding into World Control",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w5akpy/h3world_turning_language_understanding_into_world/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-09-02 13:35"
+       "title": "unsloth/Qwen3.8-Flash-Next-GGUF · 726 ♥",
+       "url": "https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF",
+       "source": "HF new models",
+       "published_at": "2026-08-26 12:29"
       }
      ]
     },
     {
-     "label": "Openai",
+     "label": "Zai · Org",
      "articles": [
       {
-       "title": "Researchers fear safety disaster ahead of OpenAI’s Astra release",
-       "url": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
-       "source": "Verge AI",
-       "published_at": "2026-09-02 16:40"
+       "title": "zai-org/GLM-5.3-Flash · 1966 ♥",
+       "url": "https://huggingface.co/zai-org/GLM-5.3-Flash",
+       "source": "HF new models",
+       "published_at": "2026-08-25 06:43"
       },
       {
-       "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
-       "url": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
-       "source": "Verge AI",
-       "published_at": "2026-09-02 16:12"
-      },
-      {
-       "title": "OpenAI accused of ‘aiding and abetting’ Tumbler Ridge mass shooting in dozens of new lawsuits",
-       "url": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting",
-       "source": "Verge AI",
-       "published_at": "2026-09-02 14:35"
-      }
-     ]
-    },
-    {
-     "label": "Now",
-     "articles": [
-      {
-       "title": "Amazon’s AI assistant can now spot fake emails from the company",
-       "url": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails",
-       "source": "Verge AI",
-       "published_at": "2026-09-02 17:52"
-      },
-      {
-       "title": "Do we forget about another Qwen model for a while now ?",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w5bkrf/do_we_forget_about_another_qwen_model_for_a_while/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-09-02 14:14"
+       "title": "zai-org/GLM-5.3 · 1515 ♥",
+       "url": "https://huggingface.co/zai-org/GLM-5.3",
+       "source": "HF new models",
+       "published_at": "2026-08-25 06:42"
       }
      ]
     },
@@ -111,10 +94,28 @@
      "label": "More headlines",
      "articles": [
       {
+       "title": "Looking for a small LLM for Linux command generation",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w5odwo/looking_for_a_small_llm_for_linux_command/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-02 21:50"
+      },
+      {
        "title": "Muse Spark open weights coming soon",
        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w5l8bw/muse_spark_open_weights_coming_soon/",
        "source": "r/LocalLLaMA",
        "published_at": "2026-09-02 19:56"
+      },
+      {
+       "title": "What do you do in the meantime when your favourite local model is thinking and working hard with your harness?",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w5l622/what_do_you_do_in_the_meantime_when_your/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-02 19:54"
+      },
+      {
+       "title": "Mac Heads: Is there any point to MLX in September 2026?",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w5kau3/mac_heads_is_there_any_point_to_mlx_in_september/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-02 19:23"
       },
       {
        "title": "Quad R9700 AI Pro with vLLM-Radiance easily reaching 17,6k PP",
@@ -123,28 +124,22 @@
        "published_at": "2026-09-02 18:07"
       },
       {
-       "title": "NYC bans AI use for students until they reach high school",
-       "url": "https://www.theverge.com/policy/988228/nyc-ai-restrictions-in-schools-chatbot-ban",
+       "title": "Amazon’s AI assistant can now spot fake emails from the company",
+       "url": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails",
        "source": "Verge AI",
-       "published_at": "2026-09-02 14:30"
+       "published_at": "2026-09-02 17:52"
       },
       {
-       "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
-       "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
-       "source": "Hacker News",
-       "published_at": "2026-09-02 13:59"
+       "title": "tencent/Hy4-preview · 399 ♥",
+       "url": "https://huggingface.co/tencent/Hy4-preview",
+       "source": "HF new models",
+       "published_at": "2026-08-27 08:52"
       },
       {
-       "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
-       "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
-       "source": "HuggingFace",
-       "published_at": "2026-09-02 13:49"
-      },
-      {
-       "title": "LLMs: Intelligence vs. cost | OpenTeams",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w583o7/llms_intelligence_vs_cost_openteams/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-09-02 11:50"
+       "title": "BreezeBlue/Breeze-TTS-2 · 354 ♥",
+       "url": "https://huggingface.co/BreezeBlue/Breeze-TTS-2",
+       "source": "HF new models",
+       "published_at": "2026-08-25 16:39"
       }
      ]
     }
@@ -175,7 +170,7 @@
      ]
     },
     {
-     "label": "Bestuursfotoverkiezing · Grote",
+     "label": "Grote · Bestuursfotoverkiezing",
      "articles": [
       {
        "title": "De Grote U-Today Bestuursfotoverkiezing 2026, de uitslag",
@@ -242,25 +237,61 @@
    "note": null,
    "clusters": [
     {
-     "label": "أمريكية",
+     "label": "انتخابات",
      "articles": [
       {
-       "title": "رصيف الصحافة: المغرب يعزز جاهزية الأسطول الجوي بشراكة أمريكية",
-       "url": "https://www.hespress.com/%d8%b1%d8%b5%d9%8a%d9%81-%d8%a7%d9%84%d8%b5%d8%ad%d8%a7%d9%81%d8%a9-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d9%8a%d8%b9%d8%b2%d8%b2-%d8%ac%d8%a7%d9%87%d8%b2%d9%8a%d8%a9-%d8%a7%d9%84%d8%a3%d8%b3%d8%b7-1801105.html",
+       "title": "استعدادات انتخابات 2026.. لجنة الاعتماد تنهي فرز ملفات الملاحظين",
+       "url": "https://www.hespress.com/%d8%a7%d8%b3%d8%aa%d8%b9%d8%af%d8%a7%d8%af%d8%a7%d8%aa-%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-2026-%d9%84%d8%ac%d9%86%d8%a9-%d8%a7%d9%84%d8%a7%d8%b9%d8%aa%d9%85%d8%a7%d8%af-%d8%aa%d9%86-1800946.html",
        "source": "Hespress",
-       "published_at": "2026-09-02 21:00"
+       "published_at": "2026-09-02 22:00"
       },
       {
-       "title": "خلافات أمريكية تربك سياسة التطعيم",
-       "url": "https://www.hespress.com/%d8%ae%d9%84%d8%a7%d9%81%d8%a7%d8%aa-%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d9%8a%d8%a9-%d8%aa%d8%b1%d8%a8%d9%83-%d8%b3%d9%8a%d8%a7%d8%b3%d8%a9-%d8%a7%d9%84%d8%aa%d8%b7%d8%b9%d9%8a%d9%85-1801068.html",
+       "title": "كْلاشَاتٌ انتخابية",
+       "url": "https://www.hespress.com/%d9%83%d9%92%d9%84%d8%a7%d8%b4%d9%8e%d8%a7%d8%aa%d9%8c-%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d9%8a%d8%a9-1801054.html",
        "source": "Hespress",
-       "published_at": "2026-09-02 20:38"
+       "published_at": "2026-09-02 20:39"
       }
      ]
     },
     {
      "label": "More headlines",
      "articles": [
+      {
+       "title": "كتاب يستعيد تاريخ الوثائقي المغربي",
+       "url": "https://www.hespress.com/%d9%83%d8%aa%d8%a7%d8%a8-%d9%8a%d8%b3%d8%aa%d8%b9%d9%8a%d8%af-%d8%aa%d8%a7%d8%b1%d9%8a%d8%ae-%d8%a7%d9%84%d9%88%d8%ab%d8%a7%d8%a6%d9%82%d9%8a-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8%d9%8a-1801003.html",
+       "source": "Hespress",
+       "published_at": "2026-09-02 23:22"
+      },
+      {
+       "title": "جورج كلوني .. نجم هوليوود الذي مزج السينما بالسياسة وحقوق الإنسان",
+       "url": "https://www.hespress.com/%d8%ac%d9%88%d8%b1%d8%ac-%d9%83%d9%84%d9%88%d9%86%d9%8a-%d9%86%d8%ac%d9%85-%d9%87%d9%88%d9%84%d9%8a%d9%88%d9%88%d8%af-%d8%a7%d9%84%d8%b0%d9%8a-%d9%85%d8%b2%d8%ac-%d8%a7%d9%84%d8%b3%d9%8a%d9%86-1801134.html",
+       "source": "Hespress",
+       "published_at": "2026-09-02 23:00"
+      },
+      {
+       "title": "شرطة التشيك تنبش رفات وزير سابق",
+       "url": "https://www.hespress.com/%d8%b4%d8%b1%d8%b7%d8%a9-%d8%a7%d9%84%d8%aa%d8%b4%d9%8a%d9%83-%d8%aa%d9%86%d8%a8%d8%b4-%d8%b1%d9%81%d8%a7%d8%aa-%d9%88%d8%b2%d9%8a%d8%b1-%d8%b3%d8%a7%d8%a8%d9%82-1801078.html",
+       "source": "Hespress",
+       "published_at": "2026-09-02 22:34"
+      },
+      {
+       "title": "زيدان يودع ملف الترشيح باليوسفية",
+       "url": "https://www.hespress.com/%d8%b2%d9%8a%d8%af%d8%a7%d9%86-%d9%8a%d9%88%d8%af%d8%b9-%d9%85%d9%84%d9%81-%d8%a7%d9%84%d8%aa%d8%b1%d8%b4%d9%8a%d8%ad-%d8%a8%d8%a7%d9%84%d9%8a%d9%88%d8%b3%d9%81%d9%8a%d8%a9-1801154.html",
+       "source": "Hespress",
+       "published_at": "2026-09-02 22:30"
+      },
+      {
+       "title": "باناثينايكوس عن أوناحي: \"السحر يعود\"",
+       "url": "https://www.hespress.com/%d8%a8%d8%a7%d9%86%d8%a7%d8%ab%d9%8a%d9%86%d8%a7%d9%8a%d9%83%d9%88%d8%b3-%d8%b9%d9%86-%d8%a3%d9%88%d9%86%d8%a7%d8%ad%d9%8a-%d8%a7%d9%84%d8%b3%d8%ad%d8%b1-%d9%8a%d8%b9%d9%88%d8%af-1801138.html",
+       "source": "Hespress",
+       "published_at": "2026-09-02 22:15"
+      },
+      {
+       "title": "\"جائزة الإعلام العربي\" تعتمد الأعمال الفائزة",
+       "url": "https://www.hespress.com/%d8%ac%d8%a7%d8%a6%d8%b2%d8%a9-%d8%a7%d9%84%d8%a5%d8%b9%d9%84%d8%a7%d9%85-%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a-%d9%8a%d8%b9%d8%aa%d9%85%d8%af-%d8%a7%d9%84%d8%a3%d8%b9%d9%85%d8%a7%d9%84-%d8%a7-1801141.html",
+       "source": "Hespress",
+       "published_at": "2026-09-02 22:02"
+      },
       {
        "title": "فرنسا تتمسك بجزيرتي \"ماثيو وهنتر\"",
        "url": "https://www.hespress.com/%d9%81%d8%b1%d9%86%d8%b3%d8%a7-%d8%aa%d8%aa%d9%85%d8%b3%d9%83-%d8%a8%d8%ac%d8%b2%d9%8a%d8%b1%d8%aa%d9%8a-%d9%85%d8%a7%d8%ab%d9%8a%d9%88-%d9%88%d9%87%d9%86%d8%aa%d8%b1-1801096.html",
@@ -274,52 +305,16 @@
        "published_at": "2026-09-02 21:06"
       },
       {
+       "title": "رصيف الصحافة: المغرب يعزز جاهزية الأسطول الجوي بشراكة أمريكية",
+       "url": "https://www.hespress.com/%d8%b1%d8%b5%d9%8a%d9%81-%d8%a7%d9%84%d8%b5%d8%ad%d8%a7%d9%81%d8%a9-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d9%8a%d8%b9%d8%b2%d8%b2-%d8%ac%d8%a7%d9%87%d8%b2%d9%8a%d8%a9-%d8%a7%d9%84%d8%a3%d8%b3%d8%b7-1801105.html",
+       "source": "Hespress",
+       "published_at": "2026-09-02 21:00"
+      },
+      {
        "title": "عامٌ واحدٌ كيْ نَصْنعَ أثراً لا يَشِيخُ",
        "url": "https://www.hespress.com/%d8%b9%d8%a7%d9%85%d9%8c-%d9%88%d8%a7%d8%ad%d8%af%d9%8c-%d9%83%d9%8a%d9%92-%d9%86%d9%8e%d8%b5%d9%92%d9%86%d8%b9%d9%8e-%d8%a3%d8%ab%d8%b1%d8%a7%d9%8b-%d9%84%d8%a7-%d9%8a%d9%8e%d8%b4%d9%90%d9%8a%d8%ae-1801073.html",
        "source": "Hespress",
        "published_at": "2026-09-02 20:57"
-      },
-      {
-       "title": "كْلاشَاتٌ انتخابية",
-       "url": "https://www.hespress.com/%d9%83%d9%92%d9%84%d8%a7%d8%b4%d9%8e%d8%a7%d8%aa%d9%8c-%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d9%8a%d8%a9-1801054.html",
-       "source": "Hespress",
-       "published_at": "2026-09-02 20:39"
-      },
-      {
-       "title": "محامي بدر هاري ينفي الادعاءات",
-       "url": "https://www.hespress.com/%d9%85%d8%ad%d8%a7%d9%85%d9%8a-%d8%a8%d8%af%d8%b1-%d9%87%d8%a7%d8%b1%d9%8a-%d9%8a%d9%86%d9%81%d9%8a-%d8%a7%d9%84%d8%a7%d8%af%d8%b9%d8%a7%d8%a1%d8%a7%d8%aa-1801064.html",
-       "source": "Hespress",
-       "published_at": "2026-09-02 20:31"
-      },
-      {
-       "title": "من يقود الآخر",
-       "url": "https://www.hespress.com/%d9%85%d9%86-%d9%8a%d9%82%d9%88%d8%af-%d8%a7%d9%84%d8%a2%d8%ae%d8%b1-1801058.html",
-       "source": "Hespress",
-       "published_at": "2026-09-02 20:22"
-      },
-      {
-       "title": "المغرب الرقمي",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d8%a7%d9%84%d8%b1%d9%82%d9%85%d9%8a-%d8%a8%d8%b9%d8%af-%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-1801048.html",
-       "source": "Hespress",
-       "published_at": "2026-09-02 20:15"
-      },
-      {
-       "title": "من يربي أبناءنا؟",
-       "url": "https://www.hespress.com/%d9%85%d9%86-%d9%8a%d8%b1%d8%a8%d9%8a-%d8%a3%d8%a8%d9%86%d8%a7%d8%a1%d9%86%d8%a7%d8%9f-%d8%a7%d9%84%d8%a3%d8%b3%d8%b1%d8%a9-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8%d9%8a%d8%a9-%d9%81%d9%8a-%d9%85%d9%88-1801013.html",
-       "source": "Hespress",
-       "published_at": "2026-09-02 20:08"
-      },
-      {
-       "title": "الإبراهيمي: يجب تطبيق قانون المحاماة",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%a5%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85%d9%8a-%d9%8a%d8%ac%d8%a8-%d8%aa%d8%b7%d8%a8%d9%8a%d9%82-%d9%82%d8%a7%d9%86%d9%88%d9%86-%d8%a7%d9%84%d9%85%d8%ad%d8%a7%d9%85%d8%a7%d8%a9-1801031.html",
-       "source": "Hespress",
-       "published_at": "2026-09-02 20:07"
-      },
-      {
-       "title": "‬بنكيران: الله سيحاسب المواطن على صوته الانتخابي.. و\"حنا مكنديروش الزرود\"",
-       "url": "https://www.hespress.com/%d8%a8%d9%86%d9%83%d9%8a%d8%b1%d8%a7%d9%86-%d8%a7%d9%84%d9%84%d9%87-%d8%b3%d9%8a%d8%ad%d8%a7%d8%b3%d8%a8-%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%b7%d9%86-%d8%b9%d9%84%d9%89-%d8%b5%d9%88%d8%aa-1801030.html",
-       "source": "Hespress",
-       "published_at": "2026-09-02 20:00"
       },
       {
        "title": "Pourquoi Mustapha Ramid appelle désormais à suspendre la grève des avocats",
@@ -369,25 +364,30 @@
    "note": null,
    "clusters": [
     {
-     "label": "",
+     "label": "Premier",
      "articles": [
       {
-       "title": "Poetin voert hybride oorlog en Europa kijkt lijdzaam toe: ’Rusland wil angst zaaien en steun aan Oekraïne ondermijnen’",
-       "url": "https://www.telegraaf.nl/buitenland/poetin-voert-hybride-oorlog-en-europa-kijkt-lijdzaam-toe-rusland-wil-angst-zaaien-en-steun-aan-oekrane-ondermijnen/160861621.html",
-       "source": "de Telegraaf",
-       "published_at": "2026-09-02 19:15"
-      },
-      {
-       "title": "Kamer eist dat gelekte prinsjesdagplannen openbaar worden, kabinet weigert",
-       "url": "https://www.nu.nl/politiek/6408281/kamer-eist-dat-gelekte-prinsjesdagplannen-openbaar-worden-kabinet-weigert.html",
+       "title": "Willem II huurt jongste Manchester United-basisspeler in Premier League-historie",
+       "url": "https://www.nu.nl/voetbal/6408453/willem-ii-huurt-jongste-manchester-united-basisspeler-in-premier-league-historie.html",
        "source": "NU.nl",
-       "published_at": "2026-09-02 16:38"
+       "published_at": "2026-09-02 22:23"
       },
       {
        "title": "Britse premier Andy Burnham schudt ingedut Lagerhuis wakker: vragenuurtje plots interessant",
        "url": "https://www.telegraaf.nl/buitenland/britse-premier-andy-burnham-schudt-ingedut-lagerhuis-wakker-vragenuurtje-plots-interessant/160862828.html",
        "source": "de Telegraaf",
        "published_at": "2026-09-02 16:22"
+      }
+     ]
+    },
+    {
+     "label": "More headlines",
+     "articles": [
+      {
+       "title": "Poetin voert hybride oorlog en Europa kijkt lijdzaam toe: ’Rusland wil angst zaaien en steun aan Oekraïne ondermijnen’",
+       "url": "https://www.telegraaf.nl/buitenland/poetin-voert-hybride-oorlog-en-europa-kijkt-lijdzaam-toe-rusland-wil-angst-zaaien-en-steun-aan-oekrane-ondermijnen/160861621.html",
+       "source": "de Telegraaf",
+       "published_at": "2026-09-02 19:15"
       }
      ]
     }
@@ -401,65 +401,20 @@
    "note": null,
    "clusters": [
     {
-     "label": "Killed · Two",
+     "label": "Israel · Palestinians",
      "articles": [
       {
-       "title": "Two Palestinians killed as settlers, Israeli forces raid West Bank village",
-       "url": "https://www.aljazeera.com/news/2026/9/2/two-palestinian-killed-as-settlers-israeli-forces-raid-west-bank-village?traffic_source=rss",
+       "title": "Israeli PM says Israel is working to overthrow Iran’s government",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/israeli-pm-says-israel-is-working-to-overthrow-irans-government?traffic_source=rss",
        "source": "Al Jazeera",
-       "published_at": "2026-09-02 20:59"
+       "published_at": "2026-09-02 21:23"
       },
       {
-       "title": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says",
-       "url": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&at_campaign=rss",
-       "source": "BBC World",
-       "published_at": "2026-09-02 17:33"
+       "title": "Israel still wants to remove Palestinians from Gaza, defence minister says",
+       "url": "https://www.aljazeera.com/news/2026/9/2/israel-still-wants-to-remove-palestinians-from-gaza-defence-minister-says?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-09-02 21:19"
       },
-      {
-       "title": "Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians",
-       "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
-       "source": "BBC World",
-       "published_at": "2026-09-02 15:33"
-      }
-     ]
-    },
-    {
-     "label": "Israeli",
-     "articles": [
-      {
-       "title": "Israeli protesters call for an end to settler violence",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/israeli-protesters-call-for-an-end-to-settler-violence?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-09-02 20:07"
-      },
-      {
-       "title": "EU ministers in Ireland tackle Israeli settlement trade and Ukraine defence",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/09-02-26-reported-ireland-talks?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-09-02 17:56"
-      }
-     ]
-    },
-    {
-     "label": "Iran · Trump",
-     "articles": [
-      {
-       "title": "Trump suggests renaming Strait of Hormuz as Trump Strait amid Iran war",
-       "url": "https://www.aljazeera.com/news/2026/9/2/trump-suggests-renaming-strait-of-hormuz-as-trump-strait-amid-iran?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-09-02 20:12"
-      },
-      {
-       "title": "Trump says US sees ‘everything’ Iran does, threatens further attacks",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/09-02-trump-soundbite-iran-clip?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-09-02 20:04"
-      }
-     ]
-    },
-    {
-     "label": "Israel",
-     "articles": [
       {
        "title": "Will the EU take action against Israel?",
        "url": "https://www.aljazeera.com/video/inside-story/2026/9/2/will-the-eu-take-action-against-israel?traffic_source=rss",
@@ -477,6 +432,46 @@
        "url": "https://www.theguardian.com/world/2026/sep/02/israel-seeking-trumps-support-for-plan-to-expel-palestinians-from-gaza",
        "source": "Guardian World",
        "published_at": "2026-09-02 18:20"
+      }
+     ]
+    },
+    {
+     "label": "Iran · Amid",
+     "articles": [
+      {
+       "title": "China’s falling emissions amid Iran war spark hope of decarbonisation watershed",
+       "url": "https://www.theguardian.com/environment/2026/sep/03/china-co2-emissions-iran-war",
+       "source": "Guardian World",
+       "published_at": "2026-09-02 23:01"
+      },
+      {
+       "title": "Trump suggests renaming Strait of Hormuz as Trump Strait amid Iran war",
+       "url": "https://www.aljazeera.com/news/2026/9/2/trump-suggests-renaming-strait-of-hormuz-as-trump-strait-amid-iran?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-09-02 20:12"
+      },
+      {
+       "title": "Trump says US sees ‘everything’ Iran does, threatens further attacks",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/09-02-trump-soundbite-iran-clip?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-09-02 20:04"
+      }
+     ]
+    },
+    {
+     "label": "Israeli",
+     "articles": [
+      {
+       "title": "Two Palestinians killed as settlers, Israeli forces raid West Bank village",
+       "url": "https://www.aljazeera.com/news/2026/9/2/two-palestinian-killed-as-settlers-israeli-forces-raid-west-bank-village?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-09-02 20:59"
+      },
+      {
+       "title": "Israeli protesters call for an end to settler violence",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/israeli-protesters-call-for-an-end-to-settler-violence?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-09-02 20:07"
       }
      ]
     },
@@ -507,8 +502,14 @@
    "note": null,
    "clusters": [
     {
-     "label": "Ukraine · Defense",
+     "label": "Ukraine · Russian",
      "articles": [
+      {
+       "title": "Norway seizes Russian ship on behalf of Ukraine's Naftogaz",
+       "url": "https://kyivindependent.com/norway-seizes-russian-ship-on-behalf-of-ukraines-naftogaz/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-09-02 23:20"
+      },
       {
        "title": "Estonia's Defense Minister resigns after wasting 70 million euros on faulty ammunition for Ukraine",
        "url": "https://kyivindependent.com/estonias-defense-minister-resigns-after-wasting-70-million-euros-on-faulty-ammunition-for-ukraine/",
@@ -532,12 +533,6 @@
        "url": "https://kyivindependent.com/ukraines-plan-to-close-russias-airspace-what-we-know/",
        "source": "Kyiv Independent",
        "published_at": "2026-09-02 17:47"
-      },
-      {
-       "title": "As Ukraine's EU reforms stumble, new envoy comes to reassure Brussels",
-       "url": "https://kyivindependent.com/as-ukraines-eu-reforms-stumble-new-envoy-comes-to-brussels-on-trust-building-mission/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-09-02 17:41"
       }
      ]
     },
@@ -555,29 +550,17 @@
        "url": "https://kyivindependent.com/is-the-cias-moscow-visit-a-sign-of-a-coming-russian-provocation-in-the-baltics/",
        "source": "Kyiv Independent",
        "published_at": "2026-09-02 16:46"
-      },
-      {
-       "title": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
-       "url": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss",
-       "source": "BBC World",
-       "published_at": "2026-09-02 16:12"
       }
      ]
     },
     {
-     "label": "Russia · Airport",
+     "label": "Russia",
      "articles": [
       {
        "title": "EU pursuing more Russia sanctions after failed airport attack: Kallas",
        "url": "https://www.aljazeera.com/news/2026/9/2/eu-pursuing-more-russia-sanctions-after-failed-airport-attack-kallas?traffic_source=rss",
        "source": "Al Jazeera",
        "published_at": "2026-09-02 19:06"
-      },
-      {
-       "title": "Leipzig airport attack fallout exposes Germany’s deepening divide over Russia",
-       "url": "https://www.theguardian.com/world/2026/sep/02/leipzig-airport-attack-fallout-lays-bare-germanys-polarisation-on-russia",
-       "source": "Guardian World",
-       "published_at": "2026-09-02 17:07"
       },
       {
        "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
@@ -590,6 +573,18 @@
     {
      "label": "More headlines",
      "articles": [
+      {
+       "title": "Republican senator calls on Trump to fire Secretary of Defence Hegseth",
+       "url": "https://www.aljazeera.com/news/2026/9/2/republican-senator-calls-on-trump-to-fire-secretary-of-defence-hegseth?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-09-02 21:37"
+      },
+      {
+       "title": "As Ukraine's EU reforms stumble, new envoy comes to reassure Brussels",
+       "url": "https://kyivindependent.com/as-ukraines-eu-reforms-stumble-new-envoy-comes-to-brussels-on-trust-building-mission/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-09-02 17:41"
+      },
       {
        "title": "Who has the upper hand in Ukraine’s evolving drone war?",
        "url": "https://kyivindependent.com/who-has-the-upper-hand-in-ukraines-evolving-drone-war/",
