@@ -1,8 +1,8 @@
 {
  "date": "Wednesday 2 September 2026",
- "generated_at": "10:58 UTC",
+ "generated_at": "11:21 UTC",
  "error": null,
- "total_stories": 74,
+ "total_stories": 77,
  "fx": {
   "pair": "EUR/MAD",
   "rate": 10.809,
@@ -16,14 +16,8 @@
    "note": null,
    "clusters": [
     {
-     "label": "Qwen · Tok",
+     "label": "Flash · Next",
      "articles": [
-      {
-       "title": "Qwen will be the king?",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w53ti8/qwen_will_be_the_king/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-09-02 07:53"
-      },
       {
        "title": "Running 104GB Qwen3.8-Flash-Next on 48GB Mac at ~12 tok/s",
        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4z94f/running_104gb_qwen38flashnext_on_48gb_mac_at_12/",
@@ -31,10 +25,39 @@
        "published_at": "2026-09-02 03:47"
       },
       {
-       "title": "How I got 280 tok/s on Qwen3.8 27B on 2xr9700's and 940k tokens kv cache",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4s68k/how_i_got_280_toks_on_qwen38_27b_on_2xr9700s_and/",
+       "title": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp · 476 ♥",
+       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+       "source": "HF new models",
+       "published_at": "2026-08-31 06:16"
+      },
+      {
+       "title": "unsloth/GLM-5.3-Flash-GGUF · 328 ♥",
+       "url": "https://huggingface.co/unsloth/GLM-5.3-Flash-GGUF",
+       "source": "HF new models",
+       "published_at": "2026-08-26 14:21"
+      },
+      {
+       "title": "unsloth/Qwen3.8-Flash-Next-GGUF · 697 ♥",
+       "url": "https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF",
+       "source": "HF new models",
+       "published_at": "2026-08-26 12:29"
+      },
+      {
+       "title": "zai-org/GLM-5.3-Flash · 1920 ♥",
+       "url": "https://huggingface.co/zai-org/GLM-5.3-Flash",
+       "source": "HF new models",
+       "published_at": "2026-08-25 06:43"
+      }
+     ]
+    },
+    {
+     "label": "Best",
+     "articles": [
+      {
+       "title": "LocalLLaMA is unironically one of the best places to go to get up to date AI news.",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w50ur8/localllama_is_unironically_one_of_the_best_places/",
        "source": "r/LocalLLaMA",
-       "published_at": "2026-09-01 22:35"
+       "published_at": "2026-09-02 05:09"
       },
       {
        "title": "GB10 price increases. Seriously what is the best bang for the buck now...Mac Studio?",
@@ -62,82 +85,61 @@
      ]
     },
     {
-     "label": "Than",
-     "articles": [
-      {
-       "title": "Google needs Hollywood more than the studios need AI",
-       "url": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
-       "source": "Verge AI",
-       "published_at": "2026-09-01 22:50"
-      },
-      {
-       "title": "Question: Why is prefill unbelievably faster in vLLM than other inference engines?",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4i2id/question_why_is_prefill_unbelievably_faster_in/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-09-01 17:05"
-      }
-     ]
-    },
-    {
-     "label": "Launches",
-     "articles": [
-      {
-       "title": "Anthropic launches Claude Fable 5.1 and says it’s up to 45 percent cheaper for agentic work",
-       "url": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
-       "source": "Verge AI",
-       "published_at": "2026-09-01 22:01"
-      },
-      {
-       "title": "Keeping up with model launches",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4kwyr/keeping_up_with_model_launches/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-09-01 18:42"
-      }
-     ]
-    },
-    {
-     "label": "Openai",
-     "articles": [
-      {
-       "title": "OpenAI delayed its new model’s development after the Hugging Face hack",
-       "url": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
-       "source": "Verge AI",
-       "published_at": "2026-09-01 20:45"
-      },
-      {
-       "title": "Apple accuses OpenAI of destroying evidence",
-       "url": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit",
-       "source": "Verge AI",
-       "published_at": "2026-09-01 18:19"
-      }
-     ]
-    },
-    {
      "label": "More headlines",
      "articles": [
       {
-       "title": "LocalLLaMA is unironically one of the best places to go to get up to date AI news.",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w50ur8/localllama_is_unironically_one_of_the_best_places/",
+       "title": "Qwen will be the king?",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w53ti8/qwen_will_be_the_king/",
        "source": "r/LocalLLaMA",
-       "published_at": "2026-09-02 05:09"
+       "published_at": "2026-09-02 07:53"
       },
       {
-       "title": "Given how common RTX 3090 use is for LLMs, why don't we see more INT8 W8A8 models ?",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4rzbd/given_how_common_rtx_3090_use_is_for_llms_why/",
+       "title": "Android Studios native Gemma 4 runs on llama.cpp",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w53b96/android_studios_native_gemma_4_runs_on_llamacpp/",
        "source": "r/LocalLLaMA",
-       "published_at": "2026-09-01 22:27"
+       "published_at": "2026-09-02 07:23"
       },
       {
-       "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
-       "url": "https://huggingface.co/blog/allenai/benchmirt",
-       "source": "HuggingFace",
-       "published_at": "2026-09-01 21:39"
+       "title": "The Emergent Symbolic Structure of Artificial Neural Networks",
+       "url": "https://arxiv.org/abs/2608.29530",
+       "source": "Hacker News",
+       "published_at": "2026-09-02 04:15"
       },
       {
-       "title": "The rise of AI ‘civilizations’ and the fall of corporate responsibility",
-       "url": "https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack",
-       "source": "Verge AI",
-       "published_at": "2026-09-01 19:02"
+       "title": "2/5 of my CMP 170HX have died after 2 weeks and the 3rd came with defective tensor cores. Current prices DO NOT justify the risk you are taking",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4wyvg/25_of_my_cmp_170hx_have_died_after_2_weeks_and/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-02 02:00"
+      },
+      {
+       "title": "Everyone is t/s maxing.. 3.8.. but after a week of using it for work I'm tempted to switch back to 3.6",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4wjxd/everyone_is_ts_maxing_38_but_after_a_week_of/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-02 01:41"
+      },
+      {
+       "title": "Owning an Instinct MI100 32GB hasn't turned out to be so great",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4uxna/owning_an_instinct_mi100_32gb_hasnt_turned_out_to/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-02 00:29"
+      },
+      {
+       "title": "The efficient frontier of LLM inference",
+       "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
+       "source": "Hacker News",
+       "published_at": "2026-09-01 23:48"
+      },
+      {
+       "title": "tencent/Hy4-preview · 392 ♥",
+       "url": "https://huggingface.co/tencent/Hy4-preview",
+       "source": "HF new models",
+       "published_at": "2026-08-27 08:52"
+      },
+      {
+       "title": "BreezeBlue/Breeze-TTS-2 · 330 ♥",
+       "url": "https://huggingface.co/BreezeBlue/Breeze-TTS-2",
+       "source": "HF new models",
+       "published_at": "2026-08-25 16:39"
       }
      ]
     }
@@ -151,19 +153,19 @@
    "note": null,
    "clusters": [
     {
-     "label": "Tagged",
+     "label": "Sociale",
      "articles": [
       {
-       "title": "Tagged: Booking",
-       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1RWjVqaW9Hblo5WTFGWThHUWQ1LTNGRF9qSTR5V2lkMVJqc1NKdS0xSVl0Y2ZMQUo4VlNqRVRUMkZpTXJFNUd3Yw?oc=5",
+       "title": "Opnieuw kwestie sociale onveiligheid op UT",
+       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWngwSE9iNzZ1OXhFMFBCaE12X25kbFRVY2U1YWlJWlZITzJTVXRnTm5QVGE2T2FaT2Zpek5VbTFXel9rTVRiSy1SQWtPa2RXSkotR2JRXzhhSEZPejRQblRDSjBiWjBkTE96Y1Y1WGlRYmhnWk53NWJrN0x4MG1ubg?oc=5",
        "source": "UToday",
-       "published_at": "2026-08-31 14:09"
+       "published_at": "2026-08-31 06:00"
       },
       {
-       "title": "Tagged: vervolgonderwijs",
-       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jdTFaRkpXWXhLaVZMZzRIbHF0ZlRwZzd2VW00SUQzS1NXNHQ3WGU0WmFsQzFxMnNIZmg3Tmg0VHNnQmE4bDZaMTNudE4zeV9UanlSTw?oc=5",
+       "title": "Nieuwe hulpwijzer sociale veiligheid online",
+       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUks5UG5DX2FNZkFqZ0dvaWxfM3UzempKbkVKOTVELTZMX3liM24xWTdzYnRMV3JQajlTTjVlc0JuMTc0NzIyUzNqVTFXaTJvcEUzVlB4YzR5bHBmWW1RbUxaWk1vd25JeHgxWXd2QTJVRXFoWXgxLUpFR3B0LUtlNlZ3?oc=5",
        "source": "UToday",
-       "published_at": "2026-08-27 09:21"
+       "published_at": "2026-05-28 07:00"
       }
      ]
     },
@@ -191,12 +193,6 @@
       {
        "title": "‘Lef nodig om keuzes te maken bij komende uitdagingen’",
        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSV9mYUdMZzRpYmt6LThGcEdFc0lDaWgtYng5U3RjWTQzSEJyUHRRMDRIMDJxQlJkWEVhV1Q3ZkFvak50d00wdFNBWFI0bWhzSFRjZW1uakV5WUdkTEtfa0Q3UnZoMWFSMDdlUXZXd2ZsV2ZmdVV0UExQVzQ2c0tXYU5VSEpHNUNHejhndkR3aU9rTlN4S1RSNGdleXNfSTcyZ0xZTQ?oc=5",
-       "source": "UToday",
-       "published_at": "2026-08-31 14:46"
-      },
-      {
-       "title": "Opnieuw kwestie sociale onveiligheid op UT",
-       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWngwSE9iNzZ1OXhFMFBCaE12X25kbFRVY2U1YWlJWlZITzJTVXRnTm5QVGE2T2FaT2Zpek5VbTFXel9rTVRiSy1SQWtPa2RXSkotR2JRXzhhSEZPejRQblRDSjBiWjBkTE96Y1Y1WGlRYmhnWk53NWJrN0x4MG1ubg?oc=5",
        "source": "UToday",
        "published_at": "2026-08-31 14:46"
       },
@@ -236,25 +232,37 @@
    "note": null,
    "clusters": [
     {
-     "label": "الأمن",
+     "label": "الترشيح",
      "articles": [
       {
-       "title": "الأمن يوقف بدر هاري في أمستردام",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%a3%d9%85%d9%86-%d9%8a%d9%88%d9%82%d9%81-%d8%a8%d8%af%d8%b1-%d9%87%d8%a7%d8%b1%d9%8a-%d9%81%d9%8a-%d8%a3%d9%85%d8%b3%d8%aa%d8%b1%d8%af%d8%a7%d9%85-1800731.html",
+       "title": "\"منصة الترشيح\" تتخطى ألف تصريح",
+       "url": "https://www.hespress.com/%d9%85%d9%86%d8%b5%d8%a9-%d8%a7%d9%84%d8%aa%d8%b1%d8%b4%d9%8a%d8%ad-%d8%aa%d8%aa%d8%ae%d8%b7%d9%89-%d8%a3%d9%84%d9%81-%d8%aa%d8%b5%d8%b1%d9%8a%d8%ad-1800779.html",
        "source": "Hespress",
-       "published_at": "2026-09-02 10:06"
+       "published_at": "2026-09-02 11:07"
       },
       {
-       "title": "\"المينورسو\" على أبواب التحول .. تغييرات تسبق مداولات مجلس الأمن",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%85%d9%8a%d9%86%d9%88%d8%b1%d8%b3%d9%88-%d8%b9%d9%84%d9%89-%d8%a3%d8%a8%d9%88%d8%a7%d8%a8-%d8%a7%d9%84%d8%aa%d8%ad%d9%88%d9%84-%d8%aa%d8%ba%d9%8a%d9%8a%d8%b1%d8%a7%d8%aa-%d8%aa-1800296.html",
+       "title": "بايتاس يودع ملف الترشيح في إفني",
+       "url": "https://www.hespress.com/%d8%a8%d8%a7%d9%8a%d8%aa%d8%a7%d8%b3-%d9%8a%d9%88%d8%af%d8%b9-%d9%85%d9%84%d9%81-%d8%a7%d9%84%d8%aa%d8%b1%d8%b4%d9%8a%d8%ad-%d9%81%d9%8a-%d8%a5%d9%81%d9%86%d9%8a-1800729.html",
        "source": "Hespress",
-       "published_at": "2026-09-02 09:00"
+       "published_at": "2026-09-02 09:54"
       }
      ]
     },
     {
      "label": "More headlines",
      "articles": [
+      {
+       "title": "Drame au port d’Algésiras : deux Marocaines meurent noyées dans leur voiture",
+       "url": "https://telquel.ma/instant-t/2026/09/02/drame-au-port-dalgesiras-deux-marocaines-meurent-noyees-dans-leur-voiture_2005214/",
+       "source": "TelQuel",
+       "published_at": "2026-09-02 11:00"
+      },
+      {
+       "title": "انتخابات 2026 .. 10 مقاعد نسائية تفتح شهية السياسيات بجهة الرباط",
+       "url": "https://www.hespress.com/%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-2026-10-%d9%85%d9%82%d8%a7%d8%b9%d8%af-%d9%86%d8%b3%d8%a7%d8%a6%d9%8a%d8%a9-%d8%aa%d9%81%d8%aa%d8%ad-%d8%b4%d9%87%d9%8a%d8%a9-%d8%a7%d9%84%d8%b3-1800550.html",
+       "source": "Hespress",
+       "published_at": "2026-09-02 11:00"
+      },
       {
        "title": "Nador West Med réalise une émission obligataire de 2,2 milliards de dirhams",
        "url": "https://telquel.ma/instant-t/2026/09/02/nador-west-med-realise-une-emission-obligataire-de-22-milliards-de-dirhams_2005217/",
@@ -292,6 +300,12 @@
        "published_at": "2026-09-02 10:15"
       },
       {
+       "title": "الأمن يوقف بدر هاري في أمستردام",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%a3%d9%85%d9%86-%d9%8a%d9%88%d9%82%d9%81-%d8%a8%d8%af%d8%b1-%d9%87%d8%a7%d8%b1%d9%8a-%d9%81%d9%8a-%d8%a3%d9%85%d8%b3%d8%aa%d8%b1%d8%af%d8%a7%d9%85-1800731.html",
+       "source": "Hespress",
+       "published_at": "2026-09-02 10:06"
+      },
+      {
        "title": "[Tribune] Sous la peau, la même angoisse",
        "url": "https://telquel.ma/2026/09/02/tribune-sous-la-peau-la-meme-angoisse_2005150",
        "source": "TelQuel",
@@ -302,12 +316,6 @@
        "url": "https://www.hespress.com/%d8%a7%d9%84%d8%a5%d8%b9%d8%a7%d9%82%d8%a9-%d9%88%d8%a7%d9%84%d8%a8%d8%b1%d8%a7%d9%85%d8%ac-%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d9%8a%d8%a9-%d8%ac%d9%85%d8%b9%d9%8a%d8%a7%d8%aa-%d8%aa-1800286.html",
        "source": "Hespress",
        "published_at": "2026-09-02 10:00"
-      },
-      {
-       "title": "بايتاس يودع ملف الترشيح في إفني",
-       "url": "https://www.hespress.com/%d8%a8%d8%a7%d9%8a%d8%aa%d8%a7%d8%b3-%d9%8a%d9%88%d8%af%d8%b9-%d9%85%d9%84%d9%81-%d8%a7%d9%84%d8%aa%d8%b1%d8%b4%d9%8a%d8%ad-%d9%81%d9%8a-%d8%a5%d9%81%d9%86%d9%8a-1800729.html",
-       "source": "Hespress",
-       "published_at": "2026-09-02 09:54"
       },
       {
        "title": "Au Maroc, la guerre à l'exploitation illégale du sable",
@@ -338,18 +346,6 @@
        "url": "https://telquel.ma/instant-t/2026/09/02/casablanca-six-mineurs-interpelles-apres-des-jets-de-pierres-sur-un-ressortissant-etranger_2005154/",
        "source": "TelQuel",
        "published_at": "2026-09-02 09:25"
-      },
-      {
-       "title": "تأهيل محيط ملعب أكادير يسجل التعثر",
-       "url": "https://www.hespress.com/%d8%aa%d8%a3%d9%87%d9%8a%d9%84-%d9%85%d8%ad%d9%8a%d8%b7-%d9%85%d9%84%d8%b9%d8%a8-%d8%a3%d9%83%d8%a7%d8%af%d9%8a%d8%b1-%d9%8a%d8%b3%d8%ac%d9%84-%d8%a7%d9%84%d8%aa%d8%b9%d8%ab%d8%b1-1800361.html",
-       "source": "Hespress",
-       "published_at": "2026-09-02 09:20"
-      },
-      {
-       "title": "Football : L’international marocain Neil El Aynaoui rejoint le RB Leipzig",
-       "url": "https://telquel.ma/instant-t/2026/09/02/football-linternational-marocain-neil-el-aynaoui-rejoint-le-rb-leipzig_2005157/",
-       "source": "TelQuel",
-       "published_at": "2026-09-02 09:04"
       }
      ]
     }
@@ -363,24 +359,7 @@
    "note": null,
    "clusters": [
     {
-     "label": "Nederlander",
-     "articles": [
-      {
-       "title": "Ministerie in contact met vermiste Nederlander in Nepal, twee anderen nog zoek",
-       "url": "https://www.nu.nl/binnenland/6408360/ministerie-in-contact-met-vermiste-nederlander-in-nepal-twee-anderen-nog-zoek.html",
-       "source": "NU.nl",
-       "published_at": "2026-09-02 09:18"
-      },
-      {
-       "title": "Verlaging verre vliegbelasting zuinig ontvangen: ’Nederlandse reiziger betaalt nog steeds de hoofdprijs’",
-       "url": "https://www.telegraaf.nl/financieel/verlaging-verre-vliegbelasting-zuinig-ontvangen-nederlandse-reiziger-betaalt-nog-steeds-de-hoofdprijs/160845985.html",
-       "source": "de Telegraaf",
-       "published_at": "2026-09-02 08:15"
-      }
-     ]
-    },
-    {
-     "label": "More headlines",
+     "label": "",
      "articles": [
       {
        "title": "Tienduizenden Nederlanders kopen een stekkerbatterij: bespaar jij hiermee op je hoge energierekening?",
@@ -399,6 +378,12 @@
        "url": "https://www.telegraaf.nl/financieel/belastingvraag-thuis-laden-op-kosten-van-de-baas-kan-dat/160665199.html",
        "source": "de Telegraaf",
        "published_at": "2026-09-02 10:00"
+      },
+      {
+       "title": "Ministerie in contact met vermiste Nederlander in Nepal, twee anderen nog zoek",
+       "url": "https://www.nu.nl/binnenland/6408360/ministerie-in-contact-met-vermiste-nederlander-in-nepal-twee-anderen-nog-zoek.html",
+       "source": "NU.nl",
+       "published_at": "2026-09-02 09:18"
       },
       {
        "title": "Het is rond: Ajax huurt 28-voudig Duits international Thilo Kehrer (29) van AS Monaco",
@@ -421,7 +406,7 @@
      ]
     }
    ],
-   "count": 8
+   "count": 7
   },
   {
    "key": "mideast",
@@ -465,7 +450,7 @@
      ]
     },
     {
-     "label": "Iran · Exchange",
+     "label": "Iran · Hit",
      "articles": [
       {
        "title": "Iran, US exchange new attacks: Who was hit in latest strikes?",
@@ -526,7 +511,7 @@
    "note": null,
    "clusters": [
     {
-     "label": "Russian · Airlines",
+     "label": "Russian · Airspace",
      "articles": [
       {
        "title": "Russian airspace becoming unsafe for commercial airlines, Zelenskyy says",
@@ -561,13 +546,13 @@
      ]
     },
     {
-     "label": "Russia · Germany",
+     "label": "Russia · Leipzig",
      "articles": [
       {
        "title": "Germany’s move to blame Russia for Leipzig drone incident ‘a grave mistake,’ says Putin– Europe live",
        "url": "https://www.theguardian.com/world/live/2026/sep/02/europe-eu-germany-leipzig-drone-attack-russia-ukraine-macron-latest-news-updates",
        "source": "Guardian World",
-       "published_at": "2026-09-02 10:49"
+       "published_at": "2026-09-02 11:00"
       },
       {
        "title": "Russia pledges support to Iran amid war with US",
