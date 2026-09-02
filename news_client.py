@@ -2,8 +2,10 @@
 
 The site is organized in lanes (see LANES below), in page order:
 
-- AI & models — r/LocalLLaMA (top of day), HuggingFace blog, Verge AI,
-  HN front page ≥100 points, keyword-gated to AI.
+- AI & models — r/LocalLLaMA top of day AND week (ungated — the subreddit
+  is already the curation), HuggingFace trending new model repos via the
+  JSON API, HuggingFace blog, Verge AI, HN front page ≥100 points
+  (gated feeds use the AI keyword list).
 - Utrecht (UToday) — utoday.nl has no RSS of its own, so we ride Google
   News' site-scoped feed and drop the " - UToday" title suffix.
 - Morocco — TelQuel + Hespress, everything fresh.
@@ -23,6 +25,7 @@ import html
 import re
 import time
 from dataclasses import dataclass
+from datetime import datetime, timedelta, timezone
 
 import feedparser
 import requests
@@ -118,14 +121,21 @@ LANES = [
         "key": "ai",
         "title": "AI & Models",
         "icon": "🤖",
-        "cap": 14,
+        "cap": 18,
         "keep": _AI_RE,
         "feeds": [
-            ("r/LocalLLaMA", "https://www.reddit.com/r/LocalLLaMA/top.rss?t=day&limit=25"),
+            # Reddit posts are already curated by the subreddit; the keyword
+            # gate would drop posts whose titles just say "3B fits on my GPU".
+            ("r/LocalLLaMA", "https://www.reddit.com/r/LocalLLaMA/top.rss?t=day&limit=30", {"keep": None}),
+            ("r/LocalLLaMA", "https://www.reddit.com/r/LocalLLaMA/top.rss?t=week&limit=25", {"keep": None}),
+            # Brand-new model repos (trending, ≤30 days old) — no RSS exists.
+            ("HF new models", "", {"keep": None, "type": "hf_trending"}),
             ("HuggingFace", "https://huggingface.co/blog/feed.xml"),
             ("Verge AI", "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"),
             ("Hacker News", "https://hnrss.org/frontpage?points=100"),
         ],
+        # Weights drops are the reason the lane exists; never let chatter evict them.
+        "reserve": {"source": "HF new models", "n": 6},
     },
     {
         # utoday.nl publishes no RSS/Atom feed of its own; a Google News
@@ -141,6 +151,12 @@ LANES = [
                 "UToday",
                 "https://news.google.com/rss/search"
                 "?q=site:utoday.nl&hl=nl&gl=NL&ceid=NL:nl&scoring=n",
+                {
+                    # Google appends " - utoday.nl"/" - UToday" and indexes
+                    # tag pages ("Tagged: X") that aren't articles.
+                    "strip": r"\s+-\s*(?:utoday\.nl|U-?Today)\.?$",
+                    "drop": r"^Tagged: ",
+                },
             ),
         ],
     },
@@ -197,8 +213,15 @@ LANES = [
 ]
 
 
-def _parse_feed(url: str, source: str) -> list[Article]:
-    """Fetch and parse one feed into Article objects. Raises on failure."""
+def _parse_feed(
+    url: str, source: str, strip: str | None = None, drop: str | None = None
+) -> list[Article]:
+    """Fetch and parse one feed into Article objects. Raises on failure.
+
+    strip: regex removing an appended suffix from every title (Google News
+    tacks " - <site>" on). drop: titles matching this regex are discarded
+    (feeds carry junk the source itself doesn't consider articles).
+    """
     resp = requests.get(url, headers=_HEADERS, timeout=15)
     resp.raise_for_status()
 
@@ -213,7 +236,9 @@ def _parse_feed(url: str, source: str) -> list[Article]:
         title = _strip_html(entry.get("title", ""))
         # Aggregators (Google News) append " - <source>" to titles.
         title = re.sub(rf"\s+-\s*{re.escape(source)}\.?$", "", title).strip()
-        if not title:
+        if strip:
+            title = re.sub(strip, "", title).strip()
+        if not title or (drop and re.search(drop, title, re.IGNORECASE)):
             continue
         published = entry.get("published_parsed") or entry.get("updated_parsed")
         published_at = time.strftime("%Y-%m-%d %H:%M", published) if published else ""
@@ -228,22 +253,68 @@ def _parse_feed(url: str, source: str) -> list[Article]:
     return articles
 
 
+def _fetch_hf_trending(source: str, max_age_days: int = 30, limit: int = 10) -> list[Article]:
+    """Brand-new HuggingFace models by trending score — the "weights dropped"
+    signal. There is no RSS for new model repos, so we hit the public JSON
+    API directly and keep only repos created within the last month.
+    """
+    resp = requests.get(
+        "https://huggingface.co/api/models",
+        params={"sort": "trendingScore", "direction": -1, "limit": 60},
+        headers=_HEADERS,
+        timeout=15,
+    )
+    resp.raise_for_status()
+    cutoff = datetime.now(timezone.utc) - timedelta(days=max_age_days)
+    articles = []
+    for m in resp.json():
+        model_id = m.get("id")
+        created = m.get("createdAt")
+        if not model_id or not created:
+            continue
+        try:
+            made = datetime.fromisoformat(created.replace("Z", "+00:00"))
+        except ValueError:
+            continue
+        if made < cutoff:
+            continue
+        articles.append(
+            Article(
+                title=f"{model_id} · {m.get('likes', 0)} ♥",
+                source=source,
+                url=f"https://huggingface.co/{model_id}",
+                published_at=time.strftime("%Y-%m-%d %H:%M", made.utctimetuple()),
+            )
+        )
+        if len(articles) >= limit:
+            break
+    if not articles:
+        raise NewsFetchError(f"{source}: no fresh trending models returned")
+    return articles
+
+
 def fetch_lane(lane: dict) -> list[Article]:
     """Merge a lane's feeds into its freshest `cap` kept stories.
 
     Feeds that fail are skipped; raises NewsFetchError only if every feed in
     the lane failed. Titles are deduped by URL, then filtered through the
-    lane's keyword gate.
+    keyword gate. A feed's optional third element (dict) can override the
+    lane's `keep` or set `type` for non-RSS sources.
     """
-    keep = lane.get("keep")
     seen: set[str] = set()
     merged: list[Article] = []
     ok = 0
     problems: list[str] = []
 
-    for source, url in lane["feeds"]:
+    for feed in lane["feeds"]:
+        source, url = feed[0], feed[1]
+        opts = feed[2] if len(feed) > 2 else {}
+        keep = opts.get("keep", lane.get("keep"))
         try:
-            articles = _parse_feed(url, source)
+            if opts.get("type") == "hf_trending":
+                articles = _fetch_hf_trending(source)
+            else:
+                articles = _parse_feed(url, source, opts.get("strip"), opts.get("drop"))
             ok += 1
         except (requests.RequestException, NewsFetchError) as exc:
             problems.append(f"{source} ({exc.__class__.__name__}: {exc})")
@@ -262,7 +333,19 @@ def fetch_lane(lane: dict) -> list[Article]:
         )
 
     # Fixed-width "YYYY-MM-DD HH:MM" sorts correctly as a plain string.
-    merged.sort(key=lambda a: a.published_at or "0000-00-00 00:00", reverse=True)
+    by_date = lambda a: a.published_at or "0000-00-00 00:00"
+    merged.sort(key=by_date, reverse=True)
+
+    # A lane's "reserve" pins N stories of one source into the cap — model
+    # releases are days old by the time anyone reads them, and pure date
+    # order would always let same-day chatter push them out.
+    reserve = lane.get("reserve")
+    if reserve:
+        src, n = reserve["source"], reserve["n"]
+        pinned = [a for a in merged if a.source == src][:n]
+        rest = [a for a in merged if a.source != src][: lane.get("cap", 20) - len(pinned)]
+        return sorted(pinned + rest, key=by_date, reverse=True)
+
     return merged[: lane.get("cap", 20)]
 
 

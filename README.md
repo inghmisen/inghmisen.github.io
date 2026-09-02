@@ -11,8 +11,8 @@ Each lane has its own feed mix and a keyword gate that decides what counts
 
 | Lane | What ships | Gate |
 |---|---|---|
-| 🤖 AI & Models | r/LocalLLaMA (top of day), HuggingFace blog, Verge AI, HN ≥100 pts | AI/model keywords only |
-| 📍 Utrecht (UToday) | utoday.nl via a Google News `site:` feed (it publishes no RSS of its own) | everything UToday runs |
+| 🤖 AI & Models | r/LocalLLaMA top of day **and** week (ungated), brand-new trending HuggingFace model repos (direct JSON API — the "new weights" feed, 6 slots reserved so releases can't get out-voted out of the lane), HuggingFace blog, Verge AI, HN ≥100 pts | Reddit/HF-model items ship raw; blog & news feeds gated to AI keywords |
+| 📍 Utrecht (UToday) | utoday.nl via a Google News `site:` feed (it publishes no RSS of its own); title suffix stripped, tag pages dropped | everything UToday runs |
 | 🇲🇦 Morocco | TelQuel + Hespress | everything fresh |
 | 🇳🇱 The Netherlands | NU.nl, Telegraaf, AD | only policy/money/"worth knowing" stories — an **empty lane is a correct answer** ("Nothing big worth knowing today.") |
 | 🌍 Iran & Middle East | Al Jazeera, BBC, Guardian | Gaza/Israel/Iran keywords only |
@@ -96,9 +96,11 @@ Pages is on — it never shows an empty page even before the first scheduled run
 
 - **Add / swap a lane or feed:** edit `LANES` in `news_client.py`
   (`keep` = keyword regex or `None`, `cap` = max stories, `empty_note` for a
-  lane allowed to be quiet), then add a matching accent block
-  (`.yourkey { --accent… }`) in `index.html` and a short `TAB_LABELS` entry
-  for mobile.
+  lane allowed to be quiet, `reserve` = guaranteed slots for one source),
+  then add a matching accent block (`.yourkey { --accent… }`) in
+  `index.html` and a short `TAB_LABELS` entry for mobile. Per-feed options
+  live in an optional third tuple element: `keep` override, `strip`/`drop`
+  title regexes, or `type: "hf_trending"` for the models API.
 - **Tighten what's "worth knowing":** the per-lane `_UKRAINE_RE` / `_MIDEAST_RE`
   / `_NL_RE` / `_AI_RE` regexes in `news_client.py`.
 - **Refresh cadence:** change the `cron` in `update-news.yml`.
