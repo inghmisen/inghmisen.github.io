@@ -1,8 +1,8 @@
 {
  "date": "Saturday 5 September 2026",
- "generated_at": "15:56 UTC",
+ "generated_at": "18:07 UTC",
  "error": null,
- "total_stories": 74,
+ "total_stories": 72,
  "fx": {
   "pair": "EUR/MAD",
   "rate": 10.874,
@@ -16,8 +16,14 @@
    "note": null,
    "clusters": [
     {
-     "label": "Qwen · Rtx",
+     "label": "Qwen · Next",
      "articles": [
+      {
+       "title": "Qwen3.8 Flash Next - Templates Comparison",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w84mod/qwen38_flash_next_templates_comparison/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-05 16:02"
+      },
       {
        "title": "NInfer vs llama.cpp vs vLLM: quality + speed comparison for Qwen3.8-27B NVFP4 on RTX 5090",
        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w821fg/ninfer_vs_llamacpp_vs_vllm_quality_speed/",
@@ -37,16 +43,10 @@
        "published_at": "2026-09-05 11:07"
       },
       {
-       "title": "Qwen3.8 27B on Strix - the optimized setup",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w7wte4/qwen38_27b_on_strix_the_optimized_setup/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-09-05 10:13"
-      },
-      {
-       "title": "Qwen3.8 27b for agentic coding and next .... what?",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w7tndw/qwen38_27b_for_agentic_coding_and_next_what/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-09-05 07:11"
+       "title": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF · 382 ♥",
+       "url": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+       "source": "HF new models",
+       "published_at": "2026-08-28 18:38"
       }
      ]
     },
@@ -54,7 +54,7 @@
      "label": "Flash",
      "articles": [
       {
-       "title": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp · 651 ♥",
+       "title": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp · 662 ♥",
        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
        "source": "HF new models",
        "published_at": "2026-08-31 06:16"
@@ -66,7 +66,7 @@
        "published_at": "2026-08-26 12:29"
       },
       {
-       "title": "zai-org/GLM-5.3-Flash · 2069 ♥",
+       "title": "zai-org/GLM-5.3-Flash · 2076 ♥",
        "url": "https://huggingface.co/zai-org/GLM-5.3-Flash",
        "source": "HF new models",
        "published_at": "2026-08-25 06:43"
@@ -74,8 +74,31 @@
      ]
     },
     {
+     "label": "Models",
+     "articles": [
+      {
+       "title": "Any resource on using Blender with local models, and which models work best?",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w86wqp/any_resource_on_using_blender_with_local_models/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-05 17:29"
+      },
+      {
+       "title": "AA Update! Here's how the small models score.",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w7y3sa/aa_update_heres_how_the_small_models_score/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-05 11:22"
+      }
+     ]
+    },
+    {
      "label": "More headlines",
      "articles": [
+      {
+       "title": "Otaku — an LLM frontend",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w85blf/otaku_an_llm_frontend/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-05 16:29"
+      },
       {
        "title": "gfx906-llama-cpp: New PP/TG gains for MI50/MI60/Radeon VII/AMD GCN",
        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w82kpd/gfx906llamacpp_new_pptg_gains_for_mi50mi60radeon/",
@@ -89,10 +112,10 @@
        "published_at": "2026-09-05 14:25"
       },
       {
-       "title": "AA Update! Here's how the small models score.",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w7y3sa/aa_update_heres_how_the_small_models_score/",
+       "title": "People with \"non-enthusaist hardware\": how do you use it?",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w80em5/people_with_nonenthusaist_hardware_how_do_you_use/",
        "source": "r/LocalLLaMA",
-       "published_at": "2026-09-05 11:22"
+       "published_at": "2026-09-05 13:11"
       },
       {
        "title": "AA Update! Here's how the Frontier ranks.",
@@ -107,31 +130,13 @@
        "published_at": "2026-09-05 11:15"
       },
       {
-       "title": "LLVM developers begin debate over AGENTS.md for helping AI agents",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w7wb0n/llvm_developers_begin_debate_over_agentsmd_for/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-09-05 09:44"
-      },
-      {
-       "title": "AI handles incidents, engineers lose touch with their systems",
-       "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
-       "source": "Hacker News",
-       "published_at": "2026-09-05 07:52"
-      },
-      {
-       "title": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF · 371 ♥",
-       "url": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
-       "source": "HF new models",
-       "published_at": "2026-08-28 18:38"
-      },
-      {
-       "title": "BreezeBlue/Breeze-TTS-2 · 443 ♥",
+       "title": "BreezeBlue/Breeze-TTS-2 · 444 ♥",
        "url": "https://huggingface.co/BreezeBlue/Breeze-TTS-2",
        "source": "HF new models",
        "published_at": "2026-08-25 16:39"
       },
       {
-       "title": "zai-org/GLM-5.3 · 1713 ♥",
+       "title": "zai-org/GLM-5.3 · 1715 ♥",
        "url": "https://huggingface.co/zai-org/GLM-5.3",
        "source": "HF new models",
        "published_at": "2026-08-25 06:42"
@@ -165,7 +170,7 @@
      ]
     },
     {
-     "label": "Grote · Bestuursfotoverkiezing",
+     "label": "Bestuursfotoverkiezing · Grote",
      "articles": [
       {
        "title": "De Grote U-Today Bestuursfotoverkiezing 2026, de uitslag",
@@ -197,6 +202,12 @@
        "published_at": "2026-09-02 13:42"
       },
       {
+       "title": "‘Ik weet niet zo goed wat ik hier moet doen’",
+       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWGlRLUNNVTdlb3ItVjVPb1NjVk9aN204SFNoZE52ZEZZdm0yU3A5NXJvUTY5UW5ma0xNNG1iS1IxeEh1UEJpVmRiaWVFYnlnZVhoLXdpUDdzN2x6TWcwaEFQSnY4WG5NTHNlT3l0UUJpQUxrM2NSTnBSRVQ1Ti12S3h3?oc=5",
+       "source": "UToday",
+       "published_at": "2026-08-19 14:47"
+      },
+      {
        "title": "Fraude met basisbeurs is te simpel: één vinkje levert honderden euro’s op",
        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPakRvSjdCMHpEU19hSEllZFFHLWJEanNVMGtrOHZMaVlfVjNGTThEZ0FkZEZpVHBnVGhUdDhxUjllbGFhWUhla0FJRFRsSzd4NHpYbzdOalpRY1QwY2dJYUFqUU1HUlpFUUxhT0FfQXI3TW5nRlZYNl9hNFZYOFE0cWxyck1SVzdNQUlrOXJKMUVSdUlSUk1DSWM5RERmRkxweUZzcUNINA?oc=5",
        "source": "UToday",
@@ -213,12 +224,6 @@
        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTDE4dmZWeVI3YnllV0ZabC11VVE5ZnFnUjRhd291LUxfV1FQZ09Sb0hkdFlOZ0RkM0Z5SXVIN2NxTUx5VmdFZzR0UTRhelN3clY4TXlUQ0JEa2M2bnU4RU43TUpwc2N3T29VcEJHSldXbWVsRmhQbmlyNVBnZFh3VnNncmdoYjUzMzB6V2M2RWM?oc=5",
        "source": "UToday",
        "published_at": "2026-06-01 07:00"
-      },
-      {
-       "title": "Inter-Actief throws computers to mark anniversary",
-       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQT29BdUtWMzZVZGRpYTF4N1lCalhLcUE2YnJnY1JHb0xVQ0EyTVpmYm9aR1FBaHN4QVFMcTBjRUJlcl81SmxWVFlGRndfbkdISVp4RXlSenl6Y29UdWduNE1fUE5Xa19Ca2owNFlsUllfbWhkbkVCZkVKaGExM24yOW16NFZsbmtjMUk0cjFUbkhNV2M?oc=5",
-       "source": "UToday",
-       "published_at": "2026-05-23 07:00"
       }
      ]
     }
@@ -231,6 +236,57 @@
    "icon": "🇲🇦",
    "note": null,
    "clusters": [
+    {
+     "label": "يرفض",
+     "articles": [
+      {
+       "title": "\"حزب السنبلة\" يرفض الاستفزازات الإسبانية ويتمسك بحقوق المغرب التاريخية",
+       "url": "https://www.hespress.com/%d8%ad%d8%b2%d8%a8-%d8%a7%d9%84%d8%b3%d9%86%d8%a8%d9%84%d8%a9-%d9%8a%d8%b1%d9%81%d8%b6-%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d9%81%d8%b2%d8%a7%d8%b2%d8%a7%d8%aa-%d8%a7%d9%84%d8%a5%d8%b3%d8%a8%d8%a7%d9%86-1802517.html",
+       "source": "Hespress",
+       "published_at": "2026-09-05 18:00"
+      },
+      {
+       "title": "الخنوس يرفض المقارنة بليونيل ميسي",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%ae%d9%86%d9%88%d8%b3-%d9%8a%d8%b1%d9%81%d8%b6-%d8%a7%d9%84%d9%85%d9%82%d8%a7%d8%b1%d9%86%d8%a9-%d8%a8%d9%84%d9%8a%d9%88%d9%86%d9%8a%d9%84-%d9%85%d9%8a%d8%b3%d9%8a-1802476.html",
+       "source": "Hespress",
+       "published_at": "2026-09-05 17:44"
+      }
+     ]
+    },
+    {
+     "label": "إلى",
+     "articles": [
+      {
+       "title": "ميناء سبتة يتحول إلى مخيم للمهاجرين",
+       "url": "https://www.hespress.com/%d9%85%d9%8a%d9%86%d8%a7%d8%a1-%d8%b3%d8%a8%d8%aa%d8%a9-%d9%8a%d8%aa%d8%ad%d9%88%d9%84-%d8%a5%d9%84%d9%89-%d9%85%d8%ae%d9%8a%d9%85-%d9%84%d9%84%d9%85%d9%87%d8%a7%d8%ac%d8%b1%d9%8a%d9%86-1802484.html",
+       "source": "Hespress",
+       "published_at": "2026-09-05 17:04"
+      },
+      {
+       "title": "تنظيمات بيئية تدعو إلى إدماج الرأسمال الطبيعي ضمن البرامج الانتخابية",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%aa%d9%86%d8%b8%d9%8a%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d8%a8%d9%8a%d8%a6%d9%8a%d8%a9-%d8%aa%d8%b7%d8%a7%d9%84%d8%a8-%d8%a8%d8%a5%d8%af%d9%85%d8%a7%d8%ac-%d8%a7%d9%84%d8%b1%d8%a3%d8%b3-1800257.html",
+       "source": "Hespress",
+       "published_at": "2026-09-05 17:00"
+      }
+     ]
+    },
+    {
+     "label": "يفاقم",
+     "articles": [
+      {
+       "title": "انقطاع دواء يفاقم معاناة مرضى السرطان بمستشفى ابن طفيل في مراكش",
+       "url": "https://www.hespress.com/%d8%a7%d9%86%d9%82%d8%b7%d8%a7%d8%b9-%d8%af%d9%88%d8%a7%d8%a1-%d9%8a%d9%81%d8%a7%d9%82%d9%85-%d9%85%d8%b9%d8%a7%d9%86%d8%a7%d8%a9-%d9%85%d8%b1%d8%b6%d9%89-%d8%a7%d9%84%d8%b3%d8%b1%d8%b7%d8%a7%d9%86-1802433.html",
+       "source": "Hespress",
+       "published_at": "2026-09-05 16:00"
+      },
+      {
+       "title": "اعتقال يفاقم مخاوف الصحافة بتونس",
+       "url": "https://www.hespress.com/%d8%a7%d8%b9%d8%aa%d9%82%d8%a7%d9%84-%d9%8a%d9%81%d8%a7%d9%82%d9%85-%d9%85%d8%ae%d8%a7%d9%88%d9%81-%d8%a7%d9%84%d8%b5%d8%ad%d8%a7%d9%81%d8%a9-%d9%81%d9%8a-%d8%aa%d9%88%d9%86%d8%b3-1802357.html",
+       "source": "Hespress",
+       "published_at": "2026-09-05 15:46"
+      }
+     ]
+    },
     {
      "label": "Maroc",
      "articles": [
@@ -249,30 +305,19 @@
      ]
     },
     {
-     "label": "Professions · Automation",
-     "articles": [
-      {
-       "title": "Who’s at risk from AI? 10 professions most exposed to automation",
-       "url": "https://telquel.ma/2026/09/04/whos-at-risk-from-ai-10-professions-most-exposed-to-automation_2003438",
-       "source": "TelQuel",
-       "published_at": "2026-09-04 16:53"
-      },
-      {
-       "title": "Who’s safe from AI? 10 professions built to resist automation",
-       "url": "https://telquel.ma/2026/09/04/whos-safe-from-ai-10-professions-built-to-resist-automation_2003404",
-       "source": "TelQuel",
-       "published_at": "2026-09-04 16:53"
-      }
-     ]
-    },
-    {
      "label": "More headlines",
      "articles": [
       {
-       "title": "اعتقال يفاقم مخاوف الصحافة بتونس",
-       "url": "https://www.hespress.com/%d8%a7%d8%b9%d8%aa%d9%82%d8%a7%d9%84-%d9%8a%d9%81%d8%a7%d9%82%d9%85-%d9%85%d8%ae%d8%a7%d9%88%d9%81-%d8%a7%d9%84%d8%b5%d8%ad%d8%a7%d9%81%d8%a9-%d9%81%d9%8a-%d8%aa%d9%88%d9%86%d8%b3-1802357.html",
+       "title": "المغرب التطواني يتعاقد مع أمين الكرمة",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d8%a7%d9%84%d8%aa%d8%b7%d9%88%d8%a7%d9%86%d9%8a-%d9%8a%d8%aa%d8%b9%d8%a7%d9%82%d8%af-%d9%85%d8%b9-%d8%a7%d9%84%d9%83%d8%b1%d9%85%d8%a9-1802479.html",
        "source": "Hespress",
-       "published_at": "2026-09-05 15:46"
+       "published_at": "2026-09-05 16:42"
+      },
+      {
+       "title": "بورصة البيضاء تبصم على أداء سلبي",
+       "url": "https://www.hespress.com/%d8%a8%d9%88%d8%b1%d8%b5%d8%a9-%d8%a7%d9%84%d8%a8%d9%8a%d8%b6%d8%a7%d8%a1-%d8%aa%d8%a8%d8%b5%d9%85-%d8%b9%d9%84%d9%89-%d8%a3%d8%af%d8%a7%d8%a1-%d8%b3%d9%84%d8%a8%d9%8a-3-1802409.html",
+       "source": "Hespress",
+       "published_at": "2026-09-05 16:11"
       },
       {
        "title": "الجيش الملكي يجدد عقود 4 لاعبين",
@@ -299,52 +344,22 @@
        "published_at": "2026-09-05 14:49"
       },
       {
-       "title": "غموض يلف مصير مغربية في نيجيريا",
-       "url": "https://www.hespress.com/%d8%ba%d9%85%d9%88%d8%b6-%d9%8a%d9%84%d9%81-%d9%85%d8%b5%d9%8a%d8%b1-%d9%85%d8%ba%d8%b1%d8%a8%d9%8a%d8%a9-%d9%81%d9%8a-%d9%86%d9%8a%d8%ac%d9%8a%d8%b1%d9%8a%d8%a7-1802312.html",
-       "source": "Hespress",
-       "published_at": "2026-09-05 14:35"
-      },
-      {
-       "title": "الأرجنتين تحقق في مشاريع نفطية قرب \"فوكلاند\"",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%a3%d8%b1%d8%ac%d9%86%d8%aa%d9%8a%d9%86-%d8%aa%d8%ad%d9%82%d9%82-%d9%81%d9%8a-%d9%85%d8%b4%d8%a7%d8%b1%d9%8a%d8%b9-%d9%86%d9%81%d8%b7%d9%8a%d8%a9-%d9%82%d8%b1%d8%a8-%d9%81%d9%88%d9%83-1802376.html",
-       "source": "Hespress",
-       "published_at": "2026-09-05 14:33"
-      },
-      {
-       "title": "فرنسا تنفي الضلوع في \"تمرد النيجر\"",
-       "url": "https://www.hespress.com/%d9%81%d8%b1%d9%86%d8%b3%d8%a7-%d8%aa%d9%86%d9%81%d9%8a-%d8%a7%d9%84%d8%b6%d9%84%d9%88%d8%b9-%d9%81%d9%8a-%d8%aa%d9%85%d8%b1%d8%af-%d8%a7%d9%84%d9%86%d9%8a%d8%ac%d8%b1-1802248.html",
-       "source": "Hespress",
-       "published_at": "2026-09-05 14:11"
-      },
-      {
-       "title": "مرسوم يؤطر \"الطروتينيت\" .. ويعفي القوات العمومية من قياس السرعة",
-       "url": "https://www.hespress.com/%d9%85%d8%b1%d8%b3%d9%88%d9%85-%d9%8a%d8%a4%d8%b7%d8%b1-%d8%a7%d9%84%d8%b7%d8%b1%d9%88%d8%aa%d9%8a%d9%86%d9%8a%d8%aa-%d9%88%d9%8a%d8%b9%d9%81%d9%8a-%d8%a7%d9%84%d9%82%d9%88%d8%a7%d8%aa-%d8%a7-1802293.html",
-       "source": "Hespress",
-       "published_at": "2026-09-05 14:00"
-      },
-      {
-       "title": "حمداني يتولى تدريب منتخب الجزائر",
-       "url": "https://www.hespress.com/%d8%ad%d9%85%d8%af%d8%a7%d9%86%d9%8a-%d9%8a%d8%aa%d9%88%d9%84%d9%89-%d8%aa%d8%af%d8%b1%d9%8a%d8%a8-%d9%85%d9%86%d8%aa%d8%ae%d8%a8-%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1-1802359.html",
-       "source": "Hespress",
-       "published_at": "2026-09-05 13:41"
-      },
-      {
-       "title": "جدل تسويق الكتب المدرسية",
-       "url": "https://www.hespress.com/%d8%ac%d8%af%d9%84-%d8%aa%d8%b3%d9%88%d9%8a%d9%82-%d8%a7%d9%84%d9%83%d8%aa%d8%a8-%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%8a%d8%a9-1802305.html",
-       "source": "Hespress",
-       "published_at": "2026-09-05 13:30"
-      },
-      {
-       "title": "العيناوي: التفوق على هولندا لا يُنسى",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%b9%d9%8a%d9%86%d8%a7%d9%88%d9%8a-%d8%a7%d9%84%d8%aa%d9%81%d9%88%d9%82-%d8%b9%d9%84%d9%89-%d9%87%d9%88%d9%84%d9%86%d8%af%d8%a7-%d9%84%d8%a7-%d9%8a%d9%86%d8%b3%d9%89-1802316.html",
-       "source": "Hespress",
-       "published_at": "2026-09-05 13:08"
-      },
-      {
        "title": "Back-to-school season: Three tips to cut costs",
        "url": "https://telquel.ma/2026/09/04/back-to-school-season-three-tips-to-cut-costs_2005667",
        "source": "TelQuel",
        "published_at": "2026-09-04 16:56"
+      },
+      {
+       "title": "Who’s at risk from AI? 10 professions most exposed to automation",
+       "url": "https://telquel.ma/2026/09/04/whos-at-risk-from-ai-10-professions-most-exposed-to-automation_2003438",
+       "source": "TelQuel",
+       "published_at": "2026-09-04 16:53"
+      },
+      {
+       "title": "Who’s safe from AI? 10 professions built to resist automation",
+       "url": "https://telquel.ma/2026/09/04/whos-safe-from-ai-10-professions-built-to-resist-automation_2003404",
+       "source": "TelQuel",
+       "published_at": "2026-09-04 16:53"
       },
       {
        "title": "Relation client : Teleperformance rachète Unifitel via Majorel",
@@ -367,33 +382,21 @@
      "label": "",
      "articles": [
       {
-       "title": "Staking legt openbaar vervoer woensdag in heel het land lam: scholen, crèches en ziekenhuizen houden hun hart vast",
-       "url": "https://www.telegraaf.nl/financieel/staking-legt-openbaar-vervoer-woensdag-in-heel-het-land-lam-scholen-creches-en-ziekenhuizen-houden-hun-hart-vast/161020159.html",
-       "source": "de Telegraaf",
-       "published_at": "2026-09-05 12:36"
+       "title": "Illegaal IPTV kijken blijft probleem: 'Risico op fraude of afpersing'",
+       "url": "https://www.nu.nl/tech/6408618/illegaal-iptv-kijken-blijft-probleem-risico-op-fraude-of-afpersing.html",
+       "source": "NU.nl",
+       "published_at": "2026-09-05 17:25"
       },
       {
-       "title": "Martin Visser: aanpak van belasting op sparen en beleggen is een schandvlek",
-       "url": "https://www.telegraaf.nl/financieel/martin-visser-aanpak-van-belasting-op-sparen-en-beleggen-is-een-schandvlek/160985368.html",
+       "title": "Manchester City ontsnapt tegen promovendus, Tottenham met Micky van de Ven en Jan Paul van Hecke wint weer niet in Premier League",
+       "url": "https://www.telegraaf.nl/sport/voetbal/manchester-city-ontsnapt-tegen-promovendus-tottenham-met-micky-van-de-ven-en-jan-paul-van-hecke-wint-weer-niet-in-premier-league/161029898.html",
        "source": "de Telegraaf",
-       "published_at": "2026-09-05 12:30"
-      },
-      {
-       "title": "LIVE Buitenlands voetbal | Volop Nederlanders in actie in de Premier League",
-       "url": "https://www.telegraaf.nl/sport/voetbal/live-buitenlands-voetbal-volop-nederlanders-in-actie-in-de-premier-league/161024452.html",
-       "source": "de Telegraaf",
-       "published_at": "2026-09-05 12:14"
-      },
-      {
-       "title": "Pete Hegseth ook op eigen departement verwikkeld in ’oorlog’, met opvallende rol voor zijn vrouw Jennifer (46)",
-       "url": "https://www.telegraaf.nl/buitenland/pete-hegseth-ook-op-eigen-departement-verwikkeld-in-oorlog-met-opvallende-rol-voor-zijn-vrouw-jennifer-46/160919907.html",
-       "source": "de Telegraaf",
-       "published_at": "2026-09-05 11:00"
+       "published_at": "2026-09-05 16:37"
       }
      ]
     }
    ],
-   "count": 4
+   "count": 2
   },
   {
    "key": "mideast",
@@ -402,8 +405,20 @@
    "note": null,
    "clusters": [
     {
-     "label": "Tankers · Iranian",
+     "label": "Tankers · Warships",
      "articles": [
+      {
+       "title": "US hits three Iranian oil tankers after saying its warships were targeted",
+       "url": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
+       "source": "BBC World",
+       "published_at": "2026-09-05 17:15"
+      },
+      {
+       "title": "US says it hit three Iranian oil tankers after attacks on warships",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-says-it-hit-three-iranian-oil-tankers-after-attacks-on-warships?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-09-05 15:49"
+      },
       {
        "title": "US military says it struck three Iranian tankers after American warships came under missile attack",
        "url": "https://www.theguardian.com/world/2026/sep/05/us-military-iran-tankers",
@@ -411,33 +426,10 @@
        "published_at": "2026-09-05 15:41"
       },
       {
-       "title": "US hits three Iranian oil tankers after saying its warships were targeted",
-       "url": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
-       "source": "BBC World",
-       "published_at": "2026-09-05 15:14"
-      },
-      {
        "title": "US says it hit Iran oil tankers helping finance ‘regional proxies’",
        "url": "https://www.aljazeera.com/news/2026/9/5/us-says-it-hit-iran-oil-tankers-helping-finance-regional-proxies?traffic_source=rss",
        "source": "Al Jazeera",
        "published_at": "2026-09-05 14:49"
-      }
-     ]
-    },
-    {
-     "label": "Iran",
-     "articles": [
-      {
-       "title": "Iran President Pezeshkian calls for unity as US ramps up economic pressure",
-       "url": "https://www.aljazeera.com/economy/2026/9/5/iran-president-pezeshkian-calls-for-unity-as-us-ramps-up-economic-pressure?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-09-05 13:07"
-      },
-      {
-       "title": "Why is Trump threatening to strike Iran’s Pickaxe Mountain again, now?",
-       "url": "https://www.aljazeera.com/news/2026/9/5/why-is-trump-threatening-to-strike-irans-pickaxe-mountain-again-now?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-09-05 09:56"
       }
      ]
     },
@@ -465,19 +457,36 @@
      ]
     },
     {
-     "label": "Israel · Bank",
+     "label": "Israeli",
      "articles": [
+      {
+       "title": "Gaza teams recover remains of 55 people nearly 3 years after Israeli strike",
+       "url": "https://www.aljazeera.com/news/2026/9/5/gaza-teams-recover-remains-of-55-people-nearly-3-years-after-israeli-strike?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-09-05 16:17"
+      },
+      {
+       "title": "Israeli campaign of West Bank destruction moves on to region’s food basket",
+       "url": "https://www.aljazeera.com/features/2026/9/5/israeli-campaign-of-west-bank-destruction-moves-on-to-regions-food-basket?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-09-05 15:37"
+      }
+     ]
+    },
+    {
+     "label": "Israel",
+     "articles": [
+      {
+       "title": "Israel claims control of Lebanon’s key Ali al-Taher ridge: What that means",
+       "url": "https://www.aljazeera.com/news/2026/9/5/israel-claims-control-of-lebanons-key-ali-al-taher-ridge-what-that-means?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-09-05 16:04"
+      },
       {
        "title": "Israel must protect West Bank’s Palestinians amid settler pogroms: US envoy",
        "url": "https://www.aljazeera.com/news/2026/9/5/israel-must-guarantee-safety-of-west-bank-population-ambassador?traffic_source=rss",
        "source": "Al Jazeera",
        "published_at": "2026-09-05 12:04"
-      },
-      {
-       "title": "US ambassador to Israel meets Palestinian-Americans in occupied West Bank",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-ambassador-to-israel-meets-palestinian-americans-in-occupied-west-bank?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-09-05 09:52"
       }
      ]
     },
@@ -485,16 +494,10 @@
      "label": "More headlines",
      "articles": [
       {
-       "title": "‘Guilt by association’: why seven international aid workers were killed in Israeli airstrike",
-       "url": "https://www.theguardian.com/world/2026/sep/05/aid-workers-gaza-killed-in-israel-airstrike-investigation",
-       "source": "Guardian World",
-       "published_at": "2026-09-05 11:08"
-      },
-      {
-       "title": "Gaza refugee says sister-in-law ‘would be alive’ if Home Office had let her come to UK",
-       "url": "https://www.theguardian.com/uk-news/2026/sep/05/gaza-refugee-visa-refusal-home-office",
-       "source": "Guardian World",
-       "published_at": "2026-09-05 10:00"
+       "title": "Iran President Pezeshkian calls for unity as US ramps up economic pressure",
+       "url": "https://www.aljazeera.com/economy/2026/9/5/iran-president-pezeshkian-calls-for-unity-as-us-ramps-up-economic-pressure?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-09-05 13:07"
       }
      ]
     }
@@ -546,10 +549,10 @@
      "label": "Ukraine · Moscow",
      "articles": [
       {
-       "title": "US envoys arrive in Moscow ahead of Ukraine talks",
+       "title": "US envoys meet Putin in Moscow for Ukraine talks",
        "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
        "source": "BBC World",
-       "published_at": "2026-09-05 15:05"
+       "published_at": "2026-09-05 17:18"
       },
       {
        "title": "Steve Witkoff and Jared Kushner land in Moscow aiming to revive Ukraine talks",
