@@ -1,8 +1,8 @@
 {
  "date": "Saturday 5 September 2026",
- "generated_at": "09:16 UTC",
+ "generated_at": "12:57 UTC",
  "error": null,
- "total_stories": 76,
+ "total_stories": 77,
  "fx": {
   "pair": "EUR/MAD",
   "rate": 10.874,
@@ -31,13 +31,13 @@
        "published_at": "2026-09-05 04:10"
       },
       {
-       "title": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF · 327 ♥",
+       "title": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF · 350 ♥",
        "url": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
        "source": "HF new models",
        "published_at": "2026-08-28 18:38"
       },
       {
-       "title": "unsloth/Qwen3.8-Flash-Next-GGUF · 791 ♥",
+       "title": "unsloth/Qwen3.8-Flash-Next-GGUF · 793 ♥",
        "url": "https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF",
        "source": "HF new models",
        "published_at": "2026-08-26 12:29"
@@ -48,13 +48,13 @@
      "label": "Flash",
      "articles": [
       {
-       "title": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp · 628 ♥",
+       "title": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp · 639 ♥",
        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
        "source": "HF new models",
        "published_at": "2026-08-31 06:16"
       },
       {
-       "title": "zai-org/GLM-5.3-Flash · 2059 ♥",
+       "title": "zai-org/GLM-5.3-Flash · 2067 ♥",
        "url": "https://huggingface.co/zai-org/GLM-5.3-Flash",
        "source": "HF new models",
        "published_at": "2026-08-25 06:43"
@@ -62,25 +62,60 @@
      ]
     },
     {
-     "label": "One",
+     "label": "Frontier",
      "articles": [
+      {
+       "title": "AA Update! Here's how the Frontier ranks.",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w7y261/aa_update_heres_how_the_frontier_ranks/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-05 11:20"
+      },
       {
        "title": "Chalk one up for the frontier model...",
        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w7pdaf/chalk_one_up_for_the_frontier_model/",
        "source": "r/LocalLLaMA",
        "published_at": "2026-09-05 03:25"
+      }
+     ]
+    },
+    {
+     "label": "Openai · Incident",
+     "articles": [
+      {
+       "title": "OpenAI admits to German wiki ‘incident’",
+       "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+       "source": "Verge AI",
+       "published_at": "2026-09-05 11:15"
       },
       {
-       "title": "Am I the only one having these problems with downloading models from HF?",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w7eyu3/am_i_the_only_one_having_these_problems_with/",
+       "title": "The OpenAI Huggingface incident from an agents POV",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w7tfrm/the_openai_huggingface_incident_from_an_agents_pov/",
        "source": "r/LocalLLaMA",
-       "published_at": "2026-09-04 19:54"
+       "published_at": "2026-09-05 07:00"
       }
      ]
     },
     {
      "label": "More headlines",
      "articles": [
+      {
+       "title": "Title: MLX-DLSS: NVIDIA's DLSS 5 neural renderer and frame generator, running on a Mac (and in PyTorch anywhere)",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w7y5qr/title_mlxdlss_nvidias_dlss_5_neural_renderer_and/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-05 11:25"
+      },
+      {
+       "title": "AA Update! Here's how the small models score.",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w7y3sa/aa_update_heres_how_the_small_models_score/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-05 11:22"
+      },
+      {
+       "title": "AI handles incidents, engineers lose touch with their systems",
+       "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+       "source": "Hacker News",
+       "published_at": "2026-09-05 07:52"
+      },
       {
        "title": "I've found myself using Local LLM's like 3D printers.",
        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w7thwv/ive_found_myself_using_local_llms_like_3d_printers/",
@@ -100,43 +135,13 @@
        "published_at": "2026-09-05 01:58"
       },
       {
-       "title": "Portal by Spotify cut my Claude Code token usage by 90%",
-       "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
-       "source": "Hacker News",
-       "published_at": "2026-09-04 23:38"
-      },
-      {
-       "title": "NVIDIA PAIR — Your Personal AI Cluster",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w7jnlx/nvidia_pair_your_personal_ai_cluster/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-09-04 22:57"
-      },
-      {
-       "title": "Help me understand gguf size/ctx size",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w7i7mz/help_me_understand_gguf_sizectx_size/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-09-04 21:57"
-      },
-      {
-       "title": "If you had ~15k would you build a home server today or wait",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w7i64e/if_you_had_15k_would_you_build_a_home_server/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-09-04 21:56"
-      },
-      {
-       "title": "GPT-6 Astra on OpenRouter",
-       "url": "https://openrouter.ai/openai/gpt-6-astra",
-       "source": "Hacker News",
-       "published_at": "2026-09-04 21:39"
-      },
-      {
-       "title": "BreezeBlue/Breeze-TTS-2 · 438 ♥",
+       "title": "BreezeBlue/Breeze-TTS-2 · 439 ♥",
        "url": "https://huggingface.co/BreezeBlue/Breeze-TTS-2",
        "source": "HF new models",
        "published_at": "2026-08-25 16:39"
       },
       {
-       "title": "zai-org/GLM-5.3 · 1710 ♥",
+       "title": "zai-org/GLM-5.3 · 1713 ♥",
        "url": "https://huggingface.co/zai-org/GLM-5.3",
        "source": "HF new models",
        "published_at": "2026-08-25 06:42"
@@ -237,53 +242,25 @@
    "note": null,
    "clusters": [
     {
-     "label": "الجماعات",
+     "label": "المغرب",
      "articles": [
       {
-       "title": "\"الداخلية\" تدقق فواتير أوراش عشوائية وتحاصر أعباء الجماعات المالية",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d8%a9-%d8%aa%d8%af%d9%82%d9%82-%d9%81%d9%88%d8%a7%d8%aa%d9%8a%d8%b1-%d8%a3%d9%88%d8%b1%d8%a7%d8%b4-%d8%b9%d8%b4%d9%88%d8%a7%d8%a6%d9%8a%d8%a9-%d9%88-1802041.html",
+       "title": "المغرب يترقب \"46 درجة مع زخات\"",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d9%8a%d8%aa%d8%b1%d9%82%d8%a8-46-%d8%af%d8%b1%d8%ac%d8%a9-%d9%85%d8%b9-%d8%b2%d8%ae%d8%a7%d8%aa-1802320.html",
        "source": "Hespress",
-       "published_at": "2026-09-05 09:00"
+       "published_at": "2026-09-05 12:10"
       },
       {
-       "title": "رسالة تعدد مطالب شغيلة الجماعات",
-       "url": "https://www.hespress.com/%d8%b1%d8%b3%d8%a7%d9%84%d8%a9-%d8%aa%d8%b9%d8%af%d8%af-%d9%85%d8%b7%d8%a7%d9%84%d8%a8-%d8%b4%d8%ba%d9%8a%d9%84%d8%a9-%d8%a7%d9%84%d8%ac%d9%85%d8%a7%d8%b9%d8%a7%d8%aa-1802005.html",
+       "title": "المغرب يستأنف استيراد القمح اللين .. والدعم يتخطى 20 درهما لكل قنطار",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d9%8a%d8%b3%d8%aa%d8%a3%d9%86%d9%81-%d8%a7%d8%b3%d8%aa%d9%8a%d8%b1%d8%a7%d8%af-%d8%a7%d9%84%d9%82%d9%85%d8%ad-%d8%a7%d9%84%d9%84%d9%8a%d9%86-%d9%88%d8%a7%d9%84-1802288.html",
        "source": "Hespress",
-       "published_at": "2026-09-05 07:13"
-      }
-     ]
-    },
-    {
-     "label": "التمدرس",
-     "articles": [
-      {
-       "title": "مغاربة تونس يطالبون بدعم التمدرس",
-       "url": "https://www.hespress.com/%d9%85%d8%ba%d8%a7%d8%b1%d8%a8%d8%a9-%d8%aa%d9%88%d9%86%d8%b3-%d9%8a%d8%b7%d8%a7%d9%84%d8%a8%d9%88%d9%86-%d8%a8%d8%af%d8%b9%d9%85-%d8%a7%d9%84%d8%aa%d9%85%d8%af%d8%b1%d8%b3-1801889.html",
-       "source": "Hespress",
-       "published_at": "2026-09-05 08:33"
+       "published_at": "2026-09-05 12:00"
       },
       {
-       "title": "رسوم الدخول المدرسي ترفع كلفة التمدرس وتثقل كاهل الأسر المغربية",
-       "url": "https://www.hespress.com/%d8%b1%d8%b3%d9%88%d9%85-%d8%a7%d9%84%d8%af%d8%ae%d9%88%d9%84-%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%8a-%d8%aa%d8%b1%d9%81%d8%b9-%d9%83%d9%84%d9%81%d8%a9-%d8%a7%d9%84%d8%aa%d9%85%d8%af%d8%b1%d8%b3-1802046.html",
+       "title": "استثمارات صينية جديدة في المغرب",
+       "url": "https://www.hespress.com/%d8%a7%d8%b3%d8%aa%d8%ab%d9%85%d8%a7%d8%b1%d8%a7%d8%aa-%d8%b5%d9%8a%d9%86%d9%8a%d8%a9-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-1801857.html",
        "source": "Hespress",
-       "published_at": "2026-09-05 07:00"
-      }
-     ]
-    },
-    {
-     "label": "بالمغرب",
-     "articles": [
-      {
-       "title": "توقعات طقس اليوم السبت بالمغرب",
-       "url": "https://www.hespress.com/%d8%aa%d9%88%d9%82%d8%b9%d8%a7%d8%aa-%d8%b7%d9%82%d8%b3-%d8%a7%d9%84%d9%8a%d9%88%d9%85-%d8%a7%d9%84%d8%b3%d8%a8%d8%aa-%d8%a8%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-78-1802118.html",
-       "source": "Hespress",
-       "published_at": "2026-09-05 06:11"
-      },
-      {
-       "title": "EOS الألمانية تدرس الاستثمار بالمغرب",
-       "url": "https://www.hespress.com/eos-%d8%a7%d9%84%d8%a3%d9%84%d9%85%d8%a7%d9%86%d9%8a%d8%a9-%d8%aa%d8%af%d8%b1%d8%b3-%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%ab%d9%85%d8%a7%d8%b1-%d8%a8%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-1802096.html",
-       "source": "Hespress",
-       "published_at": "2026-09-05 05:25"
+       "published_at": "2026-09-05 11:21"
       }
      ]
     },
@@ -305,50 +282,8 @@
      ]
     },
     {
-     "label": "More headlines",
+     "label": "Automation · Who",
      "articles": [
-      {
-       "title": "لجان تراقب مخالفات البناء بالبيضاء",
-       "url": "https://www.hespress.com/%d9%84%d8%ac%d8%a7%d9%86-%d8%aa%d8%b1%d8%a7%d9%82%d8%a8-%d9%85%d8%ae%d8%a7%d9%84%d9%81%d8%a7%d8%aa-%d8%a7%d9%84%d8%a8%d9%86%d8%a7%d8%a1-%d8%a8%d8%a7%d9%84%d8%a8%d9%8a%d8%b6%d8%a7%d8%a1-1801839.html",
-       "source": "Hespress",
-       "published_at": "2026-09-05 09:10"
-      },
-      {
-       "title": "منتخبون يدعمون مرشحين منافسين",
-       "url": "https://www.hespress.com/%d9%85%d9%86%d8%aa%d8%ae%d8%a8%d9%88%d9%86-%d9%8a%d8%af%d8%b9%d9%85%d9%88%d9%86-%d9%85%d8%b1%d8%b4%d8%ad%d9%8a%d9%86-%d9%85%d9%86%d8%a7%d9%81%d8%b3%d9%8a%d9%86-1802007.html",
-       "source": "Hespress",
-       "published_at": "2026-09-05 08:17"
-      },
-      {
-       "title": "الإعدام لمفتعلي حرائق الغابات .. الجزائر تواجه انتقادات حقوقية دولية",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%a5%d8%b9%d8%af%d8%a7%d9%85-%d9%84%d9%85%d9%81%d8%aa%d8%b9%d9%84%d9%8a-%d8%ad%d8%b1%d8%a7%d8%a6%d9%82-%d8%a7%d9%84%d8%ba%d8%a7%d8%a8%d8%a7%d8%aa-%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6-1801926.html",
-       "source": "Hespress",
-       "published_at": "2026-09-05 08:00"
-      },
-      {
-       "title": "\"ألزا\" تعزز أسطول النقل بتارودانت",
-       "url": "https://www.hespress.com/%d8%a3%d9%84%d8%b2%d8%a7-%d8%aa%d8%b9%d8%b2%d8%b2-%d8%a3%d8%b3%d8%b7%d9%88%d9%84-%d8%a7%d9%84%d9%86%d9%82%d9%84-%d8%a8%d8%aa%d8%a7%d8%b1%d9%88%d8%af%d8%a7%d9%86%d8%aa-1802054.html",
-       "source": "Hespress",
-       "published_at": "2026-09-05 07:32"
-      },
-      {
-       "title": "بيزنس الكتب المدرسية",
-       "url": "https://www.hespress.com/%d8%a8%d9%8a%d8%b2%d9%86%d8%b3-%d8%a7%d9%84%d9%83%d8%aa%d8%a8-%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%8a%d8%a9-1801787.html",
-       "source": "Hespress",
-       "published_at": "2026-09-05 07:30"
-      },
-      {
-       "title": "انتخابات 2026.. صراع \"الفوارق الضئيلة\" يوقد معركة مقعدَي تاوريرت",
-       "url": "https://www.hespress.com/%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-2026-%d8%b5%d8%b1%d8%a7%d8%b9-%d8%a7%d9%84%d9%81%d9%88%d8%a7%d8%b1%d9%82-%d8%a7%d9%84%d8%b6%d8%a6%d9%8a%d9%84%d8%a9-%d9%8a%d8%b4%d8%b9%d9%84-1801461.html",
-       "source": "Hespress",
-       "published_at": "2026-09-05 06:00"
-      },
-      {
-       "title": "Back-to-school season: Three tips to cut costs",
-       "url": "https://telquel.ma/2026/09/04/back-to-school-season-three-tips-to-cut-costs_2005667",
-       "source": "TelQuel",
-       "published_at": "2026-09-04 16:56"
-      },
       {
        "title": "Who’s at risk from AI? 10 professions most exposed to automation",
        "url": "https://telquel.ma/2026/09/04/whos-at-risk-from-ai-10-professions-most-exposed-to-automation_2003438",
@@ -360,6 +295,71 @@
        "url": "https://telquel.ma/2026/09/04/whos-safe-from-ai-10-professions-built-to-resist-automation_2003404",
        "source": "TelQuel",
        "published_at": "2026-09-04 16:53"
+      }
+     ]
+    },
+    {
+     "label": "More headlines",
+     "articles": [
+      {
+       "title": "القوات الروسية تهادن أوكرانيا 3 أيام",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%82%d9%88%d8%a7%d8%aa-%d8%a7%d9%84%d8%b1%d9%88%d8%b3%d9%8a%d8%a9-%d8%aa%d9%87%d8%a7%d8%af%d9%86-%d8%a3%d9%88%d9%83%d8%b1%d8%a7%d9%86%d9%8a%d8%a7-3-%d8%a3%d9%8a%d8%a7%d9%85-1802335.html",
+       "source": "Hespress",
+       "published_at": "2026-09-05 12:31"
+      },
+      {
+       "title": "باحثون: الحرارة تفاقم عجز المياه في ألمانيا",
+       "url": "https://www.hespress.com/%d8%a8%d8%a7%d8%ad%d8%ab%d9%88%d9%86-%d8%a7%d9%84%d8%ad%d8%b1%d8%a7%d8%b1%d8%a9-%d8%aa%d9%81%d8%a7%d9%82%d9%85-%d8%b9%d8%ac%d8%b2-%d8%a7%d9%84%d9%85%d9%8a%d8%a7%d9%87-%d9%81%d9%8a-%d8%a3%d9%84-1802276.html",
+       "source": "Hespress",
+       "published_at": "2026-09-05 12:29"
+      },
+      {
+       "title": "آراء في منع إطعام الحيوان",
+       "url": "https://www.hespress.com/%d8%a2%d8%b1%d8%a7%d8%a1-%d9%81%d9%8a-%d9%85%d9%86%d8%b9-%d8%a5%d8%b7%d8%b9%d8%a7%d9%85-%d8%a7%d9%84%d8%ad%d9%8a%d9%88%d8%a7%d9%86-1802281.html",
+       "source": "Hespress",
+       "published_at": "2026-09-05 11:52"
+      },
+      {
+       "title": "ملثمون يقطعون طريق ميناء دوفر البريطاني",
+       "url": "https://www.hespress.com/%d9%85%d9%84%d8%ab%d9%85%d9%88%d9%86-%d9%8a%d9%82%d8%b7%d8%b9%d9%88%d9%86-%d8%a7%d9%84%d8%b7%d8%b1%d9%8a%d9%82-%d8%a5%d9%84%d9%89-%d9%85%d9%8a%d9%86%d8%a7%d8%a1-%d8%af%d9%88%d9%81%d8%b1-%d8%a7%d9%84-1802296.html",
+       "source": "Hespress",
+       "published_at": "2026-09-05 11:50"
+      },
+      {
+       "title": "\"ويفا\" يستبعد غندوزي أربع مباريات",
+       "url": "https://www.hespress.com/%d9%88%d9%8a%d9%81%d8%a7-%d9%8a%d8%b3%d8%aa%d8%a8%d8%b9%d8%af-%d8%ba%d9%86%d8%af%d9%88%d8%b2%d9%8a-%d8%a3%d8%b1%d8%a8%d8%b9-%d9%85%d8%a8%d8%a7%d8%b1%d9%8a%d8%a7%d8%aa-1802267.html",
+       "source": "Hespress",
+       "published_at": "2026-09-05 11:42"
+      },
+      {
+       "title": "طوابير طويلة أمام محطات الوقود في بغداد",
+       "url": "https://www.hespress.com/%d8%b7%d9%88%d8%a7%d8%a8%d9%8a%d8%b1-%d8%b7%d9%88%d9%8a%d9%84%d8%a9-%d8%a3%d9%85%d8%a7%d9%85-%d9%85%d8%ad%d8%b7%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d8%ad%d8%b1%d9%88%d9%82%d8%a7%d8%aa-%d9%81%d9%8a-%d8%a8-1802260.html",
+       "source": "Hespress",
+       "published_at": "2026-09-05 11:40"
+      },
+      {
+       "title": "أحزاب مغربية خارج مبنى البرلمان تدعو إلى برامج انتخابية \"قابلة للقياس\"",
+       "url": "https://www.hespress.com/%d8%a3%d8%ad%d8%b2%d8%a7%d8%a8-%d9%85%d8%ba%d8%b1%d8%a8%d9%8a%d8%a9-%d8%ae%d8%a7%d8%b1%d8%ac-%d9%85%d8%a8%d9%86%d9%89-%d8%a7%d9%84%d8%a8%d8%b1%d9%84%d9%85%d8%a7%d9%86-%d8%aa%d8%af%d8%b9%d9%88-%d8%a5-1801837.html",
+       "source": "Hespress",
+       "published_at": "2026-09-05 11:00"
+      },
+      {
+       "title": "موسكو تستقبل مبعوثين من واشنطن",
+       "url": "https://www.hespress.com/%d9%85%d9%88%d8%b3%d9%83%d9%88-%d8%aa%d8%b3%d8%aa%d9%82%d8%a8%d9%84-%d9%85%d8%a8%d8%b9%d9%88%d8%ab%d9%8a%d9%86-%d9%85%d9%86-%d9%88%d8%a7%d8%b4%d9%86%d8%b7%d9%86-1802280.html",
+       "source": "Hespress",
+       "published_at": "2026-09-05 10:38"
+      },
+      {
+       "title": "أبحاث تقف على سجلات وشهادات في ملفات الاستيلاء على عقارات الدولة",
+       "url": "https://www.hespress.com/%d8%a3%d8%a8%d8%ad%d8%a7%d8%ab-%d8%aa%d9%82%d9%81-%d8%b9%d9%84%d9%89-%d8%b3%d8%ac%d9%84%d8%a7%d8%aa-%d9%88%d8%b4%d9%87%d8%a7%d8%af%d8%a7%d8%aa-%d9%81%d9%8a-%d9%85%d9%84%d9%81%d8%a7%d8%aa-%d8%a7%d9%84-1801855.html",
+       "source": "Hespress",
+       "published_at": "2026-09-05 10:30"
+      },
+      {
+       "title": "Back-to-school season: Three tips to cut costs",
+       "url": "https://telquel.ma/2026/09/04/back-to-school-season-three-tips-to-cut-costs_2005667",
+       "source": "TelQuel",
+       "published_at": "2026-09-04 16:56"
       },
       {
        "title": "Relation client : Teleperformance rachète Unifitel via Majorel",
@@ -379,8 +379,43 @@
    "note": null,
    "clusters": [
     {
-     "label": "",
+     "label": "Maakt",
      "articles": [
+      {
+       "title": "Kopzorgen voor scholen, kinderopvang en ziekenhuizen bij grote ov-staking woensdag, maar verbod maakt weinig kans",
+       "url": "https://www.telegraaf.nl/financieel/kopzorgen-voor-scholen-kinderopvang-en-ziekenhuizen-bij-grote-ov-staking-woensdag-maar-verbod-maakt-weinig-kans/161020159.html",
+       "source": "de Telegraaf",
+       "published_at": "2026-09-05 12:36"
+      },
+      {
+       "title": "Oorlog op het Pentagon: Pete Hegseth maakt stampij",
+       "url": "https://www.telegraaf.nl/podcast/oorlog-op-het-pentagon-pete-hegseth-maakt-stampij/161016317.html",
+       "source": "de Telegraaf",
+       "published_at": "2026-09-05 08:30"
+      }
+     ]
+    },
+    {
+     "label": "More headlines",
+     "articles": [
+      {
+       "title": "Martin Visser: aanpak van belasting op sparen en beleggen is een schandvlek",
+       "url": "https://www.telegraaf.nl/financieel/martin-visser-aanpak-van-belasting-op-sparen-en-beleggen-is-een-schandvlek/160985368.html",
+       "source": "de Telegraaf",
+       "published_at": "2026-09-05 12:30"
+      },
+      {
+       "title": "LIVE Buitenlands voetbal | Volop Nederlanders in actie in de Premier League",
+       "url": "https://www.telegraaf.nl/sport/voetbal/live-buitenlands-voetbal-volop-nederlanders-in-actie-in-de-premier-league/161024452.html",
+       "source": "de Telegraaf",
+       "published_at": "2026-09-05 12:14"
+      },
+      {
+       "title": "Pete Hegseth ook op eigen departement verwikkeld in ’oorlog’, met opvallende rol voor zijn vrouw Jennifer (46)",
+       "url": "https://www.telegraaf.nl/buitenland/pete-hegseth-ook-op-eigen-departement-verwikkeld-in-oorlog-met-opvallende-rol-voor-zijn-vrouw-jennifer-46/160919907.html",
+       "source": "de Telegraaf",
+       "published_at": "2026-09-05 11:00"
+      },
       {
        "title": "Liverpool-uitblinker Gakpo krijgt complimenten van Van Dijk: 'Cody was geweldig'",
        "url": "https://www.nu.nl/voetbal/6408722/liverpool-uitblinker-gakpo-krijgt-complimenten-van-van-dijk-cody-was-geweldig.html",
@@ -392,35 +427,11 @@
        "url": "https://www.nu.nl/verkiezingen-vs/6408716/tetris-maker-boos-over-antimigratieversie-die-witte-huis-van-spel-heeft-gemaakt.html",
        "source": "NU.nl",
        "published_at": "2026-09-05 08:38"
-      },
-      {
-       "title": "Oorlog op het Pentagon: Pete Hegseth maakt stampij",
-       "url": "https://www.telegraaf.nl/podcast/oorlog-op-het-pentagon-pete-hegseth-maakt-stampij/161016317.html",
-       "source": "de Telegraaf",
-       "published_at": "2026-09-05 08:30"
-      },
-      {
-       "title": "Woede over uitgebreid eerbetoon in Servië voor overleden oorlogsmisdadiger Ratko Mladić: ’Bedankt generaal’",
-       "url": "https://www.telegraaf.nl/buitenland/woede-over-uitgebreid-eerbetoon-in-servie-voor-overleden-oorlogsmisdadiger-ratko-mladic-bedankt-generaal/160976754.html",
-       "source": "de Telegraaf",
-       "published_at": "2026-09-05 07:53"
-      },
-      {
-       "title": "Nieuw nummer voor hulp bij belastingen en toeslagen: 'Mensen lopen vast'",
-       "url": "https://www.nu.nl/economie/6408657/nieuw-nummer-voor-hulp-bij-belastingen-en-toeslagen-mensen-lopen-vast.html",
-       "source": "NU.nl",
-       "published_at": "2026-09-05 06:02"
-      },
-      {
-       "title": "IND betaalde dit jaar al bijna 100 miljoen euro aan dwangsommen: negen asielzoekers vangen zelfs meer dan een ton",
-       "url": "https://www.telegraaf.nl/politiek/ind-betaalde-dit-jaar-al-bijna-100-miljoen-euro-aan-dwangsommen-negen-asielzoekers-vangen-zelfs-meer-dan-een-ton/161004379.html",
-       "source": "de Telegraaf",
-       "published_at": "2026-09-05 03:15"
       }
      ]
     }
    ],
-   "count": 6
+   "count": 7
   },
   {
    "key": "mideast",
@@ -429,19 +440,19 @@
    "note": null,
    "clusters": [
     {
-     "label": "Iran · War",
+     "label": "Iran · Trump",
      "articles": [
+      {
+       "title": "Why is Trump threatening to strike Iran’s Pickaxe Mountain again, now?",
+       "url": "https://www.aljazeera.com/news/2026/9/5/why-is-trump-threatening-to-strike-irans-pickaxe-mountain-again-now?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-09-05 09:56"
+      },
       {
        "title": "Trump downplays war with Iran, in which 18 US service members have been killed so far, as ‘small potatoes’ – as it happened",
        "url": "https://www.theguardian.com/us-news/live/2026/sep/04/missouri-supreme-court-congressional-district-map-mail-in-voting-us-canada-trade-war-executive-orders-latest-news-updates",
        "source": "Guardian World",
        "published_at": "2026-09-05 02:15"
-      },
-      {
-       "title": "Iran war live: Iranian oil tanker reported hit by missiles off Kharg island",
-       "url": "https://www.aljazeera.com/news/liveblog/2026/9/5/iran-war-live-trump-says-us-may-target-irans-pickaxe-mountain-very-soon?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-09-05 00:00"
       },
       {
        "title": "How could US-Iran conflict end? Three experts give their views",
@@ -458,25 +469,25 @@
      ]
     },
     {
-     "label": "Gaza",
+     "label": "Israel · West",
      "articles": [
       {
-       "title": "Did Israel’s destruction of Gaza worsen its water crisis?",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/did-israels-destruction-of-gaza-worsen-its-water-crisis?traffic_source=rss",
+       "title": "Israel must protect West Bank’s Palestinians amid settler pogroms: US envoy",
+       "url": "https://www.aljazeera.com/news/2026/9/5/israel-must-guarantee-safety-of-west-bank-population-ambassador?traffic_source=rss",
        "source": "Al Jazeera",
-       "published_at": "2026-09-05 03:46"
+       "published_at": "2026-09-05 12:04"
       },
       {
-       "title": "‘To challenge deadly blockade’: New flotilla mission sets sail for Gaza",
-       "url": "https://www.aljazeera.com/news/2026/9/5/to-challenge-deadly-blockade-new-flotilla-mission-sets-sail-for-gaza?traffic_source=rss",
+       "title": "US ambassador to Israel meets Palestinian-Americans in occupied West Bank",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-ambassador-to-israel-meets-palestinian-americans-in-occupied-west-bank?traffic_source=rss",
        "source": "Al Jazeera",
-       "published_at": "2026-09-05 02:43"
+       "published_at": "2026-09-05 09:52"
       },
       {
-       "title": "Seeds of hope: how a local farming project is offering a lifeline to Gaza",
-       "url": "https://www.theguardian.com/environment/2026/sep/04/seed-bank-hope-farming-project-gaza-al-qarara",
+       "title": "Israelis shoot dead two Palestinian teenagers after settlers encircle village",
+       "url": "https://www.theguardian.com/world/2026/sep/03/israelis-shoot-dead-two-palestinian-teenagers-after-settlers-encircle-village",
        "source": "Guardian World",
-       "published_at": "2026-09-04 12:37"
+       "published_at": "2026-09-04 15:12"
       }
      ]
     },
@@ -487,13 +498,30 @@
        "title": "‘Guilt by association’: why seven international aid workers were killed in Israeli airstrike",
        "url": "https://www.theguardian.com/world/2026/sep/05/aid-workers-gaza-killed-in-israel-airstrike-investigation",
        "source": "Guardian World",
-       "published_at": "2026-09-05 00:00"
+       "published_at": "2026-09-05 11:08"
       },
       {
        "title": "'We expect our sons to be killed,' father of teen shot dead in West Bank tells BBC",
        "url": "https://www.bbc.co.uk/news/videos/cn8evz26eyqo?at_medium=RSS&at_campaign=rss",
        "source": "BBC World",
        "published_at": "2026-09-04 12:39"
+      }
+     ]
+    },
+    {
+     "label": "Gaza",
+     "articles": [
+      {
+       "title": "Gaza refugee says sister-in-law ‘would be alive’ if Home Office had let her come to UK",
+       "url": "https://www.theguardian.com/uk-news/2026/sep/05/gaza-refugee-visa-refusal-home-office",
+       "source": "Guardian World",
+       "published_at": "2026-09-05 10:00"
+      },
+      {
+       "title": "Seeds of hope: how a local farming project is offering a lifeline to Gaza",
+       "url": "https://www.theguardian.com/environment/2026/sep/04/seed-bank-hope-farming-project-gaza-al-qarara",
+       "source": "Guardian World",
+       "published_at": "2026-09-04 12:37"
       }
      ]
     },
@@ -505,18 +533,6 @@
        "url": "https://www.theguardian.com/world/2026/sep/05/gaza-aid-workers-world-central-kitchen-idf-israel",
        "source": "Guardian World",
        "published_at": "2026-09-05 00:00"
-      },
-      {
-       "title": "Israelis shoot dead two Palestinian teenagers after settlers encircle village",
-       "url": "https://www.theguardian.com/world/2026/sep/03/israelis-shoot-dead-two-palestinian-teenagers-after-settlers-encircle-village",
-       "source": "Guardian World",
-       "published_at": "2026-09-04 15:12"
-      },
-      {
-       "title": "Iranian town mourns after deadly strike on wedding",
-       "url": "https://www.theguardian.com/world/2026/sep/04/iranian-town-kuhestak-devastated-strike-wedding",
-       "source": "Guardian World",
-       "published_at": "2026-09-04 10:19"
       }
      ]
     }
@@ -530,8 +546,26 @@
    "note": null,
    "clusters": [
     {
-     "label": "Russia · Ukraine",
+     "label": "Russia · War",
      "articles": [
+      {
+       "title": "Europe would not be able to sustain war of attrition with Russia, defence officials say",
+       "url": "https://www.theguardian.com/world/2026/sep/05/europe-unable-sustain-war-of-attrition-russia-defence-officials-say",
+       "source": "Guardian World",
+       "published_at": "2026-09-05 11:00"
+      },
+      {
+       "title": "US envoys Witkoff, Kushner arrive in Moscow for talks on ending Russia’s war",
+       "url": "https://kyivindependent.com/us-envoys-witkoff-kushner-arrive-in-moscow-for-talks-on-ending-russias-war/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-09-05 10:55"
+      },
+      {
+       "title": "Russia 'deliberately' targeted Kyiv, Boryspil airports ahead of US envoys' visit, Zelensky says",
+       "url": "https://kyivindependent.com/russia-deliberately-targeted-kyiv-boryspil-airports-ahead-of-u-s-envoys-visit-zelensky-says/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-09-05 10:38"
+      },
       {
        "title": "General Staff: Russia has lost 1,495,050 troops in Ukraine since Feb. 24, 2022",
        "url": "https://kyivindependent.com/general-staff-russia-has-lost-1-495-050-troops-in-ukraine-since-feb-24-2022/",
@@ -543,7 +577,52 @@
        "url": "https://kyivindependent.com/russia-rejects-truce-kills-4-in-attack-on-dnipropetrovsk-oblast/",
        "source": "Kyiv Independent",
        "published_at": "2026-09-05 04:24"
+      }
+     ]
+    },
+    {
+     "label": "Envoys · Ukraine",
+     "articles": [
+      {
+       "title": "US envoys arrive in Moscow ahead of Ukraine talks",
+       "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
+       "source": "BBC World",
+       "published_at": "2026-09-05 12:23"
       },
+      {
+       "title": "BREAKING: Putin orders 3-day halt to strikes on Kyiv during US envoys' visit, Kremlin says",
+       "url": "https://kyivindependent.com/breaking-putin-orders-3-day-halt-to-strikes-on-kyiv-during-u-s-envoys-visit-kremlin-says/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-09-05 12:10"
+      },
+      {
+       "title": "At least 5 killed in Russian attacks on Ukraine as US envoys visit Moscow",
+       "url": "https://www.aljazeera.com/news/2026/9/5/at-least-5-killed-in-russian-attacks-on-ukraine-as-us-envoys-visit-moscow?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-09-05 10:27"
+      }
+     ]
+    },
+    {
+     "label": "Ukraine",
+     "articles": [
+      {
+       "title": "Ukraine's anti-corruption agency uncovers criminal group protecting scam call centers, allegedly led by a top prosecutor",
+       "url": "https://kyivindependent.com/ukraines-anti-corruption-agency-uncovers-criminal-group-protecting-scam-call-centers-allegedly-led-by-a-top-prosecutor/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-09-05 11:32"
+      },
+      {
+       "title": "Russian attacks kill 7, injure 51 over past day across Ukraine as Moscow rejects ceasefire",
+       "url": "https://kyivindependent.com/russian-attacks-kill-6-injure-51-over-past-day-across-ukraine-as-moscow-rejects-ceasefire/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-09-05 08:18"
+      }
+     ]
+    },
+    {
+     "label": "More headlines",
+     "articles": [
       {
        "title": "Is Russia proving better at protecting friends than fighting enemies in West Africa?",
        "url": "https://www.bbc.co.uk/news/articles/cx2z75keq58o?at_medium=RSS&at_campaign=rss",
@@ -551,68 +630,10 @@
        "published_at": "2026-09-05 04:03"
       },
       {
-       "title": "Trump sends envoys to Russia, Ukraine with new peace plan",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/trump-sends-envoys-to-russia-ukraine-with-new-peace-plan?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-09-05 03:25"
-      },
-      {
        "title": "Russia attacks Kyiv, surrounding region during reported ceasefire, injuring at least 2",
        "url": "https://kyivindependent.com/russian-attack-on-kyiv-oblast-damages-residential-building-explosions-heard-in-ukraines-capital/",
        "source": "Kyiv Independent",
        "published_at": "2026-09-04 23:12"
-      }
-     ]
-    },
-    {
-     "label": "Ukraine · Moscow",
-     "articles": [
-      {
-       "title": "Russian attacks kill 7, injure 51 over past day across Ukraine as Moscow rejects ceasefire",
-       "url": "https://kyivindependent.com/russian-attacks-kill-6-injure-51-over-past-day-across-ukraine-as-moscow-rejects-ceasefire/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-09-05 08:18"
-      },
-      {
-       "title": "Ukraine orders temporary ceasefire as US envoys set to visit Kyiv, Moscow for peace talks, Ukrainian media reports",
-       "url": "https://kyivindependent.com/units-of-ukraines-army-ordered-to-halt-fighting-as-us-envoys-set-to-visit-ukraine-russia/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-09-04 20:59"
-      },
-      {
-       "title": "Explainer: What's behind the standoff between Ukraine's two intelligence agencies?",
-       "url": "https://kyivindependent.com/explainer-whats-behind-the-standoff-between-two-ukrainian-intelligence-agencies/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-09-04 18:55"
-      },
-      {
-       "title": "Ukraine war latest: Russia strikes SBU headquarters in daytime attack on Kyiv, injures at least 12",
-       "url": "https://kyivindependent.com/ukraine-war-latest-russia-strikes-sbu-headquarters-in-daytime-attack-injuring-at-least-12/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-09-04 17:34"
-      }
-     ]
-    },
-    {
-     "label": "Kyiv",
-     "articles": [
-      {
-       "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
-       "url": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss",
-       "source": "BBC World",
-       "published_at": "2026-09-05 04:28"
-      },
-      {
-       "title": "Fact check: False 'mass exodus' claims spread as Russia bombards Kyiv",
-       "url": "https://kyivindependent.com/fact-check-false-mass-exodus-claims-spread-as-russia-bombards-kyiv/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-09-04 18:00"
-      },
-      {
-       "title": "How Kyiv residents cope with constant drone attacks",
-       "url": "https://kyivindependent.com/how-kyiv-residents-cope-with-constant-drone-attacks/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-09-04 17:19"
       }
      ]
     }
