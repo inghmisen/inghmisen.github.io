@@ -1,12 +1,12 @@
 {
  "date": "Monday 7 September 2026",
- "generated_at": "03:53 UTC",
+ "generated_at": "09:10 UTC",
  "error": null,
- "total_stories": 78,
+ "total_stories": 75,
  "fx": {
   "pair": "EUR/MAD",
   "rate": 10.868,
-  "change_pct": -0.03
+  "change_pct": 0.0
  },
  "lanes": [
   {
@@ -31,19 +31,13 @@
        "published_at": "2026-09-06 23:00"
       },
       {
-       "title": "DeepSeek-V4-Flash-Vision Q8 vs Qwen3.8-Flash-Next Q8",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w96xoi/deepseekv4flashvision_q8_vs_qwen38flashnext_q8/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-09-06 20:15"
-      },
-      {
-       "title": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp · 750 ♥",
+       "title": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp · 771 ♥",
        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
        "source": "HF new models",
        "published_at": "2026-08-31 06:16"
       },
       {
-       "title": "zai-org/GLM-5.3-Flash · 2101 ♥",
+       "title": "zai-org/GLM-5.3-Flash · 2113 ♥",
        "url": "https://huggingface.co/zai-org/GLM-5.3-Flash",
        "source": "HF new models",
        "published_at": "2026-08-25 06:43"
@@ -54,13 +48,13 @@
      "label": "Qwen · Gguf",
      "articles": [
       {
-       "title": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF · 253 ♥",
+       "title": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF · 265 ♥",
        "url": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
        "source": "HF new models",
        "published_at": "2026-09-01 07:01"
       },
       {
-       "title": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF · 471 ♥",
+       "title": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF · 480 ♥",
        "url": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
        "source": "HF new models",
        "published_at": "2026-08-28 18:38"
@@ -68,42 +62,54 @@
      ]
     },
     {
-     "label": "Llm",
+     "label": "Phone",
      "articles": [
       {
-       "title": "when will open source LLM catch up to Astra I wonder?",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9fwsw/when_will_open_source_llm_catch_up_to_astra_i/",
+       "title": "Lit Review on Benchmarking LLMs Running in your phone!: MobileWorld: Benchmarking Autonomous Mobile Agents in Agent-User Interactive and MCP-Augmented Environments",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9kfs3/lit_review_on_benchmarking_llms_running_in_your/",
        "source": "r/LocalLLaMA",
-       "published_at": "2026-09-07 02:47"
+       "published_at": "2026-09-07 06:39"
       },
-      {
-       "title": "I built an LLM benchmark harness that lets you browse and compare how models answered each question",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9ad9q/i_built_an_llm_benchmark_harness_that_lets_you/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-09-06 22:32"
-      }
-     ]
-    },
-    {
-     "label": "Remotely",
-     "articles": [
       {
        "title": "Trying to create my own server and consuming it for code with my phone remotely (Mac OS)",
        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9bz4i/trying_to_create_my_own_server_and_consuming_it/",
        "source": "r/LocalLLaMA",
        "published_at": "2026-09-06 23:42"
+      }
+     ]
+    },
+    {
+     "label": "People",
+     "articles": [
+      {
+       "title": "My LLM framework. (people asked) (SAI)",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9kfrm/my_llm_framework_people_asked_sai/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-07 06:39"
       },
       {
-       "title": "Best model + setup for remote deployment.",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w94cj4/best_model_setup_for_remote_deployment/",
+       "title": "4xRadeon AI Pro R9700 people, how are your benchmarks?",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9c8u7/4xradeon_ai_pro_r9700_people_how_are_your/",
        "source": "r/LocalLLaMA",
-       "published_at": "2026-09-06 18:40"
+       "published_at": "2026-09-06 23:54"
       }
      ]
     },
     {
      "label": "More headlines",
      "articles": [
+      {
+       "title": "Thinking about grabbing an RTX 2000 Ada 16gb to add to my gaming pc for inference due to Wattage constraints, any advice?",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9l8qc/thinking_about_grabbing_an_rtx_2000_ada_16gb_to/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-07 07:23"
+      },
+      {
+       "title": "Benchmarking calories evaluation with LLMs",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9jmo8/benchmarking_calories_evaluation_with_llms/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-07 05:56"
+      },
       {
        "title": "Draft acceptance tweaks?",
        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9fcjx/draft_acceptance_tweaks/",
@@ -117,31 +123,25 @@
        "published_at": "2026-09-07 00:55"
       },
       {
-       "title": "4xRadeon AI Pro R9700 people, how are your benchmarks?",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9c8u7/4xradeon_ai_pro_r9700_people_how_are_your/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-09-06 23:54"
-      },
-      {
        "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
        "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
        "source": "Verge AI",
        "published_at": "2026-09-06 23:36"
       },
       {
-       "title": "Expert expansion with llama.cpp",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9404e/expert_expansion_with_llamacpp/",
+       "title": "I built an LLM benchmark harness that lets you browse and compare how models answered each question",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9ad9q/i_built_an_llm_benchmark_harness_that_lets_you/",
        "source": "r/LocalLLaMA",
-       "published_at": "2026-09-06 18:27"
+       "published_at": "2026-09-06 22:32"
       },
       {
-       "title": "BreezeBlue/Breeze-TTS-2 · 462 ♥",
+       "title": "BreezeBlue/Breeze-TTS-2 · 465 ♥",
        "url": "https://huggingface.co/BreezeBlue/Breeze-TTS-2",
        "source": "HF new models",
        "published_at": "2026-08-25 16:39"
       },
       {
-       "title": "zai-org/GLM-5.3 · 1740 ♥",
+       "title": "zai-org/GLM-5.3 · 1742 ♥",
        "url": "https://huggingface.co/zai-org/GLM-5.3",
        "source": "HF new models",
        "published_at": "2026-08-25 06:42"
@@ -175,7 +175,7 @@
      ]
     },
     {
-     "label": "Grote · Bestuursfotoverkiezing",
+     "label": "Bestuursfotoverkiezing · Grote",
      "articles": [
       {
        "title": "De Grote U-Today Bestuursfotoverkiezing 2026, de uitslag",
@@ -242,53 +242,59 @@
    "note": null,
    "clusters": [
     {
-     "label": "شبكة",
+     "label": "انتخابات",
      "articles": [
       {
-       "title": "الدرك يفكك شبكة للهجرة في طانطان",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%af%d8%b1%d9%83-%d9%8a%d9%81%d9%83%d9%83-%d8%b4%d8%a8%d9%83%d8%a9-%d9%84%d9%84%d9%87%d8%ac%d8%b1%d8%a9-%d9%81%d9%8a-%d8%b7%d8%a7%d9%86%d8%b7%d8%a7%d9%86-1802857.html",
+       "title": "انتخابات 2026 .. ثلاثة مقاعد في مرمى التنافسية الحزبية بدائرة ميدلت",
+       "url": "https://www.hespress.com/%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-2026-%d8%ab%d9%84%d8%a7%d8%ab%d8%a9-%d9%85%d9%82%d8%a7%d8%b9%d8%af-%d9%81%d9%8a-%d9%85%d8%b1%d9%85%d9%89-%d8%a7%d9%84%d8%aa%d9%86%d8%a7%d9%81%d8%b3-1802364.html",
        "source": "Hespress",
-       "published_at": "2026-09-07 02:28"
+       "published_at": "2026-09-07 09:00"
       },
       {
-       "title": "فاس تجدد شبكة توزيع الماء الشروب",
-       "url": "https://www.hespress.com/%d9%81%d8%a7%d8%b3-%d8%aa%d8%ac%d8%af%d8%af-%d8%b4%d8%a8%d9%83%d8%a9-%d8%aa%d9%88%d8%b2%d9%8a%d8%b9-%d8%a7%d9%84%d9%85%d8%a7%d8%a1-%d8%a7%d9%84%d8%b4%d8%b1%d9%88%d8%a8-1802952.html",
+       "title": "عروض انتخابية",
+       "url": "https://www.hespress.com/%d8%b9%d8%b1%d9%88%d8%b6-%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d9%8a%d8%a9-1803043.html",
        "source": "Hespress",
-       "published_at": "2026-09-06 22:46"
+       "published_at": "2026-09-07 07:36"
+      },
+      {
+       "title": "انتخابات 2026 .. هل ستتغير خريطة الديمقراطية التمثيلية في ابن مسيك؟",
+       "url": "https://www.hespress.com/%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-2026-%d9%87%d9%84-%d8%b3%d8%aa%d8%aa%d8%ba%d9%8a%d8%b1-%d8%ae%d8%b1%d9%8a%d8%b7%d8%a9-%d8%a7%d9%84%d8%af%d9%8a%d9%85%d9%82%d8%b1%d8%a7%d8%b7%d9%8a-1802509.html",
+       "source": "Hespress",
+       "published_at": "2026-09-07 07:00"
       }
      ]
     },
     {
-     "label": "إلى",
+     "label": "وجدة",
      "articles": [
       {
-       "title": "من وكالة الاستخبارات إلى \"آيفون\" .. خفايا عودة ستيف جوبز إلى \"آبل\"",
-       "url": "https://www.hespress.com/%d9%85%d9%86-%d9%88%d9%83%d8%a7%d9%84%d8%a9-%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%ae%d8%a8%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a5%d9%84%d9%89-%d8%a2%d9%8a%d9%81%d9%88%d9%86-%d8%ae%d9%81%d8%a7%d9%8a%d8%a7-1803010.html",
+       "title": "مقتل أربعينية بطلقتين ناريتين في وجدة",
+       "url": "https://www.hespress.com/%d9%85%d9%82%d8%aa%d9%84-%d8%a3%d8%b1%d8%a8%d8%b9%d9%8a%d9%86%d9%8a%d8%a9-%d8%a8%d8%b7%d9%84%d9%82%d8%aa%d9%8a%d9%86-%d9%86%d8%a7%d8%b1%d9%8a%d8%aa%d9%8a%d9%86-%d9%81%d9%8a-%d9%88%d8%ac%d8%af%d8%a9-1803223.html",
        "source": "Hespress",
-       "published_at": "2026-09-07 02:00"
+       "published_at": "2026-09-07 09:07"
       },
       {
-       "title": "شبهات التهرب الضريبي تدفع إلى افتحاصات في مشاريع \"البناء الذاتي\"",
-       "url": "https://www.hespress.com/%d8%b4%d8%a8%d9%87%d8%a7%d8%aa-%d8%a7%d9%84%d8%aa%d9%87%d8%b1%d8%a8-%d8%a7%d9%84%d8%b6%d8%b1%d9%8a%d8%a8%d9%8a-%d8%aa%d8%af%d9%81%d8%b9-%d8%a5%d9%84%d9%89-%d8%a7%d9%81%d8%aa%d8%ad%d8%a7%d8%b5%d8%a7-1802887.html",
+       "title": "حدائق وجدة تنتعش بالمياه المعالجة",
+       "url": "https://www.hespress.com/%d8%ad%d8%af%d8%a7%d8%a6%d9%82-%d9%88%d8%ac%d8%af%d8%a9-%d8%aa%d9%86%d8%aa%d8%b9%d8%b4-%d8%a8%d8%a7%d9%84%d9%85%d9%8a%d8%a7%d9%87-%d8%a7%d9%84%d9%85%d8%b9%d8%a7%d9%84%d8%ac%d8%a9-1802942.html",
        "source": "Hespress",
-       "published_at": "2026-09-07 01:00"
+       "published_at": "2026-09-07 08:29"
       }
      ]
     },
     {
-     "label": "Professions · Who",
+     "label": "حزب",
      "articles": [
       {
-       "title": "Who’s at risk from AI? 10 professions most exposed to automation",
-       "url": "https://telquel.ma/2026/09/04/whos-at-risk-from-ai-10-professions-most-exposed-to-automation_2003438",
-       "source": "TelQuel",
-       "published_at": "2026-09-04 16:53"
+       "title": "إسرائيل تتهم حزب الله بخرق الهدنة",
+       "url": "https://www.hespress.com/%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84-%d8%aa%d8%aa%d9%87%d9%85-%d8%ad%d8%b2%d8%a8-%d8%a7%d9%84%d9%84%d9%87-%d8%a8%d8%ae%d8%b1%d9%82-%d8%a7%d9%84%d9%87%d8%af%d9%86%d8%a9-1803217.html",
+       "source": "Hespress",
+       "published_at": "2026-09-07 08:10"
       },
       {
-       "title": "Who’s safe from AI? 10 professions built to resist automation",
-       "url": "https://telquel.ma/2026/09/04/whos-safe-from-ai-10-professions-built-to-resist-automation_2003404",
-       "source": "TelQuel",
-       "published_at": "2026-09-04 16:53"
+       "title": "حزب الاستقلال يكشف برنامجه بوجدة",
+       "url": "https://www.hespress.com/%d8%ad%d8%b2%d8%a8-%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d9%82%d9%84%d8%a7%d9%84-%d9%8a%d9%83%d8%b4%d9%81-%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac%d9%87-%d8%a8%d9%88%d8%ac%d8%af%d8%a9-1803205.html",
+       "source": "Hespress",
+       "published_at": "2026-09-07 07:57"
       }
      ]
     },
@@ -296,52 +302,46 @@
      "label": "More headlines",
      "articles": [
       {
-       "title": "ياسين جسيم يتميز بتمريرة حاسمة",
-       "url": "https://www.hespress.com/%d9%8a%d8%a7%d8%b3%d9%8a%d9%86-%d8%ac%d8%b3%d9%8a%d9%85-%d9%8a%d8%aa%d9%85%d9%8a%d8%b2-%d8%a8%d8%aa%d9%85%d8%b1%d9%8a%d8%b1%d8%a9-%d8%ad%d8%a7%d8%b3%d9%85%d8%a9-1803076.html",
-       "source": "Hespress",
-       "published_at": "2026-09-07 03:24"
+       "title": "Législatives 2026 : le dépôt des déclarations de candidature via la plateforme électronique expire le 8 septembre à midi",
+       "url": "https://telquel.ma/instant-t/2026/09/07/legislatives-2026-le-depot-des-declarations-de-candidature-via-la-plateforme-electronique-expire-le-8-septembre-a-midi_2005942/",
+       "source": "TelQuel",
+       "published_at": "2026-09-07 09:02"
       },
       {
-       "title": "هل تحتمل المالية العمومية فاتورة الوعود الانتخابية ذات القيمة الضخمة؟",
-       "url": "https://www.hespress.com/%d9%87%d9%84-%d8%aa%d8%ad%d8%aa%d9%85%d9%84-%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%b9%d9%85%d9%88%d9%85%d9%8a%d8%a9-%d9%81%d8%a7%d8%aa%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%88%d8%b9-1803102.html",
-       "source": "Hespress",
-       "published_at": "2026-09-07 03:00"
+       "title": "Pas d’obligation générale de changer toutes les plaques d'immatriculation avant le 31 décembre 2026",
+       "url": "https://telquel.ma/instant-t/2026/09/07/pas-dobligation-generale-de-changer-toutes-les-plaques-dimmatriculation-avant-le-31-decembre-2026_2005949/",
+       "source": "TelQuel",
+       "published_at": "2026-09-07 08:59"
       },
       {
-       "title": "الكرتي يسجل في مرمى \"غورماهيا\"",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%83%d8%b1%d8%aa%d9%8a-%d9%8a%d8%b3%d8%ac%d9%84-%d9%81%d9%8a-%d9%85%d8%b1%d9%85%d9%89-%d8%ba%d9%88%d8%b1%d9%85%d8%a7%d9%87%d9%8a%d8%a7-1803088.html",
+       "title": "عاصمة الصحراء المغربية توسع \"منظومة تحلية مياه البحر\" بوحدة ثالثة",
+       "url": "https://www.hespress.com/%d8%b9%d8%a7%d8%b5%d9%85%d8%a9-%d8%a7%d9%84%d8%b5%d8%ad%d8%b1%d8%a7%d8%a1-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8%d9%8a%d8%a9-%d8%aa%d9%88%d8%b3%d8%b9-%d9%85%d9%86%d8%b8%d9%88%d9%85%d8%a9-%d8%aa%d8%ad-1801659.html",
        "source": "Hespress",
-       "published_at": "2026-09-07 01:20"
+       "published_at": "2026-09-07 08:00"
       },
       {
-       "title": "\"ماستر إعلامي\" في جامعة تطوان",
-       "url": "https://www.hespress.com/%d9%85%d8%a7%d8%b3%d8%aa%d8%b1-%d8%a5%d8%b9%d9%84%d8%a7%d9%85%d9%8a-%d9%81%d9%8a-%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%aa%d8%b7%d9%88%d8%a7%d9%86-1802975.html",
+       "title": "الحرائق وموجات الحر تهددان جودة الهواء وصحة البشر",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%ad%d8%b1%d8%a7%d8%a6%d9%82-%d9%88%d9%85%d9%88%d8%ac%d8%a7%d8%aa-%d8%a7%d9%84%d8%ad%d8%b1-%d8%aa%d9%87%d8%af%d8%af%d8%a7%d9%86-%d8%ac%d9%88%d8%af%d8%a9-%d8%a7%d9%84%d9%87%d9%88%d8%a7-1803212.html",
        "source": "Hespress",
-       "published_at": "2026-09-07 00:19"
+       "published_at": "2026-09-07 07:58"
       },
       {
-       "title": "دراسة علمية مغربية إيطالية: \"الحبة السوداء\" تخفف آلام العلاج الكيماوي",
-       "url": "https://www.hespress.com/%d8%af%d8%b1%d8%a7%d8%b3%d8%a9-%d8%b9%d9%84%d9%85%d9%8a%d8%a9-%d9%85%d8%ba%d8%b1%d8%a8%d9%8a%d8%a9-%d8%a5%d9%8a%d8%b7%d8%a7%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a8%d8%a9-%d8%a7%d9%84%d8%b3%d9%88-1802996.html",
+       "title": "ترامب يقترح تغيير اسم ولاية نيو مكسيكو إلى \"نيو أمريكا\"",
+       "url": "https://www.hespress.com/%d8%aa%d8%b1%d8%a7%d9%85%d8%a8-%d9%8a%d9%82%d8%aa%d8%b1%d8%ad-%d8%aa%d8%ba%d9%8a%d9%8a%d8%b1-%d8%a7%d8%b3%d9%85-%d9%88%d9%84%d8%a7%d9%8a%d8%a9-%d9%86%d9%8a%d9%88-%d9%85%d9%83%d8%b3%d9%8a%d9%83%d9%88-1803214.html",
        "source": "Hespress",
-       "published_at": "2026-09-07 00:00"
+       "published_at": "2026-09-07 07:33"
       },
       {
-       "title": "الرياضة المغربية بأكبر غلة متوسطية",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d8%a9-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8%d9%8a%d8%a9-%d8%a8%d8%a3%d9%83%d8%a8%d8%b1-%d8%ba%d9%84%d8%a9-%d9%85%d8%aa%d9%88%d8%b3%d8%b7%d9%8a%d8%a9-1803024.html",
+       "title": "الوزارة تتوصل بشكاية ضد مصحة",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%88%d8%b2%d8%a7%d8%b1%d8%a9-%d9%8a%d8%aa%d9%88%d8%b5%d9%84-%d8%a8%d8%b4%d9%83%d8%a7%d9%8a%d8%a9-%d8%b6%d8%af-%d9%85%d8%b5%d8%ad%d8%a9-1803032.html",
        "source": "Hespress",
-       "published_at": "2026-09-06 23:11"
+       "published_at": "2026-09-07 07:26"
       },
       {
-       "title": "المخطط المغربي للصحة النفسية يخدم الاستشفاء ويقوي الموارد البشرية",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%85%d8%ae%d8%b7%d8%b7-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8%d9%8a-%d9%84%d9%84%d8%b5%d8%ad%d8%a9-%d8%a7%d9%84%d9%86%d9%81%d8%b3%d9%8a%d8%a9-%d9%8a%d8%ae%d8%af%d9%85-%d8%a7%d9%84%d8%a7-1802341.html",
+       "title": "توقعات طقس اليوم الاثنين بالمغرب",
+       "url": "https://www.hespress.com/%d8%aa%d9%88%d9%82%d8%b9%d8%a7%d8%aa-%d8%b7%d9%82%d8%b3-%d8%a7%d9%84%d9%8a%d9%88%d9%85-%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86-%d8%a8%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-76-1802834.html",
        "source": "Hespress",
-       "published_at": "2026-09-06 23:00"
-      },
-      {
-       "title": "قتلى في تحطم طائرة لشركة \"أمازون\"",
-       "url": "https://www.hespress.com/%d9%82%d8%aa%d9%84%d9%89-%d9%81%d9%8a-%d8%aa%d8%ad%d8%b7%d9%85-%d8%b7%d8%a7%d8%a6%d8%b1%d8%a9-%d9%84%d8%b4%d8%b1%d9%83%d8%a9-%d8%a3%d9%85%d8%a7%d8%b2%d9%88%d9%86-1803200.html",
-       "source": "Hespress",
-       "published_at": "2026-09-06 22:32"
+       "published_at": "2026-09-07 06:25"
       },
       {
        "title": "Victime d’un malaise, Mustapha Lakhsem admis en réanimation",
@@ -362,10 +362,10 @@
        "published_at": "2026-09-04 16:55"
       },
       {
-       "title": "Relation client : Teleperformance rachète Unifitel via Majorel",
-       "url": "https://telquel.ma/2026/09/04/relation-client-teleperformance-rachete-unifitel-via-majorel_2005798",
+       "title": "Who’s at risk from AI? 10 professions most exposed to automation",
+       "url": "https://telquel.ma/2026/09/04/whos-at-risk-from-ai-10-professions-most-exposed-to-automation_2003438",
        "source": "TelQuel",
-       "published_at": "2026-09-04 16:43"
+       "published_at": "2026-09-04 16:53"
       }
      ]
     }
@@ -379,54 +379,19 @@
    "note": null,
    "clusters": [
     {
-     "label": "Afd · Verkiezingen",
+     "label": "Minister",
      "articles": [
       {
-       "title": "Video | AfD'ers springen gat in de lucht na monsterzege bij deelstaatverkiezing",
-       "url": "https://www.nu.nl/330015/video/afders-springen-gat-in-de-lucht-na-monsterzege-bij-deelstaatverkiezing.html",
+       "title": "NPO verzoekt minister alsnog om vergunning Ongehoord Nederland in te trekken",
+       "url": "https://www.nu.nl/media/6408905/npo-verzoekt-minister-alsnog-om-vergunning-ongehoord-nederland-in-te-trekken.html",
        "source": "NU.nl",
-       "published_at": "2026-09-06 18:49"
+       "published_at": "2026-09-07 08:38"
       },
       {
-       "title": "Ongeloof bij linkse partijen na monsterzege AfD bij verkiezingen Duitse deelstaat",
-       "url": "https://www.telegraaf.nl/buitenland/ongeloof-bij-linkse-partijen-na-monsterzege-afd-bij-verkiezingen-duitse-deelstaat/161062094.html",
+       "title": "Hobbyisme minister Van Veldhoven (D66) rond statiegeld moet worden gestopt",
+       "url": "https://www.telegraaf.nl/opinie/hobbyisme-minister-van-veldhoven-d66-rond-statiegeld-moet-worden-gestopt/161041853.html",
        "source": "de Telegraaf",
-       "published_at": "2026-09-06 18:17"
-      },
-      {
-       "title": "AfD-leider na verkiezingen Saksen-Anhalt: geschiedenis geschreven",
-       "url": "https://www.telegraaf.nl/buitenland/afd-leider-na-verkiezingen-saksen-anhalt-geschiedenis-geschreven/161058398.html",
-       "source": "de Telegraaf",
-       "published_at": "2026-09-06 16:48"
-      },
-      {
-       "title": "Extreemrechtse AfD ligt op koers voor winst bij verkiezingen in Saksen-Anhalt",
-       "url": "https://www.nu.nl/buitenland/6408807/extreemrechtse-afd-ligt-op-koers-voor-winst-bij-verkiezingen-in-saksen-anhalt.html",
-       "source": "NU.nl",
-       "published_at": "2026-09-06 16:11"
-      },
-      {
-       "title": "AfD boekt historische overwinning bij verkiezingen Duitse deelstaat volgens prognoses",
-       "url": "https://www.telegraaf.nl/buitenland/afd-boekt-historische-overwinning-bij-verkiezingen-duitse-deelstaat-volgens-prognoses/161056367.html",
-       "source": "de Telegraaf",
-       "published_at": "2026-09-06 16:05"
-      }
-     ]
-    },
-    {
-     "label": "Oorlog · Kyiv",
-     "articles": [
-      {
-       "title": "Video | Witkoff na gesprekken in Kyiv over einde oorlog: ‘Vertrouwen in oplossing’",
-       "url": "https://www.nu.nl/330016/video/witkoff-na-gesprekken-in-kyiv-over-einde-oorlog-vertrouwen-in-oplossing.html",
-       "source": "NU.nl",
-       "published_at": "2026-09-06 20:16"
-      },
-      {
-       "title": "Zelensky en VS praten in Kyiv over oorlog, maar grote doorbraak blijft uit",
-       "url": "https://www.nu.nl/spanningen-oekraine/6408857/zelensky-en-vs-praten-in-kyiv-over-oorlog-maar-grote-doorbraak-blijft-uit.html",
-       "source": "NU.nl",
-       "published_at": "2026-09-06 18:02"
+       "published_at": "2026-09-07 04:00"
       }
      ]
     },
@@ -434,15 +399,27 @@
      "label": "More headlines",
      "articles": [
       {
-       "title": "Verkiezingsupdate VS | Met de herfst in zicht kan de campagne echt losbarsten",
-       "url": "https://www.nu.nl/verkiezingsupdate-vs/6408626/met-de-herfst-in-zicht-kan-de-campagne-echt-losbarsten.html",
+       "title": "Ook Belgische voetbalbond trekt steun in voor herverkiezing Infantino in maart",
+       "url": "https://www.nu.nl/voetbal/6408903/ook-belgische-voetbalbond-trekt-steun-in-voor-herverkiezing-infantino-in-maart.html",
        "source": "NU.nl",
-       "published_at": "2026-09-06 17:05"
+       "published_at": "2026-09-07 08:53"
+      },
+      {
+       "title": "Bedrijven kiezen door oorlog en AI vaker voor luchtvracht",
+       "url": "https://www.nu.nl/economie/6408885/bedrijven-kiezen-door-oorlog-en-ai-vaker-voor-luchtvracht.html",
+       "source": "NU.nl",
+       "published_at": "2026-09-07 06:52"
+      },
+      {
+       "title": "Theo Gommer: pensioennadeel bij overstap naar nieuwe baan",
+       "url": "https://www.telegraaf.nl/financieel/theo-gommer-pensioennadeel-bij-overstap-naar-nieuwe-baan/161038616.html",
+       "source": "de Telegraaf",
+       "published_at": "2026-09-07 05:00"
       }
      ]
     }
    ],
-   "count": 8
+   "count": 5
   },
   {
    "key": "mideast",
@@ -451,7 +428,7 @@
    "note": null,
    "clusters": [
     {
-     "label": "Iran · Announce",
+     "label": "Iran · Hormuz",
      "articles": [
       {
        "title": "Iran to announce restricted zone outside Strait of Hormuz",
@@ -460,7 +437,7 @@
        "published_at": "2026-09-07 02:41"
       },
       {
-       "title": "Iran war live: Tehran to announce new Hormuz shipping route in coming days",
+       "title": "Iran war live: Tehran to announce Hormuz route; Israel kills 11 in Lebanon",
        "url": "https://www.aljazeera.com/news/liveblog/2026/9/7/iran-war-live-tehran-to-announce-new-hormuz-shipping-route-in-coming-days?traffic_source=rss",
        "source": "Al Jazeera",
        "published_at": "2026-09-07 00:00"
@@ -486,8 +463,43 @@
      ]
     },
     {
-     "label": "Killed",
+     "label": "Israeli · Southern",
      "articles": [
+      {
+       "title": "Israeli strikes in southern Lebanese village kill nine",
+       "url": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
+       "source": "BBC World",
+       "published_at": "2026-09-07 08:57"
+      },
+      {
+       "title": "Israeli man wounded in stabbing in occupied West Bank",
+       "url": "https://www.aljazeera.com/news/2026/9/7/israeli-wounded-in-stabbing-in-occupied-west-bank?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-09-07 08:31"
+      },
+      {
+       "title": "Israeli air attacks kill at least 11 people in southern Lebanon",
+       "url": "https://www.aljazeera.com/news/2026/9/7/israeli-air-attack-kills-at-least-10-people-in-southern-lebanon?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-09-07 06:58"
+      },
+      {
+       "title": "Adidas faces boycott over amputee campaign featuring Israeli soldier",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/adidas-faces-boycott-over-amputee-campaign-featuring-israeli-soldier?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-09-07 02:12"
+      }
+     ]
+    },
+    {
+     "label": "Israel",
+     "articles": [
+      {
+       "title": "UN expert Francesca Albanese calls for ‘true paradigm shift’ as Miliband resets policy on Israel",
+       "url": "https://www.theguardian.com/world/2026/sep/07/un-francesca-albanese-miliband-israel-palestine-settlements-trade",
+       "source": "Guardian World",
+       "published_at": "2026-09-07 04:00"
+      },
       {
        "title": "Eight-year-old Gaza girl killed by Israel on first day of school",
        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/eight-year-old-gaza-girl-killed-by-israel-on-first-day-of-school?traffic_source=rss",
@@ -495,50 +507,10 @@
        "published_at": "2026-09-07 02:17"
       },
       {
-       "title": "Civilians among at least 60 killed in Yemen as ground fighting escalates",
-       "url": "https://www.theguardian.com/world/2026/sep/05/yemen-ground-fighting-escalates-houthi-rebels-government-forces",
-       "source": "Guardian World",
-       "published_at": "2026-09-05 13:47"
-      }
-     ]
-    },
-    {
-     "label": "Adidas · Campaign",
-     "articles": [
-      {
-       "title": "Adidas faces boycott over amputee campaign featuring Israeli soldier",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/adidas-faces-boycott-over-amputee-campaign-featuring-israeli-soldier?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-09-07 02:12"
-      },
-      {
-       "title": "Adidas faces boycott calls over campaign featuring former Israeli soldier",
-       "url": "https://www.aljazeera.com/sports/2026/9/6/adidas-faces-boycott-calls-over-campaign-featuring-former-israeli-soldier?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-09-06 18:56"
-      }
-     ]
-    },
-    {
-     "label": "More headlines",
-     "articles": [
-      {
        "title": "Will Israelis re-elect Benjamin Netanyahu?",
        "url": "https://www.aljazeera.com/video/inside-story/2026/9/6/will-israelis-re-elect-benjamin-netanyahu?traffic_source=rss",
        "source": "Al Jazeera",
        "published_at": "2026-09-06 20:20"
-      },
-      {
-       "title": "Greens criticise Labor after former IDF officer’s ‘reprehensible’ comments on Zomi Frankcom strike",
-       "url": "https://www.theguardian.com/australia-news/2026/sep/07/zomi-frankcom-israel-gaza-idf-world-central-kitchen-ntwnfb",
-       "source": "Guardian World",
-       "published_at": "2026-09-06 15:00"
-      },
-      {
-       "title": "US military says it struck three Iranian tankers after American warships came under missile attack",
-       "url": "https://www.theguardian.com/world/2026/sep/05/us-military-iran-tankers",
-       "source": "Guardian World",
-       "published_at": "2026-09-05 15:41"
       }
      ]
     }
@@ -552,8 +524,20 @@
    "note": null,
    "clusters": [
     {
-     "label": "Talks · Peace",
+     "label": "Ukraine · Russia",
      "articles": [
+      {
+       "title": "General Staff: Russia has lost 1,497,980 troops in Ukraine since Feb. 24, 2022",
+       "url": "https://kyivindependent.com/general-staff-russia-has-lost-1-497-980-troops-in-ukraine-since-feb-24-2022/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-09-07 06:40"
+      },
+      {
+       "title": "Ukraine seeks to seize water company owned by billionaire family of British theatre mogul",
+       "url": "https://www.theguardian.com/world/2026/sep/07/ukraine-seeks-to-seize-water-company-owned-by-billionaire-family-of-british-theatre-mogul",
+       "source": "Guardian World",
+       "published_at": "2026-09-07 04:00"
+      },
       {
        "title": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
        "url": "https://www.bbc.co.uk/news/articles/c980j5m8mpro?at_medium=RSS&at_campaign=rss",
@@ -561,40 +545,22 @@
        "published_at": "2026-09-06 20:52"
       },
       {
-       "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
-       "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
-       "source": "BBC World",
-       "published_at": "2026-09-06 20:41"
-      },
-      {
-       "title": "US envoys Kushner and Witkoff visit Kyiv for first time after Putin talks",
-       "url": "https://www.theguardian.com/world/2026/sep/06/us-envoys-jared-kushner-steve-witkoff-arrive-kyiv-talks-on-ending-war",
-       "source": "Guardian World",
-       "published_at": "2026-09-06 18:47"
-      },
-      {
-       "title": "Witkoff says peace talks have been ‘very meaningful’ in Ukraine",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/6/witkoff-says-peace-talks-have-been-very-meaningful-in-ukraine?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-09-06 18:28"
-      },
-      {
-       "title": "Trump's first call after peace talks briefing will be Putin, source says",
-       "url": "https://kyivindependent.com/trumps-first-call-after-peace-talks-briefing-will-be-putin-source-says/",
+       "title": "Russia strikes Ukraine-Romania border crossing for 2nd time in week",
+       "url": "https://kyivindependent.com/russia-strikes-ukraine-romania-border-crossing-for-2nd-time-in-week/",
        "source": "Kyiv Independent",
-       "published_at": "2026-09-06 17:28"
+       "published_at": "2026-09-06 20:23"
+      },
+      {
+       "title": "Ukraine war latest: US envoys make first visit to Kyiv, protecting city from Russian missiles but producing few results",
+       "url": "https://kyivindependent.com/ukraine-war-latest-us-envoys-make-first-visit-to-kyiv-protecting-city-from-russian-missiles-but-producing-few-results/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-09-06 18:10"
       }
      ]
     },
     {
      "label": "Russia · Germany",
      "articles": [
-      {
-       "title": "Russia strikes Ukraine-Romania border crossing for 2nd time in week",
-       "url": "https://kyivindependent.com/russia-strikes-ukraine-romania-border-crossing-for-2nd-time-in-week/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-09-06 20:23"
-      },
       {
        "title": "Germany's far-right, pro-Russia party win first key regional election, falls short of forming majority",
        "url": "https://kyivindependent.com/germanys-far-right-pro-russia-party-on-brink-of-winning-majority-in-key-regional-election/",
@@ -610,7 +576,30 @@
      ]
     },
     {
-     "label": "Ukrainian · Oil",
+     "label": "Talks · Envoys",
+     "articles": [
+      {
+       "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
+       "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+       "source": "BBC World",
+       "published_at": "2026-09-06 20:41"
+      },
+      {
+       "title": "US envoys Kushner and Witkoff visit Kyiv for first time after Putin talks",
+       "url": "https://www.theguardian.com/world/2026/sep/06/us-envoys-jared-kushner-steve-witkoff-arrive-kyiv-talks-on-ending-war",
+       "source": "Guardian World",
+       "published_at": "2026-09-06 18:47"
+      },
+      {
+       "title": "Trump's first call after peace talks briefing will be Putin, source says",
+       "url": "https://kyivindependent.com/trumps-first-call-after-peace-talks-briefing-will-be-putin-source-says/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-09-06 17:28"
+      }
+     ]
+    },
+    {
+     "label": "Oil · Ukrainian",
      "articles": [
       {
        "title": "Sochi oil depot reportedly erupts in flames again days after Ukrainian strikes",
@@ -623,23 +612,6 @@
        "url": "https://kyivindependent.com/pro-ukrainian-partisans-sabotaged-communication-tower-ahead-of-oil-refinery-strike-atesh-group-claims/",
        "source": "Kyiv Independent",
        "published_at": "2026-09-07 02:09"
-      }
-     ]
-    },
-    {
-     "label": "Russian",
-     "articles": [
-      {
-       "title": "Ukraine war latest: US envoys make first visit to Kyiv, protecting city from Russian missiles but producing few results",
-       "url": "https://kyivindependent.com/ukraine-war-latest-us-envoys-make-first-visit-to-kyiv-protecting-city-from-russian-missiles-but-producing-few-results/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-09-06 18:10"
-      },
-      {
-       "title": "Inside front-line Zaporizhzhia as Russian FPV drones move closer",
-       "url": "https://kyivindependent.com/inside-front-line-zaporizhzhia-as-russian-fpv-drones-move-closer/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-09-06 14:56"
       }
      ]
     }
