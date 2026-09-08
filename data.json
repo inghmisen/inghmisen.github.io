@@ -1,12 +1,12 @@
 {
- "date": "Monday 7 September 2026",
- "generated_at": "22:13 UTC",
+ "date": "Tuesday 8 September 2026",
+ "generated_at": "00:37 UTC",
  "error": null,
  "total_stories": 73,
  "fx": {
   "pair": "EUR/MAD",
-  "rate": 10.868,
-  "change_pct": 0.0
+  "rate": 10.909,
+  "change_pct": 0.38
  },
  "lanes": [
   {
@@ -18,6 +18,12 @@
     {
      "label": "Qwen · Cpu",
      "articles": [
+      {
+       "title": "My Qwen3.8-27B task-aware quant reaches 99% of BF16 reasoning performance at 15% of the size.",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wa5dp9/my_qwen3827b_taskaware_quant_reaches_99_of_bf16/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-07 21:42"
+      },
       {
        "title": "Qwen3.5 0.8B on CPU",
        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wa2z88/qwen35_08b_on_cpu/",
@@ -37,13 +43,7 @@
        "published_at": "2026-09-07 17:30"
       },
       {
-       "title": "Are you running Qwen 3.8 27b or Qwen Flash Next?",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9v6qp/are_you_running_qwen_38_27b_or_qwen_flash_next/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-09-07 15:25"
-      },
-      {
-       "title": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF · 297 ♥",
+       "title": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF · 298 ♥",
        "url": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
        "source": "HF new models",
        "published_at": "2026-09-01 07:01"
@@ -60,13 +60,13 @@
        "published_at": "2026-09-07 18:27"
       },
       {
-       "title": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp · 796 ♥",
+       "title": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp · 800 ♥",
        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
        "source": "HF new models",
        "published_at": "2026-08-31 06:16"
       },
       {
-       "title": "zai-org/GLM-5.3-Flash · 2132 ♥",
+       "title": "zai-org/GLM-5.3-Flash · 2133 ♥",
        "url": "https://huggingface.co/zai-org/GLM-5.3-Flash",
        "source": "HF new models",
        "published_at": "2026-08-25 06:43"
@@ -74,13 +74,13 @@
      ]
     },
     {
-     "label": "Use",
+     "label": "Model · Local",
      "articles": [
       {
-       "title": "Friends Don't Let Friends Use Ollama",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wa26pn/friends_dont_let_friends_use_ollama/",
+       "title": "I made Warrior Quest, a local LLM-powered dark-fantasy RPG where the model only plays NPCs and the actual game state stays deterministic",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wa84sa/i_made_warrior_quest_a_local_llmpowered/",
        "source": "r/LocalLLaMA",
-       "published_at": "2026-09-07 19:40"
+       "published_at": "2026-09-07 23:37"
       },
       {
        "title": "Cybersecurity is local AI model's killer use case",
@@ -98,6 +98,12 @@
        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wa36d1/exllamav3_is_underrated/",
        "source": "r/LocalLLaMA",
        "published_at": "2026-09-07 20:16"
+      },
+      {
+       "title": "Friends Don't Let Friends Use Ollama",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wa26pn/friends_dont_let_friends_use_ollama/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-07 19:40"
       },
       {
        "title": "The models are fine, our toolings and methods are shit.",
@@ -118,19 +124,13 @@
        "published_at": "2026-09-07 17:16"
       },
       {
-       "title": "After over a year of my nights and weekends, the Jenny app is done!",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9wvkb/after_over_a_year_of_my_nights_and_weekends_the/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-09-07 16:27"
-      },
-      {
-       "title": "OpenVDN/vdn-minimax-h3 · 223 ♥",
-       "url": "https://huggingface.co/OpenVDN/vdn-minimax-h3",
+       "title": "openbmb/MiniCPM5-2B · 229 ♥",
+       "url": "https://huggingface.co/openbmb/MiniCPM5-2B",
        "source": "HF new models",
-       "published_at": "2026-09-02 05:03"
+       "published_at": "2026-09-06 11:12"
       },
       {
-       "title": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF · 545 ♥",
+       "title": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF · 555 ♥",
        "url": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
        "source": "HF new models",
        "published_at": "2026-08-28 18:38"
@@ -152,23 +152,6 @@
    "icon": "📍",
    "note": null,
    "clusters": [
-    {
-     "label": "Sociale",
-     "articles": [
-      {
-       "title": "Opnieuw kwestie sociale onveiligheid op UT",
-       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWngwSE9iNzZ1OXhFMFBCaE12X25kbFRVY2U1YWlJWlZITzJTVXRnTm5QVGE2T2FaT2Zpek5VbTFXel9rTVRiSy1SQWtPa2RXSkotR2JRXzhhSEZPejRQblRDSjBiWjBkTE96Y1Y1WGlRYmhnWk53NWJrN0x4MG1ubg?oc=5",
-       "source": "UToday",
-       "published_at": "2026-08-31 06:00"
-      },
-      {
-       "title": "Nieuwe hulpwijzer sociale veiligheid online",
-       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUks5UG5DX2FNZkFqZ0dvaWxfM3UzempKbkVKOTVELTZMX3liM24xWTdzYnRMV3JQajlTTjVlc0JuMTc0NzIyUzNqVTFXaTJvcEUzVlB4YzR5bHBmWW1RbUxaWk1vd25JeHgxWXd2QTJVRXFoWXgxLUpFR3B0LUtlNlZ3?oc=5",
-       "source": "UToday",
-       "published_at": "2026-05-28 07:00"
-      }
-     ]
-    },
     {
      "label": "Grote · Bestuursfotoverkiezing",
      "articles": [
@@ -224,6 +207,18 @@
        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTDE4dmZWeVI3YnllV0ZabC11VVE5ZnFnUjRhd291LUxfV1FQZ09Sb0hkdFlOZ0RkM0Z5SXVIN2NxTUx5VmdFZzR0UTRhelN3clY4TXlUQ0JEa2M2bnU4RU43TUpwc2N3T29VcEJHSldXbWVsRmhQbmlyNVBnZFh3VnNncmdoYjUzMzB6V2M2RWM?oc=5",
        "source": "UToday",
        "published_at": "2026-06-01 07:00"
+      },
+      {
+       "title": "Nieuwe hulpwijzer sociale veiligheid online",
+       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUks5UG5DX2FNZkFqZ0dvaWxfM3UzempKbkVKOTVELTZMX3liM24xWTdzYnRMV3JQajlTTjVlc0JuMTc0NzIyUzNqVTFXaTJvcEUzVlB4YzR5bHBmWW1RbUxaWk1vd25JeHgxWXd2QTJVRXFoWXgxLUpFR3B0LUtlNlZ3?oc=5",
+       "source": "UToday",
+       "published_at": "2026-05-28 07:00"
+      },
+      {
+       "title": "Twente-based PhD research aims to protect the Javan leopard",
+       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQU3UxNG00eUZ2OERKMHpaYkluanl6dm1UdWJocHdrSGdDemtIeG5RNkF1bGc0QlNKeU1td3BjNEpyRFRGOEduZTRIWXMzV1B6MjR2bXVzVFM3cTlOeWtTempUY21TVlJsdXQ4WWY5aEYyR3BxQkYzRk9mWElEWnQ3a1NObzR0Uy1ZRG1WazdQQ3BBWWg1d0pPYkxBbw?oc=5",
+       "source": "UToday",
+       "published_at": "2026-05-27 07:00"
       }
      ]
     }
@@ -237,25 +232,36 @@
    "note": null,
    "clusters": [
     {
-     "label": "إلى",
+     "label": "زيدان",
      "articles": [
       {
-       "title": "أصالة تعود إلى الغناء وسط دمشق",
-       "url": "https://www.hespress.com/%d8%a3%d8%b5%d8%a7%d9%84%d8%a9-%d8%aa%d8%b9%d9%88%d8%af-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d8%ba%d9%86%d8%a7%d8%a1-%d9%88%d8%b3%d8%b7-%d8%af%d9%85%d8%b4%d9%82-1803496.html",
+       "title": "زيدان يشيد بتدبير الحكومة للأزمات .. والتهراوي يثمن النهوض بالمستشفيات",
+       "url": "https://www.hespress.com/%d8%b2%d9%8a%d8%af%d8%a7%d9%86-%d9%8a%d8%b4%d9%8a%d8%af-%d8%a8%d8%aa%d8%af%d8%a8%d9%8a%d8%b1-%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d8%a9-%d9%84%d9%84%d8%a3%d8%b2%d9%85%d8%a7%d8%aa-%d9%88%d8%a7%d9%84-1803792.html",
        "source": "Hespress",
-       "published_at": "2026-09-07 21:55"
+       "published_at": "2026-09-08 00:00"
       },
       {
-       "title": "“ميطا 3” | زياش إلى البرازيل",
-       "url": "https://www.hespress.com/%d9%85%d9%8a%d8%b7%d8%a7-3-%d8%a3%d8%b2%d9%85%d8%a9-%d9%86%d8%a7%d8%a8%d9%8a-%d9%88%d8%a7%d9%84%d8%b1%d8%ac%d8%a7%d8%a1-1803706.html",
+       "title": "زيدان و\"تقاسم الغنائم\"",
+       "url": "https://www.hespress.com/%d8%b2%d9%8a%d8%af%d8%a7%d9%86-%d9%88%d8%aa%d9%82%d8%a7%d8%b3%d9%85-%d8%a7%d9%84%d8%ba%d9%86%d8%a7%d8%a6%d9%85-1803795.html",
        "source": "Hespress",
-       "published_at": "2026-09-07 21:02"
+       "published_at": "2026-09-07 22:56"
+      }
+     ]
+    },
+    {
+     "label": "السعدي",
+     "articles": [
+      {
+       "title": "السعدي يهاجم مغادري الأحرار",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%b3%d8%b9%d8%af%d9%8a-%d9%8a%d9%87%d8%a7%d8%ac%d9%85-%d9%85%d8%ba%d8%a7%d8%af%d8%b1%d9%8a-%d8%a7%d9%84%d8%a3%d8%ad%d8%b1%d8%a7%d8%b1-1803740.html",
+       "source": "Hespress",
+       "published_at": "2026-09-07 23:55"
       },
       {
-       "title": "رصيف الصحافة: أساتذة يعودون إلى المطالبة بالاستفادة من \"عطلة السبت\"",
-       "url": "https://www.hespress.com/%d8%b1%d8%b5%d9%8a%d9%81-%d8%a7%d9%84%d8%b5%d8%ad%d8%a7%d9%81%d8%a9-%d8%a3%d8%b3%d8%a7%d8%aa%d8%b0%d8%a9-%d9%8a%d8%b9%d9%88%d8%af%d9%88%d9%86-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d9%85%d8%b7%d8%a7%d9%84-1803733.html",
+       "title": "السعدي يحذر من الوعود الانتخابية السريعة .. ويدافع عن مسار الإنجازات",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%b3%d8%b9%d8%af%d9%8a-%d9%8a%d8%ad%d8%b0%d8%b1-%d9%85%d9%86-%d8%a7%d9%84%d9%88%d8%b9%d9%88%d8%af-%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d9%8a%d8%a9-%d8%a7%d9%84%d8%b3%d8%b1-1803770.html",
        "source": "Hespress",
-       "published_at": "2026-09-07 21:00"
+       "published_at": "2026-09-07 22:40"
       }
      ]
     },
@@ -263,58 +269,52 @@
      "label": "More headlines",
      "articles": [
       {
-       "title": "\"الأحرار\" يراهنون على الاستثمار والسياحة لزيادة فرص الشغل بالصويرة",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%a3%d8%ad%d8%b1%d8%a7%d8%b1-%d9%8a%d8%b1%d8%a7%d9%87%d9%86%d9%88%d9%86-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%ab%d9%85%d8%a7%d8%b1-%d9%88%d8%a7%d9%84%d8%b3%d9%8a%d8%a7-1803758.html",
+       "title": "لقجع .. التنمية والتمويل",
+       "url": "https://www.hespress.com/%d9%84%d9%82%d8%ac%d8%b9-%d8%a7%d9%84%d8%aa%d9%86%d9%85%d9%8a%d8%a9-%d9%88%d8%a7%d9%84%d8%aa%d9%85%d9%88%d9%8a%d9%84-1803806.html",
        "source": "Hespress",
-       "published_at": "2026-09-07 22:00"
+       "published_at": "2026-09-08 00:30"
       },
       {
-       "title": "فنلندا تكمل سياج الحدود مع روسيا",
-       "url": "https://www.hespress.com/%d9%81%d9%86%d9%84%d9%86%d8%af%d8%a7-%d8%aa%d9%83%d9%85%d9%84-%d8%b3%d9%8a%d8%a7%d8%ac-%d8%a7%d9%84%d8%ad%d8%af%d9%88%d8%af-%d9%85%d8%b9-%d8%b1%d9%88%d8%b3%d9%8a%d8%a7-1803457.html",
+       "title": "روسيا تستأنف الهجمات على كييف",
+       "url": "https://www.hespress.com/%d8%b1%d9%88%d8%b3%d9%8a%d8%a7-%d8%aa%d8%b3%d8%aa%d8%a3%d9%86%d9%81-%d8%a7%d9%84%d9%87%d8%ac%d9%85%d8%a7%d8%aa-%d8%b9%d9%84%d9%89-%d9%83%d9%8a%d9%8a%d9%81-1803822.html",
        "source": "Hespress",
-       "published_at": "2026-09-07 21:44"
+       "published_at": "2026-09-08 00:10"
       },
       {
-       "title": "تجمع يشتكي الجزائر للأمم المتحدة",
-       "url": "https://www.hespress.com/%d8%aa%d8%ac%d9%85%d8%b9-%d9%8a%d8%b4%d8%aa%d9%83%d9%8a-%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1-%d9%84%d9%84%d8%a3%d9%85%d9%85-%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%af%d8%a9-1803604.html",
+       "title": "المغرب يرأس \"لجنة الإعلام العربي\"",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d9%8a%d8%b1%d8%a3%d8%b3-%d9%84%d8%ac%d9%86%d8%a9-%d8%a7%d9%84%d8%a5%d8%b9%d9%84%d8%a7%d9%85-%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a-1803778.html",
        "source": "Hespress",
-       "published_at": "2026-09-07 21:22"
+       "published_at": "2026-09-07 23:44"
       },
       {
-       "title": "خرائط العالم تصحح قياسات إفريقيا",
-       "url": "https://www.hespress.com/%d8%ae%d8%b1%d8%a7%d8%a6%d8%b7-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85-%d8%aa%d8%b5%d8%ad%d8%ad-%d9%82%d9%8a%d8%a7%d8%b3%d8%a7%d8%aa-%d8%a5%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7-1803297.html",
+       "title": "جودار: \"السميك\" والقفة",
+       "url": "https://www.hespress.com/%d8%ac%d9%88%d8%af%d8%a7%d8%b1-%d8%a7%d9%84%d8%b3%d9%85%d9%8a%d9%83-%d9%82%d9%84%d9%8a%d9%84-%d9%88%d8%a7%d9%84%d9%82%d9%81%d8%a9-%d8%ba%d8%a7%d9%84%d9%8a%d8%a9-1803764.html",
        "source": "Hespress",
-       "published_at": "2026-09-07 20:52"
+       "published_at": "2026-09-07 23:30"
       },
       {
-       "title": "المغرب يحضر فعاليات \"قمة لوميير\"",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d9%8a%d8%ad%d8%b6%d8%b1-%d9%81%d8%b9%d8%a7%d9%84%d9%8a%d8%a7%d8%aa-%d9%82%d9%85%d8%a9-%d9%84%d9%88%d9%85%d9%8a%d9%8a%d8%b1-1803582.html",
+       "title": "الهلال السعودي يطارد صفقة حكيمي",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84-%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a-%d9%8a%d8%b7%d8%a7%d8%b1%d8%af-%d8%b5%d9%81%d9%82%d8%a9-%d8%ad%d9%83%d9%8a%d9%85%d9%8a-1803646.html",
        "source": "Hespress",
-       "published_at": "2026-09-07 20:21"
+       "published_at": "2026-09-07 23:11"
       },
       {
-       "title": "وَاشْ حْنَا هُمَا حْنَا؟",
-       "url": "https://www.hespress.com/%d9%88%d9%8e%d8%a7%d8%b4%d9%92-%d8%ad%d9%92%d9%86%d9%8e%d8%a7-%d9%87%d9%8f%d9%85%d9%8e%d8%a7-%d8%ad%d9%92%d9%86%d9%8e%d8%a7%d8%9f-1803274.html",
+       "title": "صابري: إنصاف المناطق الجبلية يمر عبر سياسات التعليم والسكن والصحة",
+       "url": "https://www.hespress.com/%d8%b5%d8%a7%d8%a8%d8%b1%d9%8a-%d8%a5%d9%86%d8%b5%d8%a7%d9%81-%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%b7%d9%82-%d8%a7%d9%84%d8%ac%d8%a8%d9%84%d9%8a%d8%a9-%d9%8a%d9%85%d8%b1-%d8%b9%d8%a8%d8%b1-%d8%b3%d9%8a-1803800.html",
        "source": "Hespress",
-       "published_at": "2026-09-07 20:05"
+       "published_at": "2026-09-07 23:00"
       },
       {
-       "title": "\"البام\" يجدد وعود تحسين القدرة الشرائية وتخفيف الأعباء الضريبية بأزيلال",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%a8%d8%a7%d9%85-%d9%8a%d8%ac%d8%af%d8%af-%d9%88%d8%b9%d9%88%d8%af-%d8%aa%d8%ad%d8%b3%d9%8a%d9%86-%d8%a7%d9%84%d9%82%d8%af%d8%b1%d8%a9-%d8%a7%d9%84%d8%b4%d8%b1%d8%a7%d8%a6%d9%8a-1803685.html",
+       "title": "حكم يغلق \"سوق الشمس\" بمارسيليا",
+       "url": "https://www.hespress.com/%d8%ad%d9%83%d9%85-%d9%8a%d8%ba%d9%84%d9%82-%d8%b3%d9%88%d9%82-%d8%a7%d9%84%d8%b4%d9%85%d8%b3-%d8%a8%d9%85%d8%a7%d8%b1%d8%b3%d9%8a%d9%84%d9%8a%d8%a7-1803467.html",
        "source": "Hespress",
-       "published_at": "2026-09-07 20:00"
+       "published_at": "2026-09-07 22:51"
       },
       {
-       "title": "شبيبات تدين إساءة اليمين الإسباني",
-       "url": "https://www.hespress.com/%d8%b4%d8%a8%d9%8a%d8%a8%d8%a7%d8%aa-%d8%aa%d8%af%d9%8a%d9%86-%d8%a5%d8%b3%d8%a7%d8%a1%d8%a9-%d8%a7%d9%84%d9%8a%d9%85%d9%8a%d9%86-%d8%a7%d9%84%d8%a5%d8%b3%d8%a8%d8%a7%d9%86%d9%8a-1803249.html",
+       "title": "إلغاء وظائف في \"جاغوار لاند روفر\"",
+       "url": "https://www.hespress.com/%d8%ac%d8%a7%d8%ba%d9%88%d8%a7%d8%b1-%d9%84%d8%a7%d9%86%d8%af-%d8%b1%d9%88%d9%81%d8%b1-%d8%aa%d9%84%d8%ba%d9%8a-%d8%a2%d9%84%d8%a7%d9%81-%d8%a7%d9%84%d9%88%d8%b8%d8%a7%d8%a6%d9%81-1803460.html",
        "source": "Hespress",
-       "published_at": "2026-09-07 19:50"
-      },
-      {
-       "title": "ملعب هسبريس | عمر نجحي",
-       "url": "https://www.hespress.com/%d9%85%d9%84%d8%b9%d8%a8-%d9%87%d8%b3%d8%a8%d8%b1%d9%8a%d8%b3-%d8%b3%d9%84%d8%a7%d9%85%d9%8a-%d9%85%d9%86-%d8%a3%d8%ad%d8%b3%d9%86-%d9%85%d8%af%d8%b1%d8%a8%d9%8a-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85-1803651.html",
-       "source": "Hespress",
-       "published_at": "2026-09-07 19:19"
+       "published_at": "2026-09-07 22:35"
       },
       {
        "title": "Immobilier coté : les revenus accélèrent au deuxième trimestre, la Bourse attend",
@@ -396,6 +396,35 @@
    "note": null,
    "clusters": [
     {
+     "label": "Iran",
+     "articles": [
+      {
+       "title": "Iran war live: Qatar warns of ‘industrial catastrophe’ if crisis continues",
+       "url": "https://www.aljazeera.com/news/liveblog/2026/9/8/iran-war-live-qatar-warns-of-industrial-catastrophe-if-crisis-continues?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-09-08 00:00"
+      },
+      {
+       "title": "Oil prices surge as US-Iran strikes intensify in Strait of Hormuz",
+       "url": "https://www.aljazeera.com/economy/2026/9/7/oil-prices-surge-as-us-iran-strikes-intensify-in-strait-of-hormuz?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-09-07 21:17"
+      },
+      {
+       "title": "The domestic armed threat facing Iran",
+       "url": "https://www.aljazeera.com/news/2026/9/7/the-domestic-armed-threat-facing-iran?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-09-07 19:06"
+      },
+      {
+       "title": "Energy secretary says US might not reach nuclear agreement with Iran",
+       "url": "https://www.theguardian.com/world/2026/sep/06/us-iran-nuclear-agreement-chris-wright",
+       "source": "Guardian World",
+       "published_at": "2026-09-06 17:39"
+      }
+     ]
+    },
+    {
      "label": "Israel",
      "articles": [
       {
@@ -425,30 +454,24 @@
      ]
     },
     {
-     "label": "Iran",
+     "label": "Yemen",
      "articles": [
       {
-       "title": "Oil prices surge as US-Iran strikes intensify in Strait of Hormuz",
-       "url": "https://www.aljazeera.com/economy/2026/9/7/oil-prices-surge-as-us-iran-strikes-intensify-in-strait-of-hormuz?traffic_source=rss",
+       "title": "Houthis accuse Saudi Arabia of killing seven in Yemen prison air strike",
+       "url": "https://www.aljazeera.com/news/2026/9/7/houthis-accuse-saudi-arabia-of-killing-seven-in-yemen-prison-attack?traffic_source=rss",
        "source": "Al Jazeera",
-       "published_at": "2026-09-07 21:17"
+       "published_at": "2026-09-07 23:50"
       },
       {
-       "title": "The domestic armed threat facing Iran",
-       "url": "https://www.aljazeera.com/news/2026/9/7/the-domestic-armed-threat-facing-iran?traffic_source=rss",
+       "title": "Yemen fighting escalates as forces battle for Bab al-Mandeb Strait",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/yemen-fighting-escalates-as-forces-battle-for-bab-al-mandeb-strait?traffic_source=rss",
        "source": "Al Jazeera",
-       "published_at": "2026-09-07 19:06"
-      },
-      {
-       "title": "Energy secretary says US might not reach nuclear agreement with Iran",
-       "url": "https://www.theguardian.com/world/2026/sep/06/us-iran-nuclear-agreement-chris-wright",
-       "source": "Guardian World",
-       "published_at": "2026-09-06 17:39"
+       "published_at": "2026-09-07 20:59"
       }
      ]
     },
     {
-     "label": "Gaza",
+     "label": "More headlines",
      "articles": [
       {
        "title": "Gaza: Genocide in Real Time?",
@@ -457,38 +480,10 @@
        "published_at": "2026-09-07 17:23"
       },
       {
-       "title": "Kosovo signs up to US-led Gaza stabilisation force",
-       "url": "https://www.aljazeera.com/news/2026/9/7/kosovo-signs-up-to-us-led-gaza-stabilisation-force?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-09-07 16:52"
-      }
-     ]
-    },
-    {
-     "label": "Lebanese · Israeli",
-     "articles": [
-      {
-       "title": "Claimed Israeli capture of Lebanese ridge reshapes negotiation dynamics",
-       "url": "https://www.aljazeera.com/features/2026/9/7/claimed-israeli-capture-of-lebanese-ridge-reshapes-negotiation-dynamics?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-09-07 16:42"
-      },
-      {
        "title": "Israeli strikes in southern Lebanese village kill 12",
        "url": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
        "source": "BBC World",
        "published_at": "2026-09-07 13:39"
-      }
-     ]
-    },
-    {
-     "label": "More headlines",
-     "articles": [
-      {
-       "title": "Yemen fighting escalates as forces battle for Bab al-Mandeb Strait",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/yemen-fighting-escalates-as-forces-battle-for-bab-al-mandeb-strait?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-09-07 20:59"
       }
      ]
     }
@@ -574,6 +569,12 @@
      "label": "More headlines",
      "articles": [
       {
+       "title": "NATO jets scrambled multiple times over Baltic region in one week",
+       "url": "https://kyivindependent.com/nato-jets-scrambled-multiple-times-over-baltic-region-in-one-week/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-09-07 23:20"
+      },
+      {
        "title": "Exclusive: Trump envoys find Putin still unwilling to compromise on Ukraine",
        "url": "https://kyivindependent.com/exclusive-trump-envoys-find-putin-still-unwilling-to-compromise-on-ukraine/",
        "source": "Kyiv Independent",
@@ -584,12 +585,6 @@
        "url": "https://kyivindependent.com/kyiv-shortens-curfew-to-1-5-am/",
        "source": "Kyiv Independent",
        "published_at": "2026-09-07 12:55"
-      },
-      {
-       "title": "Units of Russian missile brigade equipped with Oreshniks deployed in Belarus, Ukraine's military intelligence says",
-       "url": "https://kyivindependent.com/russian-missile-brigade-equipped-with-oreshnik-deployed-in-belarus-ukraines-military-intelligence-says/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-09-07 12:32"
       }
      ]
     }
