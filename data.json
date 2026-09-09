@@ -1,12 +1,12 @@
 {
  "date": "Wednesday 9 September 2026",
- "generated_at": "04:27 UTC",
+ "generated_at": "09:07 UTC",
  "error": null,
  "total_stories": 78,
  "fx": {
   "pair": "EUR/MAD",
   "rate": 10.911,
-  "change_pct": 0.02
+  "change_pct": 0.0
  },
  "lanes": [
   {
@@ -18,6 +18,12 @@
     {
      "label": "Qwen · Gguf",
      "articles": [
+      {
+       "title": "Is there a dummies guide for setting up qwen 27B with dflash2 and n-gram?",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wbcbuv/is_there_a_dummies_guide_for_setting_up_qwen_27b/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-09 05:17"
+      },
       {
        "title": "Qwen3.8-Flash-Next on MLX-serve, 1m context is released!",
        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wb7p70/qwen38flashnext_on_mlxserve_1m_context_is_released/",
@@ -31,13 +37,13 @@
        "published_at": "2026-09-09 00:35"
       },
       {
-       "title": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF · 364 ♥",
+       "title": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF · 384 ♥",
        "url": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
        "source": "HF new models",
        "published_at": "2026-09-01 07:01"
       },
       {
-       "title": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF · 665 ♥",
+       "title": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF · 684 ♥",
        "url": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
        "source": "HF new models",
        "published_at": "2026-08-28 18:38"
@@ -45,7 +51,41 @@
      ]
     },
     {
-     "label": "Vision",
+     "label": "Flash",
+     "articles": [
+      {
+       "title": "MiMo-X-Pro-Preview and MiMo-X-Flash-Preview - New Mimo Model found in Mimo Desktop preview announcement",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wbejtp/mimoxpropreview_and_mimoxflashpreview_new_mimo/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-09 07:20"
+      },
+      {
+       "title": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp · 827 ♥",
+       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+       "source": "HF new models",
+       "published_at": "2026-08-31 06:16"
+      }
+     ]
+    },
+    {
+     "label": "Openbmb",
+     "articles": [
+      {
+       "title": "What OpenBMB 1B version is this?",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wbagpr/what_openbmb_1b_version_is_this/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-09 03:42"
+      },
+      {
+       "title": "openbmb/MiniCPM5-2B · 781 ♥",
+       "url": "https://huggingface.co/openbmb/MiniCPM5-2B",
+       "source": "HF new models",
+       "published_at": "2026-09-06 11:12"
+      }
+     ]
+    },
+    {
+     "label": "Models",
      "articles": [
       {
        "title": "Best vision models under 6B?",
@@ -54,33 +94,22 @@
        "published_at": "2026-09-08 23:40"
       },
       {
-       "title": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp · 820 ♥",
-       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
-       "source": "HF new models",
-       "published_at": "2026-08-31 06:16"
-      }
-     ]
-    },
-    {
-     "label": "Llama · Cpp",
-     "articles": [
-      {
-       "title": "Is RX 6800 + 6800 XT a sensible upgrade from 2x RTX 2060 OC 12GB for llama.cpp?",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wb3t30/is_rx_6800_6800_xt_a_sensible_upgrade_from_2x_rtx/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-09-08 22:47"
-      },
-      {
-       "title": "How many agents can 2×4090 actually run at once? Three weeks of llama.cpp concurrency data — soft cap 5 @ 64k, hard cap 9, and why.",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wb35xo/how_many_agents_can_24090_actually_run_at_once/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-09-08 22:21"
+       "title": "Large language models develop novel social biases through adaptive exploration",
+       "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
+       "source": "Hacker News",
+       "published_at": "2026-09-08 21:47"
       }
      ]
     },
     {
      "label": "More headlines",
      "articles": [
+      {
+       "title": "new Nex model",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wbemg0/new_nex_model/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-09 07:25"
+      },
       {
        "title": "US accuses Chinese AI firms of 'malicious' copying of AI technology",
        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wb9prm/us_accuses_chinese_ai_firms_of_malicious_copying/",
@@ -94,49 +123,25 @@
        "published_at": "2026-09-09 02:09"
       },
       {
-       "title": "I resigned from Anthropic today",
-       "url": "https://twitter.com/hilbertspaess/status/2097476196791709843#m",
-       "source": "Hacker News",
-       "published_at": "2026-09-09 00:40"
-      },
-      {
-       "title": "Large language models develop novel social biases through adaptive exploration",
-       "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
-       "source": "Hacker News",
-       "published_at": "2026-09-08 21:47"
-      },
-      {
-       "title": "Tao: Open math problems being non-renewably mined by AI",
-       "url": "https://mathstodon.xyz/@tao/117237320796901560",
-       "source": "Hacker News",
-       "published_at": "2026-09-08 21:00"
-      },
-      {
-       "title": "Drama swirls around OpenAI’s legendary mathematical milestone",
-       "url": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
-       "source": "Verge AI",
-       "published_at": "2026-09-08 20:53"
-      },
-      {
-       "title": "On the Value of Human Ideas: What data poisoning research reveals about \"autonomous\" AI breakthroughs",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wazzes/on_the_value_of_human_ideas_what_data_poisoning/",
+       "title": "Is RX 6800 + 6800 XT a sensible upgrade from 2x RTX 2060 OC 12GB for llama.cpp?",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wb3t30/is_rx_6800_6800_xt_a_sensible_upgrade_from_2x_rtx/",
        "source": "r/LocalLLaMA",
-       "published_at": "2026-09-08 20:23"
+       "published_at": "2026-09-08 22:47"
       },
       {
-       "title": "openbmb/MiniCPM5-2B · 738 ♥",
-       "url": "https://huggingface.co/openbmb/MiniCPM5-2B",
-       "source": "HF new models",
-       "published_at": "2026-09-06 11:12"
+       "title": "How many agents can 2×4090 actually run at once? Three weeks of llama.cpp concurrency data — soft cap 5 @ 64k, hard cap 9, and why.",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wb35xo/how_many_agents_can_24090_actually_run_at_once/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-08 22:21"
       },
       {
-       "title": "OpenVDN/vdn-minimax-h3 · 250 ♥",
+       "title": "OpenVDN/vdn-minimax-h3 · 259 ♥",
        "url": "https://huggingface.co/OpenVDN/vdn-minimax-h3",
        "source": "HF new models",
        "published_at": "2026-09-02 05:03"
       },
       {
-       "title": "dealignai/GLM-5.3-CYBERSECURITY-FP8 · 318 ♥",
+       "title": "dealignai/GLM-5.3-CYBERSECURITY-FP8 · 334 ♥",
        "url": "https://huggingface.co/dealignai/GLM-5.3-CYBERSECURITY-FP8",
        "source": "HF new models",
        "published_at": "2026-08-30 10:46"
@@ -170,7 +175,7 @@
      ]
     },
     {
-     "label": "Grote · Bestuursfotoverkiezing",
+     "label": "Bestuursfotoverkiezing · Grote",
      "articles": [
       {
        "title": "De Grote U-Today Bestuursfotoverkiezing 2026, de uitslag",
@@ -189,12 +194,6 @@
     {
      "label": "More headlines",
      "articles": [
-      {
-       "title": "Opnieuw kwestie sociale onveiligheid op UT",
-       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWngwSE9iNzZ1OXhFMFBCaE12X25kbFRVY2U1YWlJWlZITzJTVXRnTm5QVGE2T2FaT2Zpek5VbTFXel9rTVRiSy1SQWtPa2RXSkotR2JRXzhhSEZPejRQblRDSjBiWjBkTE96Y1Y1WGlRYmhnWk53NWJrN0x4MG1ubg?oc=5",
-       "source": "UToday",
-       "published_at": "2026-08-31 06:00"
-      },
       {
        "title": "Fraude met basisbeurs is te simpel: één vinkje levert honderden euro’s op",
        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPakRvSjdCMHpEU19hSEllZFFHLWJEanNVMGtrOHZMaVlfVjNGTThEZ0FkZEZpVHBnVGhUdDhxUjllbGFhWUhla0FJRFRsSzd4NHpYbzdOalpRY1QwY2dJYUFqUU1HUlpFUUxhT0FfQXI3TW5nRlZYNl9hNFZYOFE0cWxyck1SVzdNQUlrOXJKMUVSdUlSUk1DSWM5RERmRkxweUZzcUNINA?oc=5",
@@ -224,6 +223,12 @@
        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQT29BdUtWMzZVZGRpYTF4N1lCalhLcUE2YnJnY1JHb0xVQ0EyTVpmYm9aR1FBaHN4QVFMcTBjRUJlcl81SmxWVFlGRndfbkdISVp4RXlSenl6Y29UdWduNE1fUE5Xa19Ca2owNFlsUllfbWhkbkVCZkVKaGExM24yOW16NFZsbmtjMUk0cjFUbkhNV2M?oc=5",
        "source": "UToday",
        "published_at": "2026-05-23 07:00"
+      },
+      {
+       "title": "Cantus van Ius Sanctus op Oude Markt voor goede doel",
+       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUDhlVkVxeVFBVk9ZZDM0RThQRF9lVnY4clNiWFVBTkR4N2FWZnp4STVzYmFFTW0zR2paejBFaG1XaWw1d2FleXliZExQTm1IZlJhdVNiRlJvZHpRNE9zQWR4TlpNSUk4d043LUtjdUx0VXMyTkVId1pWbVNqZjEzMXVicnNyYlh1TTB3d0JR?oc=5",
+       "source": "UToday",
+       "published_at": "2026-05-07 07:00"
       }
      ]
     }
@@ -237,30 +242,13 @@
    "note": null,
    "clusters": [
     {
-     "label": "الشباب",
+     "label": "Gouvernement",
      "articles": [
       {
-       "title": "الشباب بين البرامج والترشيحات .. هل تتراجع الاعتبارات العائلية والمحلية؟",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%b4%d8%a8%d8%a7%d8%a8-%d8%a8%d9%8a%d9%86-%d8%a7%d9%84%d8%a8%d8%b1%d8%a7%d9%85%d8%ac-%d9%88%d8%a7%d9%84%d8%aa%d8%b1%d8%b4%d9%8a%d8%ad%d8%a7%d8%aa-%d9%87%d9%84-%d8%aa%d8%aa%d8%b1%d8%a7-1803653.html",
-       "source": "Hespress",
-       "published_at": "2026-09-09 03:00"
-      },
-      {
-       "title": "أحزاب سياسية تراهن على المتطوعين الشباب في إنجاح الحملة الانتخابية",
-       "url": "https://www.hespress.com/%d8%a3%d8%ad%d8%b2%d8%a7%d8%a8-%d8%b3%d9%8a%d8%a7%d8%b3%d9%8a%d8%a9-%d8%aa%d8%b1%d8%a7%d9%87%d9%86-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d9%85%d8%aa%d8%b7%d9%88%d8%b9%d9%8a%d9%86-%d8%a7%d9%84%d8%b4%d8%a8-1803576.html",
-       "source": "Hespress",
-       "published_at": "2026-09-09 01:00"
-      }
-     ]
-    },
-    {
-     "label": "Conseil",
-     "articles": [
-      {
-       "title": "À 50 jours du vote sur la Minurso, où en est le Maroc avec les membres du Conseil de sécurité de l’ONU ?",
-       "url": "https://telquel.ma/2026/09/08/a-50-jours-du-vote-sur-la-minurso-ou-en-est-le-maroc-avec-les-membres-du-conseil-de-securite-de-lonu_2006325",
+       "title": "Le gouvernement espagnol déclassifie des rapports du renseignement sur la crise migratoire de Sebta",
+       "url": "https://telquel.ma/instant-t/2026/09/09/le-gouvernement-espagnol-declassifie-des-rapports-du-renseignement-sur-la-crise-migratoire-de-sebta_2006440/",
        "source": "TelQuel",
-       "published_at": "2026-09-08 16:36"
+       "published_at": "2026-09-09 09:05"
       },
       {
        "title": "Aide au logement, enseignement supérieur et armes chimiques au menu du Conseil de gouvernement jeudi",
@@ -271,67 +259,100 @@
      ]
     },
     {
+     "label": "على",
+     "articles": [
+      {
+       "title": "ترامب يصعّد حربه التجارية على كندا",
+       "url": "https://www.hespress.com/%d8%aa%d8%b1%d8%a7%d9%85%d8%a8-%d9%8a%d8%b5%d8%b9%d9%91%d8%af-%d8%ad%d8%b1%d8%a8%d9%87-%d8%a7%d9%84%d8%aa%d8%ac%d8%a7%d8%b1%d9%8a%d8%a9-%d8%b9%d9%84%d9%89-%d9%83%d9%86%d8%af%d8%a7-1804391.html",
+       "source": "Hespress",
+       "published_at": "2026-09-09 09:03"
+      },
+      {
+       "title": "أسعار الفائدة تضغط على البنوك .. والقروض والودائع تواصل الصعود",
+       "url": "https://www.hespress.com/%d8%a3%d8%b3%d8%b9%d8%a7%d8%b1-%d8%a7%d9%84%d9%81%d8%a7%d8%a6%d8%af%d8%a9-%d8%aa%d8%b6%d8%ba%d8%b7-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d8%a8%d9%86%d9%88%d9%83-%d9%88%d8%a7%d9%84%d9%82%d8%b1%d9%88%d8%b6-1803937.html",
+       "source": "Hespress",
+       "published_at": "2026-09-09 06:00"
+      }
+     ]
+    },
+    {
+     "label": "انتخابات",
+     "articles": [
+      {
+       "title": "انتخابات 2026 .. مولاي يعقوب ينتظر حسم عضوية مجلس النواب",
+       "url": "https://www.hespress.com/%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-2026-%d9%85%d9%88%d9%84%d8%a7%d9%8a-%d9%8a%d8%b9%d9%82%d9%88%d8%a8-%d9%8a%d9%86%d8%aa%d8%b8%d8%b1-%d8%ad%d8%b3%d9%85-%d8%b9%d8%b6%d9%88%d9%8a%d8%a9-1802514.html",
+       "source": "Hespress",
+       "published_at": "2026-09-09 09:00"
+      },
+      {
+       "title": "انتخابات 2026 .. مقعدان يحفزان التدافعات الحزبية في دائرة طاطا",
+       "url": "https://www.hespress.com/%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-2026-%d9%85%d9%82%d8%b9%d8%af%d8%a7%d9%86-%d9%8a%d8%ad%d9%81%d8%b2%d8%a7%d9%86-%d8%a7%d9%84%d8%aa%d8%af%d8%a7%d9%81%d8%b9%d8%a7%d8%aa-%d8%a7%d9%84-1803115.html",
+       "source": "Hespress",
+       "published_at": "2026-09-09 07:00"
+      }
+     ]
+    },
+    {
+     "label": "بعد",
+     "articles": [
+      {
+       "title": "وثائق تكشف \"الحقيقة السامة\" لهواء نيويورك بعد هجمات 11 شتنبر",
+       "url": "https://www.hespress.com/%d9%88%d8%ab%d8%a7%d8%a6%d9%82-%d8%aa%d9%83%d8%b4%d9%81-%d8%a7%d9%84%d8%ad%d9%82%d9%8a%d9%82%d8%a9-%d8%a7%d9%84%d8%b3%d8%a7%d9%85%d8%a9-%d9%84%d9%87%d9%88%d8%a7%d8%a1-%d9%86%d9%8a%d9%88%d9%8a-1804360.html",
+       "source": "Hespress",
+       "published_at": "2026-09-09 08:30"
+      },
+      {
+       "title": "بعد 15 عاما من التجميد.. سنغافورة ترفع رواتب وزرائها \"الأعلى عالميا\"",
+       "url": "https://www.hespress.com/%d8%a8%d8%b9%d8%af-15-%d8%b9%d8%a7%d9%85%d8%a7-%d9%85%d9%86-%d8%a7%d9%84%d8%aa%d8%ac%d9%85%d9%8a%d8%af-%d8%b3%d9%86%d8%ba%d8%a7%d9%81%d9%88%d8%b1%d8%a9-%d8%aa%d8%b1%d9%81%d8%b9-%d8%b1%d9%88%d8%a7-1804367.html",
+       "source": "Hespress",
+       "published_at": "2026-09-09 07:33"
+      }
+     ]
+    },
+    {
      "label": "More headlines",
      "articles": [
       {
-       "title": "سينما مغربية بعيون نسائية .. فيلم \"البارونات\" يستعيد حكايات مهاجرات",
-       "url": "https://www.hespress.com/%d8%b3%d9%8a%d9%86%d9%85%d8%a7-%d9%85%d8%ba%d8%b1%d8%a8%d9%8a%d8%a9-%d8%a8%d8%b9%d9%8a%d9%88%d9%86-%d9%86%d8%b3%d8%a7%d8%a6%d9%8a%d8%a9-%d9%81%d9%8a%d9%84%d9%85-%d8%a7%d9%84%d8%a8%d8%a7%d8%b1-1804059.html",
-       "source": "Hespress",
-       "published_at": "2026-09-09 04:00"
+       "title": "Al Hoceima : fusillade, policier tué… le Parquet rétablit les faits",
+       "url": "https://telquel.ma/instant-t/2026/09/09/al-hoceima-fusillade-policier-tue-le-parquet-retablit-les-faits_2006436/",
+       "source": "TelQuel",
+       "published_at": "2026-09-09 09:03"
       },
       {
-       "title": "قطبي ينادي بتكوين مهنيي المتاحف",
-       "url": "https://www.hespress.com/%d9%82%d8%b7%d8%a8%d9%8a-%d9%8a%d9%86%d8%a7%d8%af%d9%8a-%d8%a8%d8%aa%d9%83%d9%88%d9%8a%d9%86-%d9%85%d9%87%d9%86%d9%8a%d9%8a-%d8%a7%d9%84%d9%85%d8%aa%d8%a7%d8%ad%d9%81-1804111.html",
+       "title": "النفط يقترب من 100 دولار للبرميل",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%86%d9%81%d8%b7-%d9%8a%d9%82%d8%aa%d8%b1%d8%a8-%d9%85%d9%86-100-%d8%af%d9%88%d9%84%d8%a7%d8%b1-%d9%84%d9%84%d8%a8%d8%b1%d9%85%d9%8a%d9%84-1804358.html",
        "source": "Hespress",
-       "published_at": "2026-09-09 03:29"
+       "published_at": "2026-09-09 08:38"
       },
       {
-       "title": "برادة وإنهاء اكتظاظ الأقسام",
-       "url": "https://www.hespress.com/%d8%a8%d8%b1%d8%a7%d8%af%d8%a9-%d9%88%d8%a5%d9%86%d9%87%d8%a7%d8%a1-%d8%a7%d9%83%d8%aa%d8%b8%d8%a7%d8%b8-%d8%a7%d9%84%d8%a3%d9%82%d8%b3%d8%a7%d9%85-1804350.html",
+       "title": "سوكاح يفكك \"الاستشراق الألماني\"",
+       "url": "https://www.hespress.com/%d8%b3%d9%88%d9%83%d8%a7%d8%ad-%d9%8a%d9%81%d9%83%d9%83-%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%b4%d8%b1%d8%a7%d9%82-%d8%a7%d9%84%d8%a3%d9%84%d9%85%d8%a7%d9%86%d9%8a-1803637.html",
        "source": "Hespress",
-       "published_at": "2026-09-09 02:52"
+       "published_at": "2026-09-09 08:29"
       },
       {
-       "title": "الانتخابات ترفع الإقبال على \"الميكا\"",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-%d8%aa%d8%b1%d9%81%d8%b9-%d8%a7%d9%84%d8%a5%d9%82%d8%a8%d8%a7%d9%84-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d9%85%d9%8a%d9%83%d8%a7-1804122.html",
+       "title": "فاعلون تربويون يدعمون منع الهواتف و\"ضبط الهندام\" في المدارس",
+       "url": "https://www.hespress.com/%d9%81%d8%a7%d8%b9%d9%84%d9%88%d9%86-%d8%aa%d8%b1%d8%a8%d9%88%d9%8a%d9%88%d9%86-%d9%8a%d8%af%d8%b9%d9%85%d9%88%d9%86-%d9%85%d9%86%d8%b9-%d8%a7%d9%84%d9%87%d9%88%d8%a7%d8%aa%d9%81-%d9%88%d8%b6%d8%a8-1803578.html",
        "source": "Hespress",
-       "published_at": "2026-09-09 02:15"
+       "published_at": "2026-09-09 08:00"
       },
       {
-       "title": "أبحاث علمية لعلاج سرطان الثدي تستعين بزيت \"إكليل الجبل\" من تازة",
-       "url": "https://www.hespress.com/%d8%a3%d8%a8%d8%ad%d8%a7%d8%ab-%d8%b9%d9%84%d9%85%d9%8a%d8%a9-%d9%84%d8%b9%d9%84%d8%a7%d8%ac-%d8%b3%d8%b1%d8%b7%d8%a7%d9%86-%d8%a7%d9%84%d8%ab%d8%af%d9%8a-%d8%aa%d8%b3%d8%aa%d8%b9%d9%8a%d9%86-%d8%a8-1803910.html",
+       "title": "غلاء المعيشة",
+       "url": "https://www.hespress.com/%d8%ba%d9%84%d8%a7%d8%a1-%d8%a7%d9%84%d9%85%d8%b9%d9%8a%d8%b4%d8%a9-8-1803942.html",
        "source": "Hespress",
-       "published_at": "2026-09-09 02:00"
+       "published_at": "2026-09-09 07:33"
       },
       {
-       "title": "التهراوي والتزامات الصحة",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%aa%d9%87%d8%b1%d8%a7%d9%88%d9%8a-%d9%88%d8%a7%d9%84%d8%aa%d8%b2%d8%a7%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d8%b5%d8%ad%d8%a9-1804233.html",
+       "title": "شوكي يذكر أودعي بمستحقات حزبية",
+       "url": "https://www.hespress.com/%d8%b4%d9%88%d9%83%d9%8a-%d9%8a%d8%b0%d9%83%d8%b1-%d8%a3%d9%88%d8%af%d8%ba%d9%8a-%d8%a8%d9%85%d8%b3%d8%aa%d8%ad%d9%82%d8%a7%d8%aa-%d8%ad%d8%b2%d8%a8%d9%8a%d8%a9-1804182.html",
        "source": "Hespress",
-       "published_at": "2026-09-09 01:42"
+       "published_at": "2026-09-09 07:26"
       },
       {
-       "title": "مغربيان يترجمان \"في فلسفة المسرح\"",
-       "url": "https://www.hespress.com/%d9%85%d8%ba%d8%b1%d8%a8%d9%8a%d8%a7%d9%86-%d9%8a%d8%aa%d8%b1%d8%ac%d9%85%d8%a7%d9%86-%d9%81%d9%8a-%d9%81%d9%84%d8%b3%d9%81%d8%a9-%d8%a7%d9%84%d9%85%d8%b3%d8%b1%d8%ad-1804199.html",
+       "title": "توقعات طقس اليوم الأربعاء بالمغرب",
+       "url": "https://www.hespress.com/%d8%aa%d9%88%d9%82%d8%b9%d8%a7%d8%aa-%d8%b7%d9%82%d8%b3-%d8%a7%d9%84%d9%8a%d9%88%d9%85-%d8%a7%d9%84%d8%a3%d8%b1%d8%a8%d8%b9%d8%a7%d8%a1-%d8%a8%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-97-1804186.html",
        "source": "Hespress",
-       "published_at": "2026-09-09 01:20"
-      },
-      {
-       "title": "الرسوم الأمريكية تلهب أسعار النحاس",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%b1%d8%b3%d9%88%d9%85-%d8%a7%d9%84%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d9%8a%d8%a9-%d8%aa%d9%84%d9%87%d8%a8-%d8%a3%d8%b3%d8%b9%d8%a7%d8%b1-%d8%a7%d9%84%d9%86%d8%ad%d8%a7%d8%b3-1804041.html",
-       "source": "Hespress",
-       "published_at": "2026-09-09 00:51"
-      },
-      {
-       "title": "\"البام\" وشعار \"تصحيح المسار\"",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%a8%d8%a7%d9%85-%d9%88%d8%b4%d8%b9%d8%a7%d8%b1-%d8%aa%d8%b5%d8%ad%d9%8a%d8%ad-%d8%a7%d9%84%d9%85%d8%b3%d8%a7%d8%b1-1804315.html",
-       "source": "Hespress",
-       "published_at": "2026-09-09 00:41"
-      },
-      {
-       "title": "الجمارك تشتبه في \"شركات صورية\"",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%ac%d9%85%d8%a7%d8%b1%d9%83-%d8%aa%d8%b4%d8%aa%d8%a8%d9%87-%d9%81%d9%8a-%d8%b4%d8%b1%d9%83%d8%a7%d8%aa-%d8%b5%d9%88%d8%b1%d9%8a%d8%a9-1803990.html",
-       "source": "Hespress",
-       "published_at": "2026-09-09 00:19"
+       "published_at": "2026-09-09 06:17"
       },
       {
        "title": "Foot : Sofyan Amrabat annonce se mettre en retrait de la sélection tant que Ouahbi sera sélectionneur",
@@ -346,16 +367,10 @@
        "published_at": "2026-09-08 16:43"
       },
       {
-       "title": "CMT : un titre en suspens qui créé du suspense",
-       "url": "https://telquel.ma/2026/09/08/cmt-un-titre-en-suspens-qui-cree-du-suspense_2006373",
+       "title": "À 50 jours du vote sur la Minurso, où en est le Maroc avec les membres du Conseil de sécurité de l’ONU ?",
+       "url": "https://telquel.ma/2026/09/08/a-50-jours-du-vote-sur-la-minurso-ou-en-est-le-maroc-avec-les-membres-du-conseil-de-securite-de-lonu_2006325",
        "source": "TelQuel",
-       "published_at": "2026-09-08 15:55"
-      },
-      {
-       "title": "[Archive] How Hassan II marginalized philosophy in Morocco",
-       "url": "https://telquel.ma/2026/09/08/archive-how-hassan-ii-marginalized-philosophy-in-morocco_1999230",
-       "source": "TelQuel",
-       "published_at": "2026-09-08 15:48"
+       "published_at": "2026-09-08 16:36"
       }
      ]
     }
@@ -369,42 +384,37 @@
    "note": null,
    "clusters": [
     {
-     "label": "Staking",
+     "label": "Staking · Stelling",
      "articles": [
       {
-       "title": "NU+ | Niet kunnen thuiswerken met ov-staking: ouders als taxi of carpoolen",
-       "url": "https://www.nu.nl/nujij/6409077/niet-kunnen-thuiswerken-met-ov-staking-ouders-als-taxi-of-carpoolen.html",
+       "title": "LIVE | Prijs voor ritje met Uber loopt op tijdens ov-staking",
+       "url": "https://www.telegraaf.nl/binnenland/live-prijs-voor-ritje-met-uber-loopt-op-tijdens-ov-staking/161179047.html",
+       "source": "de Telegraaf",
+       "published_at": "2026-09-09 08:51"
+      },
+      {
+       "title": "Stelling | 'De ov-staking tegen bezuinigingen op sociale zekerheid is terecht'",
+       "url": "https://www.nu.nl/nujij/6409128/de-ov-staking-tegen-bezuinigingen-op-sociale-zekerheid-is-terecht.html",
        "source": "NU.nl",
-       "published_at": "2026-09-09 04:00"
+       "published_at": "2026-09-09 07:57"
       },
       {
-       "title": "Kletsnatte woensdag: buien, onweer en mogelijk extra druk op de weg door OV-staking",
-       "url": "https://www.telegraaf.nl/binnenland/kletsnatte-woensdag-buien-onweer-en-mogelijk-extra-druk-op-de-weg-door-ov-staking/161163802.html",
-       "source": "de Telegraaf",
-       "published_at": "2026-09-09 04:00"
-      },
-      {
-       "title": "Landelijke ov-staking tegen bezuinigingen op sociale zekerheid begonnen",
-       "url": "https://www.nu.nl/binnenland/6409108/landelijke-ov-staking-tegen-bezuinigingen-op-sociale-zekerheid-begonnen.html",
+       "title": "Ov-staking zorgt nauwelijks voor drukke spits: 'Dagelijkse files tien minuten langer'",
+       "url": "https://www.nu.nl/binnenland/6409126/ov-staking-zorgt-nauwelijks-voor-drukke-spits-dagelijkse-files-tien-minuten-langer.html",
        "source": "NU.nl",
-       "published_at": "2026-09-09 03:33"
-      }
-     ]
-    },
-    {
-     "label": "Kamer",
-     "articles": [
-      {
-       "title": "Kamer fluit minister Van Weel terug na mislukte ’ultieme poging’ om cruciale cold case-data te behouden: ’Klap in het gezicht voor nabestaanden’",
-       "url": "https://www.telegraaf.nl/politiek/kamer-fluit-minister-van-weel-terug-na-mislukte-ultieme-poging-om-cruciale-cold-case-data-te-behouden-klap-in-het-gezicht-voor-nabestaanden/161150995.html",
-       "source": "de Telegraaf",
-       "published_at": "2026-09-09 03:30"
+       "published_at": "2026-09-09 07:35"
       },
       {
-       "title": "Kamer wil luchtvaartsector toch weren uit omwonendenraad Schiphol",
-       "url": "https://www.telegraaf.nl/politiek/kamer-wil-luchtvaartsector-toch-weren-uit-omwonendenraad-schiphol/161174426.html",
+       "title": "In beeld | Lege stations, nauwelijks drukkere spits: zo verloopt de ov-staking",
+       "url": "https://www.nu.nl/binnenland/6409119/lege-stations-nauwelijks-drukkere-spits-zo-verloopt-de-ov-staking.html",
+       "source": "NU.nl",
+       "published_at": "2026-09-09 07:02"
+      },
+      {
+       "title": "Stelling: begrip voor ov-staking",
+       "url": "https://www.telegraaf.nl/wat-u-zegt/stelling-begrip-voor-ov-staking/161179368.html",
        "source": "de Telegraaf",
-       "published_at": "2026-09-08 18:47"
+       "published_at": "2026-09-09 07:00"
       }
      ]
     },
@@ -412,22 +422,22 @@
      "label": "More headlines",
      "articles": [
       {
-       "title": "Tweede Kamerlid (VVD) haalt uit naar OV-stakingen: ‘Behoorlijk asociaal’",
-       "url": "https://www.telegraaf.nl/video/tweede-kamerlid-vvd-haalt-uit-naar-ov-stakingen-behoorlijk-asociaal/161172994.html",
-       "source": "de Telegraaf",
-       "published_at": "2026-09-09 04:07"
+       "title": "Overmars stopt om gezondheidsredenen bij Antwerp: 'Mijn energie is volledig op'",
+       "url": "https://www.nu.nl/voetbal/6409135/overmars-stopt-om-gezondheidsredenen-bij-antwerp-mijn-energie-is-volledig-op.html",
+       "source": "NU.nl",
+       "published_at": "2026-09-09 08:06"
       },
       {
-       "title": "Hoofdredactie: kabinetten met liberalen hebben voor gebrekkig onderhoud van bruggen en wegen gezorgd",
-       "url": "https://www.telegraaf.nl/opinie/hoofdredactie-kabinetten-met-liberalen-hebben-voor-gebrekkig-onderhoud-van-bruggen-en-wegen-gezorgd/161160862.html",
+       "title": "Opnieuw brug dicht: ‘Denk ook aan economische schade’",
+       "url": "https://www.telegraaf.nl/video/opnieuw-brug-dicht-denk-ook-aan-economische-schade/161173143.html",
        "source": "de Telegraaf",
-       "published_at": "2026-09-09 04:00"
+       "published_at": "2026-09-09 07:32"
       },
       {
-       "title": "Luchtvaartstoring treft tienduizenden reizigers en raakt ook Schiphol hard",
-       "url": "https://www.telegraaf.nl/financieel/luchtvaartstoring-treft-tienduizenden-reizigers-en-raakt-ook-schiphol-hard/161175722.html",
-       "source": "de Telegraaf",
-       "published_at": "2026-09-08 19:35"
+       "title": "Video | Enkele reizigers lopen vertwijfeld rond op lege stations door staking",
+       "url": "https://www.nu.nl/330088/video/enkele-reizigers-lopen-vertwijfeld-rond-op-lege-stations-door-staking.html",
+       "source": "NU.nl",
+       "published_at": "2026-09-09 06:26"
       }
      ]
     }
@@ -441,71 +451,71 @@
    "note": null,
    "clusters": [
     {
-     "label": "Iranian · Tankers",
+     "label": "Iran · Time",
      "articles": [
       {
-       "title": "Jordanian air defences intercept Iranian missile barrage",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/jordanian-air-defences-intercept-iranian-missile-barrage?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-09-09 01:08"
+       "title": "Oil hits $100 a barrel for first time since July after flare in US-Iran conflict",
+       "url": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
+       "source": "BBC World",
+       "published_at": "2026-09-09 09:03"
       },
       {
-       "title": "US says Iranian tankers ‘destroyed’ after missile attacks on American warship",
-       "url": "https://www.theguardian.com/us-news/2026/sep/08/iran-underwater-drone-strait-of-hormuz",
+       "title": "Oil prices rise above $100 a barrel for first time since July as Iran war escalates",
+       "url": "https://www.theguardian.com/business/2026/sep/09/oil-prices-rise-iran-war-brent-crude-inflation-higher-interest-rates",
        "source": "Guardian World",
-       "published_at": "2026-09-09 01:04"
+       "published_at": "2026-09-09 07:28"
       },
       {
-       "title": "US attacks 5 Iranian oil tankers, Tehran retaliates with strikes on Jordan",
-       "url": "https://www.aljazeera.com/news/2026/9/9/us-destroys-five-iranian-tankers-iran-retaliates-with-attacks-on-jordan-base?traffic_source=rss",
+       "title": "Medicine shortages grow in Iran as US tightens sanctions, blockade",
+       "url": "https://www.aljazeera.com/news/2026/9/9/medicine-shortages-grow-in-iran-as-us-tightens-sanctions-blockade?traffic_source=rss",
        "source": "Al Jazeera",
-       "published_at": "2026-09-09 00:08"
+       "published_at": "2026-09-09 07:14"
       },
       {
-       "title": "US bombs five Iranian oil tankers after its navy is attacked",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/us-bombs-five-iranian-oil-tankers-after-its-navy-is-attacked?traffic_source=rss",
+       "title": "Why US-Iran war over Hormuz is threatening the Gulf’s waters",
+       "url": "https://www.aljazeera.com/news/2026/9/9/why-us-iran-war-over-hormuz-is-threatening-the-gulfs-waters?traffic_source=rss",
        "source": "Al Jazeera",
-       "published_at": "2026-09-08 23:49"
+       "published_at": "2026-09-09 05:47"
       }
      ]
     },
     {
-     "label": "Israeli · Settlements",
+     "label": "Sanctions · Settlements",
      "articles": [
       {
-       "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
-       "url": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
-       "source": "BBC World",
-       "published_at": "2026-09-09 01:45"
+       "title": "Miliband defends sanctions on Israeli settlements and pushes back against chief rabbi’s criticism – UK politics live",
+       "url": "https://www.theguardian.com/politics/live/2026/sep/09/uk-israel-west-bank-ed-miliband-andy-burnham-uk-politics-latest-news-updates",
+       "source": "Guardian World",
+       "published_at": "2026-09-09 08:38"
       },
       {
-       "title": "Paul Adams: British-Israeli relations at lowest ebb in decades",
-       "url": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss",
-       "source": "BBC World",
-       "published_at": "2026-09-08 21:46"
+       "title": "Wednesday briefing: Inside sweeping UK sanctions on trade with Israeli settlements",
+       "url": "https://www.theguardian.com/world/2026/sep/09/wednesday-briefing-inside-sweeping-uk-sanctions-on-trade-with-israeli-settlements",
+       "source": "Guardian World",
+       "published_at": "2026-09-09 05:46"
       },
-      {
-       "title": "What the UK ban on goods from illegal Israeli settlements really means",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/what-the-uk-ban-on-goods-from-illegal-israeli-settlements-really-means?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-09-08 21:35"
-      }
-     ]
-    },
-    {
-     "label": "Sanctions",
-     "articles": [
       {
        "title": "Australia considers new Israel sanctions but won’t join UK in banning trade with ‘settler terrorists’",
        "url": "https://www.theguardian.com/australia-news/2026/sep/09/australia-considers-new-israel-sanctions-but-wont-join-uk-in-banning-trade-with-settler-terrorists-ntwnfb",
        "source": "Guardian World",
        "published_at": "2026-09-09 01:38"
+      }
+     ]
+    },
+    {
+     "label": "Israel",
+     "articles": [
+      {
+       "title": "What ‘right’ and ‘left’ mean in Israel today",
+       "url": "https://www.aljazeera.com/news/2026/9/9/what-right-and-left-mean-in-israel-today?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-09-09 07:22"
       },
       {
-       "title": "US increases pressure on Iran with sanctions targeting aviation sector",
-       "url": "https://www.aljazeera.com/news/2026/9/8/us-increases-pressure-on-iran-with-sanctions-targeting-aviation-sector?traffic_source=rss",
+       "title": "Israel’s war leaves Lebanon’s schools balancing students and the displaced",
+       "url": "https://www.aljazeera.com/features/2026/9/9/israels-war-leaves-lebanons-schools-balancing-students-and-the-displaced?traffic_source=rss",
        "source": "Al Jazeera",
-       "published_at": "2026-09-08 23:51"
+       "published_at": "2026-09-09 05:36"
       }
      ]
     },
@@ -530,10 +540,10 @@
      "label": "More headlines",
      "articles": [
       {
-       "title": "Iran war live: US, Iran attack oil tankers; crude heads to $100",
-       "url": "https://www.aljazeera.com/news/liveblog/2026/9/9/iran-war-live-us-hits-iranian-tankers-irgc-attacks-us-base-in-jordan?traffic_source=rss",
+       "title": "Jordanian air defences intercept Iranian missile barrage",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/jordanian-air-defences-intercept-iranian-missile-barrage?traffic_source=rss",
        "source": "Al Jazeera",
-       "published_at": "2026-09-09 00:00"
+       "published_at": "2026-09-09 01:08"
       }
      ]
     }
@@ -547,8 +557,26 @@
    "note": null,
    "clusters": [
     {
-     "label": "Ukraine · Support",
+     "label": "Ukraine · Russia",
      "articles": [
+      {
+       "title": "General Staff: Russia has lost 1,500,870 troops in Ukraine since Feb. 24, 2022",
+       "url": "https://kyivindependent.com/general-staff-russia-has-lost-1-500-870-troops-in-ukraine-since-feb-24-2022/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-09-09 09:02"
+      },
+      {
+       "title": "‘Too little response’ to Russian strikes on Ukraine, Zelenskyy says after latest deadly attacks – Europe live",
+       "url": "https://www.theguardian.com/world/live/2026/sep/09/europe-ukraine-russia-zelenskyy-germany-merz-afd-norway-king-harald-v-latest-news-updates",
+       "source": "Guardian World",
+       "published_at": "2026-09-09 08:59"
+      },
+      {
+       "title": "Russian drone attack kills two at Ukraine-Moldova border crossing",
+       "url": "https://www.aljazeera.com/news/2026/9/9/russian-drone-attack-kills-two-at-ukraine-moldova-border-crossing?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-09-09 08:05"
+      },
       {
        "title": "Ukraine to sign contracts for around 1,000 Patriot missiles with partner support and EU loan funding, defense minister says",
        "url": "https://kyivindependent.com/ukraine-to-sign-contracts-for-around-1-000-patriot-missiles-with-partner-support-and-eu-loan-funding-defense-minister-says/",
@@ -560,29 +588,11 @@
        "url": "https://kyivindependent.com/ukraine-war-latest-russias-deadline-to-capture-donbas-slips-yet-again/",
        "source": "Kyiv Independent",
        "published_at": "2026-09-08 17:49"
-      },
-      {
-       "title": "Ukraine’s prosecutor general quits after anti-corruption agents raid his office",
-       "url": "https://www.theguardian.com/world/2026/sep/08/ukraine-prosecutor-general-ruslan-kravchenko-quits-anti-corruption-agents-raid-office",
-       "source": "Guardian World",
-       "published_at": "2026-09-08 17:00"
-      },
-      {
-       "title": "Remilitarisation and support for Ukraine must not slacken, US tells Europe",
-       "url": "https://www.theguardian.com/politics/2026/sep/08/uk-commits-100m-bolster-ukraine-air-defences-russia-war",
-       "source": "Guardian World",
-       "published_at": "2026-09-08 16:57"
-      },
-      {
-       "title": "IMF report groups Moldova with EU applicants ahead of Ukraine",
-       "url": "https://kyivindependent.com/imf-report-groups-moldova-with-eu-applicants-ahead-of-ukraine/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-09-08 16:28"
       }
      ]
     },
     {
-     "label": "Russia · Ukrainian",
+     "label": "Ukrainian · Russia",
      "articles": [
       {
        "title": "Ukrainian drones reportedly strike oil terminal in Russia's Novorossiysk",
@@ -595,6 +605,23 @@
        "url": "https://kyivindependent.com/russias-160-year-war-on-ukrainian-books/",
        "source": "Kyiv Independent",
        "published_at": "2026-09-08 18:07"
+      }
+     ]
+    },
+    {
+     "label": "Drone · Russian",
+     "articles": [
+      {
+       "title": "Russian drone violates Moldovan and Romanian airspace, crashes in Moldova",
+       "url": "https://kyivindependent.com/russian-drone-violates-moldovan-and-romanian-airspace-crashes-in-moldova/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-09-08 17:23"
+      },
+      {
+       "title": "Ukrainian TV channel building hit by Russian drone as five killed in Kyiv",
+       "url": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss",
+       "source": "BBC World",
+       "published_at": "2026-09-08 17:10"
       }
      ]
     },
@@ -612,23 +639,6 @@
        "url": "https://kyivindependent.com/germany-ready-to-provide-missiles-for-patriots-zelensky-says/",
        "source": "Kyiv Independent",
        "published_at": "2026-09-08 16:40"
-      }
-     ]
-    },
-    {
-     "label": "Russian · Drone",
-     "articles": [
-      {
-       "title": "Russian drone violates Moldovan and Romanian airspace, crashes in Moldova",
-       "url": "https://kyivindependent.com/russian-drone-violates-moldovan-and-romanian-airspace-crashes-in-moldova/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-09-08 17:23"
-      },
-      {
-       "title": "Ukrainian TV channel building hit by Russian drone as five killed in Kyiv",
-       "url": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss",
-       "source": "BBC World",
-       "published_at": "2026-09-08 17:10"
       }
      ]
     },
