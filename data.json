@@ -1,8 +1,8 @@
 {
  "date": "Thursday 10 September 2026",
- "generated_at": "16:37 UTC",
+ "generated_at": "19:29 UTC",
  "error": null,
- "total_stories": 78,
+ "total_stories": 76,
  "fx": {
   "pair": "EUR/MAD",
   "rate": 10.891,
@@ -16,7 +16,41 @@
    "note": null,
    "clusters": [
     {
-     "label": "Deepseek · Flash",
+     "label": "Gguf",
+     "articles": [
+      {
+       "title": "New tensor type layouts for my GGUF uploads",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcsj6v/new_tensor_type_layouts_for_my_gguf_uploads/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-10 19:05"
+      },
+      {
+       "title": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF · 438 ♥",
+       "url": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+       "source": "HF new models",
+       "published_at": "2026-09-01 07:01"
+      }
+     ]
+    },
+    {
+     "label": "Model",
+     "articles": [
+      {
+       "title": "OUI-1: a model that generates bespoke UI elements",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcqa03/oui1_a_model_that_generates_bespoke_ui_elements/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-10 17:46"
+      },
+      {
+       "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+       "url": "https://cognition.com/blog/swe-2",
+       "source": "Hacker News",
+       "published_at": "2026-09-10 15:29"
+      }
+     ]
+    },
+    {
+     "label": "Flash · Deepseek",
      "articles": [
       {
        "title": "DeepSeek V4.1 Flash is available in HuggingChat",
@@ -25,19 +59,7 @@
        "published_at": "2026-09-10 16:05"
       },
       {
-       "title": "Deepseek V4.1 Flash Release Video [Made with Deepseek V4.1 Flash]",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcgdz8/deepseek_v41_flash_release_video_made_with/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-09-10 11:23"
-      },
-      {
-       "title": "guide to using reasoning_effort on deepseek v4.1 flash",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcesmy/guide_to_using_reasoning_effort_on_deepseek_v41/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-09-10 10:01"
-      },
-      {
-       "title": "deepseek-ai/DeepSeek-V4.1-Flash · 1105 ♥",
+       "title": "deepseek-ai/DeepSeek-V4.1-Flash · 1221 ♥",
        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
        "source": "HF new models",
        "published_at": "2026-09-10 02:17"
@@ -45,8 +67,32 @@
      ]
     },
     {
-     "label": "Openai",
+     "label": "More headlines",
      "articles": [
+      {
+       "title": "Doesn't it seem strange to you that AA changes twice in one week?",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcqpsk/doesnt_it_seem_strange_to_you_that_aa_changes/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-10 18:01"
+      },
+      {
+       "title": "CyberTiel 35B-A3B’s uncensored 4-bit quant beats Opus 4.6 medium cleanly on real codebase issues, in 27% of the time Qwen3.8-27b medium takes.",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcpppm/cybertiel_35ba3bs_uncensored_4bit_quant_beats/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-10 17:26"
+      },
+      {
+       "title": "React Native ExecuTorch is now up to 92x faster 🏎️",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcp4v1/react_native_executorch_is_now_up_to_92x_faster/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-10 17:06"
+      },
+      {
+       "title": "Universal Music is launching an AI music platform with ElevenLabs",
+       "url": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
+       "source": "Verge AI",
+       "published_at": "2026-09-10 15:38"
+      },
       {
        "title": "ANOTHER researcher accuses OpenAI of training on conversations and then claiming a breakthrough",
        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcmgbn/another_researcher_accuses_openai_of_training_on/",
@@ -54,38 +100,10 @@
        "published_at": "2026-09-10 15:29"
       },
       {
-       "title": "Mathematicians want proof OpenAI didn’t use their work",
-       "url": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data",
-       "source": "Verge AI",
-       "published_at": "2026-09-10 11:00"
-      }
-     ]
-    },
-    {
-     "label": "Qwen",
-     "articles": [
-      {
-       "title": "Running Vision Qwen 3.8 27B on a 16GB Card, the config (45tks).",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcfc9b/running_vision_qwen_38_27b_on_a_16gb_card_the/",
+       "title": "LoudKit: local TTS with voice cloning, 10 languages, and SDKs for Python, Swift, Go, Rust and TypeScript",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcm68v/loudkit_local_tts_with_voice_cloning_10_languages/",
        "source": "r/LocalLLaMA",
-       "published_at": "2026-09-10 10:30"
-      },
-      {
-       "title": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF · 434 ♥",
-       "url": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
-       "source": "HF new models",
-       "published_at": "2026-09-01 07:01"
-      }
-     ]
-    },
-    {
-     "label": "More headlines",
-     "articles": [
-      {
-       "title": "Universal Music is launching an AI music platform with ElevenLabs",
-       "url": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
-       "source": "Verge AI",
-       "published_at": "2026-09-10 15:38"
+       "published_at": "2026-09-10 15:19"
       },
       {
        "title": "Meta’s Muse AI works and creeps me out",
@@ -100,37 +118,19 @@
        "published_at": "2026-09-10 13:25"
       },
       {
-       "title": "What to run at 128GB VRAM?",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcib2s/what_to_run_at_128gb_vram/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-09-10 12:50"
-      },
-      {
-       "title": "GigaChat-3.5-Reasoning",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wchl1x/gigachat35reasoning/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-09-10 12:19"
-      },
-      {
-       "title": "The CEA architecture is a bigger deal than I initially thought",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcf6kq/the_cea_architecture_is_a_bigger_deal_than_i/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-09-10 10:22"
-      },
-      {
-       "title": "nex-agi/Nex-N2.5-mini · 636 ♥",
+       "title": "nex-agi/Nex-N2.5-mini · 644 ♥",
        "url": "https://huggingface.co/nex-agi/Nex-N2.5-mini",
        "source": "HF new models",
        "published_at": "2026-09-08 05:08"
       },
       {
-       "title": "openbmb/MiniCPM5-2B · 1072 ♥",
+       "title": "openbmb/MiniCPM5-2B · 1089 ♥",
        "url": "https://huggingface.co/openbmb/MiniCPM5-2B",
        "source": "HF new models",
        "published_at": "2026-09-06 11:12"
       },
       {
-       "title": "WarmBloodAban/Minimax-h3_Singularity · 256 ♥",
+       "title": "WarmBloodAban/Minimax-h3_Singularity · 259 ♥",
        "url": "https://huggingface.co/WarmBloodAban/Minimax-h3_Singularity",
        "source": "HF new models",
        "published_at": "2026-09-05 18:51"
@@ -170,7 +170,7 @@
      ]
     },
     {
-     "label": "Grote · Bestuursfotoverkiezing",
+     "label": "Bestuursfotoverkiezing · Grote",
      "articles": [
       {
        "title": "De Grote U-Today Bestuursfotoverkiezing 2026, de uitslag",
@@ -237,25 +237,36 @@
    "note": null,
    "clusters": [
     {
-     "label": "الانتخابات · قبل",
+     "label": "قانون",
      "articles": [
       {
-       "title": "\"الداخلية\" تكشف 7288 ترشيحا و1850 لائحة لخوض الانتخابات التشريعية",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d8%a9-%d8%aa%d9%83%d8%b4%d9%81-7288-%d8%aa%d8%b1%d8%b4%d9%8a%d8%ad%d8%a7-%d9%881850-%d9%84%d8%a7%d8%a6%d8%ad%d8%a9-%d9%84%d8%ae%d9%88%d8%b6-%d8%a7%d9%84-1805208.html",
+       "title": "النقيب الزياني يرفض ربط تنفيذ قانون مهنة المحاماة بـ\"الأمر الملكي\"",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%86%d9%82%d9%8a%d8%a8-%d8%a7%d9%84%d8%b2%d9%8a%d8%a7%d9%86%d9%8a-%d9%8a%d8%b1%d9%81%d8%b6-%d8%b1%d8%a8%d8%b7-%d8%a7%d9%84%d8%a3%d9%85%d8%b1-%d8%a7%d9%84%d9%85%d9%84%d9%83%d9%8a-1805328.html",
        "source": "Hespress",
-       "published_at": "2026-09-10 15:15"
+       "published_at": "2026-09-10 19:00"
       },
       {
-       "title": "تحييد سيارات الجماعات قبل الانتخابات",
-       "url": "https://www.hespress.com/%d8%aa%d8%ad%d9%8a%d9%8a%d8%af-%d8%b3%d9%8a%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d8%ac%d9%85%d8%a7%d8%b9%d8%a7%d8%aa-%d9%82%d8%a8%d9%84-%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-1805185.html",
+       "title": "مجلس النواب الإسباني يصادق على قانون تجنيس آلاف الصحراويين",
+       "url": "https://www.hespress.com/%d9%85%d8%ac%d9%84%d8%b3-%d8%a7%d9%84%d9%86%d9%88%d8%a7%d8%a8-%d8%a7%d9%84%d8%a5%d8%b3%d8%a8%d8%a7%d9%86%d9%8a-%d9%8a%d8%b5%d8%a7%d8%af%d9%82-%d8%b9%d9%84%d9%89-%d9%82%d8%a7%d9%86%d9%88%d9%86-%d8%aa-1805270.html",
        "source": "Hespress",
-       "published_at": "2026-09-10 15:06"
+       "published_at": "2026-09-10 17:15"
+      }
+     ]
+    },
+    {
+     "label": "لقجع",
+     "articles": [
+      {
+       "title": "أخنوش يهاجم \"وعود لقجع\": الملعب الكبير لبنسليمان \"قرار ملكي\"",
+       "url": "https://www.hespress.com/%d8%a3%d8%ae%d9%86%d9%88%d8%b4-%d9%8a%d9%87%d8%a7%d8%ac%d9%85-%d9%88%d8%b9%d9%88%d8%af-%d9%84%d9%82%d8%ac%d8%b9-%d8%a7%d9%84%d9%85%d9%84%d8%b9%d8%a8-%d8%a7%d9%84%d9%83%d8%a8%d9%8a%d8%b1-%d9%84-1805319.html",
+       "source": "Hespress",
+       "published_at": "2026-09-10 18:15"
       },
       {
-       "title": "لقجع: الوطن قبل الانتخابات",
-       "url": "https://www.hespress.com/%d9%84%d9%82%d8%ac%d8%b9-%d8%a7%d9%84%d9%88%d8%b7%d9%86-%d9%82%d8%a8%d9%84-%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-1805197.html",
+       "title": "لقجع يعلن أمام \"الباطرونا\" عن إجراءات لإدماج القطاع غير المهيكل",
+       "url": "https://www.hespress.com/%d9%84%d9%82%d8%ac%d8%b9-%d9%8a%d8%b9%d9%84%d9%86-%d8%a3%d9%85%d8%a7%d9%85-%d8%a7%d9%84%d8%a8%d8%a7%d8%b7%d8%b1%d9%88%d9%86%d8%a7-%d8%b9%d9%86-%d8%a5%d8%ac%d8%b1%d8%a7%d8%a1%d8%a7%d8%aa-%d9%85-1805308.html",
        "source": "Hespress",
-       "published_at": "2026-09-10 15:03"
+       "published_at": "2026-09-10 17:55"
       }
      ]
     },
@@ -280,10 +291,64 @@
      "label": "More headlines",
      "articles": [
       {
-       "title": "المغرب يتمسك بالشراكة مع إسبانيا ضد المزايدات السياسية بشأن الهجرة",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d9%8a%d8%aa%d9%85%d8%b3%d9%83-%d8%a8%d8%a7%d9%84%d8%b4%d8%b1%d8%a7%d9%83%d8%a9-%d9%85%d8%b9-%d8%a5%d8%b3%d8%a8%d8%a7%d9%86%d9%8a%d8%a7-%d8%b6%d8%af-%d8%a7%d9%84-1805271.html",
+       "title": "تحقيق يطال دعاية انتخابية بشيشاوة",
+       "url": "https://www.hespress.com/%d8%aa%d8%ad%d9%82%d9%8a%d9%82-%d9%8a%d8%b7%d8%a7%d9%84-%d8%af%d8%b9%d8%a7%d9%8a%d8%a9-%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d9%8a%d8%a9-%d8%a8%d8%b4%d9%8a%d8%b4%d8%a7%d9%88%d8%a9-1805348.html",
        "source": "Hespress",
-       "published_at": "2026-09-10 16:34"
+       "published_at": "2026-09-10 19:16"
+      },
+      {
+       "title": "دراسات أولية تمهد لتطوير أول مشروع للطاقة الريحية البحرية بالمغرب",
+       "url": "https://www.hespress.com/%d8%af%d8%b1%d8%a7%d8%b3%d8%a7%d8%aa-%d8%a3%d9%88%d9%84%d9%8a%d8%a9-%d8%aa%d9%85%d9%87%d8%af-%d9%84%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d8%a3%d9%88%d9%84-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d9%84%d8%b7%d8%a7-1804620.html",
+       "source": "Hespress",
+       "published_at": "2026-09-10 18:50"
+      },
+      {
+       "title": "إسبانيا تجهز لزيارة ملكية إلى سبتة",
+       "url": "https://www.hespress.com/%d8%a5%d8%b3%d8%a8%d8%a7%d9%86%d9%8a%d8%a7-%d8%aa%d8%ac%d9%87%d8%b2-%d9%84%d8%b2%d9%8a%d8%a7%d8%b1%d8%a9-%d9%85%d9%84%d9%83%d9%8a%d8%a9-%d8%a5%d9%84%d9%89-%d8%b3%d8%a8%d8%aa%d8%a9-1805191.html",
+       "source": "Hespress",
+       "published_at": "2026-09-10 18:43"
+      },
+      {
+       "title": "\"البام\" يطلق حملته الانتخابية",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%a8%d8%a7%d9%85-%d9%8a%d8%b7%d9%84%d9%82-%d8%ad%d9%85%d9%84%d8%aa%d9%87-%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d9%8a%d8%a9-1805329.html",
+       "source": "Hespress",
+       "published_at": "2026-09-10 18:38"
+      },
+      {
+       "title": "ليبيريا تجدد تأكيد دعم وحدة المغرب",
+       "url": "https://www.hespress.com/%d9%84%d9%8a%d8%a8%d9%8a%d8%b1%d9%8a%d8%a7-%d8%aa%d8%ac%d8%af%d8%af-%d8%aa%d8%a3%d9%83%d9%8a%d8%af-%d8%af%d8%b9%d9%85-%d9%88%d8%ad%d8%af%d8%a9-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-1805279.html",
+       "source": "Hespress",
+       "published_at": "2026-09-10 18:06"
+      },
+      {
+       "title": "فؤاد الصحابي: الورم السرطاني تقلص",
+       "url": "https://www.hespress.com/%d9%81%d8%a4%d8%a7%d8%af-%d8%a7%d9%84%d8%b5%d8%ad%d8%a7%d8%a8%d9%8a-%d8%a7%d9%84%d9%88%d8%b1%d9%85-%d8%a7%d9%84%d8%b3%d8%b1%d8%b7%d8%a7%d9%86%d9%8a-%d8%aa%d9%82%d9%84%d8%b5-1805301.html",
+       "source": "Hespress",
+       "published_at": "2026-09-10 17:33"
+      },
+      {
+       "title": "هيئات المحامين تواصل الإضراب",
+       "url": "https://www.hespress.com/%d9%87%d9%8a%d8%a6%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d8%ad%d8%a7%d9%85%d9%8a%d9%86-%d8%aa%d9%88%d8%a7%d8%b5%d9%84-%d8%a7%d9%84%d8%a5%d8%b6%d8%b1%d8%a7%d8%a8-1805282.html",
+       "source": "Hespress",
+       "published_at": "2026-09-10 17:32"
+      },
+      {
+       "title": "انخفاض مؤشرات بورصة الدار البيضاء",
+       "url": "https://www.hespress.com/%d8%a7%d9%86%d8%ae%d9%81%d8%a7%d8%b6-%d9%85%d8%a4%d8%b4%d8%b1%d8%a7%d8%aa-%d8%a8%d9%88%d8%b1%d8%b5%d8%a9-%d8%a7%d9%84%d8%af%d8%a7%d8%b1-%d8%a7%d9%84%d8%a8%d9%8a%d8%b6%d8%a7%d8%a1-1805187.html",
+       "source": "Hespress",
+       "published_at": "2026-09-10 17:20"
+      },
+      {
+       "title": "Tanjazz, les Baronnes de Molenbeek, Aziz Benja à Marrakech...Les sorties de la semaine",
+       "url": "https://telquel.ma/2026/09/10/tanjazz-les-baronnes-de-molenbeek-aziz-benja-a-marrakech-les-sorties-de-la-semaine_2007012",
+       "source": "TelQuel",
+       "published_at": "2026-09-10 17:13"
+      },
+      {
+       "title": "Législatives 2026 : faire du neuf avec du vieux… mais sans les jeunes",
+       "url": "https://telquel.ma/2026/09/10/legislatives-2026-faire-du-neuf-avec-du-vieux-mais-sans-les-jeunes_2007001",
+       "source": "TelQuel",
+       "published_at": "2026-09-10 16:58"
       },
       {
        "title": "Équipements hospitaliers : les 6 MMDH des GST à l'épreuve des impayés",
@@ -292,70 +357,10 @@
        "published_at": "2026-09-10 16:27"
       },
       {
-       "title": "الطاكسيات الصغيرة بالبيضاء",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%b7%d8%a7%d9%83%d8%b3%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d8%b5%d8%ba%d9%8a%d8%b1%d8%a9-%d8%a8%d8%a7%d9%84%d8%a8%d9%8a%d8%b6%d8%a7%d8%a1-1805213.html",
-       "source": "Hespress",
-       "published_at": "2026-09-10 16:27"
-      },
-      {
-       "title": "التمديد يلازم إضراب المحامين بالمغرب",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%aa%d9%85%d8%af%d9%8a%d8%af-%d9%8a%d9%84%d8%a7%d8%b2%d9%85-%d8%a5%d8%b6%d8%b1%d8%a7%d8%a8-%d8%a7%d9%84%d9%85%d8%ad%d8%a7%d9%85%d9%8a%d9%86-%d8%a8%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-1805241.html",
-       "source": "Hespress",
-       "published_at": "2026-09-10 16:21"
-      },
-      {
        "title": "Espagne : le Parlement approuve le “recouvrement” de la nationalité espagnole aux Sahraouis nés avant 1977",
        "url": "https://telquel.ma/instant-t/2026/09/10/espagne-le-parlement-approuve-le-recouvrement-de-la-nationalite-espagnole-aux-sahraouis-nes-avant-1977_2006992/",
        "source": "TelQuel",
        "published_at": "2026-09-10 16:14"
-      },
-      {
-       "title": "كوكوس: الإقبال على \"البام بلا ريال\"",
-       "url": "https://www.hespress.com/%d9%83%d9%88%d9%83%d9%88%d8%b3-%d8%a7%d9%84%d8%a5%d9%82%d8%a8%d8%a7%d9%84-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d8%a8%d8%a7%d9%85-%d8%a8%d9%84%d8%a7-%d8%b1%d9%8a%d8%a7%d9%84-1805217.html",
-       "source": "Hespress",
-       "published_at": "2026-09-10 16:07"
-      },
-      {
-       "title": "بنعلي: تراجع معدلات الخصوبة خطر .. و\"لا مونديال بتفشي الأمية\"",
-       "url": "https://www.hespress.com/%d8%a8%d9%86%d8%b9%d9%84%d9%8a-%d8%aa%d8%b1%d8%a7%d8%ac%d8%b9-%d9%85%d8%b9%d8%af%d9%84%d8%a7%d8%aa-%d8%a7%d9%84%d8%ae%d8%b5%d9%88%d8%a8%d8%a9-%d8%ae%d8%b7%d8%b1-%d9%88%d9%84%d8%a7-%d9%85%d9%88-1805158.html",
-       "source": "Hespress",
-       "published_at": "2026-09-10 16:00"
-      },
-      {
-       "title": "La musique marocaine à l'honneur au 21e festival Arabesques de Montpellier",
-       "url": "https://telquel.ma/instant-t/2026/09/10/la-musique-marocaine-a-lhonneur-au-21e-festival-arabesques-de-montpellier_2006951/",
-       "source": "TelQuel",
-       "published_at": "2026-09-10 15:53"
-      },
-      {
-       "title": "Elections 2026 : le ministère de l’Intérieur fait le point sur les candidatures",
-       "url": "https://telquel.ma/instant-t/2026/09/10/elections-2026-le-ministere-de-linterieur-fait-le-point-sur-les-candidatures_2006958/",
-       "source": "TelQuel",
-       "published_at": "2026-09-10 15:50"
-      },
-      {
-       "title": "CNSS : en 2025, 57% des salariés déclarés percevaient un salaire inférieur ou égal à 4 000 dirhams",
-       "url": "https://telquel.ma/instant-t/2026/09/10/cnss-en-2025-57-des-salaries-declares-percevaient-un-salaire-inferieur-ou-egal-a-4-000-dirhams_2006947/",
-       "source": "TelQuel",
-       "published_at": "2026-09-10 15:47"
-      },
-      {
-       "title": "خطة \"الاتحاد الاشتراكي\" للانتخابات",
-       "url": "https://www.hespress.com/__trashed-136-1805186.html",
-       "source": "Hespress",
-       "published_at": "2026-09-10 15:36"
-      },
-      {
-       "title": "مخرجات المجلس الحكومي",
-       "url": "https://www.hespress.com/%d9%85%d8%ae%d8%b1%d8%ac%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d8%ac%d9%84%d8%b3-%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d9%8a-1805220.html",
-       "source": "Hespress",
-       "published_at": "2026-09-10 15:28"
-      },
-      {
-       "title": "ميسي يقترب من شراء ناد إسباني ثان",
-       "url": "https://www.hespress.com/%d9%85%d9%8a%d8%b3%d9%8a-%d9%8a%d9%82%d8%aa%d8%b1%d8%a8-%d9%85%d9%86-%d8%b4%d8%b1%d8%a7%d8%a1-%d9%86%d8%a7%d8%af-%d8%a5%d8%b3%d8%a8%d8%a7%d9%86%d9%8a-%d8%ab%d8%a7%d9%86-1805100.html",
-       "source": "Hespress",
-       "published_at": "2026-09-10 15:22"
       }
      ]
     }
@@ -369,36 +374,19 @@
    "note": null,
    "clusters": [
     {
-     "label": "Naar",
+     "label": "Zorgpremie",
      "articles": [
       {
-       "title": "Premier League herstelt traditie en keert terug naar meerdere duels op tweede kerstdag",
-       "url": "https://www.telegraaf.nl/sport/premier-league-herstelt-traditie-en-keert-terug-naar-meerdere-duels-op-tweede-kerstdag/159231816.html",
+       "title": "Zorgpremie opnieuw omhoog: ‘Gigantisch bedrag’",
+       "url": "https://www.telegraaf.nl/video/zorgpremie-opnieuw-omhoog-gigantisch-bedrag/161282825.html",
        "source": "de Telegraaf",
-       "published_at": "2026-09-10 15:21"
+       "published_at": "2026-09-10 17:04"
       },
       {
-       "title": "Kabinet doet geen aangifte naar aanleiding van datakluis: 'Luiken gaan dan dicht'",
-       "url": "https://www.nu.nl/politiek/6409312/kabinet-doet-geen-aangifte-naar-aanleiding-van-datakluis-luiken-gaan-dan-dicht.html",
-       "source": "NU.nl",
-       "published_at": "2026-09-10 13:03"
-      }
-     ]
-    },
-    {
-     "label": "Arbeidsmigrant",
-     "articles": [
-      {
-       "title": "Werkgever mag straks geen huur meer inhouden op minimumloon arbeidsmigrant",
-       "url": "https://www.nu.nl/economie/6409316/werkgever-mag-straks-geen-huur-meer-inhouden-op-minimumloon-arbeidsmigrant.html",
-       "source": "NU.nl",
-       "published_at": "2026-09-10 13:36"
-      },
-      {
-       "title": "Kabinet komt alsnog met verbod om loon in te houden voor huis arbeidsmigrant",
-       "url": "https://www.telegraaf.nl/politiek/kabinet-komt-alsnog-met-verbod-om-loon-in-te-houden-voor-huis-arbeidsmigrant/161247426.html",
+       "title": "Uitgelekte Prinsjesdagcijfers: zorgpremie stijgt volgend jaar met tientje per maand",
+       "url": "https://www.telegraaf.nl/politiek/uitgelekte-prinsjesdagcijfers-zorgpremie-stijgt-volgend-jaar-met-tientje-per-maand/161280132.html",
        "source": "de Telegraaf",
-       "published_at": "2026-09-10 13:00"
+       "published_at": "2026-09-10 16:20"
       }
      ]
     },
@@ -406,10 +394,10 @@
      "label": "More headlines",
      "articles": [
       {
-       "title": "Uitgelekte Prinsjesdagcijfers: zorgpremie stijgt volgend jaar met tientje per maand",
-       "url": "https://www.telegraaf.nl/politiek/uitgelekte-prinsjesdagcijfers-zorgpremie-stijgt-volgend-jaar-met-tientje-per-maand/161280132.html",
+       "title": "Wat je niet ziet op tv: koude oorlog achter de schermen bij reünie B&B vol liefde",
+       "url": "https://www.telegraaf.nl/entertainment/gossip/wat-je-niet-ziet-op-tv-koude-oorlog-achter-de-schermen-bij-reunie-bb-vol-liefde/161270850.html",
        "source": "de Telegraaf",
-       "published_at": "2026-09-10 16:21"
+       "published_at": "2026-09-10 17:30"
       },
       {
        "title": "Zorgcentrum Ter Apel zet beveiliging in na overlast rondhangende asielzoekers",
@@ -418,21 +406,21 @@
        "published_at": "2026-09-10 15:29"
       },
       {
+       "title": "Premier League herstelt traditie en keert terug naar meerdere duels op tweede kerstdag",
+       "url": "https://www.telegraaf.nl/sport/premier-league-herstelt-traditie-en-keert-terug-naar-meerdere-duels-op-tweede-kerstdag/159231816.html",
+       "source": "de Telegraaf",
+       "published_at": "2026-09-10 15:21"
+      },
+      {
        "title": "Grootschalige Europese fraude met slacht- en sportpaarden, NVWA doet invallen",
        "url": "https://www.nu.nl/economie/6409332/grootschalige-europese-fraude-met-slacht-en-sportpaarden-nvwa-doet-invallen.html",
        "source": "NU.nl",
        "published_at": "2026-09-10 15:05"
-      },
-      {
-       "title": "Vrachtwagen botst op pijlwagen bij Terschuur, kort daarna botsing met berger",
-       "url": "https://www.nu.nl/binnenland/6409310/vrachtwagen-botst-op-pijlwagen-bij-terschuur-kort-daarna-botsing-met-berger.html",
-       "source": "NU.nl",
-       "published_at": "2026-09-10 12:53"
       }
      ]
     }
    ],
-   "count": 8
+   "count": 6
   },
   {
    "key": "mideast",
@@ -441,10 +429,16 @@
    "note": null,
    "clusters": [
     {
-     "label": "Houthis · Mocha",
+     "label": "Houthis · Seize",
      "articles": [
       {
-       "title": "Houthis capture Yemeni town of Mocha: Why it matters",
+       "title": "Yemen's Houthis reportedly seize strategic Red Sea port of Mokha",
+       "url": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&at_campaign=rss",
+       "source": "BBC World",
+       "published_at": "2026-09-10 18:15"
+      },
+      {
+       "title": "Houthis capture Yemeni town of Mocha: Why it’s important",
        "url": "https://www.aljazeera.com/news/2026/9/10/houthis-capture-yemeni-town-of-mocha-why-it-matters?traffic_source=rss",
        "source": "Al Jazeera",
        "published_at": "2026-09-10 14:53"
@@ -456,28 +450,22 @@
        "published_at": "2026-09-10 14:16"
       },
       {
-       "title": "Houthis advance along Yemen’s southern Red Sea coast",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/10/houthis-advance-along-yemens-southern-red-sea-coast?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-09-10 13:14"
-      },
-      {
        "title": "Houthis seize key Yemeni port of Mocha in drive to take control of Red Sea coast",
        "url": "https://www.theguardian.com/world/2026/sep/10/houthis-seize-key-port-mocha-yemen-red-sea-coast-iran-saudi-arabia-us",
        "source": "Guardian World",
        "published_at": "2026-09-10 11:39"
-      },
-      {
-       "title": "The Houthis are testing the limits of Saudi restraint",
-       "url": "https://www.aljazeera.com/opinions/2026/9/10/the-houthis-are-testing-the-limits-of-saudi-restraint?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-09-10 11:17"
       }
      ]
     },
     {
-     "label": "Israeli",
+     "label": "Israeli · Gaza",
      "articles": [
+      {
+       "title": "Family of four killed as they slept in Israeli strike on Gaza",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/10/family-of-four-killed-as-they-slept-in-israeli-strike-on-gaza?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-09-10 17:32"
+      },
       {
        "title": "Jerusalem Daily: Israeli strikes devastate Gaza",
        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/10/jerusalem-daily-israeli-strikes-devastate-gaza?traffic_source=rss",
@@ -489,12 +477,6 @@
        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/10/protests-outside-israeli-embassy-in-bangkok-over-badly-behaved-tourists?traffic_source=rss",
        "source": "Al Jazeera",
        "published_at": "2026-09-10 14:42"
-      },
-      {
-       "title": "Grace Tame apologises for comments labelling rape of Israeli women during Hamas attacks ‘propaganda’",
-       "url": "https://www.theguardian.com/australia-news/2026/sep/10/grace-tame-apologises-for-comments-labelling-of-israeli-women-during-hamas-attacks-propaganda-ntwnfb",
-       "source": "Guardian World",
-       "published_at": "2026-09-10 08:22"
       }
      ]
     },
@@ -502,27 +484,33 @@
      "label": "Israel",
      "articles": [
       {
+       "title": "Israel arrests 100 Palestinians in a week as West Bank pogroms continue",
+       "url": "https://www.aljazeera.com/news/2026/9/10/israel-arrests-100-palestinians-in-a-week-as-west-bank-pogroms-continue?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-09-10 17:00"
+      },
+      {
+       "title": "Israel's Netanyahu to sue newspaper over claim UAE warned him of 7 October attack",
+       "url": "https://www.bbc.co.uk/news/articles/c1kxwm870g1o?at_medium=RSS&at_campaign=rss",
+       "source": "BBC World",
+       "published_at": "2026-09-10 15:54"
+      },
+      {
        "title": "Secret systems used by Israel in mass killings of Gaza civilians revealed in new film",
        "url": "https://www.theguardian.com/world/2026/sep/10/secret-systems-used-by-israel-in-mass-killings-of-gaza-civilians-revealed-in-new-film",
        "source": "Guardian World",
        "published_at": "2026-09-10 13:42"
-      },
-      {
-       "title": "Israel will never stop me speaking up for Palestine",
-       "url": "https://www.aljazeera.com/opinions/2026/9/10/israel-will-never-stop-me-speaking-up-for-palestine?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-09-10 12:16"
       }
      ]
     },
     {
-     "label": "Iran",
+     "label": "Iran · Trump",
      "articles": [
       {
-       "title": "IAEA accuses Iran of ‘noncompliance’",
-       "url": "https://www.aljazeera.com/news/2026/9/10/iaea-accuses-iran-of-non-compliance-why-and-what-now?traffic_source=rss",
+       "title": "Trump’s Iran war now has a midterm election problem",
+       "url": "https://www.aljazeera.com/news/2026/9/10/trumps-iran-war-now-has-a-midterm-election-problem?traffic_source=rss",
        "source": "Al Jazeera",
-       "published_at": "2026-09-10 10:59"
+       "published_at": "2026-09-10 16:43"
       },
       {
        "title": "Iran war won't end until after crucial November elections, says Trump",
@@ -542,8 +530,20 @@
    "note": null,
    "clusters": [
     {
-     "label": "Russia · Black",
+     "label": "Russia · Ukraine",
      "articles": [
+      {
+       "title": "Amnesty accuses Russia of trafficking foreigners to fight in Ukraine",
+       "url": "https://www.aljazeera.com/news/2026/9/10/amnesty-accuses-russia-of-trafficking-foreigners-to-fight-in-ukraine?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-09-10 19:02"
+      },
+      {
+       "title": "Ukraine war latest: Russia's recruitment of foreign nationals 'amounts to human trafficking'",
+       "url": "https://kyivindependent.com/ukraine-war-latest-russias-recruitment-of-foreign-nationals-amounts-to-human-trafficking/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-09-10 17:40"
+      },
       {
        "title": "Global grain prices rise as Russia-Ukraine war escalates in Black Sea",
        "url": "https://kyivindependent.com/how-is-russia-ukraine-war-disrupting-global-grain-supply/",
@@ -561,18 +561,23 @@
        "url": "https://kyivindependent.com/russia-sanctions-bill-faces-make-or-break-moment-before-us-midterms-ukraine-says/",
        "source": "Kyiv Independent",
        "published_at": "2026-09-10 15:00"
-      },
+      }
+     ]
+    },
+    {
+     "label": "Ukraine",
+     "articles": [
       {
-       "title": "2 Azerbaijanis killed in drone attack as Russia strikes ships in Black Sea",
-       "url": "https://kyivindependent.com/azerbaijanis-killed-in-drone-attack-as-russia-strikes-ships-in-black-sea/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-09-10 14:15"
-      },
-      {
-       "title": "Japan seeks change to new UN world map over Russia 'misconception'",
-       "url": "https://www.theguardian.com/world/2026/sep/10/japan-seeks-change-to-new-un-world-map-over-russia-misconception",
+       "title": "Orthodox church sends medieval prince’s remains to Russian troops in Ukraine",
+       "url": "https://www.theguardian.com/world/2026/sep/10/russia-orthodox-church-dmitry-donskoy-medieval-prince-hand-troops-ukraine",
        "source": "Guardian World",
-       "published_at": "2026-09-10 12:55"
+       "published_at": "2026-09-10 15:12"
+      },
+      {
+       "title": "Kremlin calls energy sector Ukraine's 'Achilles' heel' as it dismisses aerial truce",
+       "url": "https://kyivindependent.com/russia-rejects-aerial-truce/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-09-10 14:30"
       }
      ]
     },
@@ -584,12 +589,6 @@
        "url": "https://kyivindependent.com/4-dead-including-3-teenage-boys-after-russian-attack-on-pavlohrad-shopping-center/",
        "source": "Kyiv Independent",
        "published_at": "2026-09-10 16:29"
-      },
-      {
-       "title": "Orthodox church sends medieval prince’s remains to Russian troops in Ukraine",
-       "url": "https://www.theguardian.com/world/2026/sep/10/russia-orthodox-church-dmitry-donskoy-medieval-prince-hand-troops-ukraine",
-       "source": "Guardian World",
-       "published_at": "2026-09-10 15:12"
       },
       {
        "title": "NATO allies disrupt Russian exercise involving secret weapon targeting subsea cables, Reuters reports",
@@ -606,25 +605,19 @@
      ]
     },
     {
-     "label": "More headlines",
+     "label": "Drone",
      "articles": [
       {
-       "title": "Kremlin calls energy sector Ukraine's 'Achilles' heel' as it dismisses aerial truce",
-       "url": "https://kyivindependent.com/russia-rejects-aerial-truce/",
+       "title": "'Until safer times' — Kyiv’s cultural life pauses as the city adjusts to new drone threats",
+       "url": "https://kyivindependent.com/until-safer-times-kyivs-cultural-life-pauses-as-the-city-adjusts-to-new-drone-threats/",
        "source": "Kyiv Independent",
-       "published_at": "2026-09-10 14:30"
+       "published_at": "2026-09-10 16:55"
       },
       {
-       "title": "Fact check: Why is Russia claiming Western 'interference' in Duma elections?",
-       "url": "https://kyivindependent.com/fact-check-why-is-russia-claiming-western-interference-ahead-of-state-duma-vote/",
+       "title": "2 Azerbaijanis killed in drone attack as Russia strikes ships in Black Sea",
+       "url": "https://kyivindependent.com/azerbaijanis-killed-in-drone-attack-as-russia-strikes-ships-in-black-sea/",
        "source": "Kyiv Independent",
-       "published_at": "2026-09-10 11:26"
-      },
-      {
-       "title": "Russia's recruitment of foreign nationals amounts to human trafficking, Amnesty International says",
-       "url": "https://kyivindependent.com/russias-recruitment-of-foreign-nationals-amounts-to-human-trafficking-amnesty-international-says/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-09-10 10:50"
+       "published_at": "2026-09-10 14:15"
       }
      ]
     }
