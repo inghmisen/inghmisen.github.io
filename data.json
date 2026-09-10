@@ -1,12 +1,12 @@
 {
- "date": "Wednesday 9 September 2026",
- "generated_at": "23:05 UTC",
+ "date": "Thursday 10 September 2026",
+ "generated_at": "01:20 UTC",
  "error": null,
  "total_stories": 73,
  "fx": {
   "pair": "EUR/MAD",
-  "rate": 10.911,
-  "change_pct": 0.0
+  "rate": 10.891,
+  "change_pct": -0.18
  },
  "lanes": [
   {
@@ -19,25 +19,25 @@
      "label": "Qwen · Gguf",
      "articles": [
       {
+       "title": "Running qwen 3.8 27B iq3 xxs on RTX 3060.",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wc2cs2/running_qwen_38_27b_iq3_xxs_on_rtx_3060/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-09 23:42"
+      },
+      {
        "title": "Adding emotion control tags to Qwen3-TTS",
        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wbvrjg/adding_emotion_control_tags_to_qwen3tts/",
        "source": "r/LocalLLaMA",
        "published_at": "2026-09-09 19:34"
       },
       {
-       "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
-       "url": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
-       "source": "Hacker News",
-       "published_at": "2026-09-09 17:24"
-      },
-      {
-       "title": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF · 409 ♥",
+       "title": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF · 413 ♥",
        "url": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
        "source": "HF new models",
        "published_at": "2026-09-01 07:01"
       },
       {
-       "title": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF · 731 ♥",
+       "title": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF · 734 ♥",
        "url": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
        "source": "HF new models",
        "published_at": "2026-08-28 18:38"
@@ -45,7 +45,24 @@
      ]
     },
     {
-     "label": "Model · Releases",
+     "label": "Your",
+     "articles": [
+      {
+       "title": "I made a way to migrate between embedding models without re-embedding your entire corpus",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wc30q1/i_made_a_way_to_migrate_between_embedding_models/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-10 00:10"
+      },
+      {
+       "title": "Apple’s new iPhone camera mode promises to prove your photo isn’t AI",
+       "url": "https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image",
+       "source": "Verge AI",
+       "published_at": "2026-09-09 19:30"
+      }
+     ]
+    },
+    {
+     "label": "Model",
      "articles": [
       {
        "title": "Suno releases its first AI music model made with record industry help",
@@ -58,29 +75,6 @@
        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wbvd2i/would_you_consider_5ts_usable_for_a_local_model/",
        "source": "r/LocalLLaMA",
        "published_at": "2026-09-09 19:20"
-      },
-      {
-       "title": "I trained an audio model that can generate infinite one-shots for music production and turn text prompts into fully playable synths. I'm not only releasing the model but I've also released a video on exactly how I did it (and the inferencing pipeline to let others make text based synths.)",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wbtqt7/i_trained_an_audio_model_that_can_generate/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-09-09 18:24"
-      }
-     ]
-    },
-    {
-     "label": "Apple",
-     "articles": [
-      {
-       "title": "Apple A20 Pro debuts with 7-core GPU, 32-core Neural Engine and 50% more memory bandwidth (~115 GB/s)",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wc0ekw/apple_a20_pro_debuts_with_7core_gpu_32core_neural/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-09-09 22:23"
-      },
-      {
-       "title": "Apple’s new iPhone camera mode promises to prove your photo isn’t AI",
-       "url": "https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image",
-       "source": "Verge AI",
-       "published_at": "2026-09-09 19:30"
       }
      ]
     },
@@ -105,6 +99,18 @@
      "label": "More headlines",
      "articles": [
       {
+       "title": "Muse, the band, lost its social media handles to Muse, Meta's new AI agent",
+       "url": "https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent/",
+       "source": "Hacker News",
+       "published_at": "2026-09-09 23:57"
+      },
+      {
+       "title": "Apple A20 Pro debuts with 7-core GPU, 32-core Neural Engine and 50% more memory bandwidth (~115 GB/s)",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wc0ekw/apple_a20_pro_debuts_with_7core_gpu_32core_neural/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-09 22:23"
+      },
+      {
        "title": "Don't let FOMO win if you're interested in local llm from a hobby/learning aspect",
        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wbufx5/dont_let_fomo_win_if_youre_interested_in_local/",
        "source": "r/LocalLLaMA",
@@ -117,13 +123,7 @@
        "published_at": "2026-09-09 18:27"
       },
       {
-       "title": "Solved: LLM inference on Windows was 2–3x slower when the server window wasn't focused",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wbtmjg/solved_llm_inference_on_windows_was_23x_slower/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-09-09 18:20"
-      },
-      {
-       "title": "openbmb/MiniCPM5-2B · 902 ♥",
+       "title": "openbmb/MiniCPM5-2B · 930 ♥",
        "url": "https://huggingface.co/openbmb/MiniCPM5-2B",
        "source": "HF new models",
        "published_at": "2026-09-06 11:12"
@@ -141,7 +141,7 @@
        "published_at": "2026-09-01 23:01"
       },
       {
-       "title": "dealignai/GLM-5.3-CYBERSECURITY-FP8 · 354 ♥",
+       "title": "dealignai/GLM-5.3-CYBERSECURITY-FP8 · 356 ♥",
        "url": "https://huggingface.co/dealignai/GLM-5.3-CYBERSECURITY-FP8",
        "source": "HF new models",
        "published_at": "2026-08-30 10:46"
@@ -158,23 +158,6 @@
    "note": null,
    "clusters": [
     {
-     "label": "Moet",
-     "articles": [
-      {
-       "title": "‘Ik weet niet zo goed wat ik hier moet doen’",
-       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWGlRLUNNVTdlb3ItVjVPb1NjVk9aN204SFNoZE52ZEZZdm0yU3A5NXJvUTY5UW5ma0xNNG1iS1IxeEh1UEJpVmRiaWVFYnlnZVhoLXdpUDdzN2x6TWcwaEFQSnY4WG5NTHNlT3l0UUJpQUxrM2NSTnBSRVQ1Ti12S3h3?oc=5",
-       "source": "UToday",
-       "published_at": "2026-08-19 14:47"
-      },
-      {
-       "title": "Pakkerij moet per direct deuren sluiten na inspectie",
-       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcmppb3BwZ0tnV21aNTBCQm1EQzhudzZDeW1BUU5VZ0Y0NjlBUHFkUUNoNWNYeUtNWjZ3Zk9QbTF3VGZydTdBbUk0NzJtVFpONlVfLXZwbm9HNXhEX1p2WEFUTU1GeTQzVWtQcjdZWnJ3eUFjZVd6SFFSZWRBdVdweGNiRUFBcWIwZ3NtNUdn?oc=5",
-       "source": "UToday",
-       "published_at": "2026-05-21 07:00"
-      }
-     ]
-    },
-    {
      "label": "Grote · Bestuursfotoverkiezing",
      "articles": [
       {
@@ -188,6 +171,23 @@
        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMUh5OFBxVGtqWTNXUG1kTUIxTFZSN0xwd0JWWXk4elRvdi1mZW4tYUxhU0VBOGRfQVA3bXpqaURjTUJjR1Ftb0M4QkZpQ01Mc2dZTTQzT29laXNENldKNzhOcFJ0NUtOYlNKT2dYNVYtWVRaZjU3SlAwQWs3R09TZjJaNHg5QjhuMmVPTlJjMEMzRmlXUm1Sd3luU0tGcWst?oc=5",
        "source": "UToday",
        "published_at": "2026-05-27 07:00"
+      }
+     ]
+    },
+    {
+     "label": "Twente",
+     "articles": [
+      {
+       "title": "Twente-based PhD research aims to protect the Javan leopard",
+       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQU3UxNG00eUZ2OERKMHpaYkluanl6dm1UdWJocHdrSGdDemtIeG5RNkF1bGc0QlNKeU1td3BjNEpyRFRGOEduZTRIWXMzV1B6MjR2bXVzVFM3cTlOeWtTempUY21TVlJsdXQ4WWY5aEYyR3BxQkYzRk9mWElEWnQ3a1NObzR0Uy1ZRG1WazdQQ3BBWWg1d0pPYkxBbw?oc=5",
+       "source": "UToday",
+       "published_at": "2026-05-27 07:00"
+      },
+      {
+       "title": "Nieuwe boot, nieuwe naam: Solar Boat Twente wordt Surge Twente",
+       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdzd2ektTVWYwdzRHVzNtRy0yVzR6VzFEQk9fUXNXZkhxbVEwV0FfQ2VvTURyX0xQdE5sUldlWFlhblB4OXl0ZGJZRE11WWdpSjlPQlhacloyRjdvcjJzZVVlR2IwTW1wTDh3dzN4cUVRMlZMdzlsUHdEQ0hUVUxQOHc3aG5naWpwT1Y0ZWwwTUxzZ2g5ZVp1Zg?oc=5",
+       "source": "UToday",
+       "published_at": "2026-05-07 07:00"
       }
      ]
     },
@@ -213,16 +213,16 @@
        "published_at": "2026-06-01 07:00"
       },
       {
-       "title": "Twente-based PhD research aims to protect the Javan leopard",
-       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQU3UxNG00eUZ2OERKMHpaYkluanl6dm1UdWJocHdrSGdDemtIeG5RNkF1bGc0QlNKeU1td3BjNEpyRFRGOEduZTRIWXMzV1B6MjR2bXVzVFM3cTlOeWtTempUY21TVlJsdXQ4WWY5aEYyR3BxQkYzRk9mWElEWnQ3a1NObzR0Uy1ZRG1WazdQQ3BBWWg1d0pPYkxBbw?oc=5",
-       "source": "UToday",
-       "published_at": "2026-05-27 07:00"
-      },
-      {
        "title": "Inter-Actief throws computers to mark anniversary",
        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQT29BdUtWMzZVZGRpYTF4N1lCalhLcUE2YnJnY1JHb0xVQ0EyTVpmYm9aR1FBaHN4QVFMcTBjRUJlcl81SmxWVFlGRndfbkdISVp4RXlSenl6Y29UdWduNE1fUE5Xa19Ca2owNFlsUllfbWhkbkVCZkVKaGExM24yOW16NFZsbmtjMUk0cjFUbkhNV2M?oc=5",
        "source": "UToday",
        "published_at": "2026-05-23 07:00"
+      },
+      {
+       "title": "Pakkerij moet per direct deuren sluiten na inspectie",
+       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcmppb3BwZ0tnV21aNTBCQm1EQzhudzZDeW1BUU5VZ0Y0NjlBUHFkUUNoNWNYeUtNWjZ3Zk9QbTF3VGZydTdBbUk0NzJtVFpONlVfLXZwbm9HNXhEX1p2WEFUTU1GeTQzVWtQcjdZWnJ3eUFjZVd6SFFSZWRBdVdweGNiRUFBcWIwZ3NtNUdn?oc=5",
+       "source": "UToday",
+       "published_at": "2026-05-21 07:00"
       },
       {
        "title": "Cantus van Ius Sanctus op Oude Markt voor goede doel",
@@ -242,42 +242,25 @@
    "note": null,
    "clusters": [
     {
-     "label": "إلى",
+     "label": "المغرب",
      "articles": [
+      {
+       "title": "المغرب يوسع أبحاث الذكاء الاصطناعي لمواجهة مخاطر الإجهاد المائي",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d9%8a%d9%88%d8%b3%d8%b9-%d8%a3%d8%a8%d8%ad%d8%a7%d8%ab-%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1-%d8%a7%d9%84%d8%a7%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a-%d9%84%d9%85-1804454.html",
+       "source": "Hespress",
+       "published_at": "2026-09-10 00:00"
+      },
+      {
+       "title": "المغرب يخطط لتوحيد خدمات للوقاية",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d9%8a%d8%ae%d8%b7%d8%b7-%d9%84%d8%aa%d9%88%d8%ad%d9%8a%d8%af-%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d9%84%d9%84%d9%88%d9%82%d8%a7%d9%8a%d8%a9-1804598.html",
+       "source": "Hespress",
+       "published_at": "2026-09-09 22:37"
+      },
       {
        "title": "المغرب يرحل العشرات إلى السنغال",
        "url": "https://www.hespress.com/%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d9%8a%d8%b1%d8%ad%d9%84-%d8%a7%d9%84%d8%b9%d8%b4%d8%b1%d8%a7%d8%aa-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d8%b3%d9%86%d8%ba%d8%a7%d9%84-1804641.html",
        "source": "Hespress",
        "published_at": "2026-09-09 22:24"
-      },
-      {
-       "title": "من الصالون إلى تغيير المسار .. لقجع يفتح النار على خصوم \"البام\"",
-       "url": "https://www.hespress.com/%d9%85%d9%86-%d8%a7%d9%84%d8%b5%d8%a7%d9%84%d9%88%d9%86-%d8%a5%d9%84%d9%89-%d8%aa%d8%ba%d9%8a%d9%8a%d8%b1-%d8%a7%d9%84%d9%85%d8%b3%d8%a7%d8%b1-%d9%84%d9%82%d8%ac%d8%b9-%d9%8a%d9%81%d8%aa%d8%ad-1804877.html",
-       "source": "Hespress",
-       "published_at": "2026-09-09 22:00"
-      },
-      {
-       "title": "المحامون يترقبون نتائج اجتماع لتدارس العودة إلى أداء المهام القضائية",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%85%d8%ad%d8%a7%d9%85%d9%88%d9%86-%d9%8a%d8%aa%d8%b1%d9%82%d8%a8%d9%88%d9%86-%d9%86%d8%aa%d8%a7%d8%a6%d8%ac-%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9-%d9%84%d8%aa%d8%af%d8%a7%d8%b1%d8%b3-1804816.html",
-       "source": "Hespress",
-       "published_at": "2026-09-09 21:30"
-      }
-     ]
-    },
-    {
-     "label": "المنصوري",
-     "articles": [
-      {
-       "title": "المنصوري والأداء الحكومي",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%85%d9%86%d8%b5%d9%88%d8%b1%d9%8a-%d9%88%d8%a7%d9%84%d8%a3%d8%af%d8%a7%d8%a1-%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d9%8a-1804868.html",
-       "source": "Hespress",
-       "published_at": "2026-09-09 21:55"
-      },
-      {
-       "title": "المنصوري: \"البام\" يملك حصيلة حكومية مشرفة .. ويبتغي المرتبة الأولى",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%85%d9%86%d8%b5%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%a8%d8%a7%d9%85-%d9%8a%d9%85%d9%84%d9%83-%d8%ad%d8%b5%d9%8a%d9%84%d8%a9-%d8%ad%d9%83%d9%88%d9%85%d9%8a%d8%a9-%d9%85%d8%b4%d8%b1-1804828.html",
-       "source": "Hespress",
-       "published_at": "2026-09-09 21:00"
       }
      ]
     },
@@ -302,6 +285,42 @@
      "label": "More headlines",
      "articles": [
       {
+       "title": "الانتخابات تضع العدالة المجالية في مواجهة احتياجات المغاربة بالمدن والقرى",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-%d8%aa%d8%b6%d8%b9-%d8%a7%d9%84%d8%b9%d8%af%d8%a7%d9%84%d8%a9-%d8%a7%d9%84%d9%85%d8%ac%d8%a7%d9%84%d9%8a%d8%a9-%d9%81%d9%8a-%d9%85%d9%88-1804147.html",
+       "source": "Hespress",
+       "published_at": "2026-09-10 01:00"
+      },
+      {
+       "title": "برمجة قناطر بين القصر الكبير وطنجة",
+       "url": "https://www.hespress.com/%d8%a8%d8%b1%d9%85%d8%ac%d8%a9-%d9%82%d9%86%d8%a7%d8%b7%d8%b1-%d8%a8%d9%8a%d9%86-%d8%a7%d9%84%d9%82%d8%b5%d8%b1-%d8%a7%d9%84%d9%83%d8%a8%d9%8a%d8%b1-%d9%88%d8%b7%d9%86%d8%ac%d8%a9-1804721.html",
+       "source": "Hespress",
+       "published_at": "2026-09-10 00:41"
+      },
+      {
+       "title": "وثائقيات مغربية تحط الرحال بإسبانيا",
+       "url": "https://www.hespress.com/%d9%88%d8%ab%d8%a7%d8%a6%d9%82%d9%8a%d8%a7%d8%aa-%d9%85%d8%ba%d8%b1%d8%a8%d9%8a%d8%a9-%d8%aa%d8%ad%d8%b7-%d8%a7%d9%84%d8%b1%d8%ad%d8%a7%d9%84-%d8%a8%d8%a5%d8%b3%d8%a8%d8%a7%d9%86%d9%8a%d8%a7-1804485.html",
+       "source": "Hespress",
+       "published_at": "2026-09-10 00:19"
+      },
+      {
+       "title": "تحقيقات تطال صفقات في ثلاث جهات",
+       "url": "https://www.hespress.com/%d8%aa%d8%ad%d9%82%d9%8a%d9%82%d8%a7%d8%aa-%d8%aa%d8%b7%d8%a7%d9%84-%d8%b5%d9%81%d9%82%d8%a7%d8%aa-%d8%a8%d8%ab%d9%84%d8%a7%d8%ab-%d8%ac%d9%87%d8%a7%d8%aa-1804026.html",
+       "source": "Hespress",
+       "published_at": "2026-09-09 23:51"
+      },
+      {
+       "title": "بنسعيد: اعترفنا بالنجاح والإخفاق",
+       "url": "https://www.hespress.com/%d8%a8%d9%86%d8%b3%d8%b9%d9%8a%d8%af-%d8%a7%d8%b9%d8%aa%d8%b1%d9%81%d9%86%d8%a7-%d8%a8%d8%a7%d9%84%d9%86%d8%ac%d8%a7%d8%ad-%d9%88%d8%a7%d9%84%d8%a5%d8%ae%d9%81%d8%a7%d9%82-1804919.html",
+       "source": "Hespress",
+       "published_at": "2026-09-09 23:44"
+      },
+      {
+       "title": "المملكة تحصي 51 ألف مقاولة جديدة",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%85%d9%85%d9%84%d9%83%d8%a9-%d8%aa%d8%ad%d8%b5%d9%8a-51-%d8%a3%d9%84%d9%81-%d9%85%d9%82%d8%a7%d9%88%d9%84%d8%a9-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-1803280.html",
+       "source": "Hespress",
+       "published_at": "2026-09-09 23:22"
+      },
+      {
        "title": "الشمامي: اعتزلت كرة القدم بلا منزل .. والأخطاء التحكيمية تحبط الأندية",
        "url": "https://www.hespress.com/%d8%a7%d9%84%d8%b4%d9%85%d8%a7%d9%85%d9%8a-%d8%a7%d8%b9%d8%aa%d8%b2%d9%84%d8%aa-%d9%83%d8%b1%d8%a9-%d8%a7%d9%84%d9%82%d8%af%d9%85-%d8%a8%d9%84%d8%a7-%d9%85%d9%86%d8%b2%d9%84-%d9%88%d8%a7%d9%84-1804306.html",
        "source": "Hespress",
@@ -314,34 +333,10 @@
        "published_at": "2026-09-09 22:46"
       },
       {
-       "title": "المغرب يخطط لتوحيد خدمات للوقاية",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d9%8a%d8%ae%d8%b7%d8%b7-%d9%84%d8%aa%d9%88%d8%ad%d9%8a%d8%af-%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d9%84%d9%84%d9%88%d9%82%d8%a7%d9%8a%d8%a9-1804598.html",
-       "source": "Hespress",
-       "published_at": "2026-09-09 22:37"
-      },
-      {
        "title": "الموعد الانتخابي يضع الإعلام المغربي أمام تحديات الحياد والتضليل الرقمي",
        "url": "https://www.hespress.com/%d8%a7%d9%84%d9%85%d9%88%d8%b9%d8%af-%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d9%8a-%d9%8a%d8%b6%d8%b9-%d8%a7%d9%84%d8%a5%d8%b9%d9%84%d8%a7%d9%85-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8%d9%8a-1804898.html",
        "source": "Hespress",
        "published_at": "2026-09-09 22:30"
-      },
-      {
-       "title": "عبد الرحيم بوعيدة خارج الانتخابات",
-       "url": "https://www.hespress.com/%d8%b9%d8%a8%d8%af-%d8%a7%d9%84%d8%b1%d8%ad%d9%8a%d9%85-%d8%a8%d9%88%d8%b9%d9%8a%d8%af%d8%a9-%d8%ae%d8%a7%d8%b1%d8%ac-%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-1804903.html",
-       "source": "Hespress",
-       "published_at": "2026-09-09 21:50"
-      },
-      {
-       "title": "زيلينسكي يفلت من \"استهداف جوي\"",
-       "url": "https://www.hespress.com/%d8%b2%d9%8a%d9%84%d9%8a%d9%86%d8%b3%d9%83%d9%8a-%d9%8a%d9%81%d9%84%d8%aa-%d9%85%d9%86-%d8%a7%d8%b3%d8%aa%d9%87%d8%af%d8%a7%d9%81-%d8%ac%d9%88%d9%8a-1804867.html",
-       "source": "Hespress",
-       "published_at": "2026-09-09 21:22"
-      },
-      {
-       "title": "كوريا تدعم صناع السيارات بالمغرب",
-       "url": "https://www.hespress.com/%d9%83%d9%88%d8%b1%d9%8a%d8%a7-%d8%aa%d8%af%d8%b9%d9%85-%d8%b5%d9%86%d8%a7%d8%b9-%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a8%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-1804614.html",
-       "source": "Hespress",
-       "published_at": "2026-09-09 20:51"
       },
       {
        "title": "Sebta : La Commission européenne accorde 114,7 millions d'euros à l'Espagne",
@@ -416,31 +411,26 @@
    "note": null,
    "clusters": [
     {
-     "label": "Israel",
+     "label": "Iran · War",
      "articles": [
       {
-       "title": "Land in limbo: BBC visits West Bank village in area earmarked by Israel for settlement",
-       "url": "https://www.bbc.co.uk/news/videos/cy5zpze3qe3o?at_medium=RSS&at_campaign=rss",
-       "source": "BBC World",
-       "published_at": "2026-09-09 22:17"
-      },
-      {
-       "title": "Pro-Palestinian protesters oppose Israel embassy opening in Slovenia",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/09-09-sv-slovenia-protests-israeli-embassy-ljubljana-slov?traffic_source=rss",
+       "title": "Iran war live: Iran media say ‘enemy’ projectiles hit Sirik areas",
+       "url": "https://www.aljazeera.com/news/liveblog/2026/9/10/iran-war-live-iran-media-says-sirik-areas-hit-with-hostile-projectiles?traffic_source=rss",
        "source": "Al Jazeera",
-       "published_at": "2026-09-09 20:53"
+       "published_at": "2026-09-10 00:00"
       },
       {
-       "title": "‘It’s a good start’: prominent Israelis welcome UK sanctions on illegal settlements",
-       "url": "https://www.theguardian.com/world/2026/sep/09/israelis-welcome-uk-sanctions-on-settlements-palestine-west-bank",
-       "source": "Guardian World",
-       "published_at": "2026-09-09 17:36"
-      }
-     ]
-    },
-    {
-     "label": "Iran · Council",
-     "articles": [
+       "title": "Trump says the US-Iran war will end right after midterms",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/trump-says-the-us-iran-war-will-end-right-after-midterms?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-09-09 23:22"
+      },
+      {
+       "title": "Iran war looms over Trump at Republican midterm convention in Dallas",
+       "url": "https://www.aljazeera.com/news/2026/9/9/iran-war-looms-over-trump-at-republican-midterm-convention-in-dallas?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-09-09 23:15"
+      },
       {
        "title": "Trump says Iran war ‘will end immediately’ after US midterm elections",
        "url": "https://www.aljazeera.com/news/2026/9/9/trump-says-iran-war-will-end-immediately-after-us-midterm-elections?traffic_source=rss",
@@ -452,29 +442,6 @@
        "url": "https://www.aljazeera.com/news/2026/9/9/iaea-board-resolves-to-report-iran-to-security-council-over-nuclear-program?traffic_source=rss",
        "source": "Al Jazeera",
        "published_at": "2026-09-09 20:23"
-      },
-      {
-       "title": "Iran referred to UN Security Council for nuclear non-compliance",
-       "url": "https://www.bbc.co.uk/news/articles/ckgwj4kl5lno?at_medium=RSS&at_campaign=rss",
-       "source": "BBC World",
-       "published_at": "2026-09-09 20:22"
-      }
-     ]
-    },
-    {
-     "label": "Houthis · War",
-     "articles": [
-      {
-       "title": "Yemen envoy warns of wider war as Houthis threaten Bab al-Mandeb Strait",
-       "url": "https://www.aljazeera.com/news/2026/9/9/yemen-envoy-warns-of-wider-war-as-houthis-threaten-bab-al-mandeb-strait?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-09-09 20:05"
-      },
-      {
-       "title": "Yemeni diplomat says Houthis want to drag Saudi Arabia into war",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/09-09-clip-yemen-says-houthis-dragging-saudi-into-war-yn?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-09-09 19:18"
       }
      ]
     },
@@ -502,13 +469,36 @@
      ]
     },
     {
+     "label": "Israel",
+     "articles": [
+      {
+       "title": "Land in limbo: BBC visits West Bank village in area earmarked by Israel for settlement",
+       "url": "https://www.bbc.co.uk/news/videos/cy5zpze3qe3o?at_medium=RSS&at_campaign=rss",
+       "source": "BBC World",
+       "published_at": "2026-09-09 22:17"
+      },
+      {
+       "title": "Pro-Palestinian protesters oppose Israel embassy opening in Slovenia",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/09-09-sv-slovenia-protests-israeli-embassy-ljubljana-slov?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-09-09 20:53"
+      }
+     ]
+    },
+    {
      "label": "More headlines",
      "articles": [
       {
-       "title": "Breathing depends on a cylinder: Gaza faces medical oxygen crisis",
-       "url": "https://www.aljazeera.com/features/2026/9/9/breathing-depends-on-a-cylinder-gaza-faces-medical-oxygen-crisis?traffic_source=rss",
+       "title": "Iran referred to UN Security Council for nuclear non-compliance",
+       "url": "https://www.bbc.co.uk/news/articles/ckgwj4kl5lno?at_medium=RSS&at_campaign=rss",
+       "source": "BBC World",
+       "published_at": "2026-09-09 20:22"
+      },
+      {
+       "title": "Yemen envoy warns of wider war as Houthis threaten Bab al-Mandeb Strait",
+       "url": "https://www.aljazeera.com/news/2026/9/9/yemen-envoy-warns-of-wider-war-as-houthis-threaten-bab-al-mandeb-strait?traffic_source=rss",
        "source": "Al Jazeera",
-       "published_at": "2026-09-09 18:40"
+       "published_at": "2026-09-09 20:05"
       }
      ]
     }
@@ -522,13 +512,13 @@
    "note": null,
    "clusters": [
     {
-     "label": "Drone · Hit",
+     "label": "Russian · Strike",
      "articles": [
       {
-       "title": "Russia's Sochi port hit in fiery strike by Ukrainian sea drone, officials claim",
-       "url": "https://kyivindependent.com/russias-sochi-port-hit-in-fiery-strike-by-ukrainian-sea-drone-officials-claim/",
+       "title": "Trump praises 'great' call with Putin as Russian forces pummel cities across Ukraine",
+       "url": "https://kyivindependent.com/trump-praises-great-call-with-putin-as-russian-forces-pummel-cities-across-ukraine/",
        "source": "Kyiv Independent",
-       "published_at": "2026-09-09 22:47"
+       "published_at": "2026-09-09 23:54"
       },
       {
        "title": "Deadly Russian drone strike targets Sumy shopping center, killing 2, injuring 20, including 3 children",
@@ -536,29 +526,6 @@
        "source": "Kyiv Independent",
        "published_at": "2026-09-09 21:24"
       },
-      {
-       "title": "Two die at Moldovan border as Russia-Ukraine drone war rages",
-       "url": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss",
-       "source": "BBC World",
-       "published_at": "2026-09-09 20:28"
-      },
-      {
-       "title": "Russian drone in Moldova nearly hit Zelensky's plane, source says",
-       "url": "https://kyivindependent.com/russian-drone-in-moldova-nearly-hit-zelenskys-plane-source-says/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-09-09 19:01"
-      },
-      {
-       "title": "Zelenskyy’s plane ‘almost hit’ by drone on way to Oslo, Norwegian PM says",
-       "url": "https://www.aljazeera.com/news/2026/9/9/zelenskyys-plane-almost-hit-by-drone-on-way-to-oslo-norwegian-pm-says?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-09-09 18:36"
-      }
-     ]
-    },
-    {
-     "label": "Russian · Assisting",
-     "articles": [
       {
        "title": "UK man charged with assisting Russian military spies in sabotage plot",
        "url": "https://www.aljazeera.com/news/2026/9/9/uk-man-charged-with-assisting-russian-intelligence-connected-group?traffic_source=rss",
@@ -589,6 +556,12 @@
        "published_at": "2026-09-09 20:56"
       },
       {
+       "title": "Two die at Moldovan border as Russia-Ukraine drone war rages",
+       "url": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss",
+       "source": "BBC World",
+       "published_at": "2026-09-09 20:28"
+      },
+      {
        "title": "Ukraine war latest: Ukraine launches record-breaking deep strike on gas facility in Russia's Yamalo-Nenets region, over 3,000 km from border",
        "url": "https://kyivindependent.com/ukraine-war-latest-russia-resumes-drone-attacks-on-kyiv-kills-1-injures-16-damages-residential-buildings/",
        "source": "Kyiv Independent",
@@ -603,13 +576,30 @@
      ]
     },
     {
+     "label": "Hit · Drone",
+     "articles": [
+      {
+       "title": "Russia's Sochi port hit in fiery strike by Ukrainian sea drone, officials claim",
+       "url": "https://kyivindependent.com/russias-sochi-port-hit-in-fiery-strike-by-ukrainian-sea-drone-officials-claim/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-09-09 22:47"
+      },
+      {
+       "title": "Russian drone in Moldova nearly hit Zelensky's plane, source says",
+       "url": "https://kyivindependent.com/russian-drone-in-moldova-nearly-hit-zelenskys-plane-source-says/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-09-09 19:01"
+      }
+     ]
+    },
+    {
      "label": "More headlines",
      "articles": [
       {
-       "title": "Republican convention kicks off as Democratic senator John Fetterman reportedly set to praise Trump in video message to crowd – live",
-       "url": "https://www.theguardian.com/us-news/live/2026/sep/09/donald-trump-rnc-republican-national-convention-jd-vance-midterms-latest-news-updates",
-       "source": "Guardian World",
-       "published_at": "2026-09-09 23:02"
+       "title": "‘Our desire to create is bigger than our fear’: How one Kyiv restaurant rebuilds, adapts and keeps going after 3 Russian attacks",
+       "url": "https://kyivindependent.com/our-desire-to-create-is-bigger-than-our-fear-how-one-kyiv-restaurant-rebuilds-adapts-and-keeps-going-after-3-russian-attacks/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-09-09 15:27"
       }
      ]
     }
