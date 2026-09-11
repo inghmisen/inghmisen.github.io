@@ -1,6 +1,6 @@
 {
  "date": "Friday 11 September 2026",
- "generated_at": "19:57 UTC",
+ "generated_at": "22:27 UTC",
  "error": null,
  "total_stories": 74,
  "fx": {
@@ -16,6 +16,52 @@
    "note": null,
    "clusters": [
     {
+     "label": "Qwen · Max",
+     "articles": [
+      {
+       "title": "Is a ZIMA Board 2 + RTX 2000 ADA the cheapest path to a decent Qwen-3.8 27b self-contained endpoint?",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdqnpq/is_a_zima_board_2_rtx_2000_ada_the_cheapest_path/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-11 19:46"
+      },
+      {
+       "title": "Running Qwen3.8-27B-Q4 at max context on a 32 GB GPU while avoiding kvcache quantization",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdqit1/running_qwen3827bq4_at_max_context_on_a_32_gb_gpu/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-11 19:41"
+      },
+      {
+       "title": "Qwen3.8-27B-Humanlike-Chat: A model I tuned to imitate realistic human-to-human conversation",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdl2qa/qwen3827bhumanlikechat_a_model_i_tuned_to_imitate/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-11 16:27"
+      },
+      {
+       "title": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF · 478 ♥",
+       "url": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+       "source": "HF new models",
+       "published_at": "2026-09-01 07:01"
+      }
+     ]
+    },
+    {
+     "label": "Vram",
+     "articles": [
+      {
+       "title": "nvidia rtx 5090 with 96gb of vram.",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdrvru/nvidia_rtx_5090_with_96gb_of_vram/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-11 20:32"
+      },
+      {
+       "title": "Any 12gb VRAM users out there?",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdl7vp/any_12gb_vram_users_out_there/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-11 16:32"
+      }
+     ]
+    },
+    {
      "label": "Flash",
      "articles": [
       {
@@ -25,27 +71,10 @@
        "published_at": "2026-09-11 18:36"
       },
       {
-       "title": "deepseek-ai/DeepSeek-V4.1-Flash · 1757 ♥",
+       "title": "deepseek-ai/DeepSeek-V4.1-Flash · 1768 ♥",
        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
        "source": "HF new models",
        "published_at": "2026-09-10 02:17"
-      }
-     ]
-    },
-    {
-     "label": "Model",
-     "articles": [
-      {
-       "title": "Qwen3.8-27B-Humanlike-Chat: A model I tuned to imitate realistic human-to-human conversation",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdl2qa/qwen3827bhumanlikechat_a_model_i_tuned_to_imitate/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-09-11 16:27"
-      },
-      {
-       "title": "Orukeet, new ASR model based on Parakeet",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdk2he/orukeet_new_asr_model_based_on_parakeet/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-09-11 15:50"
       }
      ]
     },
@@ -67,25 +96,26 @@
      ]
     },
     {
-     "label": "Agi · Nex",
-     "articles": [
-      {
-       "title": "nex-agi/Nex-N2.5-Pro · 593 ♥",
-       "url": "https://huggingface.co/nex-agi/Nex-N2.5-Pro",
-       "source": "HF new models",
-       "published_at": "2026-09-08 11:01"
-      },
-      {
-       "title": "nex-agi/Nex-N2.5-mini · 685 ♥",
-       "url": "https://huggingface.co/nex-agi/Nex-N2.5-mini",
-       "source": "HF new models",
-       "published_at": "2026-09-08 05:08"
-      }
-     ]
-    },
-    {
      "label": "More headlines",
      "articles": [
+      {
+       "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
+       "url": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
+       "source": "Verge AI",
+       "published_at": "2026-09-11 20:44"
+      },
+      {
+       "title": "Is anyone using K2-Horizon-MoVA-36B-A4B? If yes, what is the usecase?",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdrvd4/is_anyone_using_k2horizonmova36ba4b_if_yes_what/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-11 20:31"
+      },
+      {
+       "title": "CodeFinetuner: Fine-tune a local code autocomplete model on your own codebase",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdp9qc/codefinetuner_finetune_a_local_code_autocomplete/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-11 18:56"
+      },
       {
        "title": "A misalignment of AI in mathematics",
        "url": "https://mathandai.org/",
@@ -93,58 +123,28 @@
        "published_at": "2026-09-11 17:45"
       },
       {
-       "title": "Any 12gb VRAM users out there?",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdl7vp/any_12gb_vram_users_out_there/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-09-11 16:32"
+       "title": "nex-agi/Nex-N2.5-Pro · 594 ♥",
+       "url": "https://huggingface.co/nex-agi/Nex-N2.5-Pro",
+       "source": "HF new models",
+       "published_at": "2026-09-08 11:01"
       },
       {
-       "title": "Show HN: Hacker News, Without AI",
-       "url": "https://www.unslop.news/",
-       "source": "Hacker News",
-       "published_at": "2026-09-11 16:08"
+       "title": "nex-agi/Nex-N2.5-mini · 688 ♥",
+       "url": "https://huggingface.co/nex-agi/Nex-N2.5-mini",
+       "source": "HF new models",
+       "published_at": "2026-09-08 05:08"
       },
       {
-       "title": "Thinking that we’ll get safety by CoT traces is wishful thinking. Safety lives in the harness, not the chain of thought",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdi8au/thinking_that_well_get_safety_by_cot_traces_is/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-09-11 14:42"
-      },
-      {
-       "title": "HuggingFace: Security.txt",
-       "url": "https://huggingface.co/security.txt",
-       "source": "Hacker News",
-       "published_at": "2026-09-11 14:38"
-      },
-      {
-       "title": "Meta says it’s changing AI suggestions after posing invasive personal questions",
-       "url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
-       "source": "Verge AI",
-       "published_at": "2026-09-11 14:25"
-      },
-      {
-       "title": "Fine-tuning Qwen 3 4B Base on 100 zebra puzzles yielded +31% on MATH-500. 6.5-min (Single H100/H200) reproduction notebook included.",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdhb24/finetuning_qwen_3_4b_base_on_100_zebra_puzzles/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-09-11 14:06"
-      },
-      {
-       "title": "openbmb/MiniCPM5-2B · 1187 ♥",
+       "title": "openbmb/MiniCPM5-2B · 1189 ♥",
        "url": "https://huggingface.co/openbmb/MiniCPM5-2B",
        "source": "HF new models",
        "published_at": "2026-09-06 11:12"
       },
       {
-       "title": "WarmBloodAban/Minimax-h3_Singularity · 288 ♥",
+       "title": "WarmBloodAban/Minimax-h3_Singularity · 295 ♥",
        "url": "https://huggingface.co/WarmBloodAban/Minimax-h3_Singularity",
        "source": "HF new models",
        "published_at": "2026-09-05 18:51"
-      },
-      {
-       "title": "dealignai/GLM-5.3-CYBERSECURITY-FP8 · 380 ♥",
-       "url": "https://huggingface.co/dealignai/GLM-5.3-CYBERSECURITY-FP8",
-       "source": "HF new models",
-       "published_at": "2026-08-30 10:46"
       }
      ]
     }
@@ -242,19 +242,36 @@
    "note": null,
    "clusters": [
     {
-     "label": "السياسي",
+     "label": "إسبانيا",
      "articles": [
       {
-       "title": "مشاهد عنف لفظي وجسدي تعيد شخصنة التنافس السياسي في المغرب",
-       "url": "https://www.hespress.com/%d9%85%d8%b4%d8%a7%d9%87%d8%af-%d8%b9%d9%86%d9%81-%d9%84%d9%81%d8%b8%d9%8a-%d9%88%d8%ac%d8%b3%d8%af%d9%8a-%d8%aa%d8%b9%d9%8a%d8%af-%d8%b4%d8%ae%d8%b5%d9%86%d8%a9-%d8%a7%d9%84%d8%aa%d9%86%d8%a7%d9%81-1805672.html",
+       "title": "لشكر: إنهاء نزاع الصحراء أولوية .. وتأزيم العلاقات مع إسبانيا مرفوض",
+       "url": "https://www.hespress.com/%d9%84%d8%b4%d9%83%d8%b1-%d8%a5%d9%86%d9%87%d8%a7%d8%a1-%d9%86%d8%b2%d8%a7%d8%b9-%d8%a7%d9%84%d8%b5%d8%ad%d8%b1%d8%a7%d8%a1-%d8%a3%d9%88%d9%84%d9%88%d9%8a%d8%a9-%d9%88%d8%aa%d8%a3%d8%b2%d9%8a-1805980.html",
        "source": "Hespress",
-       "published_at": "2026-09-11 19:00"
+       "published_at": "2026-09-11 22:00"
       },
       {
-       "title": "انتخابات 2026 .. ملاحظات حقوقية ترصد فجوات التمكين السياسي للنساء",
-       "url": "https://www.hespress.com/%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-2026-%d9%85%d9%84%d8%a7%d8%ad%d8%b8%d8%a7%d8%aa-%d8%ad%d9%82%d9%88%d9%82%d9%8a%d8%a9-%d8%aa%d8%b1%d8%b5%d8%af-%d9%81%d8%ac%d9%88%d8%a7%d8%aa-%d8%a7-1805701.html",
+       "title": "مزايدات إسبانية تؤجج \"التجييش\" ضد الرباط وتنذر بتأثّر الجالية المغربية",
+       "url": "https://www.hespress.com/%d9%85%d8%b2%d8%a7%d9%8a%d8%af%d8%a7%d8%aa-%d8%a5%d8%b3%d8%a8%d8%a7%d9%86%d9%8a%d8%a9-%d8%aa%d8%a4%d8%ac%d8%ac-%d8%a7%d9%84%d8%aa%d8%ac%d9%8a%d9%8a%d8%b4-%d8%b6%d8%af-%d8%a7%d9%84%d8%b1%d8%a8-1805767.html",
        "source": "Hespress",
-       "published_at": "2026-09-11 17:00"
+       "published_at": "2026-09-11 21:00"
+      }
+     ]
+    },
+    {
+     "label": "الانتخابات",
+     "articles": [
+      {
+       "title": "شوكي يهاجم من الداخلة توزيع المناصب قبل \"قرار المغاربة\" في الانتخابات",
+       "url": "https://www.hespress.com/%d8%b4%d9%88%d9%83%d9%8a-%d9%8a%d9%87%d8%a7%d8%ac%d9%85-%d9%85%d9%86-%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d8%a9-%d8%aa%d9%88%d8%b2%d9%8a%d8%b9-%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%b5%d8%a8-%d9%82%d8%a8-1805979.html",
+       "source": "Hespress",
+       "published_at": "2026-09-11 21:30"
+      },
+      {
+       "title": "الطريق إلى الانتخابات 2026 | إلهام بلفحيلي",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%b7%d8%b1%d9%8a%d9%82-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-2026-%d8%a5%d9%84%d9%87%d8%a7%d9%85-%d8%a8%d9%84%d9%81%d8%ad%d9%8a%d9%84%d9%8a-1805946.html",
+       "source": "Hespress",
+       "published_at": "2026-09-11 20:00"
       }
      ]
     },
@@ -279,6 +296,42 @@
      "label": "More headlines",
      "articles": [
       {
+       "title": "بوتين يرفض نشر قوات أروبية بأوكرانيا",
+       "url": "https://www.hespress.com/%d8%a8%d9%88%d8%aa%d9%8a%d9%86-%d9%8a%d8%b1%d9%81%d8%b6-%d9%86%d8%b4%d8%b1-%d9%82%d9%88%d8%a7%d8%aa-%d8%a3%d8%b1%d9%88%d8%a8%d9%8a%d8%a9-%d8%a8%d8%a3%d9%88%d9%83%d8%b1%d8%a7%d9%86%d9%8a%d8%a7-1805969.html",
+       "source": "Hespress",
+       "published_at": "2026-09-11 21:21"
+      },
+      {
+       "title": "يوسف النصيري يستعيد التألق بثنائية",
+       "url": "https://www.hespress.com/%d9%8a%d9%88%d8%b3%d9%81-%d8%a7%d9%84%d9%86%d8%b5%d9%8a%d8%b1%d9%8a-%d9%8a%d8%b3%d8%aa%d8%b9%d9%8a%d8%af-%d8%a7%d9%84%d8%aa%d8%a3%d9%84%d9%82-%d8%a8%d8%ab%d9%86%d8%a7%d8%a6%d9%8a%d8%a9-1805934.html",
+       "source": "Hespress",
+       "published_at": "2026-09-11 21:15"
+      },
+      {
+       "title": "السعودية تدين استهداف أنابيب النفط",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9-%d8%aa%d8%af%d9%8a%d9%86-%d8%a7%d8%b3%d8%aa%d9%87%d8%af%d8%a7%d9%81-%d8%a3%d9%86%d8%a7%d8%a8%d9%8a%d8%a8-%d8%a7%d9%84%d9%86%d9%81%d8%b7-1805972.html",
+       "source": "Hespress",
+       "published_at": "2026-09-11 20:56"
+      },
+      {
+       "title": "فاتح شهر ربيع الآخر الأحد بالمغرب",
+       "url": "https://www.hespress.com/%d9%81%d8%a7%d8%aa%d8%ad-%d8%b4%d9%87%d8%b1-%d8%b1%d8%a8%d9%8a%d8%b9-%d8%a7%d9%84%d8%a2%d8%ae%d8%b1-%d8%a7%d9%84%d8%a3%d8%ad%d8%af-%d8%a8%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-1805961.html",
+       "source": "Hespress",
+       "published_at": "2026-09-11 20:14"
+      },
+      {
+       "title": "هزاع بن زايد آل نهيان يعزي رحيمي",
+       "url": "https://www.hespress.com/%d9%87%d8%b2%d8%a7%d8%b9-%d8%a8%d9%86-%d8%b2%d8%a7%d9%8a%d8%af-%d8%a2%d9%84-%d9%86%d9%87%d9%8a%d8%a7%d9%86-%d9%8a%d8%b9%d8%b2%d9%8a-%d8%b1%d8%ad%d9%8a%d9%85%d9%8a-1805936.html",
+       "source": "Hespress",
+       "published_at": "2026-09-11 20:08"
+      },
+      {
+       "title": "دراسة علمية حديثة تعزو فيضانات شمال المغرب إلى هشاشة الغطاء الأرضي",
+       "url": "https://www.hespress.com/%d8%af%d8%b1%d8%a7%d8%b3%d8%a9-%d8%b9%d9%84%d9%85%d9%8a%d8%a9-%d8%ad%d8%af%d9%8a%d8%ab%d8%a9-%d8%aa%d8%b9%d8%b2%d9%88-%d9%81%d9%8a%d8%b6%d8%a7%d9%86%d8%a7%d8%aa-%d8%b4%d9%85%d8%a7%d9%84-%d8%a7%d9%84-1805888.html",
+       "source": "Hespress",
+       "published_at": "2026-09-11 20:00"
+      },
+      {
        "title": "نواب بريطانيا يرفضون الموت الرحيم",
        "url": "https://www.hespress.com/%d9%86%d9%88%d8%a7%d8%a8-%d8%a8%d8%b1%d9%8a%d8%b7%d8%a7%d9%86%d9%8a%d8%a7-%d9%8a%d8%b1%d9%81%d8%b6%d9%88%d9%86-%d8%a7%d9%84%d9%85%d9%88%d8%aa-%d8%a7%d9%84%d8%b1%d8%ad%d9%8a%d9%85-1805665.html",
        "source": "Hespress",
@@ -291,58 +344,10 @@
        "published_at": "2026-09-11 19:12"
       },
       {
-       "title": "تردي البنيات الرياضية بسيدي الطيبي",
-       "url": "https://www.hespress.com/%d8%aa%d8%b1%d8%af%d9%8a-%d8%a7%d9%84%d8%a8%d9%86%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a%d8%a9-%d8%a8%d8%b3%d9%8a%d8%af%d9%8a-%d8%a7%d9%84%d8%b7%d9%8a%d8%a8%d9%8a-1805929.html",
-       "source": "Hespress",
-       "published_at": "2026-09-11 19:00"
-      },
-      {
-       "title": "مواجهة لوبان وميلانشون تشتد بفرنسا",
-       "url": "https://www.hespress.com/%d9%85%d9%88%d8%a7%d8%ac%d9%87%d8%a9-%d9%84%d9%88%d8%a8%d8%a7%d9%86-%d9%88%d9%85%d9%8a%d9%84%d8%a7%d9%86%d8%b4%d9%88%d9%86-%d8%aa%d8%b4%d8%aa%d8%af-%d8%a8%d9%81%d8%b1%d9%86%d8%b3%d8%a7-1805666.html",
-       "source": "Hespress",
-       "published_at": "2026-09-11 18:26"
-      },
-      {
-       "title": "أداء سلبي لتداولات بورصة البيضاء",
-       "url": "https://www.hespress.com/%d8%a3%d8%af%d8%a7%d8%a1-%d8%b3%d9%84%d8%a8%d9%8a-%d9%84%d8%aa%d8%af%d8%a7%d9%88%d9%84%d8%a7%d8%aa-%d8%a8%d9%88%d8%b1%d8%b5%d8%a9-%d8%a7%d9%84%d8%a8%d9%8a%d8%b6%d8%a7%d8%a1-7-1805899.html",
-       "source": "Hespress",
-       "published_at": "2026-09-11 18:04"
-      },
-      {
-       "title": "وزارة التعليم تستكمل النصوص التطبيقية وتتمسك بإعفاء رؤساء الشعب",
-       "url": "https://www.hespress.com/%d9%88%d8%b2%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85-%d8%aa%d8%b3%d8%aa%d9%83%d9%85%d9%84-%d8%a7%d9%84%d9%86%d8%b5%d9%88%d8%b5-%d8%a7%d9%84%d8%aa%d8%b7%d8%a8%d9%8a%d9%82%d9%8a-1805884.html",
-       "source": "Hespress",
-       "published_at": "2026-09-11 18:00"
-      },
-      {
-       "title": "منافع انتخابية",
-       "url": "https://www.hespress.com/%d9%85%d9%86%d8%a7%d9%81%d8%b9-%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d9%8a%d8%a9-1805295.html",
-       "source": "Hespress",
-       "published_at": "2026-09-11 17:36"
-      },
-      {
        "title": "Médicaments : le trou commercial se creuse à 13,4 MMDH d'ici à 2030",
        "url": "https://telquel.ma/2026/09/11/medicaments-le-trou-commercial-se-creuse-a-134-mmdh-dici-a-2030_2007267",
        "source": "TelQuel",
        "published_at": "2026-09-11 17:30"
-      },
-      {
-       "title": "موجة إفلاس تضرب الشركات الألمانية",
-       "url": "https://www.hespress.com/%d9%85%d9%88%d8%ac%d8%a9-%d8%a5%d9%81%d9%84%d8%a7%d8%b3-%d8%aa%d8%b6%d8%b1%d8%a8-%d8%a7%d9%84%d8%b4%d8%b1%d9%83%d8%a7%d8%aa-%d8%a7%d9%84%d8%a3%d9%84%d9%85%d8%a7%d9%86%d9%8a%d8%a9-1805578.html",
-       "source": "Hespress",
-       "published_at": "2026-09-11 17:30"
-      },
-      {
-       "title": "أكديطال تطلق أكاديمية التمريض",
-       "url": "https://www.hespress.com/%d8%a3%d9%83%d8%af%d9%8a%d8%aa%d8%a7%d9%84-%d8%aa%d8%b7%d9%84%d9%82-%d8%a3%d9%83%d8%a7%d8%af%d9%8a%d9%85%d9%8a%d8%a9-%d9%84%d9%84%d8%aa%d9%85%d8%b1%d9%8a%d8%b6-1805893.html",
-       "source": "Hespress",
-       "published_at": "2026-09-11 17:25"
-      },
-      {
-       "title": "القدرة الشرائية تواجه الوعود الانتخابية",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%82%d8%af%d8%b1%d8%a9-%d8%a7%d9%84%d8%b4%d8%b1%d8%a7%d8%a6%d9%8a%d8%a9-%d8%aa%d9%88%d8%a7%d8%ac%d9%87-%d8%a7%d9%84%d9%88%d8%b9%d9%88%d8%af-%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7-1805847.html",
-       "source": "Hespress",
-       "published_at": "2026-09-11 17:10"
       },
       {
        "title": "Problème de sable ? Laisse béton",
@@ -374,7 +379,24 @@
    "note": null,
    "clusters": [
     {
-     "label": "",
+     "label": "Minister",
+     "articles": [
+      {
+       "title": "Oud-minister Slob neemt Grapperhaus' beledigingen 'eigenlijk niet kwalijk'",
+       "url": "https://www.nu.nl/binnenland/6409484/oud-minister-slob-neemt-grapperhaus-beledigingen-eigenlijk-niet-kwalijk.html",
+       "source": "NU.nl",
+       "published_at": "2026-09-11 20:51"
+      },
+      {
+       "title": "Van student tot minister door AI-detector ontmaskerd: zo betrouwbaar is een digitale speurneus",
+       "url": "https://www.telegraaf.nl/binnenland/van-student-tot-minister-door-ai-detector-ontmaskerd-zo-betrouwbaar-is-een-digitale-speurneus/161298092.html",
+       "source": "de Telegraaf",
+       "published_at": "2026-09-11 16:00"
+      }
+     ]
+    },
+    {
+     "label": "More headlines",
      "articles": [
       {
        "title": "Nederlandse vrouw al jaren dood in Turkije, AOW loopt door: zoon moet tienduizenden euro’s terugbetalen",
@@ -387,18 +409,6 @@
        "url": "https://www.telegraaf.nl/financieel/woningwaarde-onder-druk-door-oplopende-hypotheekrente-rem-op-de-huizenprijsstijging/161318633.html",
        "source": "de Telegraaf",
        "published_at": "2026-09-11 17:45"
-      },
-      {
-       "title": "Van student tot minister door AI-detector ontmaskerd: zo betrouwbaar is een digitale speurneus",
-       "url": "https://www.telegraaf.nl/binnenland/van-student-tot-minister-door-ai-detector-ontmaskerd-zo-betrouwbaar-is-een-digitale-speurneus/161298092.html",
-       "source": "de Telegraaf",
-       "published_at": "2026-09-11 16:00"
-      },
-      {
-       "title": "FIFA fluit Marokkaanse voetbalbond terug en ook Marokkaanse premier is boos: ’Stop met ons de voet dwars te zetten’",
-       "url": "https://www.telegraaf.nl/sport/voetbal/fifa-fluit-marokkaanse-voetbalbond-terug-en-ook-marokkaanse-premier-is-boos-stop-met-ons-de-voet-dwars-te-zetten/161334739.html",
-       "source": "de Telegraaf",
-       "published_at": "2026-09-11 15:40"
       }
      ]
     }
@@ -412,43 +422,20 @@
    "note": null,
    "clusters": [
     {
-     "label": "Iran · War",
+     "label": "Yemen · Advance",
      "articles": [
+      {
+       "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
+       "url": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
+       "source": "BBC World",
+       "published_at": "2026-09-11 22:17"
+      },
       {
        "title": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
        "url": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss",
        "source": "BBC World",
        "published_at": "2026-09-11 19:44"
       },
-      {
-       "title": "Trump uses 9/11 memorial speech to justify Iran war as families commemorate victims of attack – live",
-       "url": "https://www.theguardian.com/us-news/live/2026/sep/11/september-11-anniversary-memorials-world-trade-center-pentagon-vance-trump-us-politics-live",
-       "source": "Guardian World",
-       "published_at": "2026-09-11 19:25"
-      },
-      {
-       "title": "Iran says will discuss Strait of Hormuz with Gulf states on Monday",
-       "url": "https://www.aljazeera.com/news/2026/9/11/iran-says-will-discuss-strait-of-hormuz-with-gulf-states-on-monday?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-09-11 18:33"
-      },
-      {
-       "title": "Trump and Hegseth use 9/11 memorial remarks at Pentagon to defend war on Iran",
-       "url": "https://www.theguardian.com/us-news/2026/sep/11/trump-hegseth-911-memorial",
-       "source": "Guardian World",
-       "published_at": "2026-09-11 18:06"
-      },
-      {
-       "title": "Iran’s Houthi allies capture strategic island on vital oil shipping route",
-       "url": "https://www.theguardian.com/world/2026/sep/11/iran-houthi-allies-capture-strategic-island-bab-al-mandab-strait",
-       "source": "Guardian World",
-       "published_at": "2026-09-11 15:55"
-      }
-     ]
-    },
-    {
-     "label": "Yemen · Red",
-     "articles": [
       {
        "title": "Houthi advance in Yemen is about more than just the Red Sea",
        "url": "https://www.aljazeera.com/news/2026/9/11/houthi-advance-in-yemen-is-about-more-than-just-the-red-sea?traffic_source=rss",
@@ -460,18 +447,57 @@
        "url": "https://www.aljazeera.com/news/2026/9/11/at-least-46000-displaced-by-escalating-yemen-fighting-un?traffic_source=rss",
        "source": "Al Jazeera",
        "published_at": "2026-09-11 18:14"
-      },
+      }
+     ]
+    },
+    {
+     "label": "Houthi · Oil",
+     "articles": [
       {
-       "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
-       "url": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
+       "title": "How global trade and oil prices could be hit by Houthi advance",
+       "url": "https://www.bbc.co.uk/news/videos/cy5z02w1zxxo?at_medium=RSS&at_campaign=rss",
        "source": "BBC World",
-       "published_at": "2026-09-11 16:58"
+       "published_at": "2026-09-11 16:13"
       },
       {
-       "title": "Houthis take control of Yemen’s entire Red Sea coast, reports say",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/houthis-take-control-of-yemens-entire-red-sea-coast-reports-say?traffic_source=rss",
+       "title": "Iran’s Houthi allies capture strategic island on vital oil shipping route",
+       "url": "https://www.theguardian.com/world/2026/sep/11/iran-houthi-allies-capture-strategic-island-bab-al-mandab-strait",
+       "source": "Guardian World",
+       "published_at": "2026-09-11 15:55"
+      }
+     ]
+    },
+    {
+     "label": "Iran",
+     "articles": [
+      {
+       "title": "Iran says will discuss Strait of Hormuz with Gulf states on Monday",
+       "url": "https://www.aljazeera.com/news/2026/9/11/iran-says-will-discuss-strait-of-hormuz-with-gulf-states-on-monday?traffic_source=rss",
        "source": "Al Jazeera",
-       "published_at": "2026-09-11 15:34"
+       "published_at": "2026-09-11 18:33"
+      },
+      {
+       "title": "Trump and Hegseth use 9/11 memorial remarks at Pentagon to defend war on Iran",
+       "url": "https://www.theguardian.com/us-news/2026/sep/11/trump-hegseth-911-memorial",
+       "source": "Guardian World",
+       "published_at": "2026-09-11 18:06"
+      }
+     ]
+    },
+    {
+     "label": "Israeli",
+     "articles": [
+      {
+       "title": "Israeli demolitions threaten schools and homes in Masafer Yatta",
+       "url": "https://www.aljazeera.com/features/2026/9/11/israeli-demolitions-threaten-schools-and-homes-in-masafer-yatta?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-09-11 21:53"
+      },
+      {
+       "title": "Declassified documents show UK aware of Israeli war crimes for 24 years",
+       "url": "https://www.aljazeera.com/news/2026/9/11/declassified-documents-show-uk-aware-of-israeli-war-crimes-for-24-years?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-09-11 19:59"
       }
      ]
     },
@@ -483,12 +509,6 @@
        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/houthis-declare-red-sea-shipping-safe-except-for-saudi-vessels?traffic_source=rss",
        "source": "Al Jazeera",
        "published_at": "2026-09-11 16:32"
-      },
-      {
-       "title": "How global trade and oil prices could be hit by Houthi advance",
-       "url": "https://www.bbc.co.uk/news/videos/cy5z02w1zxxo?at_medium=RSS&at_campaign=rss",
-       "source": "BBC World",
-       "published_at": "2026-09-11 16:13"
       },
       {
        "title": "Israel says it has destroyed major underground Hezbollah base",
@@ -508,8 +528,14 @@
    "note": null,
    "clusters": [
     {
-     "label": "Russia",
+     "label": "Russia · Sanctions",
      "articles": [
+      {
+       "title": "Zelensky calls for stronger US sanctions against Russia, says Ukraine must engage in peace talks with Moscow",
+       "url": "https://kyivindependent.com/zelensky-calls-for-stronger-us-sanctions-against-russia-says-ukraine-must-engage-in-peace-talks-with-moscow/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-09-11 20:29"
+      },
       {
        "title": "Investigation: Inside Russia's FSB prison system in Crimea",
        "url": "https://kyivindependent.com/investigation-how-russia-built-a-closed-system-of-fsb-prisons-in-occupied-crimea/",
@@ -533,12 +559,23 @@
        "url": "https://kyivindependent.com/russias-central-bank-keeps-key-rate-at-14-ahead-of-legislative-elections/",
        "source": "Kyiv Independent",
        "published_at": "2026-09-11 17:15"
+      }
+     ]
+    },
+    {
+     "label": "Kyiv",
+     "articles": [
+      {
+       "title": "Traveling to Kyiv during war: What you need to know",
+       "url": "https://kyivindependent.com/traveling-to-kyiv-during-war-what-you-need-to-know/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-09-11 19:20"
       },
       {
-       "title": "US diplomacy under fire as Russia escalates attacks on Ukrainian officials",
-       "url": "https://www.aljazeera.com/news/2026/9/11/us-diplomacy-under-fire-as-moscow-escalates-attacks-on-ukrainian-officials?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-09-11 16:30"
+       "title": "SBU foils Russia's FSB plot to assassinate prominent Ukrainian activist in Kyiv Oblast",
+       "url": "https://kyivindependent.com/sbu-foils-fsb-plot-to-assassinate-ukrainian-activist-hennadiy-druzenko/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-09-11 14:27"
       }
      ]
     },
@@ -556,24 +593,12 @@
        "url": "https://kyivindependent.com/war-russian-forces-executed-2-ukrainian-pows-near-dobropillia-prosecutors-say/",
        "source": "Kyiv Independent",
        "published_at": "2026-09-11 16:23"
-      },
-      {
-       "title": "SBU foils Russia's FSB plot to assassinate prominent Ukrainian activist in Kyiv Oblast",
-       "url": "https://kyivindependent.com/sbu-foils-fsb-plot-to-assassinate-ukrainian-activist-hennadiy-druzenko/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-09-11 14:27"
       }
      ]
     },
     {
      "label": "More headlines",
      "articles": [
-      {
-       "title": "Traveling to Kyiv during war: What you need to know",
-       "url": "https://kyivindependent.com/traveling-to-kyiv-during-war-what-you-need-to-know/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-09-11 19:20"
-      },
       {
        "title": "Lawmaker, formerly from Zelensky's parliament group, jailed for 9 years over 2020 graft case",
        "url": "https://kyivindependent.com/lawmaker-formerly-from-zelensky-parliament-group-jailed-for-9-years-over-2020-bribery-case/",
