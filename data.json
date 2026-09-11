@@ -1,12 +1,12 @@
 {
- "date": "Thursday 10 September 2026",
- "generated_at": "23:52 UTC",
+ "date": "Friday 11 September 2026",
+ "generated_at": "03:57 UTC",
  "error": null,
  "total_stories": 77,
  "fx": {
   "pair": "EUR/MAD",
-  "rate": 10.891,
-  "change_pct": 0.0
+  "rate": 10.897,
+  "change_pct": 0.06
  },
  "lanes": [
   {
@@ -16,13 +16,13 @@
    "note": null,
    "clusters": [
     {
-     "label": "Flash · Deepseek",
+     "label": "Model",
      "articles": [
       {
-       "title": "Faster than Light in Air: 8-22 tg/s Qwen3.8-Flash-Next (Q4/Q4ish) on a 32GB M4 MacBook Air",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcwith/faster_than_light_in_air_822_tgs_qwen38flashnext/",
+       "title": "New Music Model YuE2-3B Released!",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wd19c7/new_music_model_yue23b_released/",
        "source": "r/LocalLLaMA",
-       "published_at": "2026-09-10 21:31"
+       "published_at": "2026-09-11 00:47"
       },
       {
        "title": "I find it funny that a flash model is now 512GB",
@@ -31,16 +31,10 @@
        "published_at": "2026-09-10 20:57"
       },
       {
-       "title": "Livebench added Deepseek v4.1 flash",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wctnzd/livebench_added_deepseek_v41_flash/",
+       "title": "OUI-1: a model that generates bespoke UI elements",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcqa03/oui1_a_model_that_generates_bespoke_ui_elements/",
        "source": "r/LocalLLaMA",
-       "published_at": "2026-09-10 19:45"
-      },
-      {
-       "title": "deepseek-ai/DeepSeek-V4.1-Flash · 1329 ♥",
-       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
-       "source": "HF new models",
-       "published_at": "2026-09-10 02:17"
+       "published_at": "2026-09-10 17:46"
       }
      ]
     },
@@ -48,16 +42,39 @@
      "label": "Qwen · Uncensored",
      "articles": [
       {
+       "title": "Faster than Light in Air: 8-22 tg/s Qwen3.8-Flash-Next (Q4/Q4ish) on a 32GB M4 MacBook Air",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcwith/faster_than_light_in_air_822_tgs_qwen38flashnext/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-10 21:31"
+      },
+      {
        "title": "CyberTiel 35B-A3B’s uncensored 4-bit quant beats Opus 4.6 medium cleanly on real codebase issues, in 27% of the time Qwen3.8-27b medium takes.",
        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcpppm/cybertiel_35ba3bs_uncensored_4bit_quant_beats/",
        "source": "r/LocalLLaMA",
        "published_at": "2026-09-10 17:26"
       },
       {
-       "title": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF · 448 ♥",
+       "title": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF · 452 ♥",
        "url": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
        "source": "HF new models",
        "published_at": "2026-09-01 07:01"
+      }
+     ]
+    },
+    {
+     "label": "Nex · Agi",
+     "articles": [
+      {
+       "title": "nex-agi/Nex-N2.5-Pro · 581 ♥",
+       "url": "https://huggingface.co/nex-agi/Nex-N2.5-Pro",
+       "source": "HF new models",
+       "published_at": "2026-09-08 11:01"
+      },
+      {
+       "title": "nex-agi/Nex-N2.5-mini · 661 ♥",
+       "url": "https://huggingface.co/nex-agi/Nex-N2.5-mini",
+       "source": "HF new models",
+       "published_at": "2026-09-08 05:08"
       }
      ]
     },
@@ -74,12 +91,6 @@
        "title": "Muse-glimmer-30b really punches above its weight(s) for creative writing",
        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcwa7i/museglimmer30b_really_punches_above_its_weights/",
        "source": "r/LocalLLaMA",
-       "published_at": "2026-09-10 21:22"
-      },
-      {
-       "title": "OpenAI’s Navier-Stokes release included a Lean 4 formal proof",
-       "url": "https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/",
-       "source": "Hacker News",
        "published_at": "2026-09-10 21:22"
       },
       {
@@ -101,37 +112,31 @@
        "published_at": "2026-09-10 19:44"
       },
       {
+       "title": "OpenAI Agents API",
+       "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+       "source": "Hacker News",
+       "published_at": "2026-09-10 19:43"
+      },
+      {
        "title": "New tensor type layouts for my GGUF uploads",
        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcsj6v/new_tensor_type_layouts_for_my_gguf_uploads/",
        "source": "r/LocalLLaMA",
        "published_at": "2026-09-10 19:05"
       },
       {
-       "title": "OUI-1: a model that generates bespoke UI elements",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcqa03/oui1_a_model_that_generates_bespoke_ui_elements/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-09-10 17:46"
-      },
-      {
-       "title": "nex-agi/Nex-N2.5-mini · 652 ♥",
-       "url": "https://huggingface.co/nex-agi/Nex-N2.5-mini",
+       "title": "deepseek-ai/DeepSeek-V4.1-Flash · 1443 ♥",
+       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
        "source": "HF new models",
-       "published_at": "2026-09-08 05:08"
+       "published_at": "2026-09-10 02:17"
       },
       {
-       "title": "openbmb/MiniCPM5-2B · 1106 ♥",
+       "title": "openbmb/MiniCPM5-2B · 1128 ♥",
        "url": "https://huggingface.co/openbmb/MiniCPM5-2B",
        "source": "HF new models",
        "published_at": "2026-09-06 11:12"
       },
       {
-       "title": "WarmBloodAban/Minimax-h3_Singularity · 261 ♥",
-       "url": "https://huggingface.co/WarmBloodAban/Minimax-h3_Singularity",
-       "source": "HF new models",
-       "published_at": "2026-09-05 18:51"
-      },
-      {
-       "title": "dealignai/GLM-5.3-CYBERSECURITY-FP8 · 368 ♥",
+       "title": "dealignai/GLM-5.3-CYBERSECURITY-FP8 · 369 ♥",
        "url": "https://huggingface.co/dealignai/GLM-5.3-CYBERSECURITY-FP8",
        "source": "HF new models",
        "published_at": "2026-08-30 10:46"
@@ -165,7 +170,7 @@
      ]
     },
     {
-     "label": "Bestuursfotoverkiezing · Grote",
+     "label": "Grote · Bestuursfotoverkiezing",
      "articles": [
       {
        "title": "De Grote U-Today Bestuursfotoverkiezing 2026, de uitslag",
@@ -232,90 +237,8 @@
    "note": null,
    "clusters": [
     {
-     "label": "إلى",
+     "label": "Maroc",
      "articles": [
-      {
-       "title": "الاقتراع ينقل سوق إيغرم إلى الاثنين",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%a7%d9%82%d8%aa%d8%b1%d8%a7%d8%b9-%d9%8a%d9%82%d8%af%d9%85-%d9%85%d9%88%d8%b9%d8%af-%d8%b3%d9%88%d9%82-%d8%a5%d9%8a%d8%ba%d8%b1%d9%85-1805252.html",
-       "source": "Hespress",
-       "published_at": "2026-09-10 23:44"
-      },
-      {
-       "title": "عوكاشا يرفض \"الخطاب الفارغ\" ويدعو المنافسين إلى مواجهة بالبرامج",
-       "url": "https://www.hespress.com/%d8%b9%d9%88%d9%83%d8%a7%d8%b4%d8%a7-%d9%8a%d8%b1%d9%81%d8%b6-%d8%a7%d9%84%d8%ae%d8%b7%d8%a7%d8%a8-%d8%a7%d9%84%d9%81%d8%a7%d8%b1%d8%ba-%d9%88%d9%8a%d8%af%d8%b9%d9%88-%d8%a7%d9%84%d9%85%d9%86-1805500.html",
-       "source": "Hespress",
-       "published_at": "2026-09-10 23:30"
-      },
-      {
-       "title": "اليوم العالمي لمحو الأمية يجدد الدعوات إلى إصلاح المنظومة المغربية",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%8a%d9%88%d9%85-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a-%d9%84%d9%85%d8%ad%d9%88-%d8%a7%d9%84%d8%a3%d9%85%d9%8a%d8%a9-%d9%8a%d8%ac%d8%af%d8%af-%d8%a7%d9%84%d8%af%d8%b9%d9%88%d8%a7-1803595.html",
-       "source": "Hespress",
-       "published_at": "2026-09-10 22:00"
-      }
-     ]
-    },
-    {
-     "label": "الاشتراكي · الاتحاد",
-     "articles": [
-      {
-       "title": "الاتحاد الاشتراكي والتصويت العقابي",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af-%d8%a7%d9%84%d8%a7%d8%b4%d8%aa%d8%b1%d8%a7%d9%83%d9%8a-%d9%88%d8%a7%d9%84%d8%aa%d8%b5%d9%88%d9%8a%d8%aa-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%a8%d9%8a-1805528.html",
-       "source": "Hespress",
-       "published_at": "2026-09-10 23:10"
-      },
-      {
-       "title": "حزب الاتحاد الاشتراكي يرفع سقف الوعود الانتخابية بـ\"التنمية العادلة\"",
-       "url": "https://www.hespress.com/%d8%ad%d8%b2%d8%a8-%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af-%d8%a7%d9%84%d8%a7%d8%b4%d8%aa%d8%b1%d8%a7%d9%83%d9%8a-%d9%8a%d8%b1%d9%81%d8%b9-%d8%b3%d9%82%d9%81-%d8%a7%d9%84%d9%88%d8%b9%d9%88%d8%af-1805491.html",
-       "source": "Hespress",
-       "published_at": "2026-09-10 22:30"
-      }
-     ]
-    },
-    {
-     "label": "More headlines",
-     "articles": [
-      {
-       "title": "ماركس والمسألة اليهودية",
-       "url": "https://www.hespress.com/%d9%83%d8%a7%d8%b1%d9%84-%d9%85%d8%a7%d8%b1%d9%83%d8%b3-%d9%88%d8%a7%d9%84%d9%85%d8%b3%d8%a3%d9%84%d8%a9-%d8%a7%d9%84%d9%8a%d9%87%d9%88%d8%af%d9%8a%d8%a9-1805257.html",
-       "source": "Hespress",
-       "published_at": "2026-09-10 23:30"
-      },
-      {
-       "title": "الإدارة تستعد للأمطار في جهة طنجة",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%a5%d8%af%d8%a7%d8%b1%d8%a9-%d8%aa%d8%b3%d8%aa%d8%b9%d8%af-%d9%84%d9%84%d8%a3%d9%85%d8%b7%d8%a7%d8%b1-%d9%81%d9%8a-%d8%ac%d9%87%d8%a9-%d8%b7%d9%86%d8%ac%d8%a9-1805464.html",
-       "source": "Hespress",
-       "published_at": "2026-09-10 23:22"
-      },
-      {
-       "title": "المغرب وإسبانيا .. \"التحرشات الانتخابوية\" تختبر الشراكة الاستراتيجية",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d9%88%d8%a5%d8%b3%d8%a8%d8%a7%d9%86%d9%8a%d8%a7-%d8%a7%d9%84%d8%aa%d8%ad%d8%b1%d8%b4%d8%a7%d8%aa-%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d9%88%d9%8a-1805432.html",
-       "source": "Hespress",
-       "published_at": "2026-09-10 23:00"
-      },
-      {
-       "title": "الأقاليم الجنوبية تبدأ الدعاية الانتخابية",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%a3%d9%82%d8%a7%d9%84%d9%8a%d9%85-%d8%a7%d9%84%d8%ac%d9%86%d9%88%d8%a8%d9%8a%d8%a9-%d8%aa%d8%a8%d8%af%d8%a3-%d8%a7%d9%84%d8%af%d8%b9%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84%d8%a7%d9%86%d8%aa-1805443.html",
-       "source": "Hespress",
-       "published_at": "2026-09-10 22:51"
-      },
-      {
-       "title": "شوكي: المصداقية أولا",
-       "url": "https://www.hespress.com/%d8%b4%d9%88%d9%83%d9%8a-%d8%a7%d9%84%d9%85%d8%b5%d8%af%d8%a7%d9%82%d9%8a%d8%a9-%d8%a3%d9%88%d9%84%d8%a7-1805520.html",
-       "source": "Hespress",
-       "published_at": "2026-09-10 22:46"
-      },
-      {
-       "title": "التقدم والاشتراكية يرفع شعار التغيير",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%aa%d9%82%d8%af%d9%85-%d9%88%d8%a7%d9%84%d8%a7%d8%b4%d8%aa%d8%b1%d8%a7%d9%83%d9%8a%d8%a9-%d9%8a%d8%b1%d9%81%d8%b9-%d8%b4%d8%b9%d8%a7%d8%b1-%d8%a7%d9%84%d8%aa%d8%ba%d9%8a%d9%8a%d8%b1-1805497.html",
-       "source": "Hespress",
-       "published_at": "2026-09-10 22:14"
-      },
-      {
-       "title": "إشكالات تكبح إصلاح أسواق الجملة",
-       "url": "https://www.hespress.com/%d8%a5%d8%b4%d9%83%d8%a7%d9%84%d8%a7%d8%aa-%d8%aa%d9%83%d8%a8%d8%ad-%d8%a5%d8%b5%d9%84%d8%a7%d8%ad-%d8%a3%d8%b3%d9%88%d8%a7%d9%82-%d8%a7%d9%84%d8%ac%d9%85%d9%84%d8%a9-1804990.html",
-       "source": "Hespress",
-       "published_at": "2026-09-10 22:03"
-      },
       {
        "title": "Crise de Sebta: le Maroc refuse d'être\"un fonds de commerce préélectoral\"",
        "url": "https://telquel.ma/instant-t/2026/09/10/maroc-espagne-rabat-refuse-detreun-fonds-de-commerce-preelectoral_2007030/",
@@ -323,16 +246,72 @@
        "published_at": "2026-09-10 20:14"
       },
       {
-       "title": "Tanjazz, les Baronnes de Molenbeek, Aziz Benja à Marrakech...Les sorties de la semaine",
-       "url": "https://telquel.ma/2026/09/10/tanjazz-les-baronnes-de-molenbeek-aziz-benja-a-marrakech-les-sorties-de-la-semaine_2007012",
+       "title": "Samir Bennis : “L'Espagne finira par demander au Maroc de trouver une solution”",
+       "url": "https://telquel.ma/2026/09/10/samir-bennis-lespagne-finira-par-demander-au-maroc-de-trouver-une-solution_2006879",
        "source": "TelQuel",
-       "published_at": "2026-09-10 17:13"
-      },
+       "published_at": "2026-09-10 13:37"
+      }
+     ]
+    },
+    {
+     "label": "Législatives",
+     "articles": [
       {
        "title": "Législatives 2026 : faire du neuf avec du vieux… mais sans les jeunes",
        "url": "https://telquel.ma/2026/09/10/legislatives-2026-faire-du-neuf-avec-du-vieux-mais-sans-les-jeunes_2007001",
        "source": "TelQuel",
        "published_at": "2026-09-10 16:58"
+      },
+      {
+       "title": "Législatives : les TPE-PME veulent des promesses écrites et vérifiables",
+       "url": "https://telquel.ma/instant-t/2026/09/10/legislatives-les-tpe-pme-veulent-des-promesses-ecrites-et-verifiables_2006932/",
+       "source": "TelQuel",
+       "published_at": "2026-09-10 14:33"
+      }
+     ]
+    },
+    {
+     "label": "Tribune",
+     "articles": [
+      {
+       "title": "[Tribune] Élections : treize jours de proximité pour cinq ans de représentation ?",
+       "url": "https://telquel.ma/2026/09/10/tribune-elections-treize-jours-de-proximite-pour-cinq-ans-de-representation_2006930",
+       "source": "TelQuel",
+       "published_at": "2026-09-10 16:13"
+      },
+      {
+       "title": "[Tribune] PISA 2025 : On ne réparera pas l’école si l’on ne protège pas l’enfance",
+       "url": "https://telquel.ma/2026/09/10/tribune-pisa-2025-on-ne-reparera-pas-lecole-si-lon-ne-protege-pas-lenfance_2006976",
+       "source": "TelQuel",
+       "published_at": "2026-09-10 16:05"
+      }
+     ]
+    },
+    {
+     "label": "Ministère",
+     "articles": [
+      {
+       "title": "Elections 2026 : le ministère de l’Intérieur fait le point sur les candidatures",
+       "url": "https://telquel.ma/instant-t/2026/09/10/elections-2026-le-ministere-de-linterieur-fait-le-point-sur-les-candidatures_2006958/",
+       "source": "TelQuel",
+       "published_at": "2026-09-10 15:50"
+      },
+      {
+       "title": "Le ministère de l'Éducation réaménage l'emploi du temps scolaire selon la nouvelle heure légale",
+       "url": "https://telquel.ma/instant-t/2026/09/10/le-ministere-de-leducation-reamenage-lemploi-du-temps-scolaire-selon-la-nouvelle-heure-legale_2006903/",
+       "source": "TelQuel",
+       "published_at": "2026-09-10 13:18"
+      }
+     ]
+    },
+    {
+     "label": "More headlines",
+     "articles": [
+      {
+       "title": "Tanjazz, les Baronnes de Molenbeek, Aziz Benja à Marrakech...Les sorties de la semaine",
+       "url": "https://telquel.ma/2026/09/10/tanjazz-les-baronnes-de-molenbeek-aziz-benja-a-marrakech-les-sorties-de-la-semaine_2007012",
+       "source": "TelQuel",
+       "published_at": "2026-09-10 17:13"
       },
       {
        "title": "Équipements hospitaliers : les 6 MMDH des GST à l'épreuve des impayés",
@@ -347,10 +326,46 @@
        "published_at": "2026-09-10 16:14"
       },
       {
-       "title": "[Tribune] Élections : treize jours de proximité pour cinq ans de représentation ?",
-       "url": "https://telquel.ma/2026/09/10/tribune-elections-treize-jours-de-proximite-pour-cinq-ans-de-representation_2006930",
+       "title": "La musique marocaine à l'honneur au 21e festival Arabesques de Montpellier",
+       "url": "https://telquel.ma/instant-t/2026/09/10/la-musique-marocaine-a-lhonneur-au-21e-festival-arabesques-de-montpellier_2006951/",
        "source": "TelQuel",
-       "published_at": "2026-09-10 16:13"
+       "published_at": "2026-09-10 15:53"
+      },
+      {
+       "title": "CNSS : en 2025, 57% des salariés déclarés percevaient un salaire inférieur ou égal à 4 000 dirhams",
+       "url": "https://telquel.ma/instant-t/2026/09/10/cnss-en-2025-57-des-salaries-declares-percevaient-un-salaire-inferieur-ou-egal-a-4-000-dirhams_2006947/",
+       "source": "TelQuel",
+       "published_at": "2026-09-10 15:47"
+      },
+      {
+       "title": "La BCE relève son taux directeur de 25 points de base à 2,5%",
+       "url": "https://telquel.ma/instant-t/2026/09/10/la-bce-releve-son-taux-directeur-de-25-points-de-base-a-25_2006935/",
+       "source": "TelQuel",
+       "published_at": "2026-09-10 14:46"
+      },
+      {
+       "title": "Et si la rentrée devenait une affaire de solidarité ?",
+       "url": "https://telquel.ma/sponsors/et-si-la-rentree-devenait-une-affaire-de-solidarite_2006925",
+       "source": "TelQuel",
+       "published_at": "2026-09-10 13:54"
+      },
+      {
+       "title": "Bassin hydraulique du Sebou : lancement prochain d’une étude d’interconnexion des ressources en eau",
+       "url": "https://telquel.ma/instant-t/2026/09/10/bassin-hydraulique-du-sebou-lancement-prochain-dune-etude-dinterconnexion-des-ressources-en-eau_2006913/",
+       "source": "TelQuel",
+       "published_at": "2026-09-10 13:49"
+      },
+      {
+       "title": "Temps chaud samedi et dimanche dans plusieurs provinces",
+       "url": "https://telquel.ma/instant-t/2026/09/10/temps-chaud-samedi-et-dimanche-dans-plusieurs-provinces_2006911/",
+       "source": "TelQuel",
+       "published_at": "2026-09-10 13:44"
+      },
+      {
+       "title": "Août 2026 a été le mois le plus chaud jamais mesuré dans le monde",
+       "url": "https://telquel.ma/instant-t/2026/09/10/aout-2026-a-ete-le-mois-le-plus-chaud-jamais-mesure-dans-le-monde_2006898/",
+       "source": "TelQuel",
+       "published_at": "2026-09-10 12:41"
       }
      ]
     }
@@ -430,7 +445,42 @@
    "note": null,
    "clusters": [
     {
-     "label": "Israel · Destroyed",
+     "label": "Iran · War",
+     "articles": [
+      {
+       "title": "Australia news live: Victoria premier says NFL game shows state is ‘major events capital’; ASX set for worst week since US-Iran war began",
+       "url": "https://www.theguardian.com/australia-news/live/2026/sep/11/anthony-albanese-september-11-aged-care-labor-coalition-angus-taylor-one-nation-pauline-hanson-andrew-hastie-ntwnfb",
+       "source": "Guardian World",
+       "published_at": "2026-09-11 03:45"
+      },
+      {
+       "title": "Young republicans break with Trump over Iran war",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/young-republicans-break-with-trump-over-iran-war?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-09-11 02:45"
+      },
+      {
+       "title": "Putin lands in India for BRICs summit, shadowed by Iran and Ukraine wars",
+       "url": "https://www.aljazeera.com/news/2026/9/11/putin-lands-in-india-for-brics-summit-shadowed-by-iran-and-ukraine-wars?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-09-11 02:40"
+      },
+      {
+       "title": "Iran claims to have captured a US ‘sail drone’ near Hormuz Strait",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/iran-claims-to-have-captured-a-us-sail-drone-near-hormuz-strait?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-09-11 00:24"
+      },
+      {
+       "title": "Iran war live: IRGC attacks US unmanned vessel in Hormuz; two ships hit",
+       "url": "https://www.aljazeera.com/news/liveblog/2026/9/11/iran-war-live-irgc-attacks-us-unmanned-vessel-in-hormuz-two-ships-hit?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-09-11 00:00"
+      }
+     ]
+    },
+    {
+     "label": "Israel · Hezbollah",
      "articles": [
       {
        "title": "Israel says it destroyed Hezbollah base in Lebanon’s Ali al-Taher ridge",
@@ -449,12 +499,6 @@
        "url": "https://www.bbc.co.uk/news/articles/c1kxwm870g1o?at_medium=RSS&at_campaign=rss",
        "source": "BBC World",
        "published_at": "2026-09-10 15:54"
-      },
-      {
-       "title": "Secret systems used by Israel in mass killings of Gaza civilians revealed in new film",
-       "url": "https://www.theguardian.com/world/2026/sep/10/secret-systems-used-by-israel-in-mass-killings-of-gaza-civilians-revealed-in-new-film",
-       "source": "Guardian World",
-       "published_at": "2026-09-10 13:42"
       }
      ]
     },
@@ -462,16 +506,16 @@
      "label": "Gaza",
      "articles": [
       {
+       "title": "Israeli film on Gaza receives 25-minute ovation at Venice premiere",
+       "url": "https://www.aljazeera.com/news/2026/9/11/israeli-film-on-gaza-receives-25-minute-ovation-at-venice-premiere?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-09-11 00:14"
+      },
+      {
        "title": "Gaza hospitals ration power as fuel shortages deepen",
        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/10/gaza-hospitals-ration-power-as-fuel-shortages-deepen?traffic_source=rss",
        "source": "Al Jazeera",
        "published_at": "2026-09-10 21:17"
-      },
-      {
-       "title": "Family of four killed as they slept in Israeli strike on Gaza",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/10/family-of-four-killed-as-they-slept-in-israeli-strike-on-gaza?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-09-10 17:32"
       }
      ]
     },
@@ -479,45 +523,16 @@
      "label": "Yemen",
      "articles": [
       {
-       "title": "What’s happening in Yemen and how did we get here?",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/10/whats-happening-in-yemen-and-how-did-we-get-here-3?traffic_source=rss",
+       "title": "UN envoy warns Security Council Yemen’s war has entered ‘dangerous phase’",
+       "url": "https://www.aljazeera.com/news/2026/9/10/un-envoy-warns-security-council-yemens-war-has-entered-dangerous-phase?traffic_source=rss",
        "source": "Al Jazeera",
-       "published_at": "2026-09-10 20:24"
-      },
-      {
-       "title": "Could Pakistan enter Yemen conflict under Mecca agreement?",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/10/10-09-sv-pakistan-yemen-mecca-pk?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-09-10 20:06"
+       "published_at": "2026-09-10 23:46"
       },
       {
        "title": "Yemen's Houthis reportedly seize strategic Red Sea port of Mokha",
        "url": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&at_campaign=rss",
        "source": "BBC World",
        "published_at": "2026-09-10 18:15"
-      }
-     ]
-    },
-    {
-     "label": "More headlines",
-     "articles": [
-      {
-       "title": "Houthis seize key Yemeni port of Mocha in drive to take control of Red Sea coast",
-       "url": "https://www.theguardian.com/world/2026/sep/10/houthis-seize-key-port-mocha-yemen-red-sea-coast-iran-saudi-arabia-us",
-       "source": "Guardian World",
-       "published_at": "2026-09-10 11:39"
-      },
-      {
-       "title": "Iran war won't end until after crucial November elections, says Trump",
-       "url": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
-       "source": "BBC World",
-       "published_at": "2026-09-10 10:43"
-      },
-      {
-       "title": "Grace Tame apologises for comments labelling rape of Israeli women during Hamas attacks ‘propaganda’",
-       "url": "https://www.theguardian.com/australia-news/2026/sep/10/grace-tame-apologises-for-comments-labelling-of-israeli-women-during-hamas-attacks-propaganda-ntwnfb",
-       "source": "Guardian World",
-       "published_at": "2026-09-10 08:22"
       }
      ]
     }
@@ -531,8 +546,26 @@
    "note": null,
    "clusters": [
     {
-     "label": "Ukraine · Russia",
+     "label": "Russian · Injured",
      "articles": [
+      {
+       "title": "At least 8 injured in Kyiv amid Russian drone attack",
+       "url": "https://kyivindependent.com/2-injured-in-kyiv-amid-russian-drone-attack/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-09-11 03:32"
+      },
+      {
+       "title": "Ukrainian drones reportedly strike Russian oil refinery, Ozon warehouse in Saratov",
+       "url": "https://kyivindependent.com/ukrainian-drones-reportedly-strike-saratov-oil-refinery-ozon-warehouse/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-09-11 01:44"
+      },
+      {
+       "title": "Russian-owned Irish refinery held private talks with government over war and sanctions risks, Irish Times reports",
+       "url": "https://kyivindependent.com/russian-owned-irish-refinery-held-private-talks-with-government-over-sanctions-fallout-irish-times-reports/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-09-10 21:56"
+      },
       {
        "title": "Russian strike hits shopping centre in central Ukraine",
        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/10/10-09-clip-russia-strike-pavlohrad-ua?traffic_source=rss",
@@ -540,16 +573,27 @@
        "published_at": "2026-09-10 21:03"
       },
       {
+       "title": "5 dead, 67 injured after Russian attack on Pavlohrad shopping center",
+       "url": "https://kyivindependent.com/4-dead-including-3-teenage-boys-after-russian-attack-on-pavlohrad-shopping-center/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-09-10 16:29"
+      }
+     ]
+    },
+    {
+     "label": "Ukraine · War",
+     "articles": [
+      {
+       "title": "Putin lands in India for BRICs summit, shadowed by Iran and Ukraine wars",
+       "url": "https://www.aljazeera.com/news/2026/9/11/putin-lands-in-india-for-brics-summit-shadowed-by-iran-and-ukraine-wars?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-09-11 02:40"
+      },
+      {
        "title": "Canada offers air defense support for Ukraine as Zelenskyy visits",
        "url": "https://www.theguardian.com/world/2026/sep/10/zelenskyy-canada-visit",
        "source": "Guardian World",
        "published_at": "2026-09-10 20:35"
-      },
-      {
-       "title": "Amnesty accuses Russia of trafficking foreigners to fight in Ukraine",
-       "url": "https://www.aljazeera.com/news/2026/9/10/amnesty-accuses-russia-of-trafficking-foreigners-to-fight-in-ukraine?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-09-10 19:02"
       },
       {
        "title": "Ukraine war latest: Russia's recruitment of foreign nationals 'amounts to human trafficking'",
@@ -562,52 +606,12 @@
        "url": "https://kyivindependent.com/how-is-russia-ukraine-war-disrupting-global-grain-supply/",
        "source": "Kyiv Independent",
        "published_at": "2026-09-10 15:32"
-      }
-     ]
-    },
-    {
-     "label": "Russian",
-     "articles": [
-      {
-       "title": "Russian-owned Irish refinery held private talks with government over war and sanctions risks, Irish Times reports",
-       "url": "https://kyivindependent.com/russian-owned-irish-refinery-held-private-talks-with-government-over-sanctions-fallout-irish-times-reports/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-09-10 21:56"
-      },
-      {
-       "title": "5 dead, 67 injured after Russian attack on Pavlohrad shopping center",
-       "url": "https://kyivindependent.com/4-dead-including-3-teenage-boys-after-russian-attack-on-pavlohrad-shopping-center/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-09-10 16:29"
       },
       {
        "title": "Orthodox church sends medieval prince’s remains to Russian troops in Ukraine",
        "url": "https://www.theguardian.com/world/2026/sep/10/russia-orthodox-church-dmitry-donskoy-medieval-prince-hand-troops-ukraine",
        "source": "Guardian World",
        "published_at": "2026-09-10 15:12"
-      },
-      {
-       "title": "NATO allies disrupt Russian exercise involving secret weapon targeting subsea cables, Reuters reports",
-       "url": "https://kyivindependent.com/nato-allies-foiled-russian-exercise-involving-secret-weapon-targeting-subsea-cables-reuters-reports/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-09-10 14:58"
-      }
-     ]
-    },
-    {
-     "label": "Russia",
-     "articles": [
-      {
-       "title": "Russia’s actions have strengthened European case for boosting defence spending, says Nato chief – as it happened",
-       "url": "https://www.theguardian.com/world/live/2026/sep/10/russian-drone-strike-ukraine-zelenskyy-macron-nato-rutte-latest-news-updates",
-       "source": "Guardian World",
-       "published_at": "2026-09-10 15:07"
-      },
-      {
-       "title": "Russia sanctions bill faces make-or-break moment before US midterms, Ukraine says",
-       "url": "https://kyivindependent.com/russia-sanctions-bill-faces-make-or-break-moment-before-us-midterms-ukraine-says/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-09-10 15:00"
       }
      ]
     },
@@ -619,6 +623,12 @@
        "url": "https://kyivindependent.com/until-safer-times-kyivs-cultural-life-pauses-as-the-city-adjusts-to-new-drone-threats/",
        "source": "Kyiv Independent",
        "published_at": "2026-09-10 16:55"
+      },
+      {
+       "title": "Russia’s actions have strengthened European case for boosting defence spending, says Nato chief – as it happened",
+       "url": "https://www.theguardian.com/world/live/2026/sep/10/russian-drone-strike-ukraine-zelenskyy-macron-nato-rutte-latest-news-updates",
+       "source": "Guardian World",
+       "published_at": "2026-09-10 15:07"
       }
      ]
     }
