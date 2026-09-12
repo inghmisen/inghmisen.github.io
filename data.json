@@ -1,8 +1,8 @@
 {
  "date": "Saturday 12 September 2026",
- "generated_at": "19:04 UTC",
+ "generated_at": "21:34 UTC",
  "error": null,
- "total_stories": 76,
+ "total_stories": 75,
  "fx": {
   "pair": "EUR/MAD",
   "rate": 10.914,
@@ -16,8 +16,14 @@
    "note": null,
    "clusters": [
     {
-     "label": "Qwen · Flash",
+     "label": "Flash · Tok",
      "articles": [
+      {
+       "title": "DeepSeek V4.1 Flash on 8× A40: ~40 tok/s Q2_K and ~32 tok/s Q4_K_M with TensorSharp",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wejdbe/deepseek_v41_flash_on_8_a40_40_toks_q2_k_and_32/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-12 17:57"
+      },
       {
        "title": "M2 Ultra/Qwen3.8 Flash Next Update - latest oMLX introduces substantial speedup",
        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wei63j/m2_ultraqwen38_flash_next_update_latest_omlx/",
@@ -31,39 +37,33 @@
        "published_at": "2026-09-12 16:52"
       },
       {
-       "title": "This draft model is OP on 16 GB cards for Qwen 3.8 27b",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1weersc/this_draft_model_is_op_on_16_gb_cards_for_qwen_38/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-09-12 14:57"
-      },
-      {
-       "title": "bartowski/Qwen3.8-27B-GGUF · Hugging Face - Updated (Per-tensor layout)",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1webfsq/bartowskiqwen3827bgguf_hugging_face_updated/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-09-12 12:32"
-      },
-      {
-       "title": "Anybody use frontier models like Astra/Fable for planning/judging, and qwen3.8 as the main workhorse? Curious to hear about your setups!",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1web1jd/anybody_use_frontier_models_like_astrafable_for/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-09-12 12:13"
+       "title": "deepseek-ai/DeepSeek-V4.1-Flash · 1992 ♥",
+       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
+       "source": "HF new models",
+       "published_at": "2026-09-10 02:17"
       }
      ]
     },
     {
-     "label": "Flash",
+     "label": "Nex · Mini",
      "articles": [
       {
-       "title": "tencent/AuK-Flash · Hugging Face",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wecf25/tencentaukflash_hugging_face/",
+       "title": "Nex-N2.5-mini-MLX-4bit on Apple M5 Max — 133.6 tok/s — llm-bench.io",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wel0ub/nexn25minimlx4bit_on_apple_m5_max_1336_toks/",
        "source": "r/LocalLLaMA",
-       "published_at": "2026-09-12 13:17"
+       "published_at": "2026-09-12 19:00"
       },
       {
-       "title": "deepseek-ai/DeepSeek-V4.1-Flash · 1967 ♥",
-       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
+       "title": "nex-agi/Nex-N2.5-Pro · 615 ♥",
+       "url": "https://huggingface.co/nex-agi/Nex-N2.5-Pro",
        "source": "HF new models",
-       "published_at": "2026-09-10 02:17"
+       "published_at": "2026-09-08 11:01"
+      },
+      {
+       "title": "nex-agi/Nex-N2.5-mini · 727 ♥",
+       "url": "https://huggingface.co/nex-agi/Nex-N2.5-mini",
+       "source": "HF new models",
+       "published_at": "2026-09-08 05:08"
       }
      ]
     },
@@ -85,25 +85,20 @@
      ]
     },
     {
-     "label": "Nex · Agi",
-     "articles": [
-      {
-       "title": "nex-agi/Nex-N2.5-Pro · 613 ♥",
-       "url": "https://huggingface.co/nex-agi/Nex-N2.5-Pro",
-       "source": "HF new models",
-       "published_at": "2026-09-08 11:01"
-      },
-      {
-       "title": "nex-agi/Nex-N2.5-mini · 724 ♥",
-       "url": "https://huggingface.co/nex-agi/Nex-N2.5-mini",
-       "source": "HF new models",
-       "published_at": "2026-09-08 05:08"
-      }
-     ]
-    },
-    {
      "label": "More headlines",
      "articles": [
+      {
+       "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
+       "url": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
+       "source": "Verge AI",
+       "published_at": "2026-09-12 21:16"
+      },
+      {
+       "title": "Real-SWE Benchmark (new)",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wemcdc/realswe_benchmark_new/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-12 19:50"
+      },
       {
        "title": "Looks like a coordination to stop distribution of intelligence",
        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wehlyi/looks_like_a_coordination_to_stop_distribution_of/",
@@ -123,25 +118,25 @@
        "published_at": "2026-09-12 15:08"
       },
       {
-       "title": "Intel Linux NPU driver only now officially supports Ubuntu 26.04 LTS",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wed7cg/intel_linux_npu_driver_only_now_officially/",
+       "title": "This draft model is OP on 16 GB cards for Qwen 3.8 27b",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1weersc/this_draft_model_is_op_on_16_gb_cards_for_qwen_38/",
        "source": "r/LocalLLaMA",
-       "published_at": "2026-09-12 13:51"
+       "published_at": "2026-09-12 14:57"
       },
       {
-       "title": "m-a-p/YuE2-3B · 310 ♥",
+       "title": "m-a-p/YuE2-3B · 315 ♥",
        "url": "https://huggingface.co/m-a-p/YuE2-3B",
        "source": "HF new models",
        "published_at": "2026-09-09 18:30"
       },
       {
-       "title": "Edge0/Edge0-35B-A3B-preview · 378 ♥",
+       "title": "Edge0/Edge0-35B-A3B-preview · 400 ♥",
        "url": "https://huggingface.co/Edge0/Edge0-35B-A3B-preview",
        "source": "HF new models",
        "published_at": "2026-09-08 13:56"
       },
       {
-       "title": "openbmb/MiniCPM5-2B · 1247 ♥",
+       "title": "openbmb/MiniCPM5-2B · 1254 ♥",
        "url": "https://huggingface.co/openbmb/MiniCPM5-2B",
        "source": "HF new models",
        "published_at": "2026-09-06 11:12"
@@ -175,7 +170,7 @@
      ]
     },
     {
-     "label": "Bestuursfotoverkiezing · Grote",
+     "label": "Grote · Bestuursfotoverkiezing",
      "articles": [
       {
        "title": "De Grote U-Today Bestuursfotoverkiezing 2026, de uitslag",
@@ -219,16 +214,16 @@
        "published_at": "2026-06-01 07:00"
       },
       {
+       "title": "Twente-based PhD research aims to protect the Javan leopard",
+       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQU3UxNG00eUZ2OERKMHpaYkluanl6dm1UdWJocHdrSGdDemtIeG5RNkF1bGc0QlNKeU1td3BjNEpyRFRGOEduZTRIWXMzV1B6MjR2bXVzVFM3cTlOeWtTempUY21TVlJsdXQ4WWY5aEYyR3BxQkYzRk9mWElEWnQ3a1NObzR0Uy1ZRG1WazdQQ3BBWWg1d0pPYkxBbw?oc=5",
+       "source": "UToday",
+       "published_at": "2026-05-27 07:00"
+      },
+      {
        "title": "Inter-Actief throws computers to mark anniversary",
        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQT29BdUtWMzZVZGRpYTF4N1lCalhLcUE2YnJnY1JHb0xVQ0EyTVpmYm9aR1FBaHN4QVFMcTBjRUJlcl81SmxWVFlGRndfbkdISVp4RXlSenl6Y29UdWduNE1fUE5Xa19Ca2owNFlsUllfbWhkbkVCZkVKaGExM24yOW16NFZsbmtjMUk0cjFUbkhNV2M?oc=5",
        "source": "UToday",
        "published_at": "2026-05-23 07:00"
-      },
-      {
-       "title": "Pakkerij moet per direct deuren sluiten na inspectie",
-       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcmppb3BwZ0tnV21aNTBCQm1EQzhudzZDeW1BUU5VZ0Y0NjlBUHFkUUNoNWNYeUtNWjZ3Zk9QbTF3VGZydTdBbUk0NzJtVFpONlVfLXZwbm9HNXhEX1p2WEFUTU1GeTQzVWtQcjdZWnJ3eUFjZVd6SFFSZWRBdVdweGNiRUFBcWIwZ3NtNUdn?oc=5",
-       "source": "UToday",
-       "published_at": "2026-05-21 07:00"
       }
      ]
     }
@@ -242,19 +237,42 @@
    "note": null,
    "clusters": [
     {
-     "label": "لقاء · بوتين",
+     "label": "الانتخابات · قيوح",
      "articles": [
       {
-       "title": "عقد لقاء بوتين وزيلينسكي \"مستحيل\"",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%83%d8%b1%d9%85%d9%84%d9%8a%d9%86-%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9-%d8%a8%d9%88%d8%aa%d9%8a%d9%86-%d9%88%d8%b2%d9%8a%d9%84%d9%8a%d9%86%d8%b3%d9%83%d9%8a-%d9%85%d8%b3%d8%aa%d8%ad-1806319.html",
+       "title": "قيوح والمشاركة في الانتخابات",
+       "url": "https://www.hespress.com/%d9%82%d9%8a%d9%88%d8%ad-%d9%88%d8%a7%d9%84%d9%85%d8%b4%d8%a7%d8%b1%d9%83%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-1806443.html",
        "source": "Hespress",
-       "published_at": "2026-09-12 17:34"
+       "published_at": "2026-09-12 20:38"
       },
       {
-       "title": "زيلينسكي يرغب في لقاء بوتين بميامي",
-       "url": "https://www.hespress.com/%d8%b2%d9%8a%d9%84%d9%8a%d9%86%d8%b3%d9%83%d9%8a-%d9%8a%d8%b1%d8%ba%d8%a8-%d9%81%d9%8a-%d9%84%d9%82%d8%a7%d8%a1-%d8%a8%d9%88%d8%aa%d9%8a%d9%86-%d8%a8%d9%85%d9%8a%d8%a7%d9%85%d9%8a-1806277.html",
+       "title": "الطريق إلى الانتخابات 2026 | عبد السلام العزيز",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%b7%d8%b1%d9%8a%d9%82-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-2026-%d8%b9%d8%a8%d8%af-%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85-%d8%a7%d9%84%d8%b9-1806411.html",
        "source": "Hespress",
-       "published_at": "2026-09-12 16:50"
+       "published_at": "2026-09-12 20:00"
+      },
+      {
+       "title": "قيوح ينادي بالمشاركة المكثفة في الانتخابات",
+       "url": "https://www.hespress.com/%d9%82%d9%8a%d9%88%d8%ad-%d9%8a%d9%86%d8%a7%d8%af%d9%8a-%d8%a8%d8%a7%d9%84%d9%85%d8%b4%d8%a7%d8%b1%d9%83%d8%a9-%d8%a7%d9%84%d9%85%d9%83%d8%ab%d9%81%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d8%a7%d9%86%d8%aa-1806336.html",
+       "source": "Hespress",
+       "published_at": "2026-09-12 19:07"
+      }
+     ]
+    },
+    {
+     "label": "تحالف · اليسار",
+     "articles": [
+      {
+       "title": "تحالف اليسار يطرح وعودا انتخابية",
+       "url": "https://www.hespress.com/%d8%aa%d8%ad%d8%a7%d9%84%d9%81-%d8%a7%d9%84%d9%8a%d8%b3%d8%a7%d8%b1-%d9%8a%d8%b7%d8%b1%d8%ad-%d9%88%d8%b9%d9%88%d8%af%d8%a7-%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d9%8a%d8%a9-1806427.html",
+       "source": "Hespress",
+       "published_at": "2026-09-12 21:19"
+      },
+      {
+       "title": "تحالف اليسار يرفض حملات التشويه",
+       "url": "https://www.hespress.com/%d8%aa%d8%ad%d8%a7%d9%84%d9%81-%d8%a7%d9%84%d9%8a%d8%b3%d8%a7%d8%b1-%d9%8a%d8%b1%d9%81%d8%b6-%d8%ad%d9%85%d9%84%d8%a7%d8%aa-%d8%a7%d9%84%d8%aa%d8%b4%d9%88%d9%8a%d9%87-1806337.html",
+       "source": "Hespress",
+       "published_at": "2026-09-12 19:30"
       }
      ]
     },
@@ -279,64 +297,46 @@
      "label": "More headlines",
      "articles": [
       {
-       "title": "مخاوف التسمم تطارد أكل الشارع",
-       "url": "https://www.hespress.com/%d9%85%d8%ae%d8%a7%d9%88%d9%81-%d8%a7%d9%84%d8%aa%d8%b3%d9%85%d9%85-%d8%aa%d8%b7%d8%a7%d8%b1%d8%af-%d8%a3%d9%83%d9%84-%d8%a7%d9%84%d8%b4%d8%a7%d8%b1%d8%b9-1806343.html",
+       "title": "تنافس يساري بين ميلونشون وروسيل",
+       "url": "https://www.hespress.com/%d8%aa%d9%86%d8%a7%d9%81%d8%b3-%d9%8a%d8%b3%d8%a7%d8%b1%d9%8a-%d8%a8%d9%8a%d9%86-%d9%85%d9%8a%d9%84%d9%88%d9%86%d8%b4%d9%88%d9%86-%d9%88%d8%b1%d9%88%d8%b3%d9%8a%d9%84-1806314.html",
        "source": "Hespress",
-       "published_at": "2026-09-12 19:00"
+       "published_at": "2026-09-12 21:30"
       },
       {
-       "title": "تحالف اليسار يطالب بتحقيقات قضائية بشأن اتهامات \"الأحرار\" و\"الجرار\"",
-       "url": "https://www.hespress.com/%d8%aa%d8%ad%d8%a7%d9%84%d9%81-%d8%a7%d9%84%d9%8a%d8%b3%d8%a7%d8%b1-%d9%8a%d8%b7%d8%a7%d9%84%d8%a8-%d8%a8%d8%aa%d8%ad%d9%82%d9%8a%d9%82%d8%a7%d8%aa-%d9%82%d8%b6%d8%a7%d8%a6%d9%8a%d8%a9-%d8%a8%d8%b4-1806355.html",
+       "title": "حكم يدين رئيس مجلس تازة الإقليمي",
+       "url": "https://www.hespress.com/%d8%ad%d9%83%d9%85-%d9%8a%d8%af%d9%8a%d9%86-%d8%b1%d8%a6%d9%8a%d8%b3-%d9%85%d8%ac%d9%84%d8%b3-%d8%aa%d8%a7%d8%b2%d8%a9-%d8%a7%d9%84%d8%a5%d9%82%d9%84%d9%8a%d9%85%d9%8a-1806224.html",
        "source": "Hespress",
-       "published_at": "2026-09-12 19:00"
+       "published_at": "2026-09-12 21:07"
       },
       {
-       "title": "إريتريا: إثيوبيا تزعزع القرن الإفريقي",
-       "url": "https://www.hespress.com/%d8%a5%d8%b1%d9%8a%d8%aa%d8%b1%d9%8a%d8%a7-%d8%a5%d8%ab%d9%8a%d9%88%d8%a8%d9%8a%d8%a7-%d8%aa%d8%b2%d8%b9%d8%b2%d8%b9-%d8%a7%d9%84%d9%82%d8%b1%d9%86-%d8%a7%d9%84%d8%a5%d9%81%d8%b1%d9%8a%d9%82%d9%8a-1806292.html",
+       "title": "لقجع يكشف وصفة \"البام\" لتمويل 350 مليار درهم دون إثقال جيوب المغاربة",
+       "url": "https://www.hespress.com/%d9%84%d9%82%d8%ac%d8%b9-%d9%8a%d9%83%d8%b4%d9%81-%d9%88%d8%b5%d9%81%d8%a9-%d8%a7%d9%84%d8%a8%d8%a7%d9%85-%d9%84%d8%aa%d9%85%d9%88%d9%8a%d9%84-350-%d9%85%d9%84%d9%8a%d8%a7%d8%b1-%d8%af%d8%b1%d9%87-1806431.html",
        "source": "Hespress",
-       "published_at": "2026-09-12 18:43"
+       "published_at": "2026-09-12 21:00"
       },
       {
-       "title": "بركة: مشروع \"الاستقلال\" يستهدف تقوية الطبقة الوسطى وتمكين الشباب",
-       "url": "https://www.hespress.com/%d8%a8%d8%b1%d9%83%d8%a9-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d9%82%d9%84%d8%a7%d9%84-%d9%8a%d8%b3%d8%aa%d9%87%d8%af%d9%81-%d8%aa%d9%82%d9%88%d9%8a%d8%a9-%d8%a7%d9%84-1806339.html",
+       "title": "الصنايبي \"ليس ناطقا رسميا\" للوداد",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%b5%d9%86%d8%a7%d9%8a%d8%a8%d9%8a-%d9%84%d9%8a%d8%b3-%d9%86%d8%a7%d8%b7%d9%82%d8%a7-%d8%b1%d8%b3%d9%85%d9%8a%d8%a7-%d9%84%d9%84%d9%88%d8%af%d8%a7%d8%af-1806424.html",
        "source": "Hespress",
-       "published_at": "2026-09-12 18:30"
+       "published_at": "2026-09-12 20:30"
       },
       {
-       "title": "بولس يجدد دعم تسوية ملف الصحراء",
-       "url": "https://www.hespress.com/%d8%a8%d9%88%d9%84%d8%b3-%d9%8a%d8%ac%d8%af%d8%af-%d8%af%d8%b9%d9%85-%d8%aa%d8%b3%d9%88%d9%8a%d8%a9-%d9%85%d9%84%d9%81-%d8%a7%d9%84%d8%b5%d8%ad%d8%b1%d8%a7%d8%a1-1806307.html",
+       "title": "\"غلاء النفط\" يضع أسعار المحروقات تحت الضغط في محطات المغرب",
+       "url": "https://www.hespress.com/%d8%ba%d9%84%d8%a7%d8%a1-%d8%a7%d9%84%d9%86%d9%81%d8%b7-%d9%8a%d8%b6%d8%b9-%d8%a3%d8%b3%d8%b9%d8%a7%d8%b1-%d8%a7%d9%84%d9%85%d8%ad%d8%b1%d9%88%d9%82%d8%a7%d8%aa-%d8%aa%d8%ad%d8%aa-%d8%a7%d9%84-1806138.html",
        "source": "Hespress",
-       "published_at": "2026-09-12 18:06"
+       "published_at": "2026-09-12 20:00"
       },
       {
-       "title": "رصيف الصحافة: المغرب يخص سبتة ومليلية بـ\"استراتيجية النفس الطويل\"",
-       "url": "https://www.hespress.com/%d8%b1%d8%b5%d9%8a%d9%81-%d8%a7%d9%84%d8%b5%d8%ad%d8%a7%d9%81%d8%a9-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d9%8a%d8%ae%d8%b5-%d8%b3%d8%a8%d8%aa%d8%a9-%d9%88%d9%85%d9%84%d9%8a%d9%84%d9%8a%d8%a9-%d8%a8-1806156.html",
+       "title": "صراع على خلافة أصغر ملوك العالم يشعل الانقسام في أوغندا",
+       "url": "https://www.hespress.com/%d8%b5%d8%b1%d8%a7%d8%b9-%d8%b9%d9%84%d9%89-%d8%ae%d9%84%d8%a7%d9%81%d8%a9-%d8%a3%d8%b5%d8%ba%d8%b1-%d9%85%d9%84%d9%88%d9%83-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85-%d9%8a%d8%b4%d8%b9%d9%84-%d8%a7%d9%84-1806318.html",
        "source": "Hespress",
-       "published_at": "2026-09-12 18:00"
+       "published_at": "2026-09-12 19:14"
       },
       {
-       "title": "حملة مقصية",
-       "url": "https://www.hespress.com/%d8%ad%d9%85%d9%84%d8%a9-%d9%85%d9%82%d8%b5%d9%8a%d8%a9-1805299.html",
+       "title": "وكيل فاس يوضح مصير شكاية سجين",
+       "url": "https://www.hespress.com/%d9%88%d9%83%d9%8a%d9%84-%d9%81%d8%a7%d8%b3-%d9%8a%d9%88%d8%b6%d8%ad-%d9%85%d8%b5%d9%8a%d8%b1-%d8%b4%d9%83%d8%a7%d9%8a%d8%a9-%d8%b3%d8%ac%d9%8a%d9%86-1806363.html",
        "source": "Hespress",
-       "published_at": "2026-09-12 17:36"
-      },
-      {
-       "title": "\"الماص\" يعبر عقبة رحيمو البوركينابي",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d8%a7%d9%84%d9%81%d8%a7%d8%b3%d9%8a-%d9%8a%d8%b9%d8%a8%d8%b1-%d8%b9%d9%82%d8%a8%d8%a9-%d8%b1%d8%ad%d9%8a%d9%85%d9%88-%d8%a7%d9%84%d8%a8%d9%88%d8%b1%d9%83%d9%8a-1806303.html",
-       "source": "Hespress",
-       "published_at": "2026-09-12 17:11"
-      },
-      {
-       "title": "ترامب يؤيد \"توحيد إيرلندا الشمالية\"",
-       "url": "https://www.hespress.com/%d8%aa%d8%b1%d8%a7%d9%85%d8%a8-%d9%8a%d8%a4%d9%8a%d8%af-%d8%aa%d9%88%d8%ad%d9%8a%d8%af-%d8%a5%d9%8a%d8%b1%d9%84%d9%86%d8%af%d8%a7-%d8%a7%d9%84%d8%b4%d9%85%d8%a7%d9%84%d9%8a%d8%a9-1806282.html",
-       "source": "Hespress",
-       "published_at": "2026-09-12 17:04"
-      },
-      {
-       "title": "سفير أوكرانيا بالرباط يدخل على خط معادلة شهادات 73 خريجاً مغربياً",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%b3%d9%81%d9%8a%d8%b1-%d8%a7%d9%84%d8%a3%d9%88%d9%83%d8%b1%d8%a7%d9%86%d9%8a-%d8%a8%d8%a7%d9%84%d8%b1%d8%a8%d8%a7%d8%b7-%d9%8a%d8%af%d8%ae%d9%84-%d8%b9%d9%84%d9%89-%d8%ae%d8%b7-%d9%85-1806116.html",
-       "source": "Hespress",
-       "published_at": "2026-09-12 17:00"
+       "published_at": "2026-09-12 19:10"
       },
       {
        "title": "Médicaments : le trou commercial se creuse à 13,4 MMDH d'ici à 2030",
@@ -405,17 +405,11 @@
        "url": "https://www.telegraaf.nl/binnenland/voortvluchtige-oorlogsmisdadiger-guus-kouwenhoven-overleden-in-zuid-afrika-met-zijn-wapens-zijn-hele-dorpen-uitgeroeid/161128796.html",
        "source": "de Telegraaf",
        "published_at": "2026-09-12 13:58"
-      },
-      {
-       "title": "Richard Groenendijk keihard afgewezen voor Cameretten: ’Misschien ben je meer geschikt voor musicals’",
-       "url": "https://www.telegraaf.nl/entertainment/sterren/richard-groenendijk-keihard-afgewezen-voor-cameretten-misschien-ben-je-meer-geschikt-voor-musicals/161355751.html",
-       "source": "de Telegraaf",
-       "published_at": "2026-09-12 12:50"
       }
      ]
     }
    ],
-   "count": 6
+   "count": 5
   },
   {
    "key": "mideast",
@@ -424,8 +418,26 @@
    "note": null,
    "clusters": [
     {
-     "label": "Iran · Hold",
+     "label": "Iran · Houthi",
      "articles": [
+      {
+       "title": "Bahrain says it will not participate in Iran’s proposed Hormuz meeting",
+       "url": "https://www.aljazeera.com/news/2026/9/12/bahrain-says-it-will-not-participate-in-irans-proposed-hormuz-meeting?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-09-12 19:34"
+      },
+      {
+       "title": "Will Houthi advances in Yemen give Iran leverage in its war with the US?",
+       "url": "https://www.aljazeera.com/video/inside-story/2026/9/12/will-houthi-advances-in-yemen-give-iran-leverage-in-its-war-with-the-us?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-09-12 19:17"
+      },
+      {
+       "title": "Iraq probes drone strikes on Saudi Arabia, shuts three crossings to Iran",
+       "url": "https://www.aljazeera.com/news/2026/9/12/iraq-probes-drone-strikes-on-saudi-arabia-shuts-three-crossings-to-iran?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-09-12 18:53"
+      },
       {
        "title": "Iran, UAE hold first talks at BRICS summit since conflict began",
        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-clip-uae-iran-brics-talks-mp4?traffic_source=rss",
@@ -433,45 +445,10 @@
        "published_at": "2026-09-12 18:36"
       },
       {
-       "title": "Iran-backed Houthis seize strategic Mayun Island: Can they hold it?",
-       "url": "https://www.aljazeera.com/news/2026/9/12/iran-backed-houthis-seize-strategic-mayun-island-can-they-hold-it?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-09-12 13:45"
-      },
-      {
-       "title": "‘Divine triumph’: Iran celebrates Houthis’ capture of Yemen’s Red Sea coast",
-       "url": "https://www.aljazeera.com/news/2026/9/12/divine-triumph-iran-celebrates-houthis-capture-of-yemens-red-sea-coast?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-09-12 13:06"
-      },
-      {
-       "title": "Trump: Iran probably ‘behind’ Saudi oil pipeline attack",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/trump-iran-probably-behind-saudi-oil-pipeline-attack?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-09-12 12:10"
-      },
-      {
        "title": "Iran’s Houthi allies capture strategic island on vital oil shipping route",
        "url": "https://www.theguardian.com/world/2026/sep/11/iran-houthi-allies-capture-strategic-island-bab-al-mandab-strait",
        "source": "Guardian World",
        "published_at": "2026-09-12 04:45"
-      }
-     ]
-    },
-    {
-     "label": "Houthis · Sea",
-     "articles": [
-      {
-       "title": "Houthis celebrate seizing control of Yemen’s Red Sea coast",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/houthis-celebrate-seizing-control-of-yemens-red-sea-coast?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-09-12 11:32"
-      },
-      {
-       "title": "Nearly 50,000 Yemeni civilians flee as Houthis advance along Red Sea coast",
-       "url": "https://www.theguardian.com/world/2026/sep/12/yemen-houthi-advance-red-sea-coast-displaces-civilians-bab-al-mandab",
-       "source": "Guardian World",
-       "published_at": "2026-09-12 04:00"
       }
      ]
     },
@@ -485,10 +462,27 @@
        "published_at": "2026-09-12 16:06"
       },
       {
-       "title": "Yemen government forces say Houthi ‘members, vehicles’ targeted in Mocha",
-       "url": "https://www.aljazeera.com/news/2026/9/12/yemen-government-forces-say-houthi-members-vehicles-targeted-in-mocha?traffic_source=rss",
+       "title": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
+       "url": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss",
+       "source": "BBC World",
+       "published_at": "2026-09-11 19:44"
+      }
+     ]
+    },
+    {
+     "label": "Israel",
+     "articles": [
+      {
+       "title": "Israel bombs southern Lebanon as talks postponed",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/israel-bombs-southern-lebanon-as-talks-postponed?traffic_source=rss",
        "source": "Al Jazeera",
-       "published_at": "2026-09-12 11:57"
+       "published_at": "2026-09-12 19:56"
+      },
+      {
+       "title": "Iranian official tells Al Jazeera IAEA ruling was imposed by US and Israel",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-clip-iranian-fm-spox-aj?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-09-12 14:49"
       }
      ]
     },
@@ -496,10 +490,10 @@
      "label": "More headlines",
      "articles": [
       {
-       "title": "Iranian official tells Al Jazeera IAEA ruling was imposed by US and Israel",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-clip-iranian-fm-spox-aj?traffic_source=rss",
+       "title": "Gaza genocide documentary ‘NAZA’ wins Special Jury Prize at Venice",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-naza-venice-clip-mp4?traffic_source=rss",
        "source": "Al Jazeera",
-       "published_at": "2026-09-12 14:49"
+       "published_at": "2026-09-12 19:50"
       },
       {
        "title": "IDF soldier filmed shooting Palestinian in leg amid West Bank settler standoff",
@@ -508,10 +502,10 @@
        "published_at": "2026-09-12 13:44"
       },
       {
-       "title": "Left with nothing, people in Gaza are forced to rent generators by the hour",
-       "url": "https://www.aljazeera.com/features/2026/9/12/left-with-nothing-people-in-gaza-are-forced-to-rent-generators-by-the-hour?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-09-12 11:43"
+       "title": "Nearly 50,000 Yemeni civilians flee as Houthis advance along Red Sea coast",
+       "url": "https://www.theguardian.com/world/2026/sep/12/yemen-houthi-advance-red-sea-coast-displaces-civilians-bab-al-mandab",
+       "source": "Guardian World",
+       "published_at": "2026-09-12 04:00"
       }
      ]
     }
@@ -525,8 +519,20 @@
    "note": null,
    "clusters": [
     {
-     "label": "Ukraine · Russia",
+     "label": "Ukraine · Russian",
      "articles": [
+      {
+       "title": "Only Roland Garros towel left, says Ukraine tennis player after Russian strike hits flat",
+       "url": "https://www.bbc.co.uk/news/articles/c4gr33g3evlo?at_medium=RSS&at_campaign=rss",
+       "source": "BBC World",
+       "published_at": "2026-09-12 20:27"
+      },
+      {
+       "title": "Russian drones target Volyn, Rivne oblasts in rare mass attack in western Ukraine",
+       "url": "https://kyivindependent.com/russian-drones-target-volyn-rivne-oblasts-in-rare-mass-attack-in-western-ukraine/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-09-12 19:26"
+      },
       {
        "title": "Explosion at Bulgarian ammunition depot supplying Ukraine sparks massive fire, sabotage probe",
        "url": "https://kyivindependent.com/explosion-hits-bulgarian-ammunition-facility-supplying-ukraine-sabotage-probe-underway/",
@@ -544,18 +550,29 @@
        "url": "https://kyivindependent.com/russian-attacks-kill-11-injure-96-across-ukraine-as-odesa-comes-under-mass-overnight-strike/",
        "source": "Kyiv Independent",
        "published_at": "2026-09-12 09:03"
+      }
+     ]
+    },
+    {
+     "label": "Russian · Ukrainian",
+     "articles": [
+      {
+       "title": "'Immoral and self-destructive' — Zelensky blasts EU for considering lifting sanctions on Russian oligarchs",
+       "url": "https://kyivindependent.com/immoral-and-self-destructive-zelensky-blasts-eus-failure-to-renew-sanctions-on-russian-oligarchs/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-09-12 20:37"
       },
       {
-       "title": "Explainer: How Ukraine’s biggest corruption scheme persisted despite all odds",
-       "url": "https://kyivindependent.com/explainer-how-ukraines-biggest-corruption-scheme-persisted-despite-all-odds/",
+       "title": "'First-ever battle' — Ukrainian naval drone destroys Russian unmanned boat in Black Sea, Navy says",
+       "url": "https://kyivindependent.com/first-ever-battle-ukrainian-naval-drone-destroys-russian-unmanned-boat-in-black-sea-navy-says/",
        "source": "Kyiv Independent",
-       "published_at": "2026-09-12 08:27"
+       "published_at": "2026-09-12 18:14"
       },
       {
-       "title": "General Staff: Russia has lost 1,505,380 troops in Ukraine since Feb. 24, 2022",
-       "url": "https://kyivindependent.com/general-staff-russia-has-lost-1-505-380-troops-in-ukraine-since-feb-24-2022/",
+       "title": "Russian strikes hit 2 major Ukrainian steel plants, killing 2 and injuring 6",
+       "url": "https://kyivindependent.com/russian-strikes-hit-2-major-ukrainian-steel-plants-killing-2-and-injuring-6/",
        "source": "Kyiv Independent",
-       "published_at": "2026-09-12 06:37"
+       "published_at": "2026-09-12 13:36"
       }
      ]
     },
@@ -569,39 +586,10 @@
        "published_at": "2026-09-12 16:30"
       },
       {
-       "title": "Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC",
-       "url": "https://www.bbc.co.uk/news/articles/cwyz59yyqk4o?at_medium=RSS&at_campaign=rss",
-       "source": "BBC World",
-       "published_at": "2026-09-12 05:55"
-      },
-      {
-       "title": "Russia strikes multi-story apartment building in Odesa, injuring at least 12",
-       "url": "https://kyivindependent.com/russia-strikes-multi-story-apartment-building-hit-in-odesa-injuring-at-least-12/",
+       "title": "General Staff: Russia has lost 1,505,380 troops in Ukraine since Feb. 24, 2022",
+       "url": "https://kyivindependent.com/general-staff-russia-has-lost-1-505-380-troops-in-ukraine-since-feb-24-2022/",
        "source": "Kyiv Independent",
-       "published_at": "2026-09-12 05:03"
-      }
-     ]
-    },
-    {
-     "label": "Russian · Ukrainian",
-     "articles": [
-      {
-       "title": "'First-ever battle' — Ukrainian naval drone destroys Russian unmanned boat in Black Sea, Navy says",
-       "url": "https://kyivindependent.com/first-ever-battle-ukrainian-naval-drone-destroys-russian-unmanned-boat-in-black-sea-navy-says/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-09-12 18:14"
-      },
-      {
-       "title": "Russian strikes hit 2 major Ukrainian steel plants, killing 2 and injuring 6",
-       "url": "https://kyivindependent.com/russian-strikes-hit-2-major-ukrainian-steel-plants-killing-2-and-injuring-6/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-09-12 13:36"
-      },
-      {
-       "title": "Ukrainian drones hit Russian manufacturing sites in Tolyatti, Taganrog",
-       "url": "https://kyivindependent.com/fires-reported-at-manufacturing-sites-in-russia-following-ukrainian-drone-strikes/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-09-12 03:47"
+       "published_at": "2026-09-12 06:37"
       }
      ]
     },
@@ -613,6 +601,12 @@
        "url": "https://kyivindependent.com/zelensky-says-he-is-ready-to-meet-putin-at-g20-summit-in-miami/",
        "source": "Kyiv Independent",
        "published_at": "2026-09-12 10:06"
+      },
+      {
+       "title": "Explainer: How Ukraine’s biggest corruption scheme persisted despite all odds",
+       "url": "https://kyivindependent.com/explainer-how-ukraines-biggest-corruption-scheme-persisted-despite-all-odds/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-09-12 08:27"
       }
      ]
     }
