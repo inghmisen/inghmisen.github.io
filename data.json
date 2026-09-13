@@ -1,8 +1,8 @@
 {
  "date": "Sunday 13 September 2026",
- "generated_at": "20:33 UTC",
+ "generated_at": "23:02 UTC",
  "error": null,
- "total_stories": 76,
+ "total_stories": 75,
  "fx": {
   "pair": "EUR/MAD",
   "rate": 10.913,
@@ -16,19 +16,36 @@
    "note": null,
    "clusters": [
     {
-     "label": "Harness",
+     "label": "Out",
      "articles": [
       {
-       "title": "Grandma harness for GPU challenged?",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfghun/grandma_harness_for_gpu_challenged/",
+       "title": "Are there any experimental small models (9B or less) which are out or currently being trained using engram/n-grams?",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfkb2t/are_there_any_experimental_small_models_9b_or/",
        "source": "r/LocalLLaMA",
-       "published_at": "2026-09-13 19:03"
+       "published_at": "2026-09-13 21:29"
       },
       {
-       "title": "Migration from Claude Code to a private local harness. Questions.",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfcewd/migration_from_claude_code_to_a_private_local/",
+       "title": "Talk me out of buying a 3rd Spark",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfefc4/talk_me_out_of_buying_a_3rd_spark/",
        "source": "r/LocalLLaMA",
-       "published_at": "2026-09-13 16:32"
+       "published_at": "2026-09-13 17:47"
+      }
+     ]
+    },
+    {
+     "label": "Run",
+     "articles": [
+      {
+       "title": "CUDA-for-AMD-Windows: Run CUDA-targeted Windows applications on AMD GPUs with ZLUDA + ROCm/HIP.",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfij7a/cudaforamdwindows_run_cudatargeted_windows/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-13 20:19"
+      },
+      {
+       "title": "Dear 24G owners, try VLLM you might be able to run Qwen3.8 27B INT4, 144K FP8 KV on RTX 3090 with better speed. (TLDR VLLM AOT)",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfdtm7/dear_24g_owners_try_vllm_you_might_be_able_to_run/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-13 17:25"
       }
      ]
     },
@@ -50,25 +67,14 @@
      ]
     },
     {
-     "label": "Models",
-     "articles": [
-      {
-       "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
-       "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
-       "source": "Hacker News",
-       "published_at": "2026-09-13 16:52"
-      },
-      {
-       "title": "Hoping for Optimized Smarter Upcoming Models .... Like DeepSeek-V4.1-Flash( KVCache + Engram) in Small/Medium/Big sizes",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfbnhc/hoping_for_optimized_smarter_upcoming_models_like/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-09-13 16:03"
-      }
-     ]
-    },
-    {
      "label": "More headlines",
      "articles": [
+      {
+       "title": "Discovered pi-vcc, why pi-blackhole?",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wflenb/discovered_pivcc_why_piblackhole/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-13 22:14"
+      },
       {
        "title": "Plot twist",
        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfhiqx/plot_twist/",
@@ -80,6 +86,12 @@
        "url": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
        "source": "Verge AI",
        "published_at": "2026-09-13 19:41"
+      },
+      {
+       "title": "Grandma harness for GPU challenged?",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfghun/grandma_harness_for_gpu_challenged/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-13 19:03"
       },
       {
        "title": "Aurora1.0-150M Releases!",
@@ -94,49 +106,37 @@
        "published_at": "2026-09-13 17:56"
       },
       {
-       "title": "Talk me out of buying a 3rd Spark",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfefc4/talk_me_out_of_buying_a_3rd_spark/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-09-13 17:47"
-      },
-      {
        "title": "3k$ 128GB VRAM + 256GB RAM DDR4 Server",
        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfe9zt/3k_128gb_vram_256gb_ram_ddr4_server/",
        "source": "r/LocalLLaMA",
        "published_at": "2026-09-13 17:42"
       },
       {
-       "title": "Dear 24G owners, try VLLM you might be able to run Qwen3.8 27B INT4, 144K FP8 KV on RTX 3090 with better speed. (TLDR VLLM AOT)",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfdtm7/dear_24g_owners_try_vllm_you_might_be_able_to_run/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-09-13 17:25"
-      },
-      {
-       "title": "deepseek-ai/DeepSeek-V4.1-Flash · 2183 ♥",
+       "title": "deepseek-ai/DeepSeek-V4.1-Flash · 2197 ♥",
        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
        "source": "HF new models",
        "published_at": "2026-09-10 02:17"
       },
       {
-       "title": "m-a-p/YuE2-3B · 389 ♥",
+       "title": "m-a-p/YuE2-3B · 399 ♥",
        "url": "https://huggingface.co/m-a-p/YuE2-3B",
        "source": "HF new models",
        "published_at": "2026-09-09 18:30"
       },
       {
-       "title": "Edge0/Edge0-35B-A3B-preview · 958 ♥",
+       "title": "Edge0/Edge0-35B-A3B-preview · 1010 ♥",
        "url": "https://huggingface.co/Edge0/Edge0-35B-A3B-preview",
        "source": "HF new models",
        "published_at": "2026-09-08 13:56"
       },
       {
-       "title": "nex-agi/Nex-N2.5-mini · 754 ♥",
+       "title": "nex-agi/Nex-N2.5-mini · 755 ♥",
        "url": "https://huggingface.co/nex-agi/Nex-N2.5-mini",
        "source": "HF new models",
        "published_at": "2026-09-08 05:08"
       },
       {
-       "title": "openbmb/MiniCPM5-2B · 1329 ♥",
+       "title": "openbmb/MiniCPM5-2B · 1338 ♥",
        "url": "https://huggingface.co/openbmb/MiniCPM5-2B",
        "source": "HF new models",
        "published_at": "2026-09-06 11:12"
@@ -170,7 +170,7 @@
      ]
     },
     {
-     "label": "Bestuursfotoverkiezing · Grote",
+     "label": "Grote · Bestuursfotoverkiezing",
      "articles": [
       {
        "title": "De Grote U-Today Bestuursfotoverkiezing 2026, de uitslag",
@@ -237,19 +237,53 @@
    "note": null,
    "clusters": [
     {
-     "label": "إلى",
+     "label": "أخنوش",
      "articles": [
       {
-       "title": "الطريق إلى انتخابات 2026 | أحمد بلغازي",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%b7%d8%b1%d9%8a%d9%82-%d8%a5%d9%84%d9%89-%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-2026-%d8%a3%d8%ad%d9%85%d8%af-%d8%a8%d9%84%d8%ba%d8%a7%d8%b2%d9%8a-1806797.html",
+       "title": "أخنوش والتمكين الاقتصادي للأسر",
+       "url": "https://www.hespress.com/%d8%a3%d8%ae%d9%86%d9%88%d8%b4-%d9%88%d8%a7%d9%84%d8%aa%d9%85%d9%83%d9%8a%d9%86-%d8%a7%d9%84%d8%a7%d9%82%d8%aa%d8%b5%d8%a7%d8%af%d9%8a-%d9%84%d9%84%d8%a3%d8%b3%d8%b1-1806944.html",
        "source": "Hespress",
-       "published_at": "2026-09-13 20:02"
+       "published_at": "2026-09-13 22:51"
       },
       {
-       "title": "أوزين يهاجم حصيلة الحكومة .. ويدعو إلى \"المعاقبة بصناديق الاقتراع\"",
-       "url": "https://www.hespress.com/%d8%a3%d9%88%d8%b2%d9%8a%d9%86-%d9%8a%d9%87%d8%a7%d8%ac%d9%85-%d8%ad%d8%b5%d9%8a%d9%84%d8%a9-%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d8%a9-%d9%88%d9%8a%d8%af%d8%b9%d9%88-%d8%a5%d9%84%d9%89-%d8%a7-1806827.html",
+       "title": "من الدعم الاجتماعي إلى الترحال السياسي .. أخنوش يعبئ الأحرار بالصويرة",
+       "url": "https://www.hespress.com/%d9%85%d9%86-%d8%a7%d9%84%d8%af%d8%b9%d9%85-%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d8%aa%d8%b1%d8%ad%d8%a7%d9%84-%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3-1806958.html",
        "source": "Hespress",
-       "published_at": "2026-09-13 19:00"
+       "published_at": "2026-09-13 22:33"
+      }
+     ]
+    },
+    {
+     "label": "على",
+     "articles": [
+      {
+       "title": "الجيش وبركان يتعرفان على المنافسين",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%ac%d9%8a%d8%b4-%d9%88%d8%a8%d8%b1%d9%83%d8%a7%d9%86-%d9%8a%d8%aa%d8%b9%d8%b1%d9%81%d8%a7%d9%86-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d9%85%d9%86%d8%a7%d9%81%d8%b3%d9%8a%d9%86-1806981.html",
+       "source": "Hespress",
+       "published_at": "2026-09-13 22:47"
+      },
+      {
+       "title": "بنكيران: \"العدالة والتنمية\" ينافس على الصدارة .. ويحلم بمقعدين في طنجة",
+       "url": "https://www.hespress.com/%d8%a8%d9%86%d9%83%d9%8a%d8%b1%d8%a7%d9%86-%d8%a7%d9%84%d8%b9%d8%af%d8%a7%d9%84%d8%a9-%d9%88%d8%a7%d9%84%d8%aa%d9%86%d9%85%d9%8a%d8%a9-%d9%8a%d9%86%d8%a7%d9%81%d8%b3-%d8%b9%d9%84%d9%89-%d8%a7-1806968.html",
+       "source": "Hespress",
+       "published_at": "2026-09-13 22:44"
+      }
+     ]
+    },
+    {
+     "label": "المغرب",
+     "articles": [
+      {
+       "title": "منتخب المغرب للكراطي ثالث إفريقيا",
+       "url": "https://www.hespress.com/%d9%85%d9%86%d8%aa%d8%ae%d8%a8-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d9%84%d9%84%d9%83%d8%b1%d8%a7%d8%b7%d9%8a-%d8%ab%d8%a7%d9%84%d8%ab-%d8%a5%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7-1806880.html",
+       "source": "Hespress",
+       "published_at": "2026-09-13 22:40"
+      },
+      {
+       "title": "المغرب الفاسي يلتقي بأسيك الإيفواري",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d8%a7%d9%84%d9%81%d8%a7%d8%b3%d9%8a-%d9%8a%d9%84%d8%aa%d9%82%d9%8a-%d8%a8%d8%a3%d8%b3%d9%8a%d9%83-%d8%a7%d9%84%d8%a5%d9%8a%d9%81%d9%88%d8%a7%d8%b1%d9%8a-1806929.html",
+       "source": "Hespress",
+       "published_at": "2026-09-13 21:51"
       }
      ]
     },
@@ -274,64 +308,40 @@
      "label": "More headlines",
      "articles": [
       {
-       "title": "سلطنة عمان تعلن تأجيل اجتماع هرمز",
-       "url": "https://www.hespress.com/%d8%b3%d9%84%d8%b7%d9%86%d8%a9-%d8%b9%d9%85%d8%a7%d9%86-%d8%aa%d8%b9%d9%84%d9%86-%d8%aa%d8%a3%d8%ac%d9%8a%d9%84-%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9-%d9%87%d8%b1%d9%85%d8%b2-1806895.html",
+       "title": "أوناحي يسجل لفريق \"باناثينايكوس\"",
+       "url": "https://www.hespress.com/%d8%a3%d9%88%d9%86%d8%a7%d8%ad%d9%8a-%d9%8a%d8%b3%d8%ac%d9%84-%d9%84%d9%81%d8%b1%d9%8a%d9%82-%d8%a8%d8%a7%d9%86%d8%a7%d8%ab%d9%8a%d9%86%d8%a7%d9%8a%d9%83%d9%88%d8%b3-1806983.html",
        "source": "Hespress",
-       "published_at": "2026-09-13 20:01"
+       "published_at": "2026-09-13 22:56"
       },
       {
-       "title": "تصاريح الإقامة الجديدة تضع المغاربة بالمركز الثالث في الاتحاد الأوروبي",
-       "url": "https://www.hespress.com/%d8%aa%d8%b5%d8%a7%d8%b1%d9%8a%d8%ad-%d8%a7%d9%84%d8%a5%d9%82%d8%a7%d9%85%d8%a9-%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d8%aa%d8%b6%d8%b9-%d8%a7%d9%84%d9%85%d8%ba%d8%a7%d8%b1%d8%a8%d8%a9-%d8%a8-1806774.html",
+       "title": "حضور مغربي بمؤتمر العمل العربي",
+       "url": "https://www.hespress.com/%d8%ad%d8%b6%d9%88%d8%b1-%d9%85%d8%ba%d8%b1%d8%a8%d9%8a-%d8%a8%d9%85%d8%a4%d8%aa%d9%85%d8%b1-%d8%a7%d9%84%d8%b9%d9%85%d9%84-%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a-1806795.html",
        "source": "Hespress",
-       "published_at": "2026-09-13 20:00"
+       "published_at": "2026-09-13 22:32"
       },
       {
-       "title": "أوزين ينادي بمعاقبة الأغلبية",
-       "url": "https://www.hespress.com/%d8%a3%d9%88%d8%b2%d9%8a%d9%86-%d9%8a%d9%86%d8%a7%d8%af%d9%8a-%d8%a8%d9%85%d8%b9%d8%a7%d9%82%d8%a8%d8%a9-%d8%a7%d9%84%d8%a3%d8%ba%d9%84%d8%a8%d9%8a%d8%a9-1806836.html",
+       "title": "باتنا يهز شباك نادي نيوم السعودي",
+       "url": "https://www.hespress.com/%d8%a8%d8%a7%d8%aa%d9%86%d8%a7-%d9%8a%d9%87%d8%b2-%d8%b4%d8%a8%d8%a7%d9%83-%d9%86%d8%a7%d8%af%d9%8a-%d9%86%d9%8a%d9%88%d9%85-%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a-1806898.html",
        "source": "Hespress",
-       "published_at": "2026-09-13 19:51"
+       "published_at": "2026-09-13 22:29"
       },
       {
-       "title": "سبتة تقوم بترحيل \"آلاف المقتحمين\"",
-       "url": "https://www.hespress.com/%d8%b3%d8%a8%d8%aa%d8%a9-%d8%aa%d9%82%d9%88%d9%85-%d8%a8%d8%aa%d8%b1%d8%ad%d9%8a%d9%84-%d8%a2%d9%84%d8%a7%d9%81-%d8%a7%d9%84%d9%85%d9%82%d8%aa%d8%ad%d9%85%d9%8a%d9%86-1806785.html",
+       "title": "الاستقلاليون يبرزون التشغيل والسكن والتعليم العالي ضمن أولويات العيون",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d9%82%d9%84%d8%a7%d9%84%d9%8a%d9%88%d9%86-%d9%8a%d8%a8%d8%b1%d8%b2%d9%88%d9%86-%d8%a7%d9%84%d8%aa%d8%b4%d8%ba%d9%8a%d9%84-%d9%88%d8%a7%d9%84%d8%b3%d9%83%d9%86-%d9%88-1806938.html",
        "source": "Hespress",
-       "published_at": "2026-09-13 19:32"
+       "published_at": "2026-09-13 22:23"
       },
       {
-       "title": "أنَا مُرشّحُكُم الأعْلى",
-       "url": "https://www.hespress.com/%d8%a3%d9%86%d9%8e%d8%a7-%d9%85%d9%8f%d8%b1%d8%b4%d9%91%d8%ad%d9%8f%d9%83%d9%8f%d9%85-%d8%a7%d9%84%d8%a3%d8%b9%d9%92%d9%84%d9%89-1806235.html",
+       "title": "بلغازي: \"مول الشكارة\" يفسد السياسة ويعرقل وصول الشباب إلى الانتخابات",
+       "url": "https://www.hespress.com/%d8%a8%d9%84%d8%ba%d8%a7%d8%b2%d9%8a-%d9%85%d9%88%d9%84-%d8%a7%d9%84%d8%b4%d9%83%d8%a7%d8%b1%d8%a9-%d9%8a%d9%81%d8%b3%d8%af-%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3%d8%a9-%d9%88%d9%8a%d8%b9%d8%b1-1806925.html",
        "source": "Hespress",
-       "published_at": "2026-09-13 19:17"
+       "published_at": "2026-09-13 21:41"
       },
       {
-       "title": "السنغالي مندي يعتزل اللعب الدولي",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%b3%d9%86%d8%ba%d8%a7%d9%84%d9%8a-%d9%85%d9%86%d8%af%d9%8a-%d9%8a%d8%b9%d8%aa%d8%b2%d9%84-%d8%a7%d9%84%d9%84%d8%b9%d8%a8-%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a-1806852.html",
+       "title": "صدارة اشتراكية للانتخابات السويدية",
+       "url": "https://www.hespress.com/%d8%b5%d8%af%d8%a7%d8%b1%d8%a9-%d8%a7%d8%b4%d8%aa%d8%b1%d8%a7%d9%83%d9%8a%d8%a9-%d9%84%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-%d8%a7%d9%84%d8%b3%d9%88%d9%8a%d8%af%d9%8a%d8%a9-1806875.html",
        "source": "Hespress",
-       "published_at": "2026-09-13 19:12"
-      },
-      {
-       "title": "انتشار النظارات الذكية يقلق أوروبا",
-       "url": "https://www.hespress.com/%d8%a7%d9%86%d8%aa%d8%b4%d8%a7%d8%b1-%d8%a7%d9%84%d9%86%d8%b8%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d8%b0%d9%83%d9%8a%d8%a9-%d9%8a%d9%82%d9%84%d9%82-%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d8%a7-1806592.html",
-       "source": "Hespress",
-       "published_at": "2026-09-13 18:51"
-      },
-      {
-       "title": "تحذير من الحر وزخات في المغرب",
-       "url": "https://www.hespress.com/%d8%aa%d8%ad%d8%b0%d9%8a%d8%b1-%d9%85%d9%86-%d8%a7%d9%84%d8%ad%d8%b1-%d9%88%d8%b2%d8%ae%d8%a7%d8%aa-%d9%81%d9%8a-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-2-1806803.html",
-       "source": "Hespress",
-       "published_at": "2026-09-13 18:06"
-      },
-      {
-       "title": "انتخابات 2026 .. إشادة حزبية بحياد الداخلية رغم \"استمرار التشويشات\"",
-       "url": "https://www.hespress.com/%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-2026-%d8%a5%d8%b4%d8%a7%d8%af%d8%a9-%d8%ad%d8%b2%d8%a8%d9%8a%d8%a9-%d8%a8%d8%ad%d9%8a%d8%a7%d8%af-%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d8%a9-1806446.html",
-       "source": "Hespress",
-       "published_at": "2026-09-13 18:00"
-      },
-      {
-       "title": "العراق وإيران يستأنفان فتح المعابر",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82-%d9%88%d8%a5%d9%8a%d8%b1%d8%a7%d9%86-%d9%8a%d8%b3%d8%aa%d8%a3%d9%86%d9%81%d8%a7%d9%86-%d9%81%d8%aa%d8%ad-%d8%a7%d9%84%d9%85%d8%b9%d8%a7%d8%a8%d8%b1-1806585.html",
-       "source": "Hespress",
-       "published_at": "2026-09-13 17:41"
+       "published_at": "2026-09-13 21:33"
       },
       {
        "title": "Médicaments : le trou commercial se creuse à 13,4 MMDH d'ici à 2030",
@@ -400,17 +410,11 @@
        "url": "https://www.telegraaf.nl/buitenland/live-iran-en-verenigde-arabische-emiraten-willen-oorlogsbladzijde-omslaan-en-toekomst-opbouwen/161369101.html",
        "source": "de Telegraaf",
        "published_at": "2026-09-13 15:05"
-      },
-      {
-       "title": "Jesse Klaver houdt vakbonden stevig vast, beweegt niet op sociale zekerheid",
-       "url": "https://www.telegraaf.nl/politiek/jesse-klaver-houdt-vakbonden-stevig-vast-beweegt-niet-op-sociale-zekerheid/161380880.html",
-       "source": "de Telegraaf",
-       "published_at": "2026-09-13 14:42"
       }
      ]
     }
    ],
-   "count": 6
+   "count": 5
   },
   {
    "key": "mideast",
@@ -419,25 +423,42 @@
    "note": null,
    "clusters": [
     {
-     "label": "Iran",
+     "label": "Gaza · Pregnant",
      "articles": [
       {
-       "title": "Iran-GCC summit: What’s behind the meeting, why is Bahrain not attending?",
-       "url": "https://www.aljazeera.com/news/2026/9/13/iran-gcc-summit-whats-behind-the-meeting-why-is-bahrain-not-attending?traffic_source=rss",
+       "title": "Jerusalem Daily: Pregnant woman killed in Gaza",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/jerusalem-daily-pregnant-woman-killed-in-gaza?traffic_source=rss",
        "source": "Al Jazeera",
-       "published_at": "2026-09-13 13:59"
+       "published_at": "2026-09-13 20:46"
       },
       {
-       "title": "Iran war reshapes Brics ties but also exposes divisions",
-       "url": "https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&at_campaign=rss",
-       "source": "BBC World",
-       "published_at": "2026-09-13 11:23"
+       "title": "French TV programme pulled after actress speaks out on Gaza",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/french-tv-programme-pulled-after-actress-speaks-out-on-gaza?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-09-13 17:15"
       },
       {
-       "title": "Iran’s Houthi allies capture strategic island on vital oil shipping route",
-       "url": "https://www.theguardian.com/world/2026/sep/11/iran-houthi-allies-capture-strategic-island-bab-al-mandab-strait",
+       "title": "Pregnant woman among more than 10 killed in Israeli attacks on Gaza",
+       "url": "https://www.theguardian.com/world/2026/sep/13/pregnant-woman-killed-israeli-attacks-gaza",
        "source": "Guardian World",
-       "published_at": "2026-09-12 04:45"
+       "published_at": "2026-09-13 15:51"
+      }
+     ]
+    },
+    {
+     "label": "Israel",
+     "articles": [
+      {
+       "title": "Pro-Palestine protest demands Australia increases pressure on Israel",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/pro-palestine-protest-demands-australia-increases-pressure-on-israel?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-09-13 21:02"
+      },
+      {
+       "title": "US Envoy Jared Kushner says Doha attack left Israel ‘globally isolated’",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/09-13-kushner-doha-attack-comments-clip?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-09-13 20:33"
       }
      ]
     },
@@ -459,36 +480,19 @@
      ]
     },
     {
-     "label": "Gaza",
+     "label": "Iran",
      "articles": [
       {
-       "title": "French TV programme pulled after actress speaks out on Gaza",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/french-tv-programme-pulled-after-actress-speaks-out-on-gaza?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-09-13 17:15"
+       "title": "Iran war reshapes Brics ties but also exposes divisions",
+       "url": "https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&at_campaign=rss",
+       "source": "BBC World",
+       "published_at": "2026-09-13 11:23"
       },
       {
-       "title": "Pregnant woman among more than 10 killed in Israeli attacks on Gaza",
-       "url": "https://www.theguardian.com/world/2026/sep/13/pregnant-woman-killed-israeli-attacks-gaza",
+       "title": "Iran’s Houthi allies capture strategic island on vital oil shipping route",
+       "url": "https://www.theguardian.com/world/2026/sep/11/iran-houthi-allies-capture-strategic-island-bab-al-mandab-strait",
        "source": "Guardian World",
-       "published_at": "2026-09-13 15:51"
-      }
-     ]
-    },
-    {
-     "label": "Houthis",
-     "articles": [
-      {
-       "title": "Red Sea nations watch as Houthis seize Bab al-Mandeb strait",
-       "url": "https://www.aljazeera.com/economy/2026/9/13/red-sea-nations-watch-as-houthis-seize-bab-al-mandeb-strait?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-09-13 15:00"
-      },
-      {
-       "title": "Houthis claim attack on Saudi base as fighting flares with Yemeni forces",
-       "url": "https://www.theguardian.com/world/2026/sep/13/houthis-claim-attack-on-saudi-base-as-fighting-flares-with-yemeni-forces",
-       "source": "Guardian World",
-       "published_at": "2026-09-13 11:26"
+       "published_at": "2026-09-12 04:45"
       }
      ]
     },
@@ -496,22 +500,22 @@
      "label": "More headlines",
      "articles": [
       {
-       "title": "More than 2,000 Yemenis flee to Djibouti amid Houthi advances",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/more-than-2000-yemenis-flee-to-djibouti-amid-houthi-advances?traffic_source=rss",
+       "title": "Tehran and Muscat delay talks, citing regional consensus need",
+       "url": "https://www.aljazeera.com/news/2026/9/13/tehran-and-muscat-delay-talks-citing-regional-consensus-need?traffic_source=rss",
        "source": "Al Jazeera",
-       "published_at": "2026-09-13 14:38"
+       "published_at": "2026-09-13 21:50"
       },
       {
-       "title": "Renewed fighting worsens Yemen’s humanitarian crisis",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/renewed-fighting-worsens-yemens-humanitarian-crisis?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-09-13 13:26"
+       "title": "Houthis claim attack on Saudi base as fighting flares with Yemeni forces",
+       "url": "https://www.theguardian.com/world/2026/sep/13/houthis-claim-attack-on-saudi-base-as-fighting-flares-with-yemeni-forces",
+       "source": "Guardian World",
+       "published_at": "2026-09-13 11:26"
       },
       {
-       "title": "How Israel’s destruction of south Lebanon is making displacement permanent",
-       "url": "https://www.aljazeera.com/features/2026/9/13/how-israels-destruction-of-south-lebanon-is-making-displacement-permanent?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-09-13 13:09"
+       "title": "How global trade and oil prices could be hit by Houthi advance",
+       "url": "https://www.bbc.co.uk/news/videos/cy5z02w1zxxo?at_medium=RSS&at_campaign=rss",
+       "source": "BBC World",
+       "published_at": "2026-09-11 16:13"
       }
      ]
     }
@@ -525,7 +529,42 @@
    "note": null,
    "clusters": [
     {
-     "label": "Russian · Train",
+     "label": "Ukraine · Border",
+     "articles": [
+      {
+       "title": "Poland, Ukraine accuse Russia of ‘escalation’ after strikes near border",
+       "url": "https://www.aljazeera.com/news/2026/9/13/poland-ukraine-accuse-russia-of-escalation-after-strikes-near-border?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-09-13 21:10"
+      },
+      {
+       "title": "Ukraine's race for its own ballistic missile",
+       "url": "https://kyivindependent.com/ukraines-missile-gap-kyivs-struggle-to-close-the-ballistic-divide/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-09-13 17:51"
+      },
+      {
+       "title": "Ukraine war latest: Kyiv-Warsaw train struck by Russian drone near Polish border as mass attack targets western Ukraine",
+       "url": "https://kyivindependent.com/ukraine-war-latest-kyiv-warsaw-train-struck-by-russian-drone-near-polish-border-as-mass-attack-targets-western-ukraine/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-09-13 16:29"
+      },
+      {
+       "title": "Russia admits it is striking 'everything and anything' in Ukraine",
+       "url": "https://kyivindependent.com/russia-admits-it-is-striking-everything-and-anything-in-ukraine/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-09-13 14:53"
+      },
+      {
+       "title": "Poland warns of 'real' threat after Russian drones strike Ukraine near its border",
+       "url": "https://kyivindependent.com/poland-warns-of-real-threat-after-russian-drones-strike-ukraine-near-its-border/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-09-13 13:06"
+      }
+     ]
+    },
+    {
+     "label": "Russian · Trump",
      "articles": [
       {
        "title": "Trump tells Zelenskyy to stop hitting Russian diesel supplies",
@@ -546,51 +585,27 @@
        "published_at": "2026-09-13 17:17"
       },
       {
-       "title": "Ukraine war latest: Kyiv-Warsaw train struck by Russian drone near Polish border as mass attack targets western Ukraine",
-       "url": "https://kyivindependent.com/ukraine-war-latest-kyiv-warsaw-train-struck-by-russian-drone-near-polish-border-as-mass-attack-targets-western-ukraine/",
+       "title": "Trump tells Zelensky to stop striking Russian diesel infrastructure",
+       "url": "https://kyivindependent.com/trump-tells-zelensky-to-stop-striking-russian-diesel-infrastructure/",
        "source": "Kyiv Independent",
-       "published_at": "2026-09-13 16:29"
-      },
-      {
-       "title": "Ukrainian drone evades Russian helicopter fire to strike oil tanker",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/09-12-ukraine-drone-russian-tanker-sv?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-09-13 16:11"
+       "published_at": "2026-09-13 14:14"
       }
      ]
     },
     {
-     "label": "Ukraine · Russia",
+     "label": "Russia · Ukrainian",
      "articles": [
       {
-       "title": "Ukraine's race for its own ballistic missile",
-       "url": "https://kyivindependent.com/ukraines-missile-gap-kyivs-struggle-to-close-the-ballistic-divide/",
+       "title": "Ukrainian forces reportedly strike energy infrastructure in occupied Mariupol as fire burns in Russia's Taganrog",
+       "url": "https://kyivindependent.com/ukrainian-forces-reportedly-strike-energy-infrastructure-in-occupied-mariupol-as-fire-burns-in-russias-taganrog/",
        "source": "Kyiv Independent",
-       "published_at": "2026-09-13 17:51"
+       "published_at": "2026-09-13 20:43"
       },
       {
-       "title": "Russia admits it is striking 'everything and anything' in Ukraine",
-       "url": "https://kyivindependent.com/russia-admits-it-is-striking-everything-and-anything-in-ukraine/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-09-13 14:53"
-      },
-      {
-       "title": "Poland warns of 'real' threat after Russian drones strike Ukraine near its border",
-       "url": "https://kyivindependent.com/poland-warns-of-real-threat-after-russian-drones-strike-ukraine-near-its-border/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-09-13 13:06"
-      },
-      {
-       "title": "Ukraine drone strikes kill four as Russia attacks close to Poland border",
-       "url": "https://www.aljazeera.com/news/2026/9/13/ukraine-drone-strikes-kill-four-as-russia-attacks-close-to-poland-border?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-09-13 13:05"
-      },
-      {
-       "title": "How faith survives the war in Ukraine’s Donbas",
-       "url": "https://kyivindependent.com/how-faith-survives-the-war-in-ukraines-donbas/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-09-13 12:00"
+       "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
+       "url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
+       "source": "BBC World",
+       "published_at": "2026-09-13 19:14"
       }
      ]
     },
@@ -598,16 +613,10 @@
      "label": "More headlines",
      "articles": [
       {
-       "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
-       "url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
-       "source": "BBC World",
-       "published_at": "2026-09-13 19:14"
-      },
-      {
-       "title": "Trump tells Zelensky to stop striking Russian diesel infrastructure",
-       "url": "https://kyivindependent.com/trump-tells-zelensky-to-stop-striking-russian-diesel-infrastructure/",
+       "title": "How faith survives the war in Ukraine’s Donbas",
+       "url": "https://kyivindependent.com/how-faith-survives-the-war-in-ukraines-donbas/",
        "source": "Kyiv Independent",
-       "published_at": "2026-09-13 14:14"
+       "published_at": "2026-09-13 12:00"
       }
      ]
     }
