@@ -1,12 +1,12 @@
 {
- "date": "Saturday 12 September 2026",
- "generated_at": "23:52 UTC",
+ "date": "Sunday 13 September 2026",
+ "generated_at": "04:09 UTC",
  "error": null,
- "total_stories": 74,
+ "total_stories": 73,
  "fx": {
   "pair": "EUR/MAD",
-  "rate": 10.914,
-  "change_pct": 0.0
+  "rate": 10.913,
+  "change_pct": -0.01
  },
  "lanes": [
   {
@@ -16,7 +16,7 @@
    "note": null,
    "clusters": [
     {
-     "label": "Flash · Qwen",
+     "label": "Flash",
      "articles": [
       {
        "title": "What's the Story with Agnes-3.0-Flash?",
@@ -31,19 +31,7 @@
        "published_at": "2026-09-12 21:08"
       },
       {
-       "title": "M2 Ultra/Qwen3.8 Flash Next Update - latest oMLX introduces substantial speedup",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wei63j/m2_ultraqwen38_flash_next_update_latest_omlx/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-09-12 17:11"
-      },
-      {
-       "title": "2×RTX 3090 + EPYC box running qwen3.8-flash-next at ~38 tok/s",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wehnsd/2rtx_3090_epyc_box_running_qwen38flashnext_at_38/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-09-12 16:52"
-      },
-      {
-       "title": "deepseek-ai/DeepSeek-V4.1-Flash · 2005 ♥",
+       "title": "deepseek-ai/DeepSeek-V4.1-Flash · 2026 ♥",
        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
        "source": "HF new models",
        "published_at": "2026-09-10 02:17"
@@ -51,25 +39,19 @@
      ]
     },
     {
-     "label": "Nex · Mini",
+     "label": "Benchmark",
      "articles": [
       {
-       "title": "Nex-N2.5-mini-MLX-4bit on Apple M5 Max — 133.6 tok/s — llm-bench.io",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wel0ub/nexn25minimlx4bit_on_apple_m5_max_1336_toks/",
+       "title": "Benchmark your custom Pi tools",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1weufjc/benchmark_your_custom_pi_tools/",
        "source": "r/LocalLLaMA",
-       "published_at": "2026-09-12 19:00"
+       "published_at": "2026-09-13 01:40"
       },
       {
-       "title": "nex-agi/Nex-N2.5-Pro · 616 ♥",
-       "url": "https://huggingface.co/nex-agi/Nex-N2.5-Pro",
-       "source": "HF new models",
-       "published_at": "2026-09-08 11:01"
-      },
-      {
-       "title": "nex-agi/Nex-N2.5-mini · 733 ♥",
-       "url": "https://huggingface.co/nex-agi/Nex-N2.5-mini",
-       "source": "HF new models",
-       "published_at": "2026-09-08 05:08"
+       "title": "Real-SWE Benchmark (new)",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wemcdc/realswe_benchmark_new/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-12 19:50"
       }
      ]
     },
@@ -91,19 +73,42 @@
      ]
     },
     {
-     "label": "More headlines",
+     "label": "Models",
      "articles": [
-      {
-       "title": "This seems more probable than it was before.",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wepx7w/this_seems_more_probable_than_it_was_before/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-09-12 22:14"
-      },
       {
        "title": "What pi.dev plugin do you suggest for context, compaction and memory management of local models?",
        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1weolwq/what_pidev_plugin_do_you_suggest_for_context/",
        "source": "r/LocalLLaMA",
        "published_at": "2026-09-12 21:19"
+      },
+      {
+       "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+       "url": "https://withspecific.com/benchmarks/real-swe",
+       "source": "Hacker News",
+       "published_at": "2026-09-12 20:25"
+      }
+     ]
+    },
+    {
+     "label": "More headlines",
+     "articles": [
+      {
+       "title": "I built a serverless hosting platform for LoRA adapters with vLLM",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1weum85/i_built_a_serverless_hosting_platform_for_lora/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-13 01:50"
+      },
+      {
+       "title": "The Hugging Bay",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1weujw6/the_hugging_bay/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-13 01:46"
+      },
+      {
+       "title": "Everyone should slow down AI development except for me",
+       "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
+       "source": "Hacker News",
+       "published_at": "2026-09-13 00:30"
       },
       {
        "title": "Can someone point me in the right direction of what model(s) to look at for a newer user?",
@@ -112,31 +117,31 @@
        "published_at": "2026-09-12 20:33"
       },
       {
-       "title": "Real-SWE Benchmark (new)",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wemcdc/realswe_benchmark_new/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-09-12 19:50"
-      },
-      {
-       "title": "Looks like a coordination to stop distribution of intelligence",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wehlyi/looks_like_a_coordination_to_stop_distribution_of/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-09-12 16:50"
-      },
-      {
-       "title": "m-a-p/YuE2-3B · 320 ♥",
+       "title": "m-a-p/YuE2-3B · 328 ♥",
        "url": "https://huggingface.co/m-a-p/YuE2-3B",
        "source": "HF new models",
        "published_at": "2026-09-09 18:30"
       },
       {
-       "title": "Edge0/Edge0-35B-A3B-preview · 461 ♥",
+       "title": "Edge0/Edge0-35B-A3B-preview · 541 ♥",
        "url": "https://huggingface.co/Edge0/Edge0-35B-A3B-preview",
        "source": "HF new models",
        "published_at": "2026-09-08 13:56"
       },
       {
-       "title": "openbmb/MiniCPM5-2B · 1259 ♥",
+       "title": "nex-agi/Nex-N2.5-Pro · 617 ♥",
+       "url": "https://huggingface.co/nex-agi/Nex-N2.5-Pro",
+       "source": "HF new models",
+       "published_at": "2026-09-08 11:01"
+      },
+      {
+       "title": "nex-agi/Nex-N2.5-mini · 738 ♥",
+       "url": "https://huggingface.co/nex-agi/Nex-N2.5-mini",
+       "source": "HF new models",
+       "published_at": "2026-09-08 05:08"
+      },
+      {
+       "title": "openbmb/MiniCPM5-2B · 1263 ♥",
        "url": "https://huggingface.co/openbmb/MiniCPM5-2B",
        "source": "HF new models",
        "published_at": "2026-09-06 11:12"
@@ -190,12 +195,6 @@
      "label": "More headlines",
      "articles": [
       {
-       "title": "From Booking.com founder to organic greengrocer",
-       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1RWjVqaW9Hblo5WTFGWThHUWQ1LTNGRF9qSTR5V2lkMVJqc1NKdS0xSVl0Y2ZMQUo4VlNqRVRUMkZpTXJFNUd3Yw?oc=5",
-       "source": "UToday",
-       "published_at": "2026-08-31 14:09"
-      },
-      {
        "title": "Fraude met basisbeurs is te simpel: één vinkje levert honderden euro’s op",
        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPakRvSjdCMHpEU19hSEllZFFHLWJEanNVMGtrOHZMaVlfVjNGTThEZ0FkZEZpVHBnVGhUdDhxUjllbGFhWUhla0FJRFRsSzd4NHpYbzdOalpRY1QwY2dJYUFqUU1HUlpFUUxhT0FfQXI3TW5nRlZYNl9hNFZYOFE0cWxyck1SVzdNQUlrOXJKMUVSdUlSUk1DSWM5RERmRkxweUZzcUNINA?oc=5",
        "source": "UToday",
@@ -224,6 +223,12 @@
        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQT29BdUtWMzZVZGRpYTF4N1lCalhLcUE2YnJnY1JHb0xVQ0EyTVpmYm9aR1FBaHN4QVFMcTBjRUJlcl81SmxWVFlGRndfbkdISVp4RXlSenl6Y29UdWduNE1fUE5Xa19Ca2owNFlsUllfbWhkbkVCZkVKaGExM24yOW16NFZsbmtjMUk0cjFUbkhNV2M?oc=5",
        "source": "UToday",
        "published_at": "2026-05-23 07:00"
+      },
+      {
+       "title": "Pakkerij moet per direct deuren sluiten na inspectie",
+       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcmppb3BwZ0tnV21aNTBCQm1EQzhudzZDeW1BUU5VZ0Y0NjlBUHFkUUNoNWNYeUtNWjZ3Zk9QbTF3VGZydTdBbUk0NzJtVFpONlVfLXZwbm9HNXhEX1p2WEFUTU1GeTQzVWtQcjdZWnJ3eUFjZVd6SFFSZWRBdVdweGNiRUFBcWIwZ3NtNUdn?oc=5",
+       "source": "UToday",
+       "published_at": "2026-05-21 07:00"
       }
      ]
     }
@@ -236,6 +241,40 @@
    "icon": "🇲🇦",
    "note": null,
    "clusters": [
+    {
+     "label": "تترقب",
+     "articles": [
+      {
+       "title": "كوسوفو تترقب الحكم على ثاتشي",
+       "url": "https://www.hespress.com/%d9%83%d9%88%d8%b3%d9%88%d9%81%d9%88-%d8%aa%d8%aa%d8%b1%d9%82%d8%a8-%d8%a7%d9%84%d8%ad%d9%83%d9%85-%d8%b9%d9%84%d9%89-%d9%87%d8%a7%d8%b4%d9%85-%d8%ab%d8%a7%d8%aa%d8%b4%d9%8a-1806308.html",
+       "source": "Hespress",
+       "published_at": "2026-09-13 03:12"
+      },
+      {
+       "title": "\"الجرف\" و\"بوقنادل 2\" تترقبان التسريع الصناعي لتحريك الاستثمار والتشغيل",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%ac%d8%b1%d9%81-%d9%88%d8%a8%d9%88%d9%82%d9%86%d8%a7%d8%af%d9%84-2-%d8%aa%d8%aa%d8%b1%d9%82%d8%a8%d8%a7%d9%86-%d8%a7%d9%84%d8%aa%d8%b3%d8%b1%d9%8a%d8%b9-%d8%a7%d9%84%d8%b5%d9%86-1805877.html",
+       "source": "Hespress",
+       "published_at": "2026-09-12 23:00"
+      }
+     ]
+    },
+    {
+     "label": "إلى",
+     "articles": [
+      {
+       "title": "الرسام ساكو يعود بـ\"قداس إلى غزة\"",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%b1%d8%b3%d8%a7%d9%85-%d8%b3%d8%a7%d9%83%d9%88-%d9%8a%d8%b9%d9%88%d8%af-%d8%a8%d9%80%d9%82%d8%af%d8%a7%d8%b3-%d8%a5%d9%84%d9%89-%d8%ba%d8%b2%d8%a9-1806300.html",
+       "source": "Hespress",
+       "published_at": "2026-09-13 02:22"
+      },
+      {
+       "title": "أضرار تدفع مهنيي كراء السيارات إلى رفض التأجير للحملات الانتخابية",
+       "url": "https://www.hespress.com/%d8%a3%d8%b6%d8%b1%d8%a7%d8%b1-%d8%aa%d8%af%d9%81%d8%b9-%d9%85%d9%87%d9%86%d9%8a%d9%8a-%d9%83%d8%b1%d8%a7%d8%a1-%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a5%d9%84%d9%89-%d8%b1%d9%81%d8%b6-1806327.html",
+       "source": "Hespress",
+       "published_at": "2026-09-13 02:00"
+      }
+     ]
+    },
     {
      "label": "Alerte",
      "articles": [
@@ -257,76 +296,52 @@
      "label": "More headlines",
      "articles": [
       {
+       "title": "العقار العمومي للاستثمار .. العيون بالصدارة الوطنية والطاقة في المقدمة",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1-%d8%a7%d9%84%d8%b9%d9%85%d9%88%d9%85%d9%8a-%d9%84%d9%84%d8%a7%d8%b3%d8%aa%d8%ab%d9%85%d8%a7%d8%b1-%d8%a7%d9%84%d8%b9%d9%8a%d9%88%d9%86-%d8%a8%d8%a7%d9%84%d8%b5-1806045.html",
+       "source": "Hespress",
+       "published_at": "2026-09-13 04:00"
+      },
+      {
+       "title": "بحث يربط استعمال الأعشاب خلال الحمل بمخاطر صحية للمواليد بالمغرب",
+       "url": "https://www.hespress.com/%d8%a8%d8%ad%d8%ab-%d9%8a%d8%b1%d8%a8%d8%b7-%d8%a7%d8%b3%d8%aa%d8%b9%d9%85%d8%a7%d9%84-%d8%a7%d9%84%d8%a3%d8%b9%d8%b4%d8%a7%d8%a8-%d8%ae%d9%84%d8%a7%d9%84-%d8%a7%d9%84%d8%ad%d9%85%d9%84-%d8%a8%d9%85-1804432.html",
+       "source": "Hespress",
+       "published_at": "2026-09-13 03:00"
+      },
+      {
+       "title": "أوكرانيا تستعد لمواجهة شتاء قاس",
+       "url": "https://www.hespress.com/%d8%a3%d9%88%d9%83%d8%b1%d8%a7%d9%86%d9%8a%d8%a7-%d8%aa%d8%b3%d8%aa%d8%b9%d8%af-%d9%84%d9%85%d9%88%d8%a7%d8%ac%d9%87%d8%a9-%d8%b4%d8%aa%d8%a7%d8%a1-%d9%82%d8%a7%d8%b3-1806488.html",
+       "source": "Hespress",
+       "published_at": "2026-09-13 01:30"
+      },
+      {
+       "title": "تغير المناخ يسرع انجراف تربة حوض النكور .. والرواسب تهدد سد الخطابي",
+       "url": "https://www.hespress.com/%d8%aa%d8%ba%d9%8a%d8%b1-%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%ae-%d9%8a%d8%b3%d8%b1%d8%b9-%d8%a7%d9%86%d8%ac%d8%b1%d8%a7%d9%81-%d8%aa%d8%b1%d8%a8%d8%a9-%d8%ad%d9%88%d8%b6-%d8%a7%d9%84%d9%86%d9%83%d9%88-1805069.html",
+       "source": "Hespress",
+       "published_at": "2026-09-13 01:00"
+      },
+      {
+       "title": "\"نازا\" ينال الإشادة بمهرجان البندقية",
+       "url": "https://www.hespress.com/%d9%86%d8%a7%d8%b2%d8%a7-%d9%8a%d9%86%d8%a7%d9%84-%d8%a7%d9%84%d8%a5%d8%b4%d8%a7%d8%af%d8%a9-%d8%a8%d9%85%d9%87%d8%b1%d8%ac%d8%a7%d9%86-%d8%a7%d9%84%d8%a8%d9%86%d8%af%d9%82%d9%8a%d8%a9-1806374.html",
+       "source": "Hespress",
+       "published_at": "2026-09-13 00:16"
+      },
+      {
+       "title": "الشاعر عبد اللطيف اللعبي.. قرين القصيدة وأسئلة اللغة والهوية والمنفى",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%b4%d8%a7%d8%b9%d8%b1-%d8%b9%d8%a8%d8%af-%d8%a7%d9%84%d9%84%d8%b7%d9%8a%d9%81-%d8%a7%d9%84%d9%84%d8%b9%d8%a8%d9%8a-%d9%82%d8%b1%d9%8a%d9%86-%d8%a7%d9%84%d9%82%d8%b5%d9%8a%d8%af%d8%a9-1806378.html",
+       "source": "Hespress",
+       "published_at": "2026-09-13 00:00"
+      },
+      {
        "title": "العزاوي يحطم رقما في الجري الجبلي",
        "url": "https://www.hespress.com/%d8%a7%d9%84%d8%b9%d8%b2%d8%a7%d9%88%d9%8a-%d9%8a%d8%ad%d8%b7%d9%85-%d8%b1%d9%82%d9%85%d8%a7-%d9%81%d9%8a-%d8%a7%d9%84%d8%ac%d8%b1%d9%8a-%d8%a7%d9%84%d8%ac%d8%a8%d9%84%d9%8a-1806460.html",
        "source": "Hespress",
        "published_at": "2026-09-12 23:02"
       },
       {
-       "title": "\"الجرف\" و\"بوقنادل 2\" تترقبان التسريع الصناعي لتحريك الاستثمار والتشغيل",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%ac%d8%b1%d9%81-%d9%88%d8%a8%d9%88%d9%82%d9%86%d8%a7%d8%af%d9%84-2-%d8%aa%d8%aa%d8%b1%d9%82%d8%a8%d8%a7%d9%86-%d8%a7%d9%84%d8%aa%d8%b3%d8%b1%d9%8a%d8%b9-%d8%a7%d9%84%d8%b5%d9%86-1805877.html",
-       "source": "Hespress",
-       "published_at": "2026-09-12 23:00"
-      },
-      {
        "title": "ياسر الزابيري يفكر في مباراة برشلونة",
        "url": "https://www.hespress.com/%d9%8a%d8%a7%d8%b3%d8%b1-%d8%a7%d9%84%d8%b2%d8%a7%d8%a8%d9%8a%d8%b1%d9%8a-%d9%8a%d9%81%d9%83%d8%b1-%d9%81%d9%8a-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d8%a9-1806456.html",
        "source": "Hespress",
        "published_at": "2026-09-12 22:19"
-      },
-      {
-       "title": "ثقل تاريخ لم يُطوَ بعد",
-       "url": "https://www.hespress.com/%d8%ab%d9%82%d9%84-%d8%aa%d8%a7%d8%b1%d9%8a%d8%ae-%d9%84%d9%85-%d9%8a%d9%8f%d8%b7%d9%88%d9%8e-%d8%a8%d8%b9%d8%af-1806380.html",
-       "source": "Hespress",
-       "published_at": "2026-09-12 22:17"
-      },
-      {
-       "title": "\"الهاكا\" ليست مُشرِّعًا!",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%87%d8%a7%d9%83%d8%a7-%d9%84%d9%8a%d8%b3%d8%aa-%d9%85%d9%8f%d8%b4%d8%b1%d9%90%d9%91%d8%b9%d9%8b%d8%a7-1806375.html",
-       "source": "Hespress",
-       "published_at": "2026-09-12 22:16"
-      },
-      {
-       "title": "غرف الحرب الرقمية",
-       "url": "https://www.hespress.com/%d8%ba%d8%b1%d9%81-%d8%a7%d9%84%d8%ad%d8%b1%d8%a8-%d8%a7%d9%84%d8%b1%d9%82%d9%85%d9%8a%d8%a9-1806393.html",
-       "source": "Hespress",
-       "published_at": "2026-09-12 22:15"
-      },
-      {
-       "title": "السرقة والنار يستنفران الأمن بسطات",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%b3%d8%b1%d9%82%d8%a9-%d9%88%d8%a7%d9%84%d9%86%d8%a7%d8%b1-%d9%8a%d8%b3%d8%aa%d9%86%d9%81%d8%b1%d8%a7%d9%86-%d8%a7%d9%84%d8%a3%d9%85%d9%86-%d8%a8%d8%b3%d8%b7%d8%a7%d8%aa-1806177.html",
-       "source": "Hespress",
-       "published_at": "2026-09-12 22:11"
-      },
-      {
-       "title": "زلزال سيبراني يكشف أسرار الجيش الجزائري",
-       "url": "https://www.hespress.com/%d8%b2%d9%84%d8%b2%d8%a7%d9%84-%d8%b3%d9%8a%d8%a8%d8%b1%d8%a7%d9%86%d9%8a-%d9%8a%d9%83%d8%b4%d9%81-%d8%a3%d8%b3%d8%b1%d8%a7%d8%b1-%d8%a7%d9%84%d8%ac%d9%8a%d8%b4-%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6-1806502.html",
-       "source": "Hespress",
-       "published_at": "2026-09-12 22:10"
-      },
-      {
-       "title": "العزيز: تقاطب \"الأحرار والبام\" تمثيل.. و\"البيع والشرا\" في الانتخابات بدأ",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%b9%d8%b2%d9%8a%d8%b2-%d8%aa%d9%82%d8%a7%d8%b7%d8%a8-%d8%a7%d9%84%d8%a3%d8%ad%d8%b1%d8%a7%d8%b1-%d9%88%d8%a7%d9%84%d8%a8%d8%a7%d9%85-%d8%aa%d9%85%d8%ab%d9%8a%d9%84-%d9%88%d8%a7-1806465.html",
-       "source": "Hespress",
-       "published_at": "2026-09-12 22:00"
-      },
-      {
-       "title": "لقجع يعرض رؤية \"البام\"",
-       "url": "https://www.hespress.com/%d9%84%d9%82%d8%ac%d8%b9-%d9%8a%d8%b9%d8%b1%d8%b6-%d8%b1%d8%a4%d9%8a%d8%a9-%d8%a7%d9%84%d8%a8%d8%a7%d9%85-1806458.html",
-       "source": "Hespress",
-       "published_at": "2026-09-12 21:39"
-      },
-      {
-       "title": "تنافس يساري بين ميلونشون وروسيل",
-       "url": "https://www.hespress.com/%d8%aa%d9%86%d8%a7%d9%81%d8%b3-%d9%8a%d8%b3%d8%a7%d8%b1%d9%8a-%d8%a8%d9%8a%d9%86-%d9%85%d9%8a%d9%84%d9%88%d9%86%d8%b4%d9%88%d9%86-%d9%88%d8%b1%d9%88%d8%b3%d9%8a%d9%84-1806314.html",
-       "source": "Hespress",
-       "published_at": "2026-09-12 21:30"
-      },
-      {
-       "title": "وهم السيطرة",
-       "url": "https://www.hespress.com/%d9%88%d9%87%d9%85-%d8%a7%d9%84%d8%b3%d9%8a%d8%b7%d8%b1%d8%a9-1806387.html",
-       "source": "Hespress",
-       "published_at": "2026-09-12 21:29"
       },
       {
        "title": "Médicaments : le trou commercial se creuse à 13,4 MMDH d'ici à 2030",
@@ -383,17 +398,11 @@
        "url": "https://www.telegraaf.nl/video/geen-verbod-op-gezichtsbedekking-minister-steekt-dolk-in-rug-van-de-politie/161346880.html",
        "source": "de Telegraaf",
        "published_at": "2026-09-12 17:00"
-      },
-      {
-       "title": "Voortvluchtige oorlogsmisdadiger Guus Kouwenhoven overleden in Zuid-Afrika: ’Met zijn wapens zijn hele dorpen uitgeroeid’",
-       "url": "https://www.telegraaf.nl/binnenland/voortvluchtige-oorlogsmisdadiger-guus-kouwenhoven-overleden-in-zuid-afrika-met-zijn-wapens-zijn-hele-dorpen-uitgeroeid/161128796.html",
-       "source": "de Telegraaf",
-       "published_at": "2026-09-12 13:58"
       }
      ]
     }
    ],
-   "count": 4
+   "count": 3
   },
   {
    "key": "mideast",
@@ -402,8 +411,20 @@
    "note": null,
    "clusters": [
     {
-     "label": "Iran · Houthi",
+     "label": "Iran · War",
      "articles": [
+      {
+       "title": "Iran’s Pezeshkian: ‘We are not at war with Saudi Arabia’",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/13-09-clip-pezeshkian-iran-not-at-war-with-saudis-ir?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-09-13 01:32"
+      },
+      {
+       "title": "Iran war live: Saudi Arabia and Houthis trade strikes over Bab al-Mandeb",
+       "url": "https://www.aljazeera.com/news/liveblog/2026/9/13/iran-war-live-saudi-arabia-and-houthis-trade-strikes-over-bab-al-mandeb?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-09-13 00:00"
+      },
       {
        "title": "Bahrain says it will not participate in Iran’s proposed Hormuz meeting",
        "url": "https://www.aljazeera.com/news/2026/9/12/bahrain-says-it-will-not-participate-in-irans-proposed-hormuz-meeting?traffic_source=rss",
@@ -411,39 +432,10 @@
        "published_at": "2026-09-12 19:34"
       },
       {
-       "title": "Will Houthi advances in Yemen give Iran leverage in its war with the US?",
-       "url": "https://www.aljazeera.com/video/inside-story/2026/9/12/will-houthi-advances-in-yemen-give-iran-leverage-in-its-war-with-the-us?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-09-12 19:17"
-      },
-      {
-       "title": "Iraq probes drone strikes on Saudi Arabia, shuts three crossings to Iran",
-       "url": "https://www.aljazeera.com/news/2026/9/12/iraq-probes-drone-strikes-on-saudi-arabia-shuts-three-crossings-to-iran?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-09-12 18:53"
-      },
-      {
-       "title": "Iran, UAE hold first talks at BRICS summit since conflict began",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-clip-uae-iran-brics-talks-mp4?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-09-12 18:36"
-      },
-      {
        "title": "Iran’s Houthi allies capture strategic island on vital oil shipping route",
        "url": "https://www.theguardian.com/world/2026/sep/11/iran-houthi-allies-capture-strategic-island-bab-al-mandab-strait",
        "source": "Guardian World",
        "published_at": "2026-09-12 04:45"
-      }
-     ]
-    },
-    {
-     "label": "Houthi",
-     "articles": [
-      {
-       "title": "Will the Houthi attacks activate the Mecca Pact?",
-       "url": "https://www.aljazeera.com/opinions/2026/9/12/will-the-houthi-attacks-activate-the-mecca-pact?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-09-12 16:06"
       },
       {
        "title": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
@@ -454,13 +446,36 @@
      ]
     },
     {
+     "label": "Houthis · Sea",
+     "articles": [
+      {
+       "title": "Yemen’s Houthis seize strategic Mayun Island in Red Sea",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/yemens-houthis-seize-strategic-mayun-island-in-red-sea?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-09-13 02:44"
+      },
+      {
+       "title": "Houthis claim attack on Saudi base as fighting flares with Yemeni forces",
+       "url": "https://www.theguardian.com/world/2026/sep/13/houthis-claim-attack-on-saudi-base-as-fighting-flares-with-yemeni-forces",
+       "source": "Guardian World",
+       "published_at": "2026-09-13 01:27"
+      },
+      {
+       "title": "Nearly 50,000 Yemeni civilians flee as Houthis advance along Red Sea coast",
+       "url": "https://www.theguardian.com/world/2026/sep/12/yemen-houthi-advance-red-sea-coast-displaces-civilians-bab-al-mandab",
+       "source": "Guardian World",
+       "published_at": "2026-09-12 04:00"
+      }
+     ]
+    },
+    {
      "label": "More headlines",
      "articles": [
       {
-       "title": "Australia news live: escalating Middle East conflict will see prices rise again, Chris Bowen says",
-       "url": "https://www.theguardian.com/australia-news/live/2026/sep/13/australia-news-live-chris-bowen-middle-east-fuel-petrol-prices-anika-wells-social-media-algorithm-andrew-hastie-pauline-hanson-one-nation-albanese-labor-coalition-liberal-ntwnfb",
-       "source": "Guardian World",
-       "published_at": "2026-09-12 23:46"
+       "title": "Houthi projectile wounds two, damages mosque in Jazan region, Saudi says",
+       "url": "https://www.aljazeera.com/news/2026/9/13/houthi-projectile-wounds-two-damages-mosque-in-jazan-region-saudi-says?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-09-13 00:24"
       },
       {
        "title": "Israel bombs southern Lebanon as talks postponed",
@@ -479,12 +494,6 @@
        "url": "https://www.theguardian.com/world/2026/sep/12/idf-soldier-filmed-shooting-palestinian-in-leg-amid-west-bank-settler-standoff",
        "source": "Guardian World",
        "published_at": "2026-09-12 13:44"
-      },
-      {
-       "title": "Nearly 50,000 Yemeni civilians flee as Houthis advance along Red Sea coast",
-       "url": "https://www.theguardian.com/world/2026/sep/12/yemen-houthi-advance-red-sea-coast-displaces-civilians-bab-al-mandab",
-       "source": "Guardian World",
-       "published_at": "2026-09-12 04:00"
       }
      ]
     }
@@ -498,13 +507,19 @@
    "note": null,
    "clusters": [
     {
-     "label": "Ukraine · Peace",
+     "label": "Russian · Player",
      "articles": [
       {
-       "title": "Next Ukraine-US-Russia peace talks may take place in October, Budanov says",
-       "url": "https://kyivindependent.com/next-ukraine-us-russia-peace-talks-may-take-place-in-october-budanov-says/",
+       "title": "Ukrainian tennis player Yastremska says family apartment destroyed in Russian attack on Odesa",
+       "url": "https://kyivindependent.com/ukrainian-tennis-player-yastremska-says-family-apartment-destroyed-in-russian-attack-on-odesa/",
        "source": "Kyiv Independent",
-       "published_at": "2026-09-12 22:20"
+       "published_at": "2026-09-13 01:15"
+      },
+      {
+       "title": "'Immoral and self-destructive' — Zelensky blasts EU for considering lifting sanctions on Russian oligarchs",
+       "url": "https://kyivindependent.com/immoral-and-self-destructive-zelensky-blasts-eus-failure-to-renew-sanctions-on-russian-oligarchs/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-09-12 20:37"
       },
       {
        "title": "Only Roland Garros towel left, says Ukraine tennis player after Russian strike hits flat",
@@ -519,6 +534,23 @@
        "published_at": "2026-09-12 19:26"
       },
       {
+       "title": "'First-ever battle' — Ukrainian naval drone destroys Russian unmanned boat in Black Sea, Navy says",
+       "url": "https://kyivindependent.com/first-ever-battle-ukrainian-naval-drone-destroys-russian-unmanned-boat-in-black-sea-navy-says/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-09-12 18:14"
+      }
+     ]
+    },
+    {
+     "label": "Ukraine · Peace",
+     "articles": [
+      {
+       "title": "Next Ukraine-US-Russia peace talks may take place in October, Budanov says",
+       "url": "https://kyivindependent.com/next-ukraine-us-russia-peace-talks-may-take-place-in-october-budanov-says/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-09-12 22:20"
+      },
+      {
        "title": "Explosion at Bulgarian ammunition depot supplying Ukraine sparks massive fire, sabotage probe",
        "url": "https://kyivindependent.com/explosion-hits-bulgarian-ammunition-facility-supplying-ukraine-sabotage-probe-underway/",
        "source": "Kyiv Independent",
@@ -529,29 +561,6 @@
        "url": "https://kyivindependent.com/russia-refuses-to-stop-attacking-ukraine-during-peace-negotiations-lavrov-says/",
        "source": "Kyiv Independent",
        "published_at": "2026-09-12 16:00"
-      }
-     ]
-    },
-    {
-     "label": "Russian · Ukrainian",
-     "articles": [
-      {
-       "title": "'Immoral and self-destructive' — Zelensky blasts EU for considering lifting sanctions on Russian oligarchs",
-       "url": "https://kyivindependent.com/immoral-and-self-destructive-zelensky-blasts-eus-failure-to-renew-sanctions-on-russian-oligarchs/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-09-12 20:37"
-      },
-      {
-       "title": "'First-ever battle' — Ukrainian naval drone destroys Russian unmanned boat in Black Sea, Navy says",
-       "url": "https://kyivindependent.com/first-ever-battle-ukrainian-naval-drone-destroys-russian-unmanned-boat-in-black-sea-navy-says/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-09-12 18:14"
-      },
-      {
-       "title": "Russian strikes hit 2 major Ukrainian steel plants, killing 2 and injuring 6",
-       "url": "https://kyivindependent.com/russian-strikes-hit-2-major-ukrainian-steel-plants-killing-2-and-injuring-6/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-09-12 13:36"
       },
       {
        "title": "Russian attacks kill 11, injure 96 across Ukraine as Odesa comes under mass overnight strike",
@@ -571,16 +580,16 @@
        "published_at": "2026-09-12 16:30"
       },
       {
+       "title": "Russian strikes hit 2 major Ukrainian steel plants, killing 2 and injuring 6",
+       "url": "https://kyivindependent.com/russian-strikes-hit-2-major-ukrainian-steel-plants-killing-2-and-injuring-6/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-09-12 13:36"
+      },
+      {
        "title": "Zelensky says he is ready to meet Putin at G20 summit in Miami",
        "url": "https://kyivindependent.com/zelensky-says-he-is-ready-to-meet-putin-at-g20-summit-in-miami/",
        "source": "Kyiv Independent",
        "published_at": "2026-09-12 10:06"
-      },
-      {
-       "title": "Explainer: How Ukraine’s biggest corruption scheme persisted despite all odds",
-       "url": "https://kyivindependent.com/explainer-how-ukraines-biggest-corruption-scheme-persisted-despite-all-odds/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-09-12 08:27"
       }
      ]
     }
