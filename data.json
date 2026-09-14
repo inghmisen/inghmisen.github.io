@@ -1,6 +1,6 @@
 {
  "date": "Monday 14 September 2026",
- "generated_at": "19:08 UTC",
+ "generated_at": "22:40 UTC",
  "error": null,
  "total_stories": 78,
  "fx": {
@@ -16,65 +16,37 @@
    "note": null,
    "clusters": [
     {
-     "label": "Qwen",
+     "label": "Gpu · Rtx",
      "articles": [
+      {
+       "title": "Nvidia's RTX 5090 vanishes from online retail in the US — third-party sellers now demand as much as $9,500 for Nvidia's fastest GPU",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgeo55/nvidias_rtx_5090_vanishes_from_online_retail_in/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-14 20:12"
+      },
+      {
+       "title": "NVIDIA Unveils RTX PRO 5500 \"Blackwell\" Workstation GPU with 84 GB GDDR7 Memory",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgd14p/nvidia_unveils_rtx_pro_5500_blackwell_workstation/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-14 19:14"
+      },
       {
        "title": "For the GPU poor. K2 Horizon 7B ranks between qwen 3.6 27B and qwen 3.6 35BA3b on the Artificial Analysis Intelligence Index.",
        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wg82rd/for_the_gpu_poor_k2_horizon_7b_ranks_between_qwen/",
        "source": "r/LocalLLaMA",
        "published_at": "2026-09-14 16:22"
-      },
-      {
-       "title": "UkisAI Swift-Qwen3.8-27B / -58.3% thinking, x1.95 speed while keeping the accuracy of xhigh",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wg7dd5/ukisai_swiftqwen3827b_583_thinking_x195_speed/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-09-14 15:57"
-      },
-      {
-       "title": "Is there a better small model than Qwen3.5 4B for a fast local AI assistant?",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wg28mu/is_there_a_better_small_model_than_qwen35_4b_for/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-09-14 12:37"
-      }
-     ]
-    },
-    {
-     "label": "Horizon",
-     "articles": [
-      {
-       "title": "K2 Horizon lineup is out on AA, and once again AA plots are misleading.",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wg4a0u/k2_horizon_lineup_is_out_on_aa_and_once_again_aa/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-09-14 14:01"
-      },
-      {
-       "title": "The new k2 horizon models seem like an absolute beast",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wg0vqz/the_new_k2_horizon_models_seem_like_an_absolute/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-09-14 11:33"
-      }
-     ]
-    },
-    {
-     "label": "Minicpm",
-     "articles": [
-      {
-       "title": "Coding Agent running entirely in the browser with Pi + MiniCPM5-2B (webGPU)",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wg97cp/coding_agent_running_entirely_in_the_browser_with/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-09-14 17:02"
-      },
-      {
-       "title": "openbmb/MiniCPM5-2B · 1386 ♥",
-       "url": "https://huggingface.co/openbmb/MiniCPM5-2B",
-       "source": "HF new models",
-       "published_at": "2026-09-06 11:12"
       }
      ]
     },
     {
      "label": "Open · Source",
      "articles": [
+      {
+       "title": "Will we always have to rely on companies with the funds and resources to give us open models or can/will it be possible to democratize training for models capable of performing at or near the same level as the big closed ones in the future at some point?",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgak6e/will_we_always_have_to_rely_on_companies_with_the/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-14 17:49"
+      },
       {
        "title": "Are there any organizations that are lobbying in favor of open source AI?",
        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wg6z3e/are_there_any_organizations_that_are_lobbying_in/",
@@ -90,61 +62,89 @@
      ]
     },
     {
-     "label": "More headlines",
+     "label": "While",
      "articles": [
       {
-       "title": "Microsoft says ‘people matter more than AI’ following safety concerns",
-       "url": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
-       "source": "Verge AI",
-       "published_at": "2026-09-14 13:00"
+       "title": "UkisAI Swift-Qwen3.8-27B / -58.3% thinking, x1.95 speed while keeping the accuracy of xhigh",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wg7dd5/ukisai_swiftqwen3827b_583_thinking_x195_speed/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-14 15:57"
       },
       {
-       "title": "OpenAI bots knew about the RubyGems caching vulnerability",
-       "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+       "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
+       "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
        "source": "Hacker News",
-       "published_at": "2026-09-14 12:40"
-      },
+       "published_at": "2026-09-14 13:59"
+      }
+     ]
+    },
+    {
+     "label": "Agi · Nex",
+     "articles": [
       {
-       "title": "llama: add Maple 20B-A1B ternary MoE architecture (CPU) by AlexGabbia · Pull Request #27000 · ggml-org/llama.cpp",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wg1o5b/llama_add_maple_20ba1b_ternary_moe_architecture/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-09-14 12:11"
-      },
-      {
-       "title": "What actually makes you trust a local coding agent enough to leave it running unattended?",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wg1jea/what_actually_makes_you_trust_a_local_coding/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-09-14 12:05"
-      },
-      {
-       "title": "deepseek-ai/DeepSeek-V4.1-Flash · 2418 ♥",
-       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
-       "source": "HF new models",
-       "published_at": "2026-09-10 02:17"
-      },
-      {
-       "title": "m-a-p/YuE2-3B · 464 ♥",
-       "url": "https://huggingface.co/m-a-p/YuE2-3B",
-       "source": "HF new models",
-       "published_at": "2026-09-09 18:30"
-      },
-      {
-       "title": "Edge0/Edge0-35B-A3B-preview · 1774 ♥",
-       "url": "https://huggingface.co/Edge0/Edge0-35B-A3B-preview",
-       "source": "HF new models",
-       "published_at": "2026-09-08 13:56"
-      },
-      {
-       "title": "nex-agi/Nex-N2.5-Pro · 632 ♥",
+       "title": "nex-agi/Nex-N2.5-Pro · 633 ♥",
        "url": "https://huggingface.co/nex-agi/Nex-N2.5-Pro",
        "source": "HF new models",
        "published_at": "2026-09-08 11:01"
       },
       {
-       "title": "nex-agi/Nex-N2.5-mini · 777 ♥",
+       "title": "nex-agi/Nex-N2.5-mini · 778 ♥",
        "url": "https://huggingface.co/nex-agi/Nex-N2.5-mini",
        "source": "HF new models",
        "published_at": "2026-09-08 05:08"
+      }
+     ]
+    },
+    {
+     "label": "More headlines",
+     "articles": [
+      {
+       "title": "What execs and politicians are saying about slowing down AI development",
+       "url": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
+       "source": "Verge AI",
+       "published_at": "2026-09-14 21:21"
+      },
+      {
+       "title": "Animated transition from AA Intelligence Index v4.1 to v4.3",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgg4sx/animated_transition_from_aa_intelligence_index/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-14 21:06"
+      },
+      {
+       "title": "Pion, an agent designed to run any company autonomously",
+       "url": "https://andonlabs.com/blog/why-we-built-pion",
+       "source": "Hacker News",
+       "published_at": "2026-09-14 17:16"
+      },
+      {
+       "title": "K2 Horizon lineup is out on AA, and once again AA plots are misleading.",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wg4a0u/k2_horizon_lineup_is_out_on_aa_and_once_again_aa/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-14 14:01"
+      },
+      {
+       "title": "deepseek-ai/DeepSeek-V4.1-Flash · 2441 ♥",
+       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
+       "source": "HF new models",
+       "published_at": "2026-09-10 02:17"
+      },
+      {
+       "title": "m-a-p/YuE2-3B · 472 ♥",
+       "url": "https://huggingface.co/m-a-p/YuE2-3B",
+       "source": "HF new models",
+       "published_at": "2026-09-09 18:30"
+      },
+      {
+       "title": "Edge0/Edge0-35B-A3B-preview · 1925 ♥",
+       "url": "https://huggingface.co/Edge0/Edge0-35B-A3B-preview",
+       "source": "HF new models",
+       "published_at": "2026-09-08 13:56"
+      },
+      {
+       "title": "openbmb/MiniCPM5-2B · 1390 ♥",
+       "url": "https://huggingface.co/openbmb/MiniCPM5-2B",
+       "source": "HF new models",
+       "published_at": "2026-09-06 11:12"
       }
      ]
     }
@@ -157,6 +157,23 @@
    "icon": "📍",
    "note": null,
    "clusters": [
+    {
+     "label": "Slimmer · Docenten",
+     "articles": [
+      {
+       "title": "‘Slimmer collegejaar’ bespaart UT-docenten honderden uren",
+       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJTHVMNjJoUDlGMjFzdF9RWlJKTmM5Z2FGdkx6OFdoMzJSaHVLckp1eHVsWkY2Rm9XaVRoYTFXMnBkdXpJeE5peWI4Q1E0MFBKT1FybW1YNnppVUE?oc=5",
+       "source": "UToday",
+       "published_at": "2026-09-14 16:51"
+      },
+      {
+       "title": "‘Slimmer collegejaar’ bespaart UT-docenten honderden uren",
+       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ2VNWXk1bDdScXByYks1RmJQNjJUOUl0eklrZFBCSEItMWIwSjNsc2dOam45ci1Eb3dfUkE0b21sTWpLcmNLU3o3bUdnSG41T2Z3ZEktVUFfZy1MR20xRFBVbVkyNENPWTJUSlFZRHpoeFdrZ1U3ZTdNUmVqUVhoQ3NtYjFkd3hkdkRSOWNGakpmUQ?oc=5",
+       "source": "UToday",
+       "published_at": "2026-09-14 14:13"
+      }
+     ]
+    },
     {
      "label": "Sociale",
      "articles": [
@@ -175,7 +192,7 @@
      ]
     },
     {
-     "label": "Grote · Bestuursfotoverkiezing",
+     "label": "Bestuursfotoverkiezing · Grote",
      "articles": [
       {
        "title": "De Grote U-Today Bestuursfotoverkiezing 2026, de uitslag",
@@ -194,12 +211,6 @@
     {
      "label": "More headlines",
      "articles": [
-      {
-       "title": "‘Slimmer collegejaar’ bespaart UT-docenten honderden uren",
-       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ2VNWXk1bDdScXByYks1RmJQNjJUOUl0eklrZFBCSEItMWIwSjNsc2dOam45ci1Eb3dfUkE0b21sTWpLcmNLU3o3bUdnSG41T2Z3ZEktVUFfZy1MR20xRFBVbVkyNENPWTJUSlFZRHpoeFdrZ1U3ZTdNUmVqUVhoQ3NtYjFkd3hkdkRSOWNGakpmUQ?oc=5",
-       "source": "UToday",
-       "published_at": "2026-09-14 14:13"
-      },
       {
        "title": "‘Dronken studenten kunnen wel eens onvoorspelbaar zijn’",
        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNR0JlLWZDNnJDZV9Udl9EWjVfWEl0T2Jobng5TzN0TFBOZGZzMnB1cW5Bc0xJRVdyZEt0ZmVSVGxqRktZY0pjVnAzQUFULV9nTjdaTTV3RkxORWhOaVY3NDhfN25kZTMyX3NNcklkTlhyS2cyOFRmaUk0THFXampqZkw2bzdCaHJJUnFIV25UX3lQcUVxX05seQ?oc=5",
@@ -223,12 +234,6 @@
        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQT29BdUtWMzZVZGRpYTF4N1lCalhLcUE2YnJnY1JHb0xVQ0EyTVpmYm9aR1FBaHN4QVFMcTBjRUJlcl81SmxWVFlGRndfbkdISVp4RXlSenl6Y29UdWduNE1fUE5Xa19Ca2owNFlsUllfbWhkbkVCZkVKaGExM24yOW16NFZsbmtjMUk0cjFUbkhNV2M?oc=5",
        "source": "UToday",
        "published_at": "2026-05-23 07:00"
-      },
-      {
-       "title": "Pakkerij moet per direct deuren sluiten na inspectie",
-       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcmppb3BwZ0tnV21aNTBCQm1EQzhudzZDeW1BUU5VZ0Y0NjlBUHFkUUNoNWNYeUtNWjZ3Zk9QbTF3VGZydTdBbUk0NzJtVFpONlVfLXZwbm9HNXhEX1p2WEFUTU1GeTQzVWtQcjdZWnJ3eUFjZVd6SFFSZWRBdVdweGNiRUFBcWIwZ3NtNUdn?oc=5",
-       "source": "UToday",
-       "published_at": "2026-05-21 07:00"
       }
      ]
     }
@@ -242,42 +247,42 @@
    "note": null,
    "clusters": [
     {
-     "label": "المغرب",
+     "label": "الانتخابية · البقالي",
      "articles": [
       {
-       "title": "مدرب صن داونز: المغرب حالة استثنائية",
-       "url": "https://www.hespress.com/%d9%85%d8%af%d8%b1%d8%a8-%d8%b5%d9%86-%d8%af%d8%a7%d9%88%d9%86%d8%b2-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d8%ad%d8%a7%d9%84%d8%a9-%d8%a7%d8%b3%d8%aa%d8%ab%d9%86%d8%a7%d8%a6%d9%8a%d8%a9-1807355.html",
+       "title": "البقالي: الحملة الانتخابية تنحرف نحو السجال.. ووعود حزبية غير منطقية",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%a8%d9%82%d8%a7%d9%84%d9%8a-%d8%a7%d9%84%d8%ad%d9%85%d9%84%d8%a9-%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d9%8a%d8%a9-%d8%aa%d9%86%d8%ad%d8%b1%d9%81-%d9%86%d8%ad%d9%88-%d8%a7-1807511.html",
        "source": "Hespress",
-       "published_at": "2026-09-14 18:46"
+       "published_at": "2026-09-14 22:30"
       },
       {
-       "title": "أبعاد استراتيجية | المغرب وإسبانيا",
-       "url": "https://www.hespress.com/%d8%a3%d8%a8%d8%b9%d8%a7%d8%af-%d8%a7%d8%b3%d8%aa%d8%b1%d8%a7%d8%aa%d9%8a%d8%ac%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d9%88%d8%a5%d8%b3%d8%a8%d8%a7%d9%86%d9%8a%d8%a7-1807309.html",
+       "title": "أخنوش من أزيلال: \"الأحرار\" سينتصرون في الانتخابات التشريعية المقبلة",
+       "url": "https://www.hespress.com/%d8%a3%d8%ae%d9%86%d9%88%d8%b4-%d9%85%d9%86-%d8%a3%d8%b2%d9%8a%d9%84%d8%a7%d9%84-%d8%a7%d9%84%d8%a3%d8%ad%d8%b1%d8%a7%d8%b1-%d8%b3%d9%8a%d9%86%d8%aa%d8%b5%d8%b1%d9%88%d9%86-%d9%81%d9%8a-%d8%a7-1807446.html",
        "source": "Hespress",
-       "published_at": "2026-09-14 18:00"
+       "published_at": "2026-09-14 20:50"
       },
       {
-       "title": "المغرب يدعو لاستدامة الصرف الصحي",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d9%8a%d8%af%d8%b9%d9%88-%d9%84%d8%a7%d8%b3%d8%aa%d8%af%d8%a7%d9%85%d8%a9-%d8%a7%d9%84%d8%b5%d8%b1%d9%81-%d8%a7%d9%84%d8%b5%d8%ad%d9%8a-1807287.html",
+       "title": "الطريق إلى الانتخابات 2026: خالد البقالي",
+       "url": "https://www.hespress.com/%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-%d8%a7%d9%84%d8%b7%d8%b1%d9%8a%d9%82-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-2026-%d8%ae%d8%a7%d9%84%d8%af-%d8%a7%d9%84%d8%a8-1807433.html",
        "source": "Hespress",
-       "published_at": "2026-09-14 17:29"
+       "published_at": "2026-09-14 20:03"
       }
      ]
     },
     {
-     "label": "غير",
+     "label": "الأحرار",
      "articles": [
       {
-       "title": "مواد غير صالحة للاستهلاك بجامع الفنا",
-       "url": "https://www.hespress.com/%d9%85%d9%88%d8%a7%d8%af-%d8%ba%d9%8a%d8%b1-%d8%b5%d8%a7%d9%84%d8%ad%d8%a9-%d9%84%d9%84%d8%a7%d8%b3%d8%aa%d9%87%d9%84%d8%a7%d9%83-%d8%a8%d8%ac%d8%a7%d9%85%d8%b9-%d8%a7%d9%84%d9%81%d9%86%d8%a7-1807375.html",
+       "title": "العلمي: \"الأحرار ماشي حيط قصير\" .. وعمور تستعرض منجزات السياحة",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%b9%d9%84%d9%85%d9%8a-%d8%a7%d9%84%d8%a3%d8%ad%d8%b1%d8%a7%d8%b1-%d9%85%d8%a7%d8%b4%d9%8a-%d8%ad%d9%8a%d8%b7-%d9%82%d8%b5%d9%8a%d8%b1-%d9%88%d8%b9%d9%85%d9%88%d8%b1-%d8%aa%d8%b9-1807489.html",
        "source": "Hespress",
-       "published_at": "2026-09-14 18:25"
+       "published_at": "2026-09-14 22:00"
       },
       {
-       "title": "\"الوردة\" يحذر من الحسابات غير الرسمية",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%88%d8%b1%d8%af%d8%a9-%d9%8a%d8%ad%d8%b0%d8%b1-%d9%85%d9%86-%d8%a7%d9%84%d8%ad%d8%b3%d8%a7%d8%a8%d8%a7%d8%aa-%d8%ba%d9%8a%d8%b1-%d8%a7%d9%84%d8%b1%d8%b3%d9%85%d9%8a%d8%a9-1807198.html",
+       "title": "\"الأحرار\" في بني ملال خنيفرة",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%a3%d8%ad%d8%b1%d8%a7%d8%b1-%d9%81%d9%8a-%d8%a8%d9%86%d9%8a-%d9%85%d9%84%d8%a7%d9%84-%d8%ae%d9%86%d9%8a%d9%81%d8%b1%d8%a9-1807462.html",
        "source": "Hespress",
-       "published_at": "2026-09-14 18:03"
+       "published_at": "2026-09-14 21:22"
       }
      ]
     },
@@ -299,7 +304,7 @@
      ]
     },
     {
-     "label": "Fayek · Rachid",
+     "label": "Rachid · Fayek",
      "articles": [
       {
        "title": "Justice : Mohamed Chaouki répond aux accusations de Rachid El Fayek",
@@ -319,46 +324,46 @@
      "label": "More headlines",
      "articles": [
       {
-       "title": "الصحة والتشغيل والاستثمار .. أولويات التوجهات المالية في 2027",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%b5%d8%ad%d8%a9-%d9%88%d8%a7%d9%84%d8%aa%d8%b4%d8%ba%d9%8a%d9%84-%d9%88%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%ab%d9%85%d8%a7%d8%b1-%d8%a3%d9%88%d9%84%d9%88%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84-1807324.html",
+       "title": "أخنوش: سنفوز بالانتخابات",
+       "url": "https://www.hespress.com/%d8%a3%d8%ae%d9%86%d9%88%d8%b4-%d8%b3%d9%86%d9%81%d9%88%d8%b2-%d8%a8%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-1807447.html",
        "source": "Hespress",
-       "published_at": "2026-09-14 19:00"
+       "published_at": "2026-09-14 21:40"
       },
       {
-       "title": "تحقيقات تكشف وقوف حسابات سياسية وراء تفجر أزمة النظافة بطنجة",
-       "url": "https://www.hespress.com/%d8%aa%d8%ad%d9%82%d9%8a%d9%82%d8%a7%d8%aa-%d8%aa%d9%83%d8%b4%d9%81-%d9%88%d9%82%d9%88%d9%81-%d8%ad%d8%b3%d8%a7%d8%a8%d8%a7%d8%aa-%d8%b3%d9%8a%d8%a7%d8%b3%d9%8a%d8%a9-%d9%88%d8%b1%d8%a7%d8%a1-%d8%aa-1807393.html",
+       "title": "بنعبد الله يجوب شوارع الخميسات",
+       "url": "https://www.hespress.com/%d8%a8%d9%86%d8%b9%d8%a8%d8%af-%d8%a7%d9%84%d9%84%d9%87-%d9%8a%d8%ac%d9%88%d8%a8-%d8%b4%d9%88%d8%a7%d8%b1%d8%b9-%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3%d8%a7%d8%aa-1807484.html",
        "source": "Hespress",
-       "published_at": "2026-09-14 18:44"
+       "published_at": "2026-09-14 21:39"
       },
       {
-       "title": "شوكي: أخنوش اشتغل ولم يُنصَف .. و\"الأحرار\" مستمرون رغم الاستهداف",
-       "url": "https://www.hespress.com/%d8%b4%d9%88%d9%83%d9%8a-%d8%a3%d8%ae%d9%86%d9%88%d8%b4-%d8%a7%d8%b4%d8%aa%d8%ba%d9%84-%d9%88%d9%84%d9%85-%d9%8a%d9%8f%d9%86%d8%b5%d9%8e%d9%81-%d9%88%d8%a7%d9%84%d8%a3%d8%ad%d8%b1%d8%a7-1807366.html",
+       "title": "قميص الزلزولي عن سبتة يشعل الجدل",
+       "url": "https://www.hespress.com/%d9%82%d9%85%d9%8a%d8%b5-%d8%a7%d9%84%d8%b2%d9%84%d8%b2%d9%88%d9%84%d9%8a-%d8%b9%d9%86-%d8%b3%d8%a8%d8%aa%d8%a9-%d9%8a%d8%b4%d8%b9%d9%84-%d8%a7%d9%84%d8%ac%d8%af%d9%84-1807465.html",
        "source": "Hespress",
-       "published_at": "2026-09-14 18:30"
+       "published_at": "2026-09-14 21:29"
       },
       {
-       "title": "مستجدات إصابات لاعبي نهضة بركان",
-       "url": "https://www.hespress.com/%d9%85%d8%b3%d8%aa%d8%ac%d8%af%d8%a7%d8%aa-%d8%a5%d8%b5%d8%a7%d8%a8%d8%a7%d8%aa-%d9%84%d8%a7%d8%b9%d8%a8%d9%8a-%d9%86%d9%87%d8%b6%d8%a9-%d8%a8%d8%b1%d9%83%d8%a7%d9%86-1807350.html",
+       "title": "‬رصيف الصحافة: جرسيف تدخل مرحلة الحسم في التنقيب عن الغاز",
+       "url": "https://www.hespress.com/%d8%b1%d8%b5%d9%8a%d9%81-%d8%a7%d9%84%d8%b5%d8%ad%d8%a7%d9%81%d8%a9-%d8%ac%d8%b1%d8%b3%d9%8a%d9%81-%d8%aa%d8%af%d8%ae%d9%84-%d9%85%d8%b1%d8%ad%d9%84%d8%a9-%d8%a7%d9%84%d8%ad%d8%b3%d9%85-1807471.html",
        "source": "Hespress",
-       "published_at": "2026-09-14 18:25"
+       "published_at": "2026-09-14 21:20"
       },
       {
-       "title": "واشنطن تتحرك في الجزائر قبيل مناقشات مجلس الأمن حول الصحراء",
-       "url": "https://www.hespress.com/%d9%88%d8%a7%d8%b4%d9%86%d8%b7%d9%86-%d8%aa%d8%aa%d8%ad%d8%b1%d9%83-%d9%81%d9%8a-%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1-%d9%82%d8%a8%d9%8a%d9%84-%d9%85%d9%86%d8%a7%d9%82%d8%b4%d8%a7%d8%aa-%d9%85-1807315.html",
+       "title": "الزابيري الأفضل في غشت بسانتاندير",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%b2%d8%a7%d8%a8%d9%8a%d8%b1%d9%8a-%d8%a7%d9%84%d8%a3%d9%81%d8%b6%d9%84-%d9%81%d9%8a-%d8%ba%d8%b4%d8%aa-%d8%a8%d8%b3%d8%a7%d9%86%d8%aa%d8%a7%d9%86%d8%af%d9%8a%d8%b1-1807461.html",
        "source": "Hespress",
-       "published_at": "2026-09-14 18:00"
+       "published_at": "2026-09-14 21:07"
       },
       {
-       "title": "سفيان بوفال بقميص الاتحاد الليبي",
-       "url": "https://www.hespress.com/%d8%b3%d9%81%d9%8a%d8%a7%d9%86-%d8%a8%d9%88%d9%81%d8%a7%d9%84-%d8%a8%d9%82%d9%85%d9%8a%d8%b5-%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af-%d8%a7%d9%84%d9%84%d9%8a%d8%a8%d9%8a-1807339.html",
+       "title": "الذكاء الاصطناعي يجمع مجلس الأمن",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1-%d8%a7%d9%84%d8%a7%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a-%d9%8a%d8%ac%d9%85%d8%b9-%d9%85%d8%ac%d9%84%d8%b3-%d8%a7%d9%84%d8%a3%d9%85%d9%86-1807457.html",
        "source": "Hespress",
-       "published_at": "2026-09-14 17:45"
+       "published_at": "2026-09-14 20:40"
       },
       {
-       "title": "المَقامَةُ الوِزَارِيَةُ",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%85%d9%8e%d9%82%d8%a7%d9%85%d9%8e%d8%a9%d9%8f-%d8%a7%d9%84%d9%88%d9%90%d8%b2%d9%8e%d8%a7%d8%b1%d9%90%d9%8a%d9%8e%d8%a9%d9%8f-1806229.html",
+       "title": "صلاح الدين في صفوف باناثينايكوس",
+       "url": "https://www.hespress.com/%d8%b5%d9%84%d8%a7%d8%ad-%d8%a7%d9%84%d8%af%d9%8a%d9%86-%d9%81%d9%8a-%d8%b5%d9%81%d9%88%d9%81-%d8%a8%d8%a7%d9%86%d8%a7%d8%ab%d9%8a%d9%86%d8%a7%d9%8a%d9%83%d9%88%d8%b3-1807423.html",
        "source": "Hespress",
-       "published_at": "2026-09-14 17:25"
+       "published_at": "2026-09-14 20:02"
       },
       {
        "title": "Filières de soins : le GST Rabat-Salé-Kénitra ouvre ses Assises par les urgences",
@@ -384,7 +389,7 @@
    "note": null,
    "clusters": [
     {
-     "label": "Pensioen · Leerdam",
+     "label": "Jutta · Leerdam",
      "articles": [
       {
        "title": "Jutta Leerdam doet grote onthulling in YouTube-video: ‘Ga ik met pensioen?’",
@@ -403,18 +408,24 @@
        "url": "https://www.telegraaf.nl/sport/schaatsen/jutta-leerdam-27-slaat-komend-schaatsseizoen-over-pensioen-dat-klinkt-te-definitief/161442402.html",
        "source": "de Telegraaf",
        "published_at": "2026-09-14 16:48"
-      },
-      {
-       "title": "Jutta Leerdam komt dit seizoen niet in actie: 'Maar pensioen klinkt te definitief'",
-       "url": "https://www.nu.nl/schaatsen/6404563/jutta-leerdam-komt-dit-seizoen-niet-in-actie-maar-pensioen-klinkt-te-definitief.html",
-       "source": "NU.nl",
-       "published_at": "2026-09-14 16:47"
       }
      ]
     },
     {
      "label": "More headlines",
      "articles": [
+      {
+       "title": "Belinda Meuldijk noemt geboorte kleinzoon: ’cadeau’",
+       "url": "https://www.telegraaf.nl/entertainment/sterren/belinda-meuldijk-noemt-geboorte-kleinzoon-cadeau/161448907.html",
+       "source": "de Telegraaf",
+       "published_at": "2026-09-14 19:52"
+      },
+      {
+       "title": "Harry Mens klaar voor zijn Prinsjesdagfeestje: ’Er moeten snel nieuwe verkiezingen komen’",
+       "url": "https://www.telegraaf.nl/entertainment/sterren/harry-mens-klaar-voor-zijn-prinsjesdagfeestje-er-moeten-snel-nieuwe-verkiezingen-komen/161419046.html",
+       "source": "de Telegraaf",
+       "published_at": "2026-09-14 19:27"
+      },
       {
        "title": "VAR-duo in de Premier League aan de kant na omstreden treffer van Erling Haaland in Manchester-derby",
        "url": "https://www.telegraaf.nl/sport/voetbal/var-duo-in-de-premier-league-aan-de-kant-na-omstreden-treffer-van-erling-haaland-in-manchester-derby/161441818.html",
@@ -432,12 +443,6 @@
        "url": "https://www.telegraaf.nl/financieel/liefdesbrief-kabinet-wekt-bij-vakbonden-geen-vertrouwen-wij-hebben-een-ander-idee-van-romantiek/161441025.html",
        "source": "de Telegraaf",
        "published_at": "2026-09-14 16:52"
-      },
-      {
-       "title": "LIVE | Zelenski wantrouwt akkoord over stoppen met aanvallen op energiedoelen: ’Niet van overtuigd dat Rusland bereid is om zich eraan te houden’",
-       "url": "https://www.telegraaf.nl/buitenland/live-zelenski-wantrouwt-akkoord-over-stoppen-met-aanvallen-op-energiedoelen-niet-van-overtuigd-dat-rusland-bereid-is-om-zich-eraan-te-houden/161400313.html",
-       "source": "de Telegraaf",
-       "published_at": "2026-09-14 16:42"
       }
      ]
     }
@@ -451,13 +456,19 @@
    "note": null,
    "clusters": [
     {
-     "label": "Iran · War",
+     "label": "Iran · States",
      "articles": [
       {
-       "title": "Fiscal pressure from Iran War clouds Gulf States’ US spending plans",
-       "url": "https://www.aljazeera.com/economy/2026/9/14/fiscal-pressure-from-iran-war-clouds-gulf-states-us-spending-plans?traffic_source=rss",
+       "title": "Why talks in Oman between Iran and Gulf Arab states were postponed",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/why-talks-in-oman-between-iran-and-gulf-arab-states-were-postponed?traffic_source=rss",
        "source": "Al Jazeera",
-       "published_at": "2026-09-14 14:34"
+       "published_at": "2026-09-14 21:20"
+      },
+      {
+       "title": "US blocks Iran nuclear chief from attending key Vienna conference",
+       "url": "https://www.aljazeera.com/news/2026/9/14/us-blocks-iran-nuclear-chief-from-attending-key-vienna-conference?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-09-14 21:19"
       },
       {
        "title": "US airman recounts Iran rescue in 60 Minutes segment branded propaganda",
@@ -480,25 +491,48 @@
      ]
     },
     {
-     "label": "Gaza",
+     "label": "Yemen · Houthis",
      "articles": [
       {
-       "title": "Private schools become a costly choice for struggling parents in Gaza",
-       "url": "https://www.aljazeera.com/features/2026/9/14/private-schools-become-a-costly-choice-for-struggling-in-gaza?traffic_source=rss",
+       "title": "What could stop the Houthis’ advance across Yemen?",
+       "url": "https://www.aljazeera.com/video/inside-story/2026/9/14/what-could-stop-the-houthis-advance-across-yemen?traffic_source=rss",
        "source": "Al Jazeera",
-       "published_at": "2026-09-14 17:22"
+       "published_at": "2026-09-14 20:55"
+      },
+      {
+       "title": "Inside the Houthis’ expanding war economy in Yemen",
+       "url": "https://www.aljazeera.com/economy/2026/9/14/inside-the-houthis-expanding-war-economy-in-yemen?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-09-14 20:41"
+      },
+      {
+       "title": "Djibouti humanitarian situation worsens as Yemenis seek refuge",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/djibouti-humanitarian-situation-worsens-as-yemenis-seek-refuge?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-09-14 18:46"
+      }
+     ]
+    },
+    {
+     "label": "Gaza · Israeli",
+     "articles": [
+      {
+       "title": "Israeli attack targets Gaza displacement camp",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/israeli-attack-targets-gaza-displacement-camp?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-09-14 21:37"
+      },
+      {
+       "title": "Israel probing Naza film on Gaza for treason, inciting anti-Semitism",
+       "url": "https://www.aljazeera.com/news/2026/9/14/israel-probing-naza-film-on-gaza-for-inciting-antisemitism?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-09-14 21:12"
       },
       {
        "title": "Israeli minister threatens to strip Israeli film-makers of citizenship over Gaza documentary NAZA",
        "url": "https://www.theguardian.com/film/2026/sep/14/gaza-documentary-makers-naza-israel-citizenship-ntwnfb",
        "source": "Guardian World",
        "published_at": "2026-09-14 15:38"
-      },
-      {
-       "title": "Burnham must establish an inquiry into Britain’s role in the Gaza genocide",
-       "url": "https://www.aljazeera.com/opinions/2026/9/14/burnham-must-establish-an-inquiry-into-britains-role-in-the-gaza-genocide?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-09-14 14:58"
       }
      ]
     },
@@ -506,34 +540,10 @@
      "label": "More headlines",
      "articles": [
       {
-       "title": "Djibouti humanitarian situation worsens as Yemenis seek refuge",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/djibouti-humanitarian-situation-worsens-as-yemenis-seek-refuge?traffic_source=rss",
+       "title": "Austria denies entry to Iranian official after UN ruling",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/austria-denies-entry-to-iranian-official-after-un-ruling?traffic_source=rss",
        "source": "Al Jazeera",
-       "published_at": "2026-09-14 18:46"
-      },
-      {
-       "title": "JD Vance insists US is ‘on top of’ Houthi advance in Red Sea",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/jd-vance-insists-us-is-on-top-of-houthi-advance-in-red-sea?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-09-14 17:16"
-      },
-      {
-       "title": "How Israel systematically dismantles Palestinian life in occupied West Bank",
-       "url": "https://www.aljazeera.com/news/2026/9/14/how-israel-systematically-dismantles-palestinian-life-in-occupied-west-bank?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-09-14 16:53"
-      },
-      {
-       "title": "Why Middle East tensions are pushing oil prices above $100",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/why-middle-east-tensions-are-pushing-oil-prices-above-100?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-09-14 16:36"
-      },
-      {
-       "title": "Going to school under Israeli occupation",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/going-to-school-under-israeli-occupation?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-09-14 15:15"
+       "published_at": "2026-09-14 20:41"
       }
      ]
     }
@@ -547,10 +557,16 @@
    "note": null,
    "clusters": [
     {
-     "label": "Ukraine · Russia",
+     "label": "Russia · Ukraine",
      "articles": [
       {
-       "title": "NATO pledges increased Ukraine support as Russia strikes near border",
+       "title": "US slaps new penalties on Russia's VTB Bank over Iran sanctions evasion",
+       "url": "https://kyivindependent.com/us-slaps-new-penalties-on-russias-vtb-bank-over-iran-sanctions-evasion/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-09-14 22:24"
+      },
+      {
+       "title": "NATO pledges more Ukraine support after Russia strikes near Poland",
        "url": "https://www.aljazeera.com/news/2026/9/14/nato-pledges-increased-support-for-ukraine-after-russia-strikes-warsaw-bound-train?traffic_source=rss",
        "source": "Al Jazeera",
        "published_at": "2026-09-14 18:40"
@@ -568,50 +584,50 @@
        "published_at": "2026-09-14 18:05"
       },
       {
-       "title": "Russian strike on passenger train will not deter Ukraine’s backers, Nato chief says",
-       "url": "https://www.theguardian.com/world/2026/sep/14/ukraine-kallas-not-scared-russian-strike-train",
-       "source": "Guardian World",
-       "published_at": "2026-09-14 16:56"
-      },
-      {
-       "title": "Ukraine and Russia have agreed not to hit energy targets, Trump claims – as it happened",
-       "url": "https://www.theguardian.com/world/live/2026/sep/14/sweden-election-magdalena-andersson-social-democrats-centre-left-latest-news-updates",
-       "source": "Guardian World",
-       "published_at": "2026-09-14 16:55"
-      }
-     ]
-    },
-    {
-     "label": "Russia",
-     "articles": [
-      {
        "title": "Russia's cinemas may lose their backdoor access to Hollywood blockbusters",
        "url": "https://kyivindependent.com/kolobok-or-how-russians-still-prefer-american-films/",
        "source": "Kyiv Independent",
        "published_at": "2026-09-14 17:29"
-      },
-      {
-       "title": "BREAKING: Trump claims Ukraine, Russia agree to halt strikes on energy targets, Kyiv unaware of deal",
-       "url": "https://kyivindependent.com/breaking-trump-claims-ukraine-russia-agree-to-halt-strikes-on-energy-targets/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-09-14 15:47"
       }
      ]
     },
     {
-     "label": "Trump · Russian",
+     "label": "Ukraine",
      "articles": [
       {
-       "title": "Russian oligarch close to Putin reportedly paid for part of Donald Trump Jr’s lavish wedding",
-       "url": "https://www.theguardian.com/us-news/2026/sep/14/russian-oligarch-trump-jr-wedding",
+       "title": "Member of British armed forces killed in Ukraine crash, says MoD",
+       "url": "https://www.theguardian.com/uk-news/2026/sep/14/uk-armed-forces-member-killed-in-crash-ukraine",
        "source": "Guardian World",
-       "published_at": "2026-09-14 18:17"
+       "published_at": "2026-09-14 19:08"
       },
       {
-       "title": "Why is Trump warning Zelenskyy not to hit Russian diesel refineries?",
-       "url": "https://www.aljazeera.com/economy/2026/9/14/why-is-trump-warning-zelenskyy-not-to-hit-russian-diesel-refineries?traffic_source=rss",
+       "title": "Russian strike on passenger train will not deter Ukraine’s backers, Nato chief says",
+       "url": "https://www.theguardian.com/world/2026/sep/14/ukraine-kallas-not-scared-russian-strike-train",
+       "source": "Guardian World",
+       "published_at": "2026-09-14 16:56"
+      }
+     ]
+    },
+    {
+     "label": "Russian · Trump",
+     "articles": [
+      {
+       "title": "Russian oligarch close to Putin paid for part of Donald Trump Jr’s lavish wedding",
+       "url": "https://www.theguardian.com/us-news/2026/sep/14/russian-oligarch-trump-jr-wedding",
+       "source": "Guardian World",
+       "published_at": "2026-09-14 22:28"
+      },
+      {
+       "title": "Donald Trump Jr. admits Russian oligarch with Putin ties partially funded wedding celebration",
+       "url": "https://kyivindependent.com/donald-trump-jr-admits-russian-oligarch-with-putin-ties-partially-funded-wedding-celebration/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-09-14 21:23"
+      },
+      {
+       "title": "Finland shelters under French nuclear umbrella amid Russian, US uncertainty",
+       "url": "https://www.aljazeera.com/news/2026/9/14/finland-shelters-under-french-nuclear-umbrella-amid-russian-us-uncertainty?traffic_source=rss",
        "source": "Al Jazeera",
-       "published_at": "2026-09-14 14:04"
+       "published_at": "2026-09-14 20:20"
       }
      ]
     },
@@ -619,22 +635,16 @@
      "label": "More headlines",
      "articles": [
       {
-       "title": "Ukraine to receive $841 million from World Bank amid budget deficit",
-       "url": "https://kyivindependent.com/ukraine-to-receive-841-million-from-world-bank-amid-budget-deficit/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-09-14 16:28"
-      },
-      {
-       "title": "UK armed forces member killed in crash in Ukraine",
-       "url": "https://www.theguardian.com/uk-news/2026/sep/14/uk-armed-forces-member-killed-in-crash-ukraine",
+       "title": "Republican senator Mitch McConnell returns to Capitol Hill after months-long hiatus while recovering from fall – live",
+       "url": "https://www.theguardian.com/us-news/live/2026/sep/14/donald-trump-mail-in-voting-supreme-court-blocked-ukraine-oil-diplomat-latest-news-updates",
        "source": "Guardian World",
-       "published_at": "2026-09-14 16:08"
+       "published_at": "2026-09-14 22:20"
       },
       {
-       "title": "Drone strikes near Polish border show Putin's 'desperation,' NATO's Rutte says",
-       "url": "https://kyivindependent.com/drone-strikes-near-polish-border-show-putins-desperation-natos-rutte-says/",
+       "title": "Kyiv warns state budget nearing 'critical point,' urges lawmakers to pass key finance bills",
+       "url": "https://kyivindependent.com/kyiv-warns-state-budget-nearing-critical-point-urges-lawmakers-to-pass-key-finance-bills/",
        "source": "Kyiv Independent",
-       "published_at": "2026-09-14 15:04"
+       "published_at": "2026-09-14 19:39"
       }
      ]
     }
