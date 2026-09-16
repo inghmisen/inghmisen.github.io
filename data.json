@@ -1,12 +1,12 @@
 {
  "date": "Wednesday 16 September 2026",
- "generated_at": "04:13 UTC",
+ "generated_at": "09:26 UTC",
  "error": null,
- "total_stories": 77,
+ "total_stories": 78,
  "fx": {
   "pair": "EUR/MAD",
   "rate": 10.939,
-  "change_pct": 0.16
+  "change_pct": 0.0
  },
  "lanes": [
   {
@@ -16,8 +16,14 @@
    "note": null,
    "clusters": [
     {
-     "label": "You · Local",
+     "label": "Model · Local",
      "articles": [
+      {
+       "title": "What's the best open weight model for Blender? That's comparable to Astra",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whpe2r/whats_the_best_open_weight_model_for_blender/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-16 06:38"
+      },
       {
        "title": "Connected a local model (Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive-Q4_K_M) to GIMP via MCP tools using llama.cpp - and here's the image result from my first prompt \"can you draw a picture of a flower in gimp?\". Needs work. Setup follows.",
        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whjqv6/connected_a_local_model/",
@@ -29,29 +35,23 @@
        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whiz3y/whats_the_next_local_model_you_are_excited_about/",
        "source": "r/LocalLLaMA",
        "published_at": "2026-09-16 01:18"
-      },
-      {
-       "title": "Where are you running DeepSeek V4.1 Flash reliably? I can't get it to finish a single 2-hour benchmark run",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whedle/where_are_you_running_deepseek_v41_flash_reliably/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-09-15 22:03"
       }
      ]
     },
     {
-     "label": "Flash",
+     "label": "Qwen",
      "articles": [
       {
-       "title": "For Web game development, I swear Flash Next on Q2 is better than Gemini Flash 3.8",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whbhty/for_web_game_development_i_swear_flash_next_on_q2/",
+       "title": "Qwen3.8 27b Game Dev Part 2",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whk35i/qwen38_27b_game_dev_part_2/",
        "source": "r/LocalLLaMA",
-       "published_at": "2026-09-15 20:13"
+       "published_at": "2026-09-16 02:08"
       },
       {
-       "title": "deepseek-ai/DeepSeek-V4.1-Flash · 2724 ♥",
-       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
+       "title": "ukisai/Swift-Qwen3.8-27b · 285 ♥",
+       "url": "https://huggingface.co/ukisai/Swift-Qwen3.8-27b",
        "source": "HF new models",
-       "published_at": "2026-09-10 02:17"
+       "published_at": "2026-09-08 13:35"
       }
      ]
     },
@@ -65,7 +65,7 @@
        "published_at": "2026-09-16 01:37"
       },
       {
-       "title": "nex-agi/Nex-N2.5-Pro · 652 ♥",
+       "title": "nex-agi/Nex-N2.5-Pro · 655 ♥",
        "url": "https://huggingface.co/nex-agi/Nex-N2.5-Pro",
        "source": "HF new models",
        "published_at": "2026-09-08 11:01"
@@ -76,10 +76,22 @@
      "label": "More headlines",
      "articles": [
       {
-       "title": "Qwen3.8 27b Game Dev Part 2",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whk35i/qwen38_27b_game_dev_part_2/",
+       "title": "Hey, Meta. Where's those Muse Spark weights?",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whqm2c/hey_meta_wheres_those_muse_spark_weights/",
        "source": "r/LocalLLaMA",
-       "published_at": "2026-09-16 02:08"
+       "published_at": "2026-09-16 07:46"
+      },
+      {
+       "title": "Is an X399 rig still viable?",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whob9e/is_an_x399_rig_still_viable/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-16 05:39"
+      },
+      {
+       "title": "mlabonne/LFM2.5-230M-Chess · Hugging Face",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whngur/mlabonnelfm25230mchess_hugging_face/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-16 04:53"
       },
       {
        "title": "Open Source Appreciation Post",
@@ -106,40 +118,28 @@
        "published_at": "2026-09-15 22:36"
       },
       {
-       "title": "Voice Acting Arena",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whdgee/voice_acting_arena/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-09-15 21:26"
+       "title": "deepseek-ai/DeepSeek-V4.1-Flash · 2759 ♥",
+       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
+       "source": "HF new models",
+       "published_at": "2026-09-10 02:17"
       },
       {
-       "title": "I benchmarked IFM/K2-Horizon-7B on 16GB VRAM",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wha6sv/i_benchmarked_ifmk2horizon7b_on_16gb_vram/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-09-15 19:25"
-      },
-      {
-       "title": "m-a-p/YuE2-3B · 577 ♥",
+       "title": "m-a-p/YuE2-3B · 591 ♥",
        "url": "https://huggingface.co/m-a-p/YuE2-3B",
        "source": "HF new models",
        "published_at": "2026-09-09 18:30"
       },
       {
-       "title": "Edge0/Edge0-35B-A3B-preview · 2867 ♥",
+       "title": "Edge0/Edge0-35B-A3B-preview · 2975 ♥",
        "url": "https://huggingface.co/Edge0/Edge0-35B-A3B-preview",
        "source": "HF new models",
        "published_at": "2026-09-08 13:56"
       },
       {
-       "title": "nex-agi/Nex-N2.5-mini · 811 ♥",
+       "title": "nex-agi/Nex-N2.5-mini · 815 ♥",
        "url": "https://huggingface.co/nex-agi/Nex-N2.5-mini",
        "source": "HF new models",
        "published_at": "2026-09-08 05:08"
-      },
-      {
-       "title": "openbmb/MiniCPM5-2B · 1469 ♥",
-       "url": "https://huggingface.co/openbmb/MiniCPM5-2B",
-       "source": "HF new models",
-       "published_at": "2026-09-06 11:12"
       }
      ]
     }
@@ -208,6 +208,12 @@
        "published_at": "2026-09-14 08:13"
       },
       {
+       "title": "VU-decaan Gregor Halff wordt nieuwe collegevoorzitter UT",
+       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNelJaUlduTjhxNE8xZDY1TnJ6SjBORmx0RnZzd2l1SWktVUduX0RKZ2NDbG9VYVQ3MXRWTzF5T1N2SDhqRjRsY3A2bXNNY3BrZFA4cVRfTFFGeWl2eGNxTzV1ZmFaV0JnakFRY2JGTXc1OTNKNEp0RnZZZ3RlMHJydnphUHhzR005UndWbmc5Y1l4bkU?oc=5",
+       "source": "UToday",
+       "published_at": "2026-07-02 07:00"
+      },
+      {
        "title": "Elfbierentocht vs alcoholconvenant: ‘Cola mag ook’",
        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRjNkNzM5VjZVV3ZEaC05UzRpVG9kLUZFQkc3Nzk3UDlqWXlPaFNzZFVieXBpbWlyTDRQcEFvNVVlRmJtX3BTTXNUZlctWGlQSzA1NXVER2NYcWJDaU1valZ1T3AxR0NsOWtHZmxpcHZvX1VJd0l5cFRqNGlSdG9mZDhEU2VyOG13bHAxZg?oc=5",
        "source": "UToday",
@@ -218,12 +224,6 @@
        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTDE4dmZWeVI3YnllV0ZabC11VVE5ZnFnUjRhd291LUxfV1FQZ09Sb0hkdFlOZ0RkM0Z5SXVIN2NxTUx5VmdFZzR0UTRhelN3clY4TXlUQ0JEa2M2bnU4RU43TUpwc2N3T29VcEJHSldXbWVsRmhQbmlyNVBnZFh3VnNncmdoYjUzMzB6V2M2RWM?oc=5",
        "source": "UToday",
        "published_at": "2026-06-01 07:00"
-      },
-      {
-       "title": "Inter-Actief throws computers to mark anniversary",
-       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQT29BdUtWMzZVZGRpYTF4N1lCalhLcUE2YnJnY1JHb0xVQ0EyTVpmYm9aR1FBaHN4QVFMcTBjRUJlcl81SmxWVFlGRndfbkdISVp4RXlSenl6Y29UdWduNE1fUE5Xa19Ca2owNFlsUllfbWhkbkVCZkVKaGExM24yOW16NFZsbmtjMUk0cjFUbkhNV2M?oc=5",
-       "source": "UToday",
-       "published_at": "2026-05-23 07:00"
       }
      ]
     }
@@ -237,42 +237,19 @@
    "note": null,
    "clusters": [
     {
-     "label": "Maroc",
+     "label": "بالمغرب",
      "articles": [
       {
-       "title": "Sebta : au Parlement européen, le PPE menace implicitement l’accord UE-Maroc",
-       "url": "https://telquel.ma/instant-t/2026/09/15/sebta-au-parlement-europeen-le-ppe-menace-implicitement-laccord-ue-maroc_2007586/",
-       "source": "TelQuel",
-       "published_at": "2026-09-15 17:15"
-      },
-      {
-       "title": "Médicaments innovants : le Maroc au bout de la chaîne",
-       "url": "https://telquel.ma/2026/09/15/medicaments-innovants-le-maroc-au-bout-de-la-chaine_2007651",
-       "source": "TelQuel",
-       "published_at": "2026-09-15 17:00"
-      },
-      {
-       "title": "Pour Hervé Renard, le Maroc est la sélection africaine la plus en vue au plan mondial",
-       "url": "https://telquel.ma/2026/09/15/pour-herve-renard-le-maroc-est-la-selection-africaine-la-plus-en-vue-au-plan-mondial_2007593",
-       "source": "TelQuel",
-       "published_at": "2026-09-15 16:15"
-      }
-     ]
-    },
-    {
-     "label": "المغرب",
-     "articles": [
-      {
-       "title": "استمرار خصاص المقررات الدراسية يؤرق الكتبيين والأسر في المغرب",
-       "url": "https://www.hespress.com/%d8%a7%d8%b3%d8%aa%d9%85%d8%b1%d8%a7%d8%b1-%d8%ae%d8%b5%d8%a7%d8%b5-%d8%a7%d9%84%d9%85%d9%82%d8%b1%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a%d8%a9-%d9%8a%d8%a4%d8%b1%d9%82-%d8%a7-1808078.html",
+       "title": "السودانيون في الصدارة .. أكثر من 23 ألف لاجئ وطالب لجوء بالمغرب",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%b3%d9%88%d8%af%d8%a7%d9%86%d9%8a%d9%88%d9%86-%d9%81%d9%8a-%d8%a7%d9%84%d8%b5%d8%af%d8%a7%d8%b1%d8%a9-%d8%a3%d9%83%d8%ab%d8%b1-%d9%85%d9%86-23-%d8%a3%d9%84%d9%81-%d9%84%d8%a7%d8%ac-1807860.html",
        "source": "Hespress",
-       "published_at": "2026-09-16 04:00"
+       "published_at": "2026-09-16 08:00"
       },
       {
-       "title": "متقاعدو المغرب يرفضون تحويل الملف المطلبي إلى ورقة انتخابية موسمية",
-       "url": "https://www.hespress.com/%d9%85%d8%aa%d9%82%d8%a7%d8%b9%d8%af%d9%88-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d9%8a%d8%b1%d9%81%d8%b6%d9%88%d9%86-%d8%aa%d8%ad%d9%88%d9%8a%d9%84-%d8%a7%d9%84%d9%85%d9%84%d9%81-%d8%a7%d9%84%d9%85-1807952.html",
+       "title": "توقعات طقس اليوم الأربعاء بالمغرب",
+       "url": "https://www.hespress.com/%d8%aa%d9%88%d9%82%d8%b9%d8%a7%d8%aa-%d8%b7%d9%82%d8%b3-%d8%a7%d9%84%d9%8a%d9%88%d9%85-%d8%a7%d9%84%d8%a3%d8%b1%d8%a8%d8%b9%d8%a7%d8%a1-%d8%a8%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-98-1807903.html",
        "source": "Hespress",
-       "published_at": "2026-09-16 02:00"
+       "published_at": "2026-09-16 06:10"
       }
      ]
     },
@@ -280,82 +257,100 @@
      "label": "More headlines",
      "articles": [
       {
-       "title": "مطرح أيت أورير يترقب لجنة مختلطة",
-       "url": "https://www.hespress.com/%d9%85%d8%b7%d8%b1%d8%ad-%d8%a3%d9%8a%d8%aa-%d8%a3%d9%88%d8%b1%d9%8a%d8%b1-%d9%8a%d8%aa%d8%b1%d9%82%d8%a8-%d9%84%d8%ac%d9%86%d8%a9-%d9%85%d8%ae%d8%aa%d9%84%d8%b7%d8%a9-1807873.html",
-       "source": "Hespress",
-       "published_at": "2026-09-16 03:18"
+       "title": "Clôture de l'opération “Marhaba 2026”",
+       "url": "https://telquel.ma/instant-t/2026/09/16/cloture-de-loperation-marhaba-2026_2007699/",
+       "source": "TelQuel",
+       "published_at": "2026-09-16 09:21"
       },
       {
-       "title": "بحث يرصد لجوء 59% من أسر بمستعجلات الأطفال بالرباط إلى \"الفراگة\"",
-       "url": "https://www.hespress.com/%d8%a8%d8%ad%d8%ab-%d9%8a%d8%b1%d8%b5%d8%af-%d9%84%d8%ac%d9%88%d8%a1-59-%d9%85%d9%86-%d8%a3%d8%b3%d8%b1-%d8%a8%d9%85%d8%b3%d8%aa%d8%b9%d8%ac%d9%84%d8%a7%d8%aa-%d8%a7%d9%84%d8%a3%d8%b7%d9%81%d8%a7-1808072.html",
+       "title": "شكاوى حزبية تجمد أوراش فك العزلة",
+       "url": "https://www.hespress.com/%d8%b4%d9%83%d8%a7%d9%88%d9%89-%d8%ad%d8%b2%d8%a8%d9%8a%d8%a9-%d8%aa%d8%ac%d9%85%d8%af-%d8%a3%d9%88%d8%b1%d8%a7%d8%b4-%d9%81%d9%83-%d8%a7%d9%84%d8%b9%d8%b2%d9%84%d8%a9-%d9%81%d9%8a-%d8%af%d9%88%d8%a7-1806766.html",
        "source": "Hespress",
-       "published_at": "2026-09-16 03:00"
+       "published_at": "2026-09-16 09:19"
       },
       {
-       "title": "الباحث سعيد بوخليط \"ربّما مر من هنا\"",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%a8%d8%a7%d8%ad%d8%ab-%d8%b3%d8%b9%d9%8a%d8%af-%d8%a8%d9%88%d8%ae%d9%84%d9%8a%d8%b7-%d8%b1%d8%a8%d9%91%d9%85%d8%a7-%d9%85%d8%b1-%d9%85%d9%86-%d9%87%d9%86%d8%a7-1807914.html",
-       "source": "Hespress",
-       "published_at": "2026-09-16 02:16"
+       "title": "Saad Lamjarred jugé jeudi en appel pour viol en France",
+       "url": "https://telquel.ma/instant-t/2026/09/16/saad-lamjarred-juge-jeudi-en-appel-pour-viol-en-france_2007703/",
+       "source": "TelQuel",
+       "published_at": "2026-09-16 09:04"
       },
       {
-       "title": "فيلبان يقترح \"ثورة ثقافية\" في فرنسا",
-       "url": "https://www.hespress.com/%d9%81%d9%8a%d9%84%d8%a8%d8%a7%d9%86-%d9%8a%d9%82%d8%aa%d8%b1%d8%ad-%d8%ab%d9%88%d8%b1%d8%a9-%d8%ab%d9%82%d8%a7%d9%81%d9%8a%d8%a9-%d9%81%d9%8a-%d9%81%d8%b1%d9%86%d8%b3%d8%a7-1807896.html",
+       "title": "انتخابات 2026 .. منيب تدعو الناخبين إلى \"التصويت على الكفاءة والنزاهة\"",
+       "url": "https://www.hespress.com/%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-2026-%d9%85%d9%86%d9%8a%d8%a8-%d8%aa%d8%af%d8%b9%d9%88-%d8%a7%d9%84%d9%86%d8%a7%d8%ae%d8%a8%d9%8a%d9%86-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d8%aa-1808148.html",
        "source": "Hespress",
-       "published_at": "2026-09-16 01:30"
+       "published_at": "2026-09-16 09:00"
       },
       {
-       "title": "معطيات نصف قرن تعيد رسم سردية الجفاف في حوض أحمد الحنصالي",
-       "url": "https://www.hespress.com/%d9%85%d8%b9%d8%b7%d9%8a%d8%a7%d8%aa-%d9%86%d8%b5%d9%81-%d9%82%d8%b1%d9%86-%d8%aa%d8%b9%d9%8a%d8%af-%d8%b1%d8%b3%d9%85-%d8%b3%d8%b1%d8%af%d9%8a%d8%a9-%d8%a7%d9%84%d8%ac%d9%81%d8%a7%d9%81-%d9%81%d9%8a-1807947.html",
-       "source": "Hespress",
-       "published_at": "2026-09-16 01:00"
+       "title": "Loukkos : le taux de remplissage des barrages dépasse 78%",
+       "url": "https://telquel.ma/instant-t/2026/09/16/loukkos-le-taux-de-remplissage-des-barrages-depasse-78_2007706/",
+       "source": "TelQuel",
+       "published_at": "2026-09-16 08:52"
       },
       {
-       "title": "العيناوي: ألعب حيث يحتاجني الفريق",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%b9%d9%8a%d9%86%d8%a7%d9%88%d9%8a-%d8%a3%d9%84%d8%b9%d8%a8-%d8%ad%d9%8a%d8%ab-%d9%8a%d8%ad%d8%aa%d8%a7%d8%ac%d9%86%d9%8a-%d8%a7%d9%84%d9%81%d8%b1%d9%8a%d9%82-1807837.html",
-       "source": "Hespress",
-       "published_at": "2026-09-16 00:17"
+       "title": "CMT : l'AMMC déclare recevable le projet d'OPA obligatoire",
+       "url": "https://telquel.ma/instant-t/2026/09/16/cmt-lammc-declare-recevable-le-projet-dopa-obligatoire_2007701/",
+       "source": "TelQuel",
+       "published_at": "2026-09-16 08:47"
       },
       {
-       "title": "أمريكا تكشف أنظمة مسلحة في الفضاء .. وحرب النجوم تلوح في الأفق",
-       "url": "https://www.hespress.com/%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d8%a7-%d8%aa%d9%83%d8%b4%d9%81-%d8%a3%d9%86%d8%b8%d9%85%d8%a9-%d9%85%d8%b3%d9%84%d8%ad%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d9%81%d8%b6%d8%a7%d8%a1-%d9%88%d8%ad%d8%b1-1807863.html",
+       "title": "حقوقيون ينادون بضمان نزاهة الاقتراع",
+       "url": "https://www.hespress.com/%d8%ad%d9%82%d9%88%d9%82%d9%8a%d9%88%d9%86-%d9%8a%d9%86%d8%a7%d8%af%d9%88%d9%86-%d8%a8%d8%b6%d9%85%d8%a7%d9%86-%d9%86%d8%b2%d8%a7%d9%87%d8%a9-%d8%a7%d9%84%d8%a7%d9%82%d8%aa%d8%b1%d8%a7%d8%b9-1807652.html",
        "source": "Hespress",
-       "published_at": "2026-09-16 00:00"
+       "published_at": "2026-09-16 08:39"
       },
       {
-       "title": "منيب ترفض \"المس بالسمعة\" وتتمسك باستعادة سبتة ومليلية بالمفاوضات",
-       "url": "https://www.hespress.com/%d9%85%d9%86%d9%8a%d8%a8-%d8%aa%d8%b1%d9%81%d8%b6-%d8%a7%d9%84%d9%85%d8%b3-%d8%a8%d8%a7%d9%84%d8%b3%d9%85%d8%b9%d8%a9-%d9%88%d8%aa%d8%aa%d9%85%d8%b3%d9%83-%d8%a8%d8%a7%d8%b3%d8%aa%d8%b9%d8%a7-1808136.html",
+       "title": "كوريا تساند تطور الذكاء الاصطناعي دون توقف",
+       "url": "https://www.hespress.com/%d9%83%d9%88%d8%b1%d9%8a%d8%a7-%d8%aa%d8%b3%d8%a7%d9%86%d8%af-%d8%aa%d8%b7%d9%88%d8%b1-%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1-%d8%a7%d9%84%d8%a7%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a-%d8%af%d9%88%d9%86-1808163.html",
        "source": "Hespress",
-       "published_at": "2026-09-15 23:20"
+       "published_at": "2026-09-16 08:37"
       },
       {
-       "title": "العيدودي يحذر من سماسرة الانتخابات",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%b9%d9%8a%d8%af%d9%88%d8%af%d9%8a-%d9%8a%d8%ad%d8%b0%d8%b1-%d9%85%d9%86-%d8%b3%d9%85%d8%a7%d8%b3%d8%b1%d8%a9-%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-1808098.html",
-       "source": "Hespress",
-       "published_at": "2026-09-15 23:06"
+       "title": "Sahara : Le Ghana réaffirme son soutien au plan d'autonomie marocain",
+       "url": "https://telquel.ma/instant-t/2026/09/16/sahara-le-ghana-reaffirme-son-soutien-au-plan-dautonomie-marocain_2007693/",
+       "source": "TelQuel",
+       "published_at": "2026-09-16 08:30"
       },
       {
-       "title": "\"السنبلة\" يعد بدعم الفلاحين الصغار",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%b3%d9%86%d8%a8%d9%84%d8%a9-%d9%8a%d8%b9%d8%af-%d8%a8%d8%af%d8%b9%d9%85-%d8%a7%d9%84%d9%81%d9%84%d8%a7%d8%ad%d9%8a%d9%86-%d8%a7%d9%84%d8%b5%d8%ba%d8%a7%d8%b1-1808128.html",
+       "title": "\"النخلة\" تتواصل في بنمنصور",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%86%d8%ae%d9%84%d8%a9-%d8%aa%d8%aa%d9%88%d8%a7%d8%b5%d9%84-%d9%81%d9%8a-%d8%a8%d9%86%d9%85%d9%86%d8%b5%d9%88%d8%b1-1808159.html",
        "source": "Hespress",
-       "published_at": "2026-09-15 23:00"
+       "published_at": "2026-09-16 08:30"
+      },
+      {
+       "title": "رودريغيز يعلن اعتزال اللعب الدولي",
+       "url": "https://www.hespress.com/%d8%b1%d9%88%d8%af%d8%b1%d9%8a%d8%ba%d9%8a%d8%b2-%d9%8a%d8%b9%d9%84%d9%86-%d8%a7%d8%b9%d8%aa%d8%b2%d8%a7%d9%84-%d8%a7%d9%84%d9%84%d8%b9%d8%a8-%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a-1808147.html",
+       "source": "Hespress",
+       "published_at": "2026-09-16 08:10"
+      },
+      {
+       "title": "الحملة تكلف عمال النظافة أعباء إضافية",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%ad%d9%85%d9%84%d8%a9-%d8%aa%d9%83%d9%84%d9%81-%d8%b9%d9%85%d8%a7%d9%84-%d8%a7%d9%84%d9%86%d8%b8%d8%a7%d9%81%d8%a9-%d8%a3%d8%b9%d8%a8%d8%a7%d8%a1-%d8%a5%d8%b6%d8%a7%d9%81%d9%8a%d8%a9-1807924.html",
+       "source": "Hespress",
+       "published_at": "2026-09-16 07:48"
+      },
+      {
+       "title": "وهبي ما بعد المونديال",
+       "url": "https://www.hespress.com/%d9%88%d9%87%d8%a8%d9%8a-%d9%85%d8%a7-%d8%a8%d8%b9%d8%af-%d8%a7%d9%84%d9%85%d9%88%d9%86%d8%af%d9%8a%d8%a7%d9%84-1807668.html",
+       "source": "Hespress",
+       "published_at": "2026-09-16 07:36"
+      },
+      {
+       "title": "مختبر وطني يواكب السياسات الصحية",
+       "url": "https://www.hespress.com/%d9%85%d8%ae%d8%aa%d8%a8%d8%b1-%d9%88%d8%b7%d9%86%d9%8a-%d9%8a%d9%88%d8%a7%d9%83%d8%a8-%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3%d8%a7%d8%aa-%d8%a7%d9%84%d8%b5%d8%ad%d9%8a%d8%a9-1807817.html",
+       "source": "Hespress",
+       "published_at": "2026-09-16 07:16"
+      },
+      {
+       "title": "تراجع أسهم شركات البناء يختبر \"أرباح 2030\" في بورصة البيضاء",
+       "url": "https://www.hespress.com/%d8%aa%d8%b1%d8%a7%d8%ac%d8%b9-%d8%a3%d8%b3%d9%87%d9%85-%d8%b4%d8%b1%d9%83%d8%a7%d8%aa-%d8%a7%d9%84%d8%a8%d9%86%d8%a7%d8%a1-%d9%8a%d8%ae%d8%aa%d8%a8%d8%b1-%d8%a3%d8%b1%d8%a8%d8%a7%d8%ad-2030-1807917.html",
+       "source": "Hespress",
+       "published_at": "2026-09-16 07:00"
       },
       {
        "title": "Le réseau ferroviaire néerlandais paralysé par un sabotage",
        "url": "https://telquel.ma/instant-t/2026/09/15/le-reseau-ferroviaire-neerlandais-paralyse-par-un-sabotage_2007658/",
        "source": "TelQuel",
        "published_at": "2026-09-15 17:30"
-      },
-      {
-       "title": "La princesse Lalla Asmaa préside un déjeuner offert par le roi en l'honneur de la Première Dame du Kenya Rachel Ruto",
-       "url": "https://telquel.ma/2026/09/15/la-princesse-lalla-asmaa-preside-un-dejeuner-offert-par-le-roi-en-lhonneur-de-la-premiere-dame-du-kenya-rachel-ruto_2007654",
-       "source": "TelQuel",
-       "published_at": "2026-09-15 17:06"
-      },
-      {
-       "title": "Sur la route du gazoduc Afrique Atlantique, le champ gazier sénégalais ouvre ses vannes",
-       "url": "https://telquel.ma/2026/09/15/sur-la-route-de-gazoduc-afrique-atlantique-le-champ-gazier-senegalais-ouvre-ses-vannes_2007592",
-       "source": "TelQuel",
-       "published_at": "2026-09-15 16:30"
       }
      ]
     }
@@ -369,19 +364,36 @@
    "note": null,
    "clusters": [
     {
-     "label": "Prinsjesdag",
+     "label": "Lijkt",
      "articles": [
       {
-       "title": "Zure boodschap van Prinsjesdag: kabinet legt rekening bij werkend Nederland",
-       "url": "https://www.telegraaf.nl/opinie/zure-boodschap-van-prinsjesdag-kabinet-legt-rekening-bij-werkend-nederland/161463581.html",
+       "title": "Noodkreet wanhopige familie Rodney Leysner lijkt aan dovemansoren gericht: ministers blijven stil in vermissingszaak",
+       "url": "https://www.telegraaf.nl/binnenland/noodkreet-wanhopige-familie-rodney-leysner-lijkt-aan-dovemansoren-gericht-ministers-blijven-stil-in-vermissingszaak/161403482.html",
        "source": "de Telegraaf",
-       "published_at": "2026-09-16 04:00"
+       "published_at": "2026-09-16 09:15"
       },
       {
-       "title": "Oppositie slijpt de messen na Prinsjesdag: stevige aanval op eenheid coalitie verwacht",
-       "url": "https://www.telegraaf.nl/politiek/oppositie-slijpt-de-messen-na-prinsjesdag-stevige-aanval-op-eenheid-coalitie-verwacht/161491823.html",
+       "title": "Hoe AZ-wingback Elijah Dijkstra (20) zich in de basis knokte en droomt van kungfu na zijn carrière: ’Dat lijkt me serieus wat’",
+       "url": "https://www.telegraaf.nl/sport/voetbal/hoe-az-wingback-elijah-dijkstra-20-zich-in-de-basis-knokte-en-droomt-van-kungfu-na-zijn-carriere-dat-lijkt-me-serieus-wat/161441947.html",
        "source": "de Telegraaf",
-       "published_at": "2026-09-16 03:00"
+       "published_at": "2026-09-16 07:03"
+      }
+     ]
+    },
+    {
+     "label": "Kamer",
+     "articles": [
+      {
+       "title": "Hilariteit in Tweede Kamer na grap Jesse Klaver: ‘Tot zover mijn betoog’",
+       "url": "https://www.telegraaf.nl/video/hilariteit-in-tweede-kamer-na-grap-jesse-klaver-tot-zover-mijn-betoog/161516759.html",
+       "source": "de Telegraaf",
+       "published_at": "2026-09-16 08:47"
+      },
+      {
+       "title": "LIVE | Kamer aan zet bij algemene politieke beschouwingen: minderheidskabinet wacht stevig debat",
+       "url": "https://www.telegraaf.nl/politiek/live-kamer-aan-zet-bij-algemene-politieke-beschouwingen-minderheidskabinet-wacht-stevig-debat/161503502.html",
+       "source": "de Telegraaf",
+       "published_at": "2026-09-16 07:30"
       }
      ]
     },
@@ -389,39 +401,33 @@
      "label": "More headlines",
      "articles": [
       {
-       "title": "Geduld premier Jetten kent grenzen: 'Kunt niet eindeloos blijven praten'",
-       "url": "https://www.nu.nl/politiek/6409873/geduld-premier-jetten-kent-grenzen-kunt-niet-eindeloos-blijven-praten.html",
+       "title": "Geen nieuwe buizen op het spoor gezien vannacht, justitieminister David van Weel: ’We krijgen daders spoorwegsabotage wel te pakken’",
+       "url": "https://www.telegraaf.nl/binnenland/geen-nieuwe-buizen-op-het-spoor-gezien-vannacht-justitieminister-david-van-weel-we-krijgen-daders-spoorwegsabotage-wel-te-pakken/161514792.html",
+       "source": "de Telegraaf",
+       "published_at": "2026-09-16 08:13"
+      },
+      {
+       "title": "Peperduur asielschip blijft tegen afspraken in mogelijk toch in Amsterdam: ook als nieuw azc opent",
+       "url": "https://www.telegraaf.nl/binnenland/peperduur-asielschip-blijft-tegen-afspraken-in-mogelijk-toch-in-amsterdam-ook-als-nieuw-azc-opent/161511571.html",
+       "source": "de Telegraaf",
+       "published_at": "2026-09-16 08:02"
+      },
+      {
+       "title": "Wouter de Winther na troonrede: ’Als Pro dat doet, werkt kabinet niet meer mee’",
+       "url": "https://www.telegraaf.nl/video/wouter-de-winther-na-troonrede-als-pro-dat-doet-werkt-kabinet-niet-meer-mee/161492583.html",
+       "source": "de Telegraaf",
+       "published_at": "2026-09-16 07:08"
+      },
+      {
+       "title": "Schiphol-stakingen van de baan, vakbonden bereiken akkoord",
+       "url": "https://www.nu.nl/economie/6409895/schiphol-stakingen-van-de-baan-vakbonden-bereiken-akkoord.html",
        "source": "NU.nl",
-       "published_at": "2026-09-16 03:02"
-      },
-      {
-       "title": "Opgepakte boeren voor brand langs A2 vrij, minister Karremans doet aangifte",
-       "url": "https://www.nu.nl/binnenland/6409886/opgepakte-boeren-voor-brand-langs-a2-vrij-minister-karremans-doet-aangifte.html",
-       "source": "NU.nl",
-       "published_at": "2026-09-15 22:12"
-      },
-      {
-       "title": "Belinda Meuldijk hoopvol ondanks verbroken contact met zoon Robbert de Nijs: ’Ik ga mijn kleinkind zien’",
-       "url": "https://www.telegraaf.nl/entertainment/sterren/belinda-meuldijk-hoopvol-ondanks-verbroken-contact-met-zoon-robbert-de-nijs-ik-ga-mijn-kleinkind-zien/161491950.html",
-       "source": "de Telegraaf",
-       "published_at": "2026-09-15 18:30"
-      },
-      {
-       "title": "Asielbonus van 50 miljoen voor gemeenten en provincies die kabinet helpen met Spreidingswet",
-       "url": "https://www.telegraaf.nl/politiek/asielbonus-van-50-miljoen-voor-gemeenten-en-provincies-die-kabinet-helpen-met-spreidingswet/161494129.html",
-       "source": "de Telegraaf",
-       "published_at": "2026-09-15 17:08"
-      },
-      {
-       "title": "Zus Domien Verschuuren zwanger van overleden partner Thjeu: ’Mooiste erfenis die ik kon krijgen’",
-       "url": "https://www.telegraaf.nl/entertainment/sterren/zus-domien-verschuuren-zwanger-van-overleden-partner-thjeu-mooiste-erfenis-die-ik-kon-krijgen/161500422.html",
-       "source": "de Telegraaf",
-       "published_at": "2026-09-15 16:58"
+       "published_at": "2026-09-16 05:41"
       }
      ]
     }
    ],
-   "count": 7
+   "count": 8
   },
   {
    "key": "mideast",
@@ -430,31 +436,54 @@
    "note": null,
    "clusters": [
     {
-     "label": "Iran · War",
+     "label": "Gaza · Building",
      "articles": [
       {
-       "title": "Iran war increasing inflation, straining US munitions: congressional report",
-       "url": "https://www.aljazeera.com/news/2026/9/16/iran-war-increasing-inflation-straining-us-munitions-congressional-report?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-09-16 00:38"
-      },
-      {
-       "title": "Iran war live: Saudi coalition intercepts, destroys drone headed for Mecca",
-       "url": "https://www.aljazeera.com/news/liveblog/2026/9/16/iran-war-live-irans-top-diplomat-heads-to-china-as-war-drags-on?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-09-16 00:00"
-      },
-      {
-       "title": "US House votes for third time to end Iran war after $38bn cost is revealed",
-       "url": "https://www.theguardian.com/world/2026/sep/15/iran-war-cost-cbo-report",
-       "source": "Guardian World",
-       "published_at": "2026-09-15 21:47"
-      },
-      {
-       "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
-       "url": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
+       "title": "At least 12 killed after war-damaged Gaza building collapses",
+       "url": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
        "source": "BBC World",
-       "published_at": "2026-09-15 20:34"
+       "published_at": "2026-09-16 07:58"
+      },
+      {
+       "title": "At least 10 dead, dozens missing in Gaza building collapse",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/at-least-10-dead-dozens-missing-in-gaza-building-collapse?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-09-16 05:06"
+      },
+      {
+       "title": "Gaza building collapse kills 14, traps dozens under rubble",
+       "url": "https://www.aljazeera.com/news/2026/9/16/gaza-residential-building-collapses-six-families-reportedly-trapped?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-09-16 04:30"
+      },
+      {
+       "title": "Students in Gaza ‘devastated’ after plan for them to study in Belgium fails",
+       "url": "https://www.theguardian.com/world/2026/sep/16/gaza-students-devastated-belgium-university-scholarships",
+       "source": "Guardian World",
+       "published_at": "2026-09-16 04:00"
+      }
+     ]
+    },
+    {
+     "label": "Houthi · Saudi",
+     "articles": [
+      {
+       "title": "Saudi Arabia says it shot down Houthi drone south of Mecca",
+       "url": "https://www.bbc.co.uk/news/articles/cr89jqd1w45eo?at_medium=RSS&at_campaign=rss",
+       "source": "BBC World",
+       "published_at": "2026-09-16 08:36"
+      },
+      {
+       "title": "Saudi Arabia warns of ‘red line’ after Houthi drone intercepted close to holy city of Mecca",
+       "url": "https://www.theguardian.com/world/2026/sep/16/saudi-arabia-houthi-drone-shot-down-mecca-iran-middle-east",
+       "source": "Guardian World",
+       "published_at": "2026-09-16 02:56"
+      },
+      {
+       "title": "Saudi-led coalition intercepts Houthi drone headed for Mecca",
+       "url": "https://www.aljazeera.com/news/2026/9/16/saudi-led-coalition-intercepts-drone-headed-for-mecca?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-09-16 01:09"
       }
      ]
     },
@@ -482,42 +511,19 @@
      ]
     },
     {
-     "label": "Houthi · Drone",
-     "articles": [
-      {
-       "title": "Saudi Arabia warns of ‘red line’ after Houthi drone intercepted close to holy city of Mecca",
-       "url": "https://www.theguardian.com/world/2026/sep/16/saudi-arabia-houthi-drone-shot-down-mecca-iran-middle-east",
-       "source": "Guardian World",
-       "published_at": "2026-09-16 02:56"
-      },
-      {
-       "title": "Saudi-led coalition intercepts Houthi drone headed for Mecca",
-       "url": "https://www.aljazeera.com/news/2026/9/16/saudi-led-coalition-intercepts-drone-headed-for-mecca?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-09-16 01:09"
-      }
-     ]
-    },
-    {
      "label": "More headlines",
      "articles": [
       {
-       "title": "Students in Gaza ‘devastated’ after plan for them to study in Belgium fails",
-       "url": "https://www.theguardian.com/world/2026/sep/16/gaza-students-devastated-belgium-university-scholarships",
+       "title": "Iranian security forces coordinated killing, torture and sexual abuse of protesters, says Amnesty",
+       "url": "https://www.theguardian.com/global-development/2026/sep/16/iran-killing-torture-sexual-abuse-protesters-amnesty",
        "source": "Guardian World",
-       "published_at": "2026-09-16 04:00"
+       "published_at": "2026-09-16 09:00"
       },
       {
-       "title": "Israeli soldiers rappel from helicopter in occupied West Bank",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/israeli-soldiers-rappel-from-helicopter-in-occupied-west-bank?traffic_source=rss",
+       "title": "US House votes to end Iran war, 7 Republicans join in favour",
+       "url": "https://www.aljazeera.com/news/2026/9/16/us-house-votes-to-end-iran-war-7-republicans-join-in-favour?traffic_source=rss",
        "source": "Al Jazeera",
-       "published_at": "2026-09-16 00:42"
-      },
-      {
-       "title": "Panic on board Iranian plane as violent shaking rips cabin apart",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/15/aje-onl-nf_iranian-plane-violent-shaking-rips-cabin-apart-150926?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-09-15 23:47"
+       "published_at": "2026-09-16 05:36"
       }
      ]
     }
@@ -534,10 +540,74 @@
      "label": "Ukraine · Russian",
      "articles": [
       {
+       "title": "Ukraine's parliament can fill Zelensky's budget black hole, if it does the reforms, EU letter reminds",
+       "url": "https://kyivindependent.com/ukraines-parliament-can-fill-zelenskys-budget-black-hole-if-it-does-the-reforms-eu-letter-reminds/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-09-16 09:11"
+      },
+      {
+       "title": "Poland scrambles fighter jets, temporarily closes airports while Russian drones attack Ukraine",
+       "url": "https://kyivindependent.com/poland-scrambles-fighter-jets-temporarily-closes-airports-while-russian-drones-attack-ukraine/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-09-16 09:03"
+      },
+      {
+       "title": "Russian attacks across Ukraine kill at least 9, injure 36 as drone strike on bus kills 5",
+       "url": "https://kyivindependent.com/russian-attacks-across-ukraine-kill-at-least-9-injure-36-as-drone-strike-on-bus-kills-5/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-09-16 08:37"
+      },
+      {
+       "title": "EU unveils new NATO-like mechanism against Russian hybrid threat, offers little new for Ukraine",
+       "url": "https://kyivindependent.com/eu-unveils-new-nato-like-mechanism-against-russian-hybrid-threat-offers-little-new-for-ukraine/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-09-16 08:24"
+      },
+      {
+       "title": "General Staff: Russia has lost 1,511,530 troops in Ukraine since Feb. 24, 2022",
+       "url": "https://kyivindependent.com/general-staff-russia-has-lost-1-511-530-troops-in-ukraine-since-feb-24-2022/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-09-16 06:28"
+      }
+     ]
+    },
+    {
+     "label": "Russian · Charges",
+     "articles": [
+      {
+       "title": "US charges five people over alleged Russian plots",
+       "url": "https://www.aljazeera.com/news/2026/9/16/us-charges-five-people-over-alleged-russian-assassination-plots?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-09-16 06:57"
+      },
+      {
        "title": "US charges 5 suspects linked to alleged Russian assassination, sabotage network targeting Ukraine's allies",
        "url": "https://kyivindependent.com/us-charges-5-suspects-linked-to-alleged-russian-assassination-sabotage-network-targeting-ukraines-allies/",
        "source": "Kyiv Independent",
        "published_at": "2026-09-16 02:33"
+      },
+      {
+       "title": "Democrats begin investigation into relationship Donald Trump Jr. has with Russian oligarch",
+       "url": "https://kyivindependent.com/democrats-begin-investigation-into-relationship-donald-trump-jr-has-with-russian-oligarch/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-09-15 23:44"
+      }
+     ]
+    },
+    {
+     "label": "Russia · Ukraine",
+     "articles": [
+      {
+       "title": "Ukraine's drone strikes force 3 of Russia's largest diesel refineries to halt or slash output, Reuters reports",
+       "url": "https://kyivindependent.com/ukraines-drone-strikes-force-russias-6-largest-diesel-refineries-to-halt-or-slash-output-reuters-reports/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-09-16 04:18"
+      },
+      {
+       "title": "US House advances Russia sanctions bill, paving way for final vote",
+       "url": "https://kyivindependent.com/us-house-advances-russia-sanctions-bill-paving-way-for-final-vote/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-09-16 02:29"
       },
       {
        "title": "Russia plotting to kill Ukraine allies in US and Europe, FBI says",
@@ -546,79 +616,10 @@
        "published_at": "2026-09-16 01:28"
       },
       {
-       "title": "Ukraine war latest: New interceptors for Russian jet-powered drones 'successfully tested,' Zelensky says",
-       "url": "https://kyivindependent.com/ukraine-war-latest-ukraine-has-successfully-tested-new-interceptor-against-russian-jet-powered-drones-zelensky-says/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-09-15 17:51"
-      },
-      {
-       "title": "Ukraine largely absent from Republican midterm convention stage, but party members weigh in offstage",
-       "url": "https://kyivindependent.com/ukraine-largely-absent-from-republican-midterm-convention-stage-but-party-members-weigh-in-offstage/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-09-15 17:46"
-      },
-      {
-       "title": "Over 500 locomotives destroyed or damaged by Russian attacks, Ukraine says",
-       "url": "https://kyivindependent.com/over-500-train-locomotives-destroyed-or-damaged-by-russian-attacks-in-total-sybiha-says/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-09-15 17:38"
-      }
-     ]
-    },
-    {
-     "label": "Oligarch · Trump",
-     "articles": [
-      {
-       "title": "Democrats begin investigation into relationship Donald Trump Jr. has with Russian oligarch",
-       "url": "https://kyivindependent.com/democrats-begin-investigation-into-relationship-donald-trump-jr-has-with-russian-oligarch/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-09-15 23:44"
-      },
-      {
-       "title": "Top Democrat on House oversight panel investigating Trump Jr wedding party bankrolled by Russian oligarch",
-       "url": "https://www.theguardian.com/us-news/2026/sep/15/democrat-investigation-trump-jr-wedding-russian-oligarch",
-       "source": "Guardian World",
-       "published_at": "2026-09-15 17:05"
-      }
-     ]
-    },
-    {
-     "label": "Russia",
-     "articles": [
-      {
-       "title": "US House advances Russia sanctions bill, paving way for final vote",
-       "url": "https://kyivindependent.com/us-house-advances-russia-sanctions-bill-paving-way-for-final-vote/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-09-16 02:29"
-      },
-      {
        "title": "Russia attacked Moldova twice because Zelensky was there, he says",
        "url": "https://kyivindependent.com/russia-attacked-moldova-twice-because-zelensky-was-there-he-says/",
        "source": "Kyiv Independent",
        "published_at": "2026-09-15 20:58"
-      },
-      {
-       "title": "The winter that will reach Russia's rear",
-       "url": "https://kyivindependent.com/the-winter-that-will-reach-russias-rear/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-09-15 17:31"
-      }
-     ]
-    },
-    {
-     "label": "More headlines",
-     "articles": [
-      {
-       "title": "Analysis: Through the fog of war, Ukraine reveals 'Operation Vivaldi' counterattack near Lyman",
-       "url": "https://kyivindependent.com/analysis-through-the-fog-of-war-ukraine-goes-on-operation-vivaldi-counterattack-near-lyman/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-09-15 17:32"
-      },
-      {
-       "title": "Court relaxes restrictions on Zelensky's ex-chief of staff amid reports on his continued influence",
-       "url": "https://kyivindependent.com/court-lets-zelenskys-ex-chief-of-staff-not-to-wear-bracelet-after-relaxing-travel-restrictions/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-09-15 16:41"
       }
      ]
     }
