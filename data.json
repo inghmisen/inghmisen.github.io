@@ -1,12 +1,12 @@
 {
- "date": "Thursday 17 September 2026",
- "generated_at": "22:22 UTC",
+ "date": "Friday 18 September 2026",
+ "generated_at": "00:41 UTC",
  "error": null,
  "total_stories": 78,
  "fx": {
   "pair": "EUR/MAD",
-  "rate": 10.911,
-  "change_pct": 0.0
+  "rate": 10.902,
+  "change_pct": -0.08
  },
  "lanes": [
   {
@@ -16,13 +16,13 @@
    "note": null,
    "clusters": [
     {
-     "label": "Model",
+     "label": "Qwen · Swift",
      "articles": [
       {
-       "title": "Cactus Needle 3: A Sliceable 8-29MB Automation Foundation Model That Matches DeepSeek v4 Flash",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wj4qj4/cactus_needle_3_a_sliceable_829mb_automation/",
+       "title": "600tok/s single request on qwen3.6 35ba3b with Ninfer on an RTX Pro 6000. Anybody remember that Comcast ad \"stupid fast\"?",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wja9ml/600toks_single_request_on_qwen36_35ba3b_with/",
        "source": "r/LocalLLaMA",
-       "published_at": "2026-09-17 20:05"
+       "published_at": "2026-09-17 23:47"
       },
       {
        "title": "Thank you :) Swift Qwen 3.8 27B now has 100k+ downloads, is #1 finetune and #9 model on HuggingFace Trending",
@@ -31,41 +31,13 @@
        "published_at": "2026-09-17 19:30"
       },
       {
-       "title": "Are there any model architecture innovations/breakthroughs that we're looking forward to in the next wave of open model drops?",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wixgpr/are_there_any_model_architecture/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-09-17 15:39"
-      }
-     ]
-    },
-    {
-     "label": "Flash · Deepseek",
-     "articles": [
-      {
-       "title": "dealignai/DeepSeek-V4.1-Flash-UNCENSORED-FP8 · 265 ♥",
-       "url": "https://huggingface.co/dealignai/DeepSeek-V4.1-Flash-UNCENSORED-FP8",
-       "source": "HF new models",
-       "published_at": "2026-09-10 21:02"
-      },
-      {
-       "title": "deepseek-ai/DeepSeek-V4.1-Flash · 2995 ♥",
-       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
-       "source": "HF new models",
-       "published_at": "2026-09-10 02:17"
-      }
-     ]
-    },
-    {
-     "label": "Qwen",
-     "articles": [
-      {
-       "title": "harshatheg/Qwen-2.5-1B-RLCD · 256 ♥",
+       "title": "harshatheg/Qwen-2.5-1B-RLCD · 260 ♥",
        "url": "https://huggingface.co/harshatheg/Qwen-2.5-1B-RLCD",
        "source": "HF new models",
        "published_at": "2026-09-16 01:35"
       },
       {
-       "title": "ukisai/Swift-Qwen3.8-27b · 390 ♥",
+       "title": "ukisai/Swift-Qwen3.8-27b · 392 ♥",
        "url": "https://huggingface.co/ukisai/Swift-Qwen3.8-27b",
        "source": "HF new models",
        "published_at": "2026-09-08 13:35"
@@ -73,19 +45,42 @@
      ]
     },
     {
-     "label": "Face · Hugging",
+     "label": "Deepseek · Flash",
      "articles": [
+      {
+       "title": "Cactus Needle 3: A Sliceable 8-29MB Automation Foundation Model That Matches DeepSeek v4 Flash",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wj4qj4/cactus_needle_3_a_sliceable_829mb_automation/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-17 20:05"
+      },
+      {
+       "title": "dealignai/DeepSeek-V4.1-Flash-UNCENSORED-FP8 · 266 ♥",
+       "url": "https://huggingface.co/dealignai/DeepSeek-V4.1-Flash-UNCENSORED-FP8",
+       "source": "HF new models",
+       "published_at": "2026-09-10 21:02"
+      },
+      {
+       "title": "deepseek-ai/DeepSeek-V4.1-Flash · 3005 ♥",
+       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
+       "source": "HF new models",
+       "published_at": "2026-09-10 02:17"
+      }
+     ]
+    },
+    {
+     "label": "Ternary · Bonsai",
+     "articles": [
+      {
+       "title": "Ternary Bonsai 2 27B",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wj84nz/ternary_bonsai_2_27b/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-17 22:16"
+      },
       {
        "title": "Ternary Bonsai 2 (27B) just released on Hugging Face. At <6GB in size, it can even run locally in-browser on WebGPU.",
        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wj6c4l/ternary_bonsai_2_27b_just_released_on_hugging/",
        "source": "r/LocalLLaMA",
        "published_at": "2026-09-17 21:05"
-      },
-      {
-       "title": "IFM/K2-Horizon-7B-Uno · Hugging Face - 5200tps with no quality loss",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wj2hsm/ifmk2horizon7buno_hugging_face_5200tps_with_no/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-09-17 18:43"
       }
      ]
     },
@@ -93,7 +88,25 @@
      "label": "More headlines",
      "articles": [
       {
-       "title": "Bend – A language that blocks AI mistakes via proof and runs on GPUs",
+       "title": "Installing 6 GPUs in a standard case rather than using an open-frame chassis.",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wj9u19/installing_6_gpus_in_a_standard_case_rather_than/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-17 23:28"
+      },
+      {
+       "title": "September 2026 updated chart of strix halo mini pc size chartstrix.png",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wj6zxt/september_2026_updated_chart_of_strix_halo_mini/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-17 21:31"
+      },
+      {
+       "title": "Sex, AI, and the Apocalypse",
+       "url": "https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/",
+       "source": "Hacker News",
+       "published_at": "2026-09-17 21:15"
+      },
+      {
+       "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
        "url": "https://bend-lang.com/",
        "source": "Hacker News",
        "published_at": "2026-09-17 20:36"
@@ -117,31 +130,13 @@
        "published_at": "2026-09-17 18:58"
       },
       {
-       "title": "AMD Plans 10% Price Hike Across GPUs, Chipsets, and Possibly CPUs",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wj28vh/amd_plans_10_price_hike_across_gpus_chipsets_and/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-09-17 18:34"
-      },
-      {
-       "title": "shots fired at dario from glm",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wiy8ga/shots_fired_at_dario_from_glm/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-09-17 16:08"
-      },
-      {
-       "title": "WeVisDoc from tencent",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wix0pe/wevisdoc_from_tencent/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-09-17 15:23"
-      },
-      {
-       "title": "m-a-p/YuE2-3B · 716 ♥",
+       "title": "m-a-p/YuE2-3B · 720 ♥",
        "url": "https://huggingface.co/m-a-p/YuE2-3B",
        "source": "HF new models",
        "published_at": "2026-09-09 18:30"
       },
       {
-       "title": "Edge0/Edge0-35B-A3B-preview · 3299 ♥",
+       "title": "Edge0/Edge0-35B-A3B-preview · 3306 ♥",
        "url": "https://huggingface.co/Edge0/Edge0-35B-A3B-preview",
        "source": "HF new models",
        "published_at": "2026-09-08 13:56"
@@ -242,19 +237,53 @@
    "note": null,
    "clusters": [
     {
-     "label": "المغرب",
+     "label": "أخنوش",
      "articles": [
+      {
+       "title": "أخنوش وتنزيل الأوراش الاجتماعية",
+       "url": "https://www.hespress.com/%d8%a3%d8%ae%d9%86%d9%88%d8%b4-%d9%88%d8%aa%d9%86%d8%b2%d9%8a%d9%84-%d8%a7%d9%84%d8%a3%d9%88%d8%b1%d8%a7%d8%b4-%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a%d8%a9-1809209.html",
+       "source": "Hespress",
+       "published_at": "2026-09-17 23:42"
+      },
+      {
+       "title": "أخنوش بأولاد تايمة: لا تلتفتوا للمشوّشين.. وزيادات الأجور راعت التوازنات",
+       "url": "https://www.hespress.com/%d8%a3%d8%ae%d9%86%d9%88%d8%b4-%d8%a8%d8%a3%d9%88%d9%84%d8%a7%d8%af-%d8%aa%d8%a7%d9%8a%d9%85%d8%a9-%d9%84%d8%a7-%d8%aa%d9%84%d8%aa%d9%81%d8%aa%d9%88%d8%a7-%d9%84%d9%84%d9%85%d8%b4%d9%88%d9%91%d8%b4-1809185.html",
+       "source": "Hespress",
+       "published_at": "2026-09-17 23:00"
+      }
+     ]
+    },
+    {
+     "label": "المغربية",
+     "articles": [
+      {
+       "title": "بنعلي: لا إصلاح للمدرسة المغربية في خمس سنوات.. وندعم تحرير المرأة",
+       "url": "https://www.hespress.com/%d8%a8%d9%86%d8%b9%d9%84%d9%8a-%d9%84%d8%a7-%d8%a5%d8%b5%d9%84%d8%a7%d8%ad-%d9%84%d9%84%d9%85%d8%af%d8%b1%d8%b3%d8%a9-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8%d9%8a%d8%a9-%d9%81%d9%8a-%d8%ae%d9%85%d8%b3-1809166.html",
+       "source": "Hespress",
+       "published_at": "2026-09-17 22:35"
+      },
       {
        "title": "حقوقيون بجنيف يبرزون تجربة المغرب",
        "url": "https://www.hespress.com/%d8%ad%d9%82%d9%88%d9%82%d9%8a%d9%88%d9%86-%d8%a8%d8%ac%d9%86%d9%8a%d9%81-%d9%8a%d8%a8%d8%b1%d8%b2%d9%88%d9%86-%d8%aa%d8%ac%d8%b1%d8%a8%d8%a9-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-1808833.html",
        "source": "Hespress",
        "published_at": "2026-09-17 22:10"
+      }
+     ]
+    },
+    {
+     "label": "على",
+     "articles": [
+      {
+       "title": "بنعبد الله يحث ساكنة المحمدية على \"معاقبة أحزاب الأغلبية\" في الانتخابات",
+       "url": "https://www.hespress.com/%d8%a8%d9%86%d8%b9%d8%a8%d8%af-%d8%a7%d9%84%d9%84%d9%87-%d9%8a%d8%ad%d8%ab-%d8%b3%d8%a7%d9%83%d9%86%d8%a9-%d8%a7%d9%84%d9%85%d8%ad%d9%85%d8%af%d9%8a%d8%a9-%d8%b9%d9%84%d9%89-%d9%85%d8%b9%d8%a7%d9%82-1809164.html",
+       "source": "Hespress",
+       "published_at": "2026-09-17 22:20"
       },
       {
-       "title": "بوزوبع يغادر رئاسة المغرب الفاسي",
-       "url": "https://www.hespress.com/%d8%a8%d9%88%d8%b2%d9%88%d8%a8%d8%b9-%d9%8a%d8%ba%d8%a7%d8%af%d8%b1-%d8%b1%d8%a6%d8%a7%d8%b3%d8%a9-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d8%a7%d9%84%d9%81%d8%a7%d8%b3%d9%8a-1809095.html",
+       "title": "جمعية حقوقية تقاضي الشرطة الفرنسية على خلفية مقتل شاب مغربي",
+       "url": "https://www.hespress.com/%d9%88%d9%81%d8%a7%d8%a9-%d8%b4%d8%a7%d8%a8-%d9%85%d8%ba%d8%b1%d8%a8%d9%8a-%d8%a8%d8%b9%d8%af-%d8%af%d9%81%d8%b9-%d9%82%d9%88%d9%8a-%d9%85%d9%86-%d8%b4%d8%b1%d8%b7%d9%8a-%d9%81%d8%b1%d9%86%d8%b3-1808862.html",
        "source": "Hespress",
-       "published_at": "2026-09-17 20:46"
+       "published_at": "2026-09-17 22:00"
       }
      ]
     },
@@ -262,64 +291,40 @@
      "label": "More headlines",
      "articles": [
       {
-       "title": "جمعية حقوقية تقاضي الشرطة الفرنسية على خلفية مقتل شاب مغربي",
-       "url": "https://www.hespress.com/%d9%88%d9%81%d8%a7%d8%a9-%d8%b4%d8%a7%d8%a8-%d9%85%d8%ba%d8%b1%d8%a8%d9%8a-%d8%a8%d8%b9%d8%af-%d8%af%d9%81%d8%b9-%d9%82%d9%88%d9%8a-%d9%85%d9%86-%d8%b4%d8%b1%d8%b7%d9%8a-%d9%81%d8%b1%d9%86%d8%b3-1808862.html",
+       "title": "شابة إيرانية تنتظر الإعدام في أصفهان",
+       "url": "https://www.hespress.com/%d8%b4%d8%a7%d8%a8%d8%a9-%d8%a5%d9%8a%d8%b1%d8%a7%d9%86%d9%8a%d8%a9-%d8%aa%d9%86%d8%aa%d8%b8%d8%b1-%d8%a7%d9%84%d8%a5%d8%b9%d8%af%d8%a7%d9%85-%d9%81%d9%8a-%d8%a3%d8%b5%d9%81%d9%87%d8%a7%d9%86-1808939.html",
        "source": "Hespress",
-       "published_at": "2026-09-17 22:00"
+       "published_at": "2026-09-18 00:26"
+      },
+      {
+       "title": "مؤرخون بارزون يحيون ذكرى رحيل بوشنتوف صاحب \"العالم والسلطان\"",
+       "url": "https://www.hespress.com/%d9%85%d8%a4%d8%b1%d8%ae%d9%88%d9%86-%d8%a8%d8%a7%d8%b1%d8%b2%d9%88%d9%86-%d9%8a%d8%ad%d9%8a%d9%88%d9%86-%d8%b0%d9%83%d8%b1%d9%89-%d8%b1%d8%ad%d9%8a%d9%84-%d8%a8%d9%88%d8%b4%d9%86%d8%aa%d9%88%d9%81-1808979.html",
+       "source": "Hespress",
+       "published_at": "2026-09-18 00:00"
+      },
+      {
+       "title": "بركة يعد بردع المضاربات",
+       "url": "https://www.hespress.com/%d8%a8%d8%b1%d9%83%d8%a9-%d9%8a%d8%b9%d8%af-%d8%a8%d8%b1%d8%af%d8%b9-%d8%a7%d9%84%d9%85%d8%b6%d8%a7%d8%b1%d8%a8%d8%a7%d8%aa-1809190.html",
+       "source": "Hespress",
+       "published_at": "2026-09-17 23:06"
+      },
+      {
+       "title": "بنما تدرس إنشاء مركز عمليات لـOCP",
+       "url": "https://www.hespress.com/%d8%a8%d9%86%d9%85%d8%a7-%d8%aa%d8%af%d8%b1%d8%b3-%d8%a5%d9%86%d8%b4%d8%a7%d8%a1-%d9%85%d8%b1%d9%83%d8%b2-%d8%b9%d9%85%d9%84%d9%8a%d8%a7%d8%aa-%d9%84%d9%80ocp-1808775.html",
+       "source": "Hespress",
+       "published_at": "2026-09-17 23:06"
+      },
+      {
+       "title": "إيطاليا تفكك شبكة لاستغلال الأطفال",
+       "url": "https://www.hespress.com/%d8%a5%d9%8a%d8%b7%d8%a7%d9%84%d9%8a%d8%a7-%d8%aa%d9%81%d9%83%d9%83-%d8%b4%d8%a8%d9%83%d8%a9-%d9%84%d8%a7%d8%b3%d8%aa%d8%ba%d9%84%d8%a7%d9%84-%d8%a7%d9%84%d8%a3%d8%b7%d9%81%d8%a7%d9%84-1808983.html",
+       "source": "Hespress",
+       "published_at": "2026-09-17 22:23"
       },
       {
        "title": "شقيق ديانا يتهم تشارلز والقصر ينفي",
        "url": "https://www.hespress.com/%d8%b4%d9%82%d9%8a%d9%82-%d8%af%d9%8a%d8%a7%d9%86%d8%a7-%d9%8a%d8%aa%d9%87%d9%85-%d8%aa%d8%b4%d8%a7%d8%b1%d9%84%d8%b2-%d9%88%d8%a7%d9%84%d9%82%d8%b5%d8%b1-%d9%8a%d9%86%d9%81%d9%8a-1808996.html",
        "source": "Hespress",
        "published_at": "2026-09-17 21:38"
-      },
-      {
-       "title": "توقيف جزائري مطلوب دوليا بالمحمدية",
-       "url": "https://www.hespress.com/%d8%a3%d9%85%d9%86-%d8%a7%d9%84%d9%85%d8%ad%d9%85%d8%af%d9%8a%d8%a9-%d9%8a%d9%88%d9%82%d9%81-%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1%d9%8a%d8%a7-%d9%85%d8%b7%d9%84%d9%88%d8%a8%d8%a7-%d8%af%d9%88%d9%84%d9%8a-1809085.html",
-       "source": "Hespress",
-       "published_at": "2026-09-17 21:30"
-      },
-      {
-       "title": "\"الأحرار\" يستعرضون حصيلة التنمية ويُعبئون للانتخابات في تارودانت",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%a3%d8%ad%d8%b1%d8%a7%d8%b1-%d9%8a%d8%b3%d8%aa%d8%b9%d8%b1%d8%b6%d9%88%d9%86-%d8%ad%d8%b5%d9%8a%d9%84%d8%a9-%d8%a7%d9%84%d8%aa%d9%86%d9%85%d9%8a%d8%a9-%d9%88%d9%8a%d9%8f%d8%b9%d8%a8-1809102.html",
-       "source": "Hespress",
-       "published_at": "2026-09-17 21:16"
-      },
-      {
-       "title": "واشنطن تثمن تعاون الرباط وتل أبيب",
-       "url": "https://www.hespress.com/%d8%a8%d9%88%d9%83%d8%a7%d9%86-%d9%8a%d8%ab%d9%85%d9%86-%d8%aa%d8%b9%d8%a7%d9%88%d9%86-%d8%a7%d9%84%d8%b1%d8%a8%d8%a7%d8%b7-%d9%88%d8%aa%d9%84-%d8%a3%d8%a8%d9%8a%d8%a8-1809071.html",
-       "source": "Hespress",
-       "published_at": "2026-09-17 21:08"
-      },
-      {
-       "title": "رصيف الصحافة: انتخابات 23 شتنبر تضع الأحزاب أمام اختبار الشباب",
-       "url": "https://www.hespress.com/%d8%b1%d8%b5%d9%8a%d9%81-%d8%a7%d9%84%d8%b5%d8%ad%d8%a7%d9%81%d8%a9-%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-23-%d8%b4%d8%aa%d9%86%d8%a8%d8%b1-%d8%aa%d8%b6%d8%b9-%d8%a7%d9%84%d8%a3%d8%ad-1809112.html",
-       "source": "Hespress",
-       "published_at": "2026-09-17 21:00"
-      },
-      {
-       "title": "من ورقة الاقـتراع إلى الحكومة",
-       "url": "https://www.hespress.com/%d9%85%d9%86-%d9%88%d8%b1%d9%82%d8%a9-%d8%a7%d9%84%d8%a7%d9%82%d9%80%d8%aa%d8%b1%d8%a7%d8%b9-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d8%a9-1809074.html",
-       "source": "Hespress",
-       "published_at": "2026-09-17 21:00"
-      },
-      {
-       "title": "بركة يتعهد من طنجة بتحسين عيش المغاربة ومواجهة تضارب المصالح",
-       "url": "https://www.hespress.com/%d8%a8%d8%b1%d9%83%d8%a9-%d9%8a%d8%aa%d8%b9%d9%87%d8%af-%d9%85%d9%86-%d8%b7%d9%86%d8%ac%d8%a9-%d8%a8%d8%aa%d8%ad%d8%b3%d9%8a%d9%86-%d8%b9%d9%8a%d8%b4-%d8%a7%d9%84%d9%85%d8%ba%d8%a7%d8%b1%d8%a8%d8%a9-1809099.html",
-       "source": "Hespress",
-       "published_at": "2026-09-17 20:45"
-      },
-      {
-       "title": "تحليلات ملوثة تعيد \"نستله\" للمحاكمة",
-       "url": "https://www.hespress.com/%d8%aa%d8%ad%d9%84%d9%8a%d9%84%d8%a7%d8%aa-%d9%85%d9%84%d9%88%d8%ab%d8%a9-%d8%aa%d8%b9%d9%8a%d8%af-%d9%86%d8%b3%d8%aa%d9%84%d9%87-%d9%84%d9%84%d9%85%d8%ad%d8%a7%d9%83%d9%85%d8%a9-1809043.html",
-       "source": "Hespress",
-       "published_at": "2026-09-17 20:24"
-      },
-      {
-       "title": "ملعب هسبريس | اعترافات مثيرة لبابلو فرانكو",
-       "url": "https://www.hespress.com/%d9%85%d9%84%d8%b9%d8%a8-%d9%87%d8%b3%d8%a8%d8%b1%d9%8a%d8%b3-%d8%a7%d8%b9%d8%aa%d8%b1%d8%a7%d9%81%d8%a7%d8%aa-%d9%85%d8%ab%d9%8a%d8%b1%d8%a9-%d9%84%d8%a8%d8%a7%d8%a8%d9%84%d9%88-%d9%81%d8%b1%d8%a7-1809080.html",
-       "source": "Hespress",
-       "published_at": "2026-09-17 20:20"
       },
       {
        "title": "Faux accident, vrai message : ce que cachait le live interrompu de Hicham Masrar",
@@ -372,16 +377,16 @@
      "label": "Opheusden · Azc",
      "articles": [
       {
+       "title": "Meerdere aanhoudingen bij protest tegen azc in Opheusden",
+       "url": "https://www.telegraaf.nl/binnenland/meerdere-aanhoudingen-bij-protest-tegen-azc-in-opheusden/161624717.html",
+       "source": "de Telegraaf",
+       "published_at": "2026-09-17 21:50"
+      },
+      {
        "title": "ME grijpt in bij grimmige protesten in Opheusden tijdens debat over azc",
        "url": "https://www.nu.nl/binnenland/6410152/me-grijpt-in-bij-grimmige-protesten-in-opheusden-tijdens-debat-over-azc.html",
        "source": "NU.nl",
        "published_at": "2026-09-17 21:36"
-      },
-      {
-       "title": "ME ingezet bij demonstratie tegen azc in Opheusden",
-       "url": "https://www.telegraaf.nl/binnenland/me-ingezet-bij-demonstratie-tegen-azc-in-opheusden/161624717.html",
-       "source": "de Telegraaf",
-       "published_at": "2026-09-17 20:41"
       }
      ]
     },
@@ -449,6 +454,24 @@
      "label": "Iran · War",
      "articles": [
       {
+       "title": "Australia news live: Asio chief Mike Burgess says Iran may want to ‘kill prominent Jewish Australians’ and warns antisemitism at ‘disturbing’ levels",
+       "url": "https://www.theguardian.com/australia-news/live/2026/sep/18/labor-migration-plan-tony-burke-coalition-qantas-renewable-energy-ntwnfb",
+       "source": "Guardian World",
+       "published_at": "2026-09-18 00:34"
+      },
+      {
+       "title": "Iran expels Swedish diplomat in retaliatory move",
+       "url": "https://www.aljazeera.com/news/2026/9/18/iran-expels-swedish-diplomat-in-retaliatory-move?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-09-18 00:09"
+      },
+      {
+       "title": "Iran war live: Trump weighs ‘big decision’ on Iran, tanker hit in Hormuz",
+       "url": "https://www.aljazeera.com/news/liveblog/2026/9/18/iran-war-live-trump-weighs-big-decision-on-iran-tanker-hit-in-hormuz?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-09-18 00:00"
+      },
+      {
        "title": "US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark",
        "url": "https://www.bbc.co.uk/news/articles/c6n8m72r13ngo?at_medium=RSS&at_campaign=rss",
        "source": "BBC World",
@@ -459,58 +482,23 @@
        "url": "https://www.aljazeera.com/news/2026/9/17/russia-china-veto-un-mandate-to-monitor-iran-sanctions?traffic_source=rss",
        "source": "Al Jazeera",
        "published_at": "2026-09-17 21:01"
-      },
-      {
-       "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
-       "url": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss",
-       "source": "BBC World",
-       "published_at": "2026-09-17 20:34"
-      },
-      {
-       "title": "Iran school bombing: grounds to believe US was behind atrocity, UN finds",
-       "url": "https://www.theguardian.com/world/2026/sep/17/iran-school-bombing-un-mission-us-military-behind-attack",
-       "source": "Guardian World",
-       "published_at": "2026-09-17 13:22"
       }
      ]
     },
     {
-     "label": "Israeli",
+     "label": "Assembly",
      "articles": [
+      {
+       "title": "US approves visas for top Iranian leaders to attend UN General Assembly",
+       "url": "https://www.aljazeera.com/news/2026/9/17/us-approves-visas-for-top-iranian-leaders-to-attend-un-general-assembly?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-09-17 21:20"
+      },
       {
        "title": "Serbia opens factory to assemble Israeli-made drones",
        "url": "https://www.aljazeera.com/news/2026/9/17/serbia-opens-factory-to-assemble-israeli-made-drones?traffic_source=rss",
        "source": "Al Jazeera",
        "published_at": "2026-09-17 18:54"
-      },
-      {
-       "title": "Macron and Aoun discuss efforts to back Lebanon’s army, end Israeli attacks",
-       "url": "https://www.aljazeera.com/news/2026/9/17/macron-aoun-discuss-lebanese-sovereignty-efforts-to-end-israeli-attacks?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-09-17 18:06"
-      },
-      {
-       "title": "Ireland to boycott Eurovision again over Israeli participation and ongoing Gaza deaths",
-       "url": "https://www.theguardian.com/tv-and-radio/2026/sep/17/ireland-to-boycott-eurovision-again-over-ongoing-deaths-in-gaza",
-       "source": "Guardian World",
-       "published_at": "2026-09-17 17:32"
-      }
-     ]
-    },
-    {
-     "label": "Yemenis",
-     "articles": [
-      {
-       "title": "Yemenis recount journey to Djibouti as refugee arrivals surge",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/17/yemenis-recount-journey-to-djibouti-as-refugee-arrivals-surge?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-09-17 21:27"
-      },
-      {
-       "title": "Verified video shows wreckage of Saudi fighter jet shot down over Yemen",
-       "url": "https://www.bbc.co.uk/news/articles/c8vgy3p6k3y9o?at_medium=RSS&at_campaign=rss",
-       "source": "BBC World",
-       "published_at": "2026-09-17 13:47"
       }
      ]
     },
@@ -535,10 +523,22 @@
      "label": "More headlines",
      "articles": [
       {
-       "title": "US approves visas for top Iranian leaders to attend UN General Assembly",
-       "url": "https://www.aljazeera.com/news/2026/9/17/us-approves-visas-for-top-iranian-leaders-to-attend-un-general-assembly?traffic_source=rss",
+       "title": "Yemenis recount journey to Djibouti as refugee arrivals surge",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/17/yemenis-recount-journey-to-djibouti-as-refugee-arrivals-surge?traffic_source=rss",
        "source": "Al Jazeera",
-       "published_at": "2026-09-17 21:20"
+       "published_at": "2026-09-17 21:27"
+      },
+      {
+       "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
+       "url": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss",
+       "source": "BBC World",
+       "published_at": "2026-09-17 20:34"
+      },
+      {
+       "title": "Ireland to boycott Eurovision again over Israeli participation and ongoing Gaza deaths",
+       "url": "https://www.theguardian.com/tv-and-radio/2026/sep/17/ireland-to-boycott-eurovision-again-over-ongoing-deaths-in-gaza",
+       "source": "Guardian World",
+       "published_at": "2026-09-17 17:32"
       }
      ]
     }
@@ -552,8 +552,14 @@
    "note": null,
    "clusters": [
     {
-     "label": "Ukraine · Drone",
+     "label": "Ukraine",
      "articles": [
+      {
+       "title": "Head of Ukraine's Eastern Operational Command steps down amid military reshuffle",
+       "url": "https://kyivindependent.com/head-of-ukraines-eastern-operational-command-steps-down-amid-military-reshuffle/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-09-17 23:32"
+      },
       {
        "title": "US set to approve 10 Patriot interceptors for Ukraine from Germany, records show",
        "url": "https://kyivindependent.com/us-set-to-approve-10-patriot-interceptors-for-ukraine-from-germany-records-show/",
@@ -577,18 +583,18 @@
        "url": "https://kyivindependent.com/ukraine-war-latest-russian-missile-drone-attack-on-kyiv-injures-at-least-20/",
        "source": "Kyiv Independent",
        "published_at": "2026-09-17 18:05"
-      },
-      {
-       "title": "Russian drone attack on Tanzania-flagged vessel kills captain, injures 3 crew members, Ukraine says",
-       "url": "https://kyivindependent.com/russian-drone-attack-on-tanzania-flagged-vessel-kills-captain-injures-3-crew-members-ukraine-says/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-09-17 16:09"
       }
      ]
     },
     {
      "label": "Russia · Sanctions",
      "articles": [
+      {
+       "title": "Russia election: Could other parties challenge United Russia?",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/17/aje-onl-nf_medvedenkod-parties_challenge_united_russia-170926?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-09-17 22:19"
+      },
       {
        "title": "Russia, China veto UN mandate to monitor Iran sanctions",
        "url": "https://www.aljazeera.com/news/2026/9/17/russia-china-veto-un-mandate-to-monitor-iran-sanctions?traffic_source=rss",
@@ -610,23 +616,6 @@
      ]
     },
     {
-     "label": "Russian",
-     "articles": [
-      {
-       "title": "The situation in Russian-occupied Oleshky was dire. Now it's 'hell'",
-       "url": "https://kyivindependent.com/the-situation-in-russian-occupied-oleshky-was-dire-now-its-hell/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-09-17 18:47"
-      },
-      {
-       "title": "‘I’m Russian’: NHL star Ovechkin defends Putin ad appearance",
-       "url": "https://www.aljazeera.com/sports/2026/9/17/im-russian-nhl-star-ovechkin-defends-putin-ad-appearance?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-09-17 18:02"
-      }
-     ]
-    },
-    {
      "label": "More headlines",
      "articles": [
       {
@@ -640,6 +629,12 @@
        "url": "https://kyivindependent.com/poll-tracks-zelenskys-trust-rating-amid-corruption-investigation/",
        "source": "Kyiv Independent",
        "published_at": "2026-09-17 18:52"
+      },
+      {
+       "title": "The situation in Russian-occupied Oleshky was dire. Now it's 'hell'",
+       "url": "https://kyivindependent.com/the-situation-in-russian-occupied-oleshky-was-dire-now-its-hell/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-09-17 18:47"
       }
      ]
     }
