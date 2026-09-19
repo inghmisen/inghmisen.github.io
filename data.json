@@ -1,12 +1,12 @@
 {
- "date": "Friday 18 September 2026",
- "generated_at": "23:31 UTC",
+ "date": "Saturday 19 September 2026",
+ "generated_at": "04:00 UTC",
  "error": null,
- "total_stories": 73,
+ "total_stories": 74,
  "fx": {
   "pair": "EUR/MAD",
-  "rate": 10.902,
-  "change_pct": 0.0
+  "rate": 10.906,
+  "change_pct": 0.04
  },
  "lanes": [
   {
@@ -16,8 +16,20 @@
    "note": null,
    "clusters": [
     {
-     "label": "Qwen · Next",
+     "label": "Qwen · Tok",
      "articles": [
+      {
+       "title": "Qwen3.8-27B at 144 tok/s on an M5 Max MacBook Pro",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wk9hze/qwen3827b_at_144_toks_on_an_m5_max_macbook_pro/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-19 02:11"
+      },
+      {
+       "title": "Tuning Qwen 3.8 27B and OMP as a coding agent on 2× 3090s",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wk8jef/tuning_qwen_38_27b_and_omp_as_a_coding_agent_on_2/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-19 01:25"
+      },
       {
        "title": "NGL, I’m hyped to see if Qwen3.8 27b can make me a sandwich. Instant buy for me.",
        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wk22tw/ngl_im_hyped_to_see_if_qwen38_27b_can_make_me_a/",
@@ -35,12 +47,23 @@
        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjzg4c/built_this_yesterday_with_qwen38flashnext_nvfp4/",
        "source": "r/LocalLLaMA",
        "published_at": "2026-09-18 19:12"
+      }
+     ]
+    },
+    {
+     "label": "Open",
+     "articles": [
+      {
+       "title": "Alibaba open-sources medical AI model that can detect cancer and nearly 150 conditions",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wk9fag/alibaba_opensources_medical_ai_model_that_can/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-19 02:08"
       },
       {
-       "title": "harshatheg/Qwen-2.5-1B-RLCD · 371 ♥",
-       "url": "https://huggingface.co/harshatheg/Qwen-2.5-1B-RLCD",
-       "source": "HF new models",
-       "published_at": "2026-09-16 01:35"
+       "title": "I truly think every major AI lab is purposefully making fear-mongering headlines to get regulations that hurt open-source models",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wk979c/i_truly_think_every_major_ai_lab_is_purposefully/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-19 01:57"
       }
      ]
     },
@@ -62,6 +85,23 @@
      ]
     },
     {
+     "label": "Gguf",
+     "articles": [
+      {
+       "title": "prism-ml/Ternary-Bonsai-2-27B-gguf · 966 ♥",
+       "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
+       "source": "HF new models",
+       "published_at": "2026-09-16 23:40"
+      },
+      {
+       "title": "ukisai/Swift-Qwen3.8-27B-GGUF · 283 ♥",
+       "url": "https://huggingface.co/ukisai/Swift-Qwen3.8-27B-GGUF",
+       "source": "HF new models",
+       "published_at": "2026-09-11 14:58"
+      }
+     ]
+    },
+    {
      "label": "More headlines",
      "articles": [
       {
@@ -77,64 +117,34 @@
        "published_at": "2026-09-18 20:11"
       },
       {
-       "title": "Virginia governor creates an AI task force and moves to restrain data centers",
-       "url": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
-       "source": "Verge AI",
-       "published_at": "2026-09-18 18:29"
-      },
-      {
-       "title": "US Military had close call after using AI for hallucinated intelligence report",
-       "url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
-       "source": "Hacker News",
-       "published_at": "2026-09-18 17:28"
-      },
-      {
-       "title": "We benchmarked 24 LLMs against human writers on 475 creative writing prompts",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjwhxc/we_benchmarked_24_llms_against_human_writers_on/",
+       "title": "Migrating from a R640 with passive cards",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wk04cp/migrating_from_a_r640_with_passive_cards/",
        "source": "r/LocalLLaMA",
-       "published_at": "2026-09-18 17:24"
+       "published_at": "2026-09-18 19:37"
       },
       {
-       "title": "Gavin Newsom is pushing for an AI kill switch",
-       "url": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch",
-       "source": "Verge AI",
-       "published_at": "2026-09-18 17:04"
-      },
-      {
-       "title": "What Hollywood thinks about existential AI warnings",
-       "url": "https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings",
-       "source": "Verge AI",
-       "published_at": "2026-09-18 16:35"
-      },
-      {
-       "title": "prism-ml/Ternary-Bonsai-2-27B-gguf · 909 ♥",
-       "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
-       "source": "HF new models",
-       "published_at": "2026-09-16 23:40"
-      },
-      {
-       "title": "XingChen-AGI/Xing4.0-29B-A4B · 431 ♥",
+       "title": "XingChen-AGI/Xing4.0-29B-A4B · 475 ♥",
        "url": "https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B",
        "source": "HF new models",
        "published_at": "2026-09-16 06:44"
       },
       {
-       "title": "deepseek-ai/DeepSeek-V4.1-Flash · 3167 ♥",
+       "title": "harshatheg/Qwen-2.5-1B-RLCD · 387 ♥",
+       "url": "https://huggingface.co/harshatheg/Qwen-2.5-1B-RLCD",
+       "source": "HF new models",
+       "published_at": "2026-09-16 01:35"
+      },
+      {
+       "title": "deepseek-ai/DeepSeek-V4.1-Flash · 3193 ♥",
        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
        "source": "HF new models",
        "published_at": "2026-09-10 02:17"
       },
       {
-       "title": "m-a-p/YuE2-3B · 799 ♥",
+       "title": "m-a-p/YuE2-3B · 815 ♥",
        "url": "https://huggingface.co/m-a-p/YuE2-3B",
        "source": "HF new models",
        "published_at": "2026-09-09 18:30"
-      },
-      {
-       "title": "Edge0/Edge0-35B-A3B-preview · 3397 ♥",
-       "url": "https://huggingface.co/Edge0/Edge0-35B-A3B-preview",
-       "source": "HF new models",
-       "published_at": "2026-09-08 13:56"
       }
      ]
     }
@@ -163,27 +173,10 @@
        "published_at": "2026-07-02 07:00"
       },
       {
-       "title": "Nieuwe cao: lonen met 3,1 procent omhoog",
-       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRDJFdnFacXJ4RzBKUm5vUkFxVmZYQmpCTGgxRGlVaTNEd3lFY3BwczIxUDBjUTJQdVNOWFNwandGbWU2ZzFqYU4xUGlqSjBzeHRPbkpXVFN5clJjekFua2lvN3AtT1NzOXlMUVlaNWtUR1lEbTczS25fbVkwdnlTYlBaNDc1SmkwelRxQVVNZndUdDNXVi1KeHBVajV6bFNncGh0M2Rtd05QQUdMR1B2Y181WFNRTGt4d2JsYlJpY01fMURwNkE?oc=5",
+       "title": "Nieuwe hulpwijzer sociale veiligheid online",
+       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUks5UG5DX2FNZkFqZ0dvaWxfM3UzempKbkVKOTVELTZMX3liM24xWTdzYnRMV3JQajlTTjVlc0JuMTc0NzIyUzNqVTFXaTJvcEUzVlB4YzR5bHBmWW1RbUxaWk1vd25JeHgxWXd2QTJVRXFoWXgxLUpFR3B0LUtlNlZ3?oc=5",
        "source": "UToday",
-       "published_at": "2026-06-24 07:00"
-      }
-     ]
-    },
-    {
-     "label": "Eemcs",
-     "articles": [
-      {
-       "title": "Faculteitsbestuur EEMCS: ‘Hadden eerder met elkaar het goede gesprek moeten voeren’",
-       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaXVxcy1ZbVNGd3l3Wjc4Wi14MFl5RDNBYW1QM0c4TjN5UE5Md2RLbUdQYVp1Vk9vVFNWVG44TzIwY2dVeWVWRDJCVVQ2MDdTSzk4eVEzTURKTTF6X21jMFdqNjVCTzZ1SE9pMkRVelBGLVlRNW1BdXBEN01GTUtDWjZ5VHpSaldSWWMyTHI0ZW0zc3o1UnVNQndzUWktY3lHVkFodDdONGV1Z3had1B3VjFuWTAxSW8?oc=5",
-       "source": "UToday",
-       "published_at": "2026-09-17 09:08"
-      },
-      {
-       "title": "EEMCS-bestuur: ‘Publicatie schetst onjuist en onvolledig beeld’",
-       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcXp6YWNOeDFmaFMzbGtNMkNuR2pCMDg1cktPSDhmUHJpcFpEZGxSdDhnT2Z0Vk1hLUMzVU9XTlZFZzV6Z1JYVWF5a1EtRjJzQ2t5aGJrNVF2QlY2NW9ZaE5rN29Bc1hJN2xZaGlVdEJkZWhfbnlLaXlodDFJWl9XX0NrWmpicXVYVXhJX0gzZWFEdEdzT1YxeQ?oc=5",
-       "source": "UToday",
-       "published_at": "2026-09-01 07:00"
+       "published_at": "2026-05-28 07:00"
       }
      ]
     },
@@ -197,10 +190,16 @@
        "published_at": "2026-09-17 14:10"
       },
       {
-       "title": "Arbeidsinspectie ziet drie overtredingen en tikt UT op de vingers",
-       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSE5LVjVZVEVuVnIwcDJVVzA5cnVVTDJsbDgwcXJvcm9xSEdLczk3bGtVTW43czRIbmZTb2JhTFJXRFJBOWM1OS10RDRSekV2QXRWRVBzZWVmcGxkUVJ1RWUxcHlpd1g4NFRCUE5mNkFNWE5YckJQelFQa1dmTVFGd1AtYnRwb0M5WUh2N0d5M3pYSWREZHdOZ05YSUlTeFk?oc=5",
+       "title": "Faculteitsbestuur EEMCS: ‘Hadden eerder met elkaar het goede gesprek moeten voeren’",
+       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaXVxcy1ZbVNGd3l3Wjc4Wi14MFl5RDNBYW1QM0c4TjN5UE5Md2RLbUdQYVp1Vk9vVFNWVG44TzIwY2dVeWVWRDJCVVQ2MDdTSzk4eVEzTURKTTF6X21jMFdqNjVCTzZ1SE9pMkRVelBGLVlRNW1BdXBEN01GTUtDWjZ5VHpSaldSWWMyTHI0ZW0zc3o1UnVNQndzUWktY3lHVkFodDdONGV1Z3had1B3VjFuWTAxSW8?oc=5",
        "source": "UToday",
-       "published_at": "2026-09-15 14:30"
+       "published_at": "2026-09-17 09:08"
+      },
+      {
+       "title": "‘Slimmer collegejaar’ bespaart UT-docenten honderden uren",
+       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJTHVMNjJoUDlGMjFzdF9RWlJKTmM5Z2FGdkx6OFdoMzJSaHVLckp1eHVsWkY2Rm9XaVRoYTFXMnBkdXpJeE5peWI4Q1E0MFBKT1FybW1YNnppVUE?oc=5",
+       "source": "UToday",
+       "published_at": "2026-09-14 16:51"
       },
       {
        "title": "Opnieuw kwestie sociale onveiligheid op UT",
@@ -219,6 +218,12 @@
        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRjNkNzM5VjZVV3ZEaC05UzRpVG9kLUZFQkc3Nzk3UDlqWXlPaFNzZFVieXBpbWlyTDRQcEFvNVVlRmJtX3BTTXNUZlctWGlQSzA1NXVER2NYcWJDaU1valZ1T3AxR0NsOWtHZmxpcHZvX1VJd0l5cFRqNGlSdG9mZDhEU2VyOG13bHAxZg?oc=5",
        "source": "UToday",
        "published_at": "2026-06-10 07:00"
+      },
+      {
+       "title": "Vermoeidheid na borstkanker speelt veel vrouwen parten",
+       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTDE4dmZWeVI3YnllV0ZabC11VVE5ZnFnUjRhd291LUxfV1FQZ09Sb0hkdFlOZ0RkM0Z5SXVIN2NxTUx5VmdFZzR0UTRhelN3clY4TXlUQ0JEa2M2bnU4RU43TUpwc2N3T29VcEJHSldXbWVsRmhQbmlyNVBnZFh3VnNncmdoYjUzMzB6V2M2RWM?oc=5",
+       "source": "UToday",
+       "published_at": "2026-06-01 07:00"
       }
      ]
     }
@@ -232,42 +237,83 @@
    "note": null,
    "clusters": [
     {
-     "label": "بنعبد · الله",
+     "label": "برنامج",
      "articles": [
       {
-       "title": "بنعبد الله: غضب شعبي يلاحق الأغلبية الحكومية.. والإدارة الترابية محايدة",
-       "url": "https://www.hespress.com/%d8%a8%d9%86%d8%b9%d8%a8%d8%af-%d8%a7%d9%84%d9%84%d9%87-%d8%ba%d8%b6%d8%a8-%d8%b4%d8%b9%d8%a8%d9%8a-%d9%8a%d9%84%d8%a7%d8%ad%d9%82-%d8%a7%d9%84%d8%a3%d8%ba%d9%84%d8%a8%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad-1809672.html",
+       "title": "برنامج بيئي لحماية ساحل المهدية",
+       "url": "https://www.hespress.com/%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac-%d8%a8%d9%8a%d8%a6%d9%8a-%d9%84%d8%ad%d9%85%d8%a7%d9%8a%d8%a9-%d8%b3%d8%a7%d8%ad%d9%84-%d8%a7%d9%84%d9%85%d9%87%d8%af%d9%8a%d8%a9-1809452.html",
        "source": "Hespress",
-       "published_at": "2026-09-18 23:19"
+       "published_at": "2026-09-19 03:30"
       },
       {
-       "title": "الطريق إلى الانتخابات 2026 | نبيل بنعبد الله",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%b7%d8%b1%d9%8a%d9%82-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-2026-%d9%86%d8%a8%d9%8a%d9%84-%d8%a8%d9%86%d8%b9%d8%a8%d8%af-%d8%a7%d9%84%d9%84-1809563.html",
+       "title": "لشكر: \"سرقوا برنامجنا الانتخابي\"",
+       "url": "https://www.hespress.com/%d9%84%d8%b4%d9%83%d8%b1-%d8%b3%d8%b1%d9%82%d9%88%d8%a7-%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac%d9%86%d8%a7-%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d9%8a-1809652.html",
        "source": "Hespress",
-       "published_at": "2026-09-18 21:19"
+       "published_at": "2026-09-18 22:48"
       }
      ]
     },
     {
-     "label": "على",
+     "label": "المغرب",
      "articles": [
       {
-       "title": "أمريكا تفرض عقوبات جديدة على روسيا",
-       "url": "https://www.hespress.com/%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d8%a7-%d8%aa%d9%81%d8%b1%d8%b6-%d8%b9%d9%82%d9%88%d8%a8%d8%a7%d8%aa-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d8%b9%d9%84%d9%89-%d8%b1%d9%88%d8%b3%d9%8a%d8%a7-1809646.html",
+       "title": "البرازيل تراهن على أسمدة المغرب لتجاوز أزمة سلاسل الإمداد العالمية",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%a8%d8%b1%d8%a7%d8%b2%d9%8a%d9%84-%d8%aa%d8%b1%d8%a7%d9%87%d9%86-%d8%b9%d9%84%d9%89-%d8%a3%d8%b3%d9%85%d8%af%d8%a9-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d9%84%d8%aa%d8%ac%d8%a7%d9%88-1809615.html",
        "source": "Hespress",
-       "published_at": "2026-09-18 22:23"
+       "published_at": "2026-09-19 03:00"
       },
       {
-       "title": "ترامب: نسيطر على الأمن في غرينلاند",
-       "url": "https://www.hespress.com/%d8%aa%d8%b1%d8%a7%d9%85%d8%a8-%d9%86%d8%b3%d9%8a%d8%b7%d8%b1-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d8%a3%d9%85%d9%86-%d9%81%d9%8a-%d8%ba%d8%b1%d9%8a%d9%86%d9%84%d8%a7%d9%86%d8%af-1809625.html",
+       "title": "أوجار: علاقات المغرب وإسرائيل \"تحت الشمس\".. والتقاطب مع \"البام\" غريب",
+       "url": "https://www.hespress.com/%d8%a3%d9%88%d8%ac%d8%a7%d8%b1-%d8%b9%d9%84%d8%a7%d9%82%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d9%88%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84-%d8%aa%d8%ad%d8%aa-%d8%a7%d9%84%d8%b4%d9%85-1808995.html",
        "source": "Hespress",
-       "published_at": "2026-09-18 21:49"
+       "published_at": "2026-09-19 01:00"
+      }
+     ]
+    },
+    {
+     "label": "المغربي",
+     "articles": [
+      {
+       "title": "سمك البرازيل يقصد السوق المغربي",
+       "url": "https://www.hespress.com/%d8%b3%d9%85%d9%83-%d8%a7%d9%84%d8%a8%d8%b1%d8%a7%d8%b2%d9%8a%d9%84-%d9%8a%d9%82%d8%b5%d8%af-%d8%b3%d9%88%d9%82-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-1809459.html",
+       "source": "Hespress",
+       "published_at": "2026-09-19 00:27"
+      },
+      {
+       "title": "أكاديمية المملكة تعطي انطلاقة \"كرسي الأبحاث في الخط المغربي\"",
+       "url": "https://www.hespress.com/%d8%a3%d9%83%d8%a7%d8%af%d9%8a%d9%85%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d9%85%d9%84%d9%83%d8%a9-%d8%aa%d8%b9%d8%b7%d9%8a-%d8%a7%d9%86%d8%b7%d9%84%d8%a7%d9%82%d8%a9-%d9%83%d8%b1%d8%b3%d9%8a-%d8%a7%d9%84-1809538.html",
+       "source": "Hespress",
+       "published_at": "2026-09-19 00:00"
       }
      ]
     },
     {
      "label": "More headlines",
      "articles": [
+      {
+       "title": "مركز يطالب بحماية حقوق المقاولين",
+       "url": "https://www.hespress.com/%d9%85%d8%b1%d9%83%d8%b2-%d9%8a%d8%b7%d8%a7%d9%84%d8%a8-%d8%a8%d8%ad%d9%85%d8%a7%d9%8a%d8%a9-%d8%ad%d9%82%d9%88%d9%82-%d8%a7%d9%84%d9%85%d9%82%d8%a7%d9%88%d9%84%d9%8a%d9%86-1809581.html",
+       "source": "Hespress",
+       "published_at": "2026-09-19 02:34"
+      },
+      {
+       "title": "دراسة ترصد مساهمة \"البلاستيك\" في تلويث تربة تامنصورت بمراكش",
+       "url": "https://www.hespress.com/%d8%af%d8%b1%d8%a7%d8%b3%d8%a9-%d8%aa%d8%b1%d8%b5%d8%af-%d9%85%d8%b3%d8%a7%d9%87%d9%85%d8%a9-%d8%a7%d9%84%d8%a8%d9%84%d8%a7%d8%b3%d8%aa%d9%8a%d9%83-%d9%81%d9%8a-%d8%aa%d9%84%d9%88%d9%8a%d8%ab-1809390.html",
+       "source": "Hespress",
+       "published_at": "2026-09-19 02:00"
+      },
+      {
+       "title": "عرض \"السوسن\" في مزاد بباريس",
+       "url": "https://www.hespress.com/%d8%b9%d8%b1%d8%b6-%d8%a7%d9%84%d8%b3%d9%88%d8%b3%d9%86-%d9%81%d9%8a-%d9%85%d8%b2%d8%a7%d8%af-%d8%a8%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3-1809496.html",
+       "source": "Hespress",
+       "published_at": "2026-09-19 01:15"
+      },
+      {
+       "title": "بنعبد الله: غضب شعبي يلاحق الأغلبية الحكومية.. والإدارة الترابية محايدة",
+       "url": "https://www.hespress.com/%d8%a8%d9%86%d8%b9%d8%a8%d8%af-%d8%a7%d9%84%d9%84%d9%87-%d8%ba%d8%b6%d8%a8-%d8%b4%d8%b9%d8%a8%d9%8a-%d9%8a%d9%84%d8%a7%d8%ad%d9%82-%d8%a7%d9%84%d8%a3%d8%ba%d9%84%d8%a8%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad-1809672.html",
+       "source": "Hespress",
+       "published_at": "2026-09-18 23:19"
+      },
       {
        "title": "أخنوش في لقاء مع ساكنة تزنيت",
        "url": "https://www.hespress.com/%d8%a3%d8%ae%d9%86%d9%88%d8%b4-%d9%81%d9%8a-%d9%84%d9%82%d8%a7%d8%a1-%d9%85%d8%b9-%d8%b3%d8%a7%d9%83%d9%86%d8%a9-%d8%aa%d8%b2%d9%86%d9%8a%d8%aa-1809681.html",
@@ -279,42 +325,6 @@
        "url": "https://www.hespress.com/%d8%ba%d9%85%d9%88%d8%b6-%d8%ad%d9%88%d9%84-%d9%85%d8%b4%d8%a7%d8%b1%d9%83%d8%a9-%d8%ad%d9%83%d9%8a%d9%85%d9%8a-%d8%a8%d8%a7%d9%84%d9%83%d9%84%d8%a7%d8%b3%d9%8a%d9%83%d9%88-1809590.html",
        "source": "Hespress",
        "published_at": "2026-09-18 23:03"
-      },
-      {
-       "title": "لشكر: \"سرقوا برنامجنا الانتخابي\"",
-       "url": "https://www.hespress.com/%d9%84%d8%b4%d9%83%d8%b1-%d8%b3%d8%b1%d9%82%d9%88%d8%a7-%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac%d9%86%d8%a7-%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d9%8a-1809652.html",
-       "source": "Hespress",
-       "published_at": "2026-09-18 22:48"
-      },
-      {
-       "title": "أكاديمية المملكة تنفذ \"كرسي الخط\"",
-       "url": "https://www.hespress.com/%d8%a3%d9%83%d8%a7%d8%af%d9%8a%d9%85%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d9%85%d9%84%d9%83%d8%a9-%d8%aa%d9%86%d9%81%d8%b0-%d9%83%d8%b1%d8%b3%d9%8a-%d8%a7%d9%84%d8%ae%d8%b7-2-1809601.html",
-       "source": "Hespress",
-       "published_at": "2026-09-18 22:31"
-      },
-      {
-       "title": "بنكيران يحذر بالعيون من شراء الأصوات ويدعو إلى التغيير عبر الانتخابات",
-       "url": "https://www.hespress.com/%d8%a8%d9%86%d9%83%d9%8a%d8%b1%d8%a7%d9%86-%d9%8a%d8%ad%d8%b0%d8%b1-%d8%a8%d8%a7%d9%84%d8%b9%d9%8a%d9%88%d9%86-%d9%85%d9%86-%d8%b4%d8%b1%d8%a7%d8%a1-%d8%a7%d9%84%d8%a3%d8%b5%d9%88%d8%a7%d8%aa-%d9%88-1809638.html",
-       "source": "Hespress",
-       "published_at": "2026-09-18 22:20"
-      },
-      {
-       "title": "زيدان يستدعي لاعبين جددا لـ\"الديكة\"",
-       "url": "https://www.hespress.com/%d8%b2%d9%8a%d8%af%d8%a7%d9%86-%d9%8a%d8%b3%d8%aa%d8%af%d8%b9%d9%8a-%d8%ae%d9%85%d8%b3%d8%a9-%d9%84%d8%a7%d8%b9%d8%a8%d9%8a%d9%86-%d8%ac%d8%af%d8%af-1809611.html",
-       "source": "Hespress",
-       "published_at": "2026-09-18 22:09"
-      },
-      {
-       "title": "حزب \"التقدم والاشتراكية\" يتعهد بخفض ضرائب المقاولات الصغرى بالمغرب",
-       "url": "https://www.hespress.com/%d8%ad%d8%b2%d8%a8-%d8%a7%d9%84%d8%aa%d9%82%d8%af%d9%85-%d9%88%d8%a7%d9%84%d8%a7%d8%b4%d8%aa%d8%b1%d8%a7%d9%83%d9%8a%d8%a9-%d9%8a%d8%aa%d8%b9%d9%87%d8%af-%d8%a8%d8%ae%d9%81%d8%b6-%d8%b6%d8%b1-1809620.html",
-       "source": "Hespress",
-       "published_at": "2026-09-18 21:45"
-      },
-      {
-       "title": "الصيباري يسجل أول هدف بالبوندسليغا",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%b5%d9%8a%d8%a8%d8%a7%d8%b1%d9%8a-%d9%8a%d8%b3%d8%ac%d9%84-%d8%a3%d9%88%d9%84-%d9%87%d8%af%d9%81-%d8%a8%d8%a7%d9%84%d8%a8%d9%88%d9%86%d8%af%d8%b3%d9%84%d9%8a%d8%ba%d8%a7-1809603.html",
-       "source": "Hespress",
-       "published_at": "2026-09-18 21:14"
       },
       {
        "title": "GST : radioscopie d'un organigramme à six étages",
@@ -364,19 +374,19 @@
    "note": null,
    "clusters": [
     {
-     "label": "Oorlog",
+     "label": "Meer",
      "articles": [
+      {
+       "title": "Sluiting honderden kleine scholen dreigt door kabinetsmaatregelen, ouders bezorgd: ’Risico op nog meer onderwijsuitval’",
+       "url": "https://www.telegraaf.nl/binnenland/sluiting-honderden-kleine-scholen-dreigt-door-kabinetsmaatregelen-ouders-bezorgd-risico-op-nog-meer-onderwijsuitval/161524329.html",
+       "source": "de Telegraaf",
+       "published_at": "2026-09-19 03:15"
+      },
       {
        "title": "LIVE | ’VS niet transparant over sterfgevallen in Iran-oorlog: meer Amerikaanse militairen omgekomen dan geregistreerd’",
        "url": "https://www.telegraaf.nl/buitenland/live-vs-niet-transparant-over-sterfgevallen-in-iran-oorlog-meer-amerikaanse-militairen-omgekomen-dan-geregistreerd/161626464.html",
        "source": "de Telegraaf",
        "published_at": "2026-09-18 19:17"
-      },
-      {
-       "title": "Nieuw boek over Diana zet Britse koninklijke familie op scherp: oude oorlog tussen Windsors en Spencers laait op",
-       "url": "https://www.telegraaf.nl/entertainment/royals/nieuw-boek-over-diana-zet-britse-koninklijke-familie-op-scherp-oude-oorlog-tussen-windsors-en-spencers-laait-op/161646568.html",
-       "source": "de Telegraaf",
-       "published_at": "2026-09-18 16:44"
       }
      ]
     },
@@ -407,19 +417,25 @@
    "note": null,
    "clusters": [
     {
-     "label": "War · Trump",
+     "label": "Iran · War",
      "articles": [
+      {
+       "title": "Report: More US troops have died in Iran war than Pentagon says",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/report-more-us-troops-have-died-in-iran-war-than-pentagon-says?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-09-19 03:02"
+      },
+      {
+       "title": "Iran war live: Trump extends sanctions on Iran, Houthi supporters in Sanaa",
+       "url": "https://www.aljazeera.com/news/liveblog/2026/9/19/iran-war-live-trump-extends-sanctions-on-iran-houthi-supporters-in-sanaa?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-09-19 00:00"
+      },
       {
        "title": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
        "url": "https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko?at_medium=RSS&at_campaign=rss",
        "source": "BBC World",
        "published_at": "2026-09-18 17:57"
-      },
-      {
-       "title": "Iranians rally in biggest show of defiance against US since war began",
-       "url": "https://www.aljazeera.com/news/2026/9/18/iranians-rally-in-biggest-show-of-defiance-against-us-since-war-began?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-09-18 17:23"
       },
       {
        "title": "South Korea will not send military to support US war on Iran, defying Trump pressure",
@@ -430,30 +446,36 @@
      ]
     },
     {
-     "label": "Saudi",
+     "label": "Israeli · Injures",
      "articles": [
       {
-       "title": "Houthis accuse Saudi Arabia of launching 26 strikes in 24 hours",
-       "url": "https://www.aljazeera.com/news/2026/9/18/houthis-accuse-saudi-arabia-of-launching-26-strikes-in-24-hours?traffic_source=rss",
+       "title": "Israeli strike on motorcycle kills Palestinian in Gaza City, injures child",
+       "url": "https://www.aljazeera.com/news/2026/9/19/israeli-strike-on-motorcycle-in-gaza-city-kills-one-injures-child?traffic_source=rss",
        "source": "Al Jazeera",
-       "published_at": "2026-09-18 23:14"
+       "published_at": "2026-09-19 00:02"
       },
       {
-       "title": "Verified video shows wreckage of Saudi fighter jet shot down over Yemen",
-       "url": "https://www.bbc.co.uk/news/articles/c8vgy3p6k3y9o?at_medium=RSS&at_campaign=rss",
-       "source": "BBC World",
-       "published_at": "2026-09-17 13:47"
+       "title": "Lebanese artist turns Israeli missile debris into art",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/18/lebanese-artist-turns-israeli-missile-debris-into-art?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-09-18 19:31"
+      },
+      {
+       "title": "Two injured by Israeli shelling as troops advance in southern Lebanon",
+       "url": "https://www.aljazeera.com/news/2026/9/18/two-injured-by-israeli-shelling-as-troops-advance-in-southern-lebanon?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-09-18 19:14"
       }
      ]
     },
     {
-     "label": "Speech",
+     "label": "Iranian",
      "articles": [
       {
-       "title": "UK court clears woman of voicing support for Hamas in university speech",
-       "url": "https://www.aljazeera.com/news/2026/9/18/uk-court-clears-woman-of-voicing-support-for-hamas-in-university-speech?traffic_source=rss",
+       "title": "Iranian women defy law and run Tehran race without hijab",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/iranian-women-defy-law-and-run-tehran-race-without-hijab?traffic_source=rss",
        "source": "Al Jazeera",
-       "published_at": "2026-09-18 20:55"
+       "published_at": "2026-09-19 01:45"
       },
       {
        "title": "Iranian actor Laleh Marzban faces severe threats after Venice film festival speech",
@@ -464,13 +486,19 @@
      ]
     },
     {
-     "label": "Into",
+     "label": "More headlines",
      "articles": [
       {
-       "title": "Lebanese artist turns Israeli missile debris into art",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/18/lebanese-artist-turns-israeli-missile-debris-into-art?traffic_source=rss",
+       "title": "Houthis accuse Saudi Arabia of launching 26 strikes in 24 hours",
+       "url": "https://www.aljazeera.com/news/2026/9/18/houthis-accuse-saudi-arabia-of-launching-26-strikes-in-24-hours?traffic_source=rss",
        "source": "Al Jazeera",
-       "published_at": "2026-09-18 19:31"
+       "published_at": "2026-09-18 23:14"
+      },
+      {
+       "title": "UK court clears woman of voicing support for Hamas in university speech",
+       "url": "https://www.aljazeera.com/news/2026/9/18/uk-court-clears-woman-of-voicing-support-for-hamas-in-university-speech?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-09-18 20:55"
       },
       {
        "title": "Yemen’s anti-Houthi forces launch inquest into sudden military collapse",
@@ -479,26 +507,9 @@
        "published_at": "2026-09-18 14:12"
       }
      ]
-    },
-    {
-     "label": "More headlines",
-     "articles": [
-      {
-       "title": "Two injured by Israeli shelling as troops advance in southern Lebanon",
-       "url": "https://www.aljazeera.com/news/2026/9/18/two-injured-by-israeli-shelling-as-troops-advance-in-southern-lebanon?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-09-18 19:14"
-      },
-      {
-       "title": "Jerusalem Daily: Netanyahu says he will ‘change the face of the Middle East",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/18/jerusalem-daily-netanyahu-says-he-will-change-the-face-of-the-middle-east?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-09-18 16:38"
-      }
-     ]
     }
    ],
-   "count": 11
+   "count": 12
   },
   {
    "key": "ukraine",
@@ -507,8 +518,72 @@
    "note": null,
    "clusters": [
     {
+     "label": "Russian · Hybrid",
+     "articles": [
+      {
+       "title": "'Abhorrent acts' — Russian forces committed widespread sexual violence in Ukraine since full-scale invasion, UN reports",
+       "url": "https://kyivindependent.com/abhorrent-acts-russian-forces-committed-widespread-sexual-violence-in-ukraine-since-full-scale-invasion-un-reports/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-09-19 03:33"
+      },
+      {
+       "title": "European countries bolster defenses as officials warn of growing Russian hybrid threat",
+       "url": "https://kyivindependent.com/european-countries-bolster-defenses-as-officials-warn-of-growing-russian-hybrid-threat/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-09-18 23:49"
+      },
+      {
+       "title": "Trump says son reimbursed Russian oligarch who funded wedding celebrations",
+       "url": "https://kyivindependent.com/trump-says-son-reimbursed-russian-oligarch-who-funded-wedding-celebrations/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-09-18 21:34"
+      },
+      {
+       "title": "Russian attack on Sumy kills 2, injures 8 as guided aerial bombs hit apartment building",
+       "url": "https://kyivindependent.com/russian-attack-on-sumy-kills-2-injures-7-as-guided-aerial-bombs-hit-apartment-building/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-09-18 19:58"
+      },
+      {
+       "title": "Russian hybrid attacks against Europe intensifying, says Macron",
+       "url": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
+       "source": "BBC World",
+       "published_at": "2026-09-18 18:04"
+      }
+     ]
+    },
+    {
+     "label": "Ukraine · War",
+     "articles": [
+      {
+       "title": "Trump signs sweeping Russia sanctions over Ukraine war",
+       "url": "https://www.aljazeera.com/news/2026/9/19/trump-signs-sweeping-russia-sanctions-over-ukraine-war?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-09-19 00:46"
+      },
+      {
+       "title": "Latvia’s president warns that Europe is not up to date with drone and aerial warfare in Ukraine",
+       "url": "https://www.theguardian.com/world/2026/sep/18/edgars-rinkevics-europe-ukraine-war",
+       "source": "Guardian World",
+       "published_at": "2026-09-18 22:05"
+      },
+      {
+       "title": "Ukraine war latest: Elite Russian drone unit pulls back from northern Donetsk Oblast amid Ukrainian offensive",
+       "url": "https://kyivindependent.com/ukraine-war-latest-elite-russian-drone-unit-pulls-back-from-northern-donetsk-oblast-amid-ukrainian-offensive/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-09-18 17:53"
+      }
+     ]
+    },
+    {
      "label": "Russia",
      "articles": [
+      {
+       "title": "A four-minute warning isn't enough: Russia's new relentless missile tactics exhaust Kyiv residents",
+       "url": "https://www.bbc.co.uk/news/articles/cwp93k9gpnv1o?at_medium=RSS&at_campaign=rss",
+       "source": "BBC World",
+       "published_at": "2026-09-18 23:03"
+      },
       {
        "title": "Trump signs sweeping Russia sanctions bill into law",
        "url": "https://kyivindependent.com/trump-signs-sweeping-russia-sanctions-bill-into-law/",
@@ -520,53 +595,6 @@
        "url": "https://www.aljazeera.com/news/2026/9/18/russia-labels-cannes-winning-director-andrey-zvyagintsev-a-foreign-agent?traffic_source=rss",
        "source": "Al Jazeera",
        "published_at": "2026-09-18 19:39"
-      },
-      {
-       "title": "Do elections in Russia make a difference?",
-       "url": "https://www.aljazeera.com/video/inside-story/2026/9/18/do-elections-in-russia-make-a-difference?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-09-18 18:45"
-      },
-      {
-       "title": "Russia’s drones threaten Kyiv-bound Western officials as war effort stalls",
-       "url": "https://www.aljazeera.com/news/2026/9/18/russia-targets-ukraines-peaceful-borders?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-09-18 18:19"
-      },
-      {
-       "title": "Russia increasingly using repurposed S-400 training missiles to bombard Ukraine, Reuters reports",
-       "url": "https://kyivindependent.com/russia-increasingly-using-repurposed-s-400-training-missiles-to-bombard-ukraine-reuters-reports/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-09-18 17:11"
-      }
-     ]
-    },
-    {
-     "label": "Russian",
-     "articles": [
-      {
-       "title": "Trump says son reimbursed Russian oligarch who funded wedding celebrations",
-       "url": "https://kyivindependent.com/trump-says-son-reimbursed-russian-oligarch-who-funded-wedding-celebrations/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-09-18 21:34"
-      },
-      {
-       "title": "Russian attack on Sumy kills 2, injures 7 as guided aerial bombs hit apartment building",
-       "url": "https://kyivindependent.com/russian-attack-on-sumy-kills-2-injures-7-as-guided-aerial-bombs-hit-apartment-building/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-09-18 19:58"
-      },
-      {
-       "title": "Russian hybrid attacks against Europe intensifying, says Macron",
-       "url": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
-       "source": "BBC World",
-       "published_at": "2026-09-18 18:04"
-      },
-      {
-       "title": "Ukraine war latest: Elite Russian drone unit pulls back from northern Donetsk Oblast amid Ukrainian offensive",
-       "url": "https://kyivindependent.com/ukraine-war-latest-elite-russian-drone-unit-pulls-back-from-northern-donetsk-oblast-amid-ukrainian-offensive/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-09-18 17:53"
       }
      ]
     },
@@ -574,22 +602,10 @@
      "label": "More headlines",
      "articles": [
       {
-       "title": "Latvia’s president warns that Europe is not up to date with drone and aerial warfare in Ukraine",
-       "url": "https://www.theguardian.com/world/2026/sep/18/edgars-rinkevics-europe-ukraine-war",
-       "source": "Guardian World",
-       "published_at": "2026-09-18 22:05"
-      },
-      {
        "title": "Germany receives first F-35 jet from US as NATO boosts military spending",
        "url": "https://www.aljazeera.com/news/2026/9/18/germany-receives-first-f-35-jet-from-us-as-nato-boosts-military-spending?traffic_source=rss",
        "source": "Al Jazeera",
        "published_at": "2026-09-18 21:06"
-      },
-      {
-       "title": "Ukrainian National Guard creates recruitment center for foreign volunteers, Ukrainian Prime Minister announces",
-       "url": "https://kyivindependent.com/ukrainian-national-guard-creates-recruitment-center-for-foreign-volunteers-ukrainian-prime-minister-announces/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-09-18 17:34"
       }
      ]
     }
