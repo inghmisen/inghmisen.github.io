@@ -1,12 +1,12 @@
 {
  "date": "Monday 21 September 2026",
- "generated_at": "01:30 UTC",
+ "generated_at": "07:49 UTC",
  "error": null,
- "total_stories": 75,
+ "total_stories": 78,
  "fx": {
   "pair": "EUR/MAD",
   "rate": 10.93,
-  "change_pct": 0.24
+  "change_pct": 0.0
  },
  "lanes": [
   {
@@ -16,28 +16,28 @@
    "note": null,
    "clusters": [
     {
-     "label": "Qwen",
+     "label": "Qwen · Image",
      "articles": [
       {
-       "title": "Would you buy a Qwen3.8-27B Taalas chip for $1k if it could run at 7,000 TPS?",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wltts7/would_you_buy_a_qwen3827b_taalas_chip_for_1k_if/",
+       "title": "Clarification on the Qwen-image-2.1 license",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wm4o8x/clarification_on_the_qwenimage21_license/",
        "source": "r/LocalLLaMA",
-       "published_at": "2026-09-20 21:41"
+       "published_at": "2026-09-21 06:17"
       },
       {
-       "title": "Qwen3.8-Flash-Next Cosmic Arcade oneshot slop game",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wlqxeu/qwen38flashnext_cosmic_arcade_oneshot_slop_game/",
+       "title": "Foulmouth Qwen 3.8 27b, an unexpected thought process...",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wm0xio/foulmouth_qwen_38_27b_an_unexpected_thought/",
        "source": "r/LocalLLaMA",
-       "published_at": "2026-09-20 19:49"
+       "published_at": "2026-09-21 03:01"
       },
       {
-       "title": "harshatheg/Qwen-2.5-1B-RLCD · 478 ♥",
+       "title": "harshatheg/Qwen-2.5-1B-RLCD · 487 ♥",
        "url": "https://huggingface.co/harshatheg/Qwen-2.5-1B-RLCD",
        "source": "HF new models",
        "published_at": "2026-09-16 01:35"
       },
       {
-       "title": "Qwen/Qwen-Image-2.1 · 778 ♥",
+       "title": "Qwen/Qwen-Image-2.1 · 1032 ♥",
        "url": "https://huggingface.co/Qwen/Qwen-Image-2.1",
        "source": "HF new models",
        "published_at": "2026-09-14 03:47"
@@ -45,25 +45,14 @@
      ]
     },
     {
-     "label": "Jev",
-     "articles": [
-      {
-       "title": "You can use any LLM just like JEV",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wlxpaw/you_can_use_any_llm_just_like_jev/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-09-21 00:28"
-      },
-      {
-       "title": "DIY Jev",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wlu9rd/diy_jev/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-09-20 21:59"
-      }
-     ]
-    },
-    {
      "label": "Open",
      "articles": [
+      {
+       "title": "ZCode is now open source",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wlzvcx/zcode_is_now_open_source/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-21 02:09"
+      },
       {
        "title": "Wow... thank goodness for open weights!!!",
        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wlvb3y/wow_thank_goodness_for_open_weights/",
@@ -71,7 +60,7 @@
        "published_at": "2026-09-20 22:44"
       },
       {
-       "title": "Google's Open Agentic Orchestrator",
+       "title": "AX – Google’s Open Agentic Orchestrator",
        "url": "https://agentexecutor.io",
        "source": "Hacker News",
        "published_at": "2026-09-20 22:32"
@@ -79,8 +68,54 @@
      ]
     },
     {
+     "label": "Ternary · Bonsai",
+     "articles": [
+      {
+       "title": "What's the verdict on Ternary Bonsai 2 27B?",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wm3yvy/whats_the_verdict_on_ternary_bonsai_2_27b/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-21 05:38"
+      },
+      {
+       "title": "prism-ml/Ternary-Bonsai-2-27B-gguf · 1583 ♥",
+       "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
+       "source": "HF new models",
+       "published_at": "2026-09-16 23:40"
+      }
+     ]
+    },
+    {
+     "label": "Agi",
+     "articles": [
+      {
+       "title": "mini-AGI - dynamically grown (530M params currently and growing) continual learning model trained from scratch on 8GB VRAM laptop from batch-1 stream of data.",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wm1gab/miniagi_dynamically_grown_530m_params_currently/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-21 03:26"
+      },
+      {
+       "title": "XingChen-AGI/Xing4.0-29B-A4B · 959 ♥",
+       "url": "https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B",
+       "source": "HF new models",
+       "published_at": "2026-09-16 06:44"
+      }
+     ]
+    },
+    {
      "label": "More headlines",
      "articles": [
+      {
+       "title": "convaiinnovations/laya (multilingual, non-autoregressive System 1 decision model)",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wm0cn0/convaiinnovationslaya_multilingual/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-21 02:33"
+      },
+      {
+       "title": "You can use any LLM just like JEV",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wlxpaw/you_can_use_any_llm_just_like_jev/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-21 00:28"
+      },
       {
        "title": "Seeing how differently people prompt LLMs is funny",
        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wlvv8h/seeing_how_differently_people_prompt_llms_is_funny/",
@@ -94,52 +129,22 @@
        "published_at": "2026-09-20 23:00"
       },
       {
-       "title": "Speed-up Kimi K3(2.8T) on a 16x GB10 Cluster — 30 t/s coding throughput, 136 t/s concurrency peak.",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wlt577/speedup_kimi_k328t_on_a_16x_gb10_cluster_30_ts/",
+       "title": "DIY Jev",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wlu9rd/diy_jev/",
        "source": "r/LocalLLaMA",
-       "published_at": "2026-09-20 21:14"
+       "published_at": "2026-09-20 21:59"
       },
       {
-       "title": "Ling 3.0 Tiny vs. Gemma 26B-A4B MoE",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wlt33y/ling_30_tiny_vs_gemma_26ba4b_moe/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-09-20 21:11"
-      },
-      {
-       "title": "Postulate: Context compaction is good for Quantized models",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wlss89/postulate_context_compaction_is_good_for/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-09-20 21:00"
-      },
-      {
-       "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
-       "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
-       "source": "Verge AI",
-       "published_at": "2026-09-20 18:50"
-      },
-      {
-       "title": "convaiinnovations/laya · 1107 ♥",
+       "title": "convaiinnovations/laya · 1304 ♥",
        "url": "https://huggingface.co/convaiinnovations/laya",
        "source": "HF new models",
        "published_at": "2026-09-18 05:05"
       },
       {
-       "title": "prism-ml/Ternary-Bonsai-2-27B-gguf · 1500 ♥",
-       "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
+       "title": "AlexWortega/openjev · 351 ♥",
+       "url": "https://huggingface.co/AlexWortega/openjev",
        "source": "HF new models",
-       "published_at": "2026-09-16 23:40"
-      },
-      {
-       "title": "XingChen-AGI/Xing4.0-29B-A4B · 894 ♥",
-       "url": "https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B",
-       "source": "HF new models",
-       "published_at": "2026-09-16 06:44"
-      },
-      {
-       "title": "deepseek-ai/DeepSeek-V4.1-Flash · 3437 ♥",
-       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
-       "source": "HF new models",
-       "published_at": "2026-09-10 02:17"
+       "published_at": "2026-09-16 18:25"
       }
      ]
     }
@@ -170,7 +175,7 @@
      ]
     },
     {
-     "label": "Bestuursfotoverkiezing · Grote",
+     "label": "Grote · Bestuursfotoverkiezing",
      "articles": [
       {
        "title": "De Grote U-Today Bestuursfotoverkiezing 2026, de uitslag",
@@ -189,6 +194,12 @@
     {
      "label": "More headlines",
      "articles": [
+      {
+       "title": "EEMCS-bestuur: ‘Publicatie schetst onjuist en onvolledig beeld’",
+       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcXp6YWNOeDFmaFMzbGtNMkNuR2pCMDg1cktPSDhmUHJpcFpEZGxSdDhnT2Z0Vk1hLUMzVU9XTlZFZzV6Z1JYVWF5a1EtRjJzQ2t5aGJrNVF2QlY2NW9ZaE5rN29Bc1hJN2xZaGlVdEJkZWhfbnlLaXlodDFJWl9XX0NrWmpicXVYVXhJX0gzZWFEdEdzT1YxeQ?oc=5",
+       "source": "UToday",
+       "published_at": "2026-09-01 07:00"
+      },
       {
        "title": "VU-decaan Gregor Halff wordt nieuwe collegevoorzitter UT",
        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNelJaUlduTjhxNE8xZDY1TnJ6SjBORmx0RnZzd2l1SWktVUduX0RKZ2NDbG9VYVQ3MXRWTzF5T1N2SDhqRjRsY3A2bXNNY3BrZFA4cVRfTFFGeWl2eGNxTzV1ZmFaV0JnakFRY2JGTXc1OTNKNEp0RnZZZ3RlMHJydnphUHhzR005UndWbmc5Y1l4bkU?oc=5",
@@ -218,12 +229,6 @@
        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQT29BdUtWMzZVZGRpYTF4N1lCalhLcUE2YnJnY1JHb0xVQ0EyTVpmYm9aR1FBaHN4QVFMcTBjRUJlcl81SmxWVFlGRndfbkdISVp4RXlSenl6Y29UdWduNE1fUE5Xa19Ca2owNFlsUllfbWhkbkVCZkVKaGExM24yOW16NFZsbmtjMUk0cjFUbkhNV2M?oc=5",
        "source": "UToday",
        "published_at": "2026-05-23 07:00"
-      },
-      {
-       "title": "Pakkerij moet per direct deuren sluiten na inspectie",
-       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcmppb3BwZ0tnV21aNTBCQm1EQzhudzZDeW1BUU5VZ0Y0NjlBUHFkUUNoNWNYeUtNWjZ3Zk9QbTF3VGZydTdBbUk0NzJtVFpONlVfLXZwbm9HNXhEX1p2WEFUTU1GeTQzVWtQcjdZWnJ3eUFjZVd6SFFSZWRBdVdweGNiRUFBcWIwZ3NtNUdn?oc=5",
-       "source": "UToday",
-       "published_at": "2026-05-21 07:00"
       }
      ]
     }
@@ -237,36 +242,36 @@
    "note": null,
    "clusters": [
     {
-     "label": "لقجع",
+     "label": "وكالات",
      "articles": [
       {
-       "title": "لقجع يدعو من بوزنيقة إلى \"تغيير المسار كاملا\" في تدبير الشأن العام",
-       "url": "https://www.hespress.com/%d9%84%d9%82%d8%ac%d8%b9-%d9%8a%d8%af%d8%b9%d9%88-%d9%85%d9%86-%d8%a8%d9%88%d8%b2%d9%86%d9%8a%d9%82%d8%a9-%d8%a5%d9%84%d9%89-%d8%aa%d8%ba%d9%8a%d9%8a%d8%b1-%d8%a7%d9%84%d9%85%d8%b3%d8%a7%d8%b1-%d9%83-1810630.html",
+       "title": "وكالات التصويت تتدفق على تنغير",
+       "url": "https://www.hespress.com/%d9%88%d9%83%d8%a7%d9%84%d8%a7%d8%aa-%d8%a7%d9%84%d8%aa%d8%b5%d9%88%d9%8a%d8%aa-%d8%aa%d8%aa%d8%af%d9%81%d9%82-%d8%b9%d9%84%d9%89-%d8%aa%d9%86%d8%ba%d9%8a%d8%b1-1810376.html",
        "source": "Hespress",
-       "published_at": "2026-09-21 00:15"
+       "published_at": "2026-09-21 07:16"
       },
       {
-       "title": "لقجع وواقع الصحة بالمغرب",
-       "url": "https://www.hespress.com/%d9%84%d9%82%d8%ac%d8%b9-%d9%88%d9%88%d8%a7%d9%82%d8%b9-%d8%a7%d9%84%d8%b5%d8%ad%d8%a9-%d8%a8%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-1810639.html",
+       "title": "بعد الازدحام في الصيف .. وكالات الأسفار المغربية تترقب إيقاع الخريف",
+       "url": "https://www.hespress.com/%d8%a8%d8%b9%d8%af-%d8%a7%d9%84%d8%a7%d8%b2%d8%af%d8%ad%d8%a7%d9%85-%d9%81%d9%8a-%d8%a7%d9%84%d8%b5%d9%8a%d9%81-%d9%88%d9%83%d8%a7%d9%84%d8%a7%d8%aa-%d8%a7%d9%84%d8%a3%d8%b3%d9%81%d8%a7%d8%b1-1809593.html",
        "source": "Hespress",
-       "published_at": "2026-09-20 23:56"
+       "published_at": "2026-09-21 02:00"
       }
      ]
     },
     {
-     "label": "فرنسا",
+     "label": "إلى",
      "articles": [
       {
-       "title": "أمين حارث يصاب في كلاسيكو فرنسا",
-       "url": "https://www.hespress.com/%d8%a3%d9%85%d9%8a%d9%86-%d8%ad%d8%a7%d8%b1%d8%ab-%d9%8a%d8%b5%d8%a7%d8%a8-%d9%81%d9%8a-%d9%83%d9%84%d8%a7%d8%b3%d9%8a%d9%83%d9%88-%d9%81%d8%b1%d9%86%d8%b3%d8%a7-1810600.html",
+       "title": "من المؤسسات الرسمية إلى التدين الشعبي .. تقرير يفحص \"الحالة الدينية\"",
+       "url": "https://www.hespress.com/%d9%85%d9%86-%d8%a7%d9%84%d9%85%d8%a4%d8%b3%d8%b3%d8%a7%d8%aa-%d8%a7%d9%84%d8%b1%d8%b3%d9%85%d9%8a%d8%a9-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d8%aa%d8%af%d9%8a%d9%86-%d8%a7%d9%84%d8%b4%d8%b9%d8%a8%d9%8a-1809876.html",
        "source": "Hespress",
-       "published_at": "2026-09-21 00:09"
+       "published_at": "2026-09-21 05:00"
       },
       {
-       "title": "الديزل يسجل سعرا تاريخيا في فرنسا",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%af%d9%8a%d8%b2%d9%84-%d9%8a%d8%b3%d8%ac%d9%84-%d8%b3%d8%b9%d8%b1%d8%a7-%d8%aa%d8%a7%d8%b1%d9%8a%d8%ae%d9%8a%d8%a7-%d8%a8%d9%81%d8%b1%d9%86%d8%b3%d8%a7-1810240.html",
+       "title": "نهب الرمال يعود إلى سواحل تطوان",
+       "url": "https://www.hespress.com/%d9%86%d9%87%d8%a8-%d8%a7%d9%84%d8%b1%d9%85%d8%a7%d9%84-%d9%8a%d8%b9%d9%88%d8%af-%d8%a5%d9%84%d9%89-%d8%b3%d9%88%d8%a7%d8%ad%d9%84-%d8%aa%d8%b7%d9%88%d8%a7%d9%86-1810359.html",
        "source": "Hespress",
-       "published_at": "2026-09-20 23:06"
+       "published_at": "2026-09-21 04:28"
       }
      ]
     },
@@ -274,52 +279,52 @@
      "label": "More headlines",
      "articles": [
       {
-       "title": "اليابان تواجه تصاعد شيخوخة السكان",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%8a%d8%a7%d8%a8%d8%a7%d9%86-%d8%aa%d9%88%d8%a7%d8%ac%d9%87-%d8%aa%d8%b5%d8%a7%d8%b9%d8%af-%d8%b4%d9%8a%d8%ae%d9%88%d8%ae%d8%a9-%d8%a7%d9%84%d8%b3%d9%83%d8%a7%d9%86-1810251.html",
+       "title": "خوارزميات الذكاء الاصطناعي تقتحم الواجبات المنزلية وتهدد اجتهاد التلميذ",
+       "url": "https://www.hespress.com/%d8%ae%d9%88%d8%a7%d8%b1%d8%b2%d9%85%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1-%d8%a7%d9%84%d8%a7%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a-%d8%aa%d9%82%d8%aa%d8%ad%d9%85-%d8%a7%d9%84%d9%88-1810031.html",
        "source": "Hespress",
-       "published_at": "2026-09-21 01:15"
+       "published_at": "2026-09-21 07:00"
       },
       {
-       "title": "تكنولوجيا الذكاء الاصطناعي و\"نهاية العالم\".. ماذا يخشى البشر من الآلة؟",
-       "url": "https://www.hespress.com/%d8%aa%d9%83%d9%86%d9%88%d9%84%d9%88%d8%ac%d9%8a%d8%a7-%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1-%d8%a7%d9%84%d8%a7%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a-%d9%88%d9%86%d9%87%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84-1810438.html",
+       "title": "توقعات طقس اليوم الاثنين بالمغرب",
+       "url": "https://www.hespress.com/%d8%aa%d9%88%d9%82%d8%b9%d8%a7%d8%aa-%d8%b7%d9%82%d8%b3-%d8%a7%d9%84%d9%8a%d9%88%d9%85-%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86-%d8%a8%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-78-1810483.html",
        "source": "Hespress",
-       "published_at": "2026-09-21 01:00"
+       "published_at": "2026-09-21 06:09"
       },
       {
-       "title": "\"الأحرار\" على جناح \"الحمامة البيضاء\"",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%a3%d8%ad%d8%b1%d8%a7%d8%b1-%d8%b9%d9%84%d9%89-%d8%ac%d9%86%d8%a7%d8%ad-%d8%a7%d9%84%d8%ad%d9%85%d8%a7%d9%85%d8%a9-%d8%a7%d9%84%d8%a8%d9%8a%d8%b6%d8%a7%d8%a1-1810675.html",
+       "title": "متى تصير ملفات \"الإسلام والهجرة\" خارج اللعبة السياسية في أوروبا؟",
+       "url": "https://www.hespress.com/%d9%85%d8%aa%d9%89-%d8%aa%d8%b5%d9%8a%d8%b1-%d9%85%d9%84%d9%81%d8%a7%d8%aa-%d8%a7%d9%84%d8%a5%d8%b3%d9%84%d8%a7%d9%85-%d9%88%d8%a7%d9%84%d9%87%d8%ac%d8%b1%d8%a9-%d8%ae%d8%a7%d8%b1%d8%ac-%d8%a7-1810380.html",
        "source": "Hespress",
-       "published_at": "2026-09-21 00:30"
+       "published_at": "2026-09-21 06:00"
       },
       {
-       "title": "العلمي من تطوان: تحصين المكتسبات مسؤولية.. والتراجع باهظ الكلفة",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%b9%d9%84%d9%85%d9%8a-%d9%85%d9%86-%d8%aa%d8%b7%d9%88%d8%a7%d9%86-%d8%aa%d8%ad%d8%b5%d9%8a%d9%86-%d8%a7%d9%84%d9%85%d9%83%d8%aa%d8%b3%d8%a8%d8%a7%d8%aa-%d9%85%d8%b3%d8%a4%d9%88%d9%84-1810659.html",
+       "title": "كوت ديفوار تطمح تصدر إنتاج الذهب",
+       "url": "https://www.hespress.com/%d9%83%d9%88%d8%aa-%d8%af%d9%8a%d9%81%d9%88%d8%a7%d8%b1-%d8%aa%d8%b7%d9%85%d8%ad-%d8%aa%d8%b5%d8%af%d8%b1-%d8%a5%d9%86%d8%aa%d8%a7%d8%ac-%d8%a7%d9%84%d8%b0%d9%87%d8%a8-1810446.html",
        "source": "Hespress",
-       "published_at": "2026-09-21 00:30"
+       "published_at": "2026-09-21 05:20"
       },
       {
-       "title": "البواري يرفض \"تسييس دعم الفلّاح\" ومورو يأمل استكمال الأوراش المفتوحة",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%a8%d9%88%d8%a7%d8%b1%d9%8a-%d9%8a%d8%b1%d9%81%d8%b6-%d8%aa%d8%b3%d9%8a%d9%8a%d8%b3-%d8%af%d8%b9%d9%85-%d8%a7%d9%84%d9%81%d9%84%d9%91%d8%a7%d8%ad-%d9%88%d9%85%d9%88%d8%b1%d9%88-1810650.html",
+       "title": "نقابة تلم مهنيي الصحة بالعمومي والخصوصي لمواكبة تنزيل المجموعات",
+       "url": "https://www.hespress.com/%d9%86%d9%82%d8%a7%d8%a8%d8%a9-%d8%aa%d9%84%d9%85-%d9%85%d9%87%d9%86%d9%8a%d9%8a-%d8%a7%d9%84%d8%b5%d8%ad%d8%a9-%d8%a8%d8%a7%d9%84%d8%b9%d9%85%d9%88%d9%85%d9%8a-%d9%88%d8%a7%d9%84%d8%ae%d8%b5%d9%88-1810463.html",
        "source": "Hespress",
-       "published_at": "2026-09-20 23:59"
+       "published_at": "2026-09-21 04:00"
       },
       {
-       "title": "أرازي: لاعبو التنس المغاربة أكثر نضجا",
-       "url": "https://www.hespress.com/%d8%a3%d8%b1%d8%a7%d8%b2%d9%8a-%d9%84%d8%a7%d8%b9%d8%a8%d9%88-%d8%a7%d9%84%d8%aa%d9%86%d8%b3-%d8%a7%d9%84%d9%85%d8%ba%d8%a7%d8%b1%d8%a8%d8%a9-%d8%a3%d9%83%d8%ab%d8%b1-%d9%86%d8%b6%d8%ac%d8%a7-1810590.html",
+       "title": "فرنسا تنتفض ضد قانون رخصة القتل",
+       "url": "https://www.hespress.com/%d9%81%d8%b1%d9%86%d8%b3%d8%a7-%d8%aa%d9%86%d8%aa%d9%81%d8%b6-%d8%b6%d8%af-%d9%82%d8%a7%d9%86%d9%88%d9%86-%d8%b1%d8%ae%d8%b5%d8%a9-%d8%a7%d9%84%d9%82%d8%aa%d9%84-1810494.html",
        "source": "Hespress",
-       "published_at": "2026-09-20 23:46"
+       "published_at": "2026-09-21 03:12"
       },
       {
-       "title": "بنسعيد: الحوار مع المحامين ممكن.. و\"البام\" لم يتبرأ من حصيلة الحكومة",
-       "url": "https://www.hespress.com/%d8%a8%d9%86%d8%b3%d8%b9%d9%8a%d8%af-%d8%a7%d9%84%d8%ad%d9%88%d8%a7%d8%b1-%d9%85%d8%b9-%d8%a7%d9%84%d9%85%d8%ad%d8%a7%d9%85%d9%8a%d9%86-%d9%85%d9%85%d9%83%d9%86-%d9%88%d8%a7%d9%84%d8%a8%d8%a7-1810627.html",
+       "title": "حرب إيران تكشف الفجوة بين النجاح العسكري والإنجاز الاستراتيجي لأمريكا",
+       "url": "https://www.hespress.com/%d8%ad%d8%b1%d8%a8-%d8%a5%d9%8a%d8%b1%d8%a7%d9%86-%d8%aa%d9%83%d8%b4%d9%81-%d8%a7%d9%84%d9%81%d8%ac%d9%88%d8%a9-%d8%a8%d9%8a%d9%86-%d8%a7%d9%84%d9%86%d8%ac%d8%a7%d8%ad-%d8%a7%d9%84%d8%b9%d8%b3%d9%83-1810278.html",
        "source": "Hespress",
-       "published_at": "2026-09-20 23:45"
+       "published_at": "2026-09-21 03:00"
       },
       {
-       "title": "شوكي: المواطن والمغرب العميق",
-       "url": "https://www.hespress.com/%d8%b4%d9%88%d9%83%d9%8a-%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%b7%d9%86-%d9%88%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d8%a7%d9%84%d8%b9%d9%85%d9%8a%d9%82-1810643.html",
+       "title": "الكوكب يعزز قائمة مستشهريه بعقدين",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%83%d9%88%d9%83%d8%a8-%d9%8a%d8%b9%d8%b2%d8%b2-%d9%82%d8%a7%d8%a6%d9%85%d8%a9-%d9%85%d8%b3%d8%aa%d8%b4%d9%87%d8%b1%d9%8a%d9%87-%d8%a8%d8%b9%d9%82%d8%af%d9%8a%d9%86-1810487.html",
        "source": "Hespress",
-       "published_at": "2026-09-20 23:09"
+       "published_at": "2026-09-21 02:18"
       },
       {
        "title": "GST : radioscopie d'un organigramme à six étages",
@@ -369,25 +374,53 @@
    "note": null,
    "clusters": [
     {
-     "label": "Afd · Boekt",
+     "label": "Plan",
      "articles": [
       {
-       "title": "Video | AfD boekt opnieuw verkiezingswinst: 'We zijn meer dan verdubbeld'",
-       "url": "https://www.nu.nl/330462/video/afd-boekt-opnieuw-verkiezingswinst-we-zijn-meer-dan-verdubbeld.html",
+       "title": "Kabinet komt met plan voor snelle woningbouw om huizentekort aan te pakken",
+       "url": "https://www.nu.nl/politiek/6410433/kabinet-komt-met-plan-voor-snelle-woningbouw-om-huizentekort-aan-te-pakken.html",
        "source": "NU.nl",
-       "published_at": "2026-09-20 19:43"
+       "published_at": "2026-09-21 07:42"
       },
       {
-       "title": "Grote klap voor CDU in Duitse deelstaatverkiezingen, AfD lijkt de grootste",
-       "url": "https://www.nu.nl/buitenland/6410390/grote-klap-voor-cdu-in-duitse-deelstaatverkiezingen-afd-lijkt-de-grootste.html",
+       "title": "Video | Italiaanse premier krijgt applaus voor plan voor verbod op gezichtsbedekkende kleding",
+       "url": "https://www.nu.nl/330468/video/italiaanse-premier-krijgt-applaus-voor-plan-voor-verbod-op-gezichtsbedekkende-kleding.html",
        "source": "NU.nl",
-       "published_at": "2026-09-20 16:23"
-      },
+       "published_at": "2026-09-21 06:42"
+      }
+     ]
+    },
+    {
+     "label": "Partij",
+     "articles": [
       {
-       "title": "Radicaal-rechtse AfD boekt forse winst bij Duitse deelstaatverkiezingen, CDU lijdt historische nederlaag",
-       "url": "https://www.telegraaf.nl/buitenland/radicaal-rechtse-afd-boekt-forse-winst-bij-duitse-deelstaatverkiezingen-cdu-lijdt-historische-nederlaag/161722957.html",
+       "title": "LIVE | Partij van Poetin bouwt voorsprong bij parlementsverkiezingen verder uit",
+       "url": "https://www.telegraaf.nl/buitenland/live-partij-van-poetin-bouwt-voorsprong-bij-parlementsverkiezingen-verder-uit/161733888.html",
        "source": "de Telegraaf",
-       "published_at": "2026-09-20 16:18"
+       "published_at": "2026-09-21 07:06"
+      },
+      {
+       "title": "AfD schokt Duitsland: radicaal rechts grootste partij bij deelstaatverkiezingen, CDU haalt kiesdrempel niet",
+       "url": "https://www.telegraaf.nl/buitenland/afd-schokt-duitsland-radicaal-rechts-grootste-partij-bij-deelstaatverkiezingen-cdu-haalt-kiesdrempel-niet/161710729.html",
+       "source": "de Telegraaf",
+       "published_at": "2026-09-20 23:59"
+      }
+     ]
+    },
+    {
+     "label": "Energie",
+     "articles": [
+      {
+       "title": "Gian van Veen is op qua energie en baalt van gemiste kans: ’Elke keer verzaak je, dat doet ontzettend pijn’",
+       "url": "https://www.telegraaf.nl/sport/darts/gian-van-veen-is-op-qua-energie-en-baalt-van-gemiste-kans-elke-keer-verzaak-je-dat-doet-ontzettend-pijn/161734939.html",
+       "source": "de Telegraaf",
+       "published_at": "2026-09-21 06:19"
+      },
+      {
+       "title": "Weekhoroscoop 39: ’Je zit lekker in je energie en dat merk je ook in je liefdesleven, Leeuw",
+       "url": "https://www.telegraaf.nl/vrouw/weekhoroscoop-39-je-zit-lekker-in-je-energie-en-dat-merk-je-ook-in-je-liefdesleven-leeuw/161601462.html",
+       "source": "de Telegraaf",
+       "published_at": "2026-09-21 01:30"
       }
      ]
     },
@@ -395,21 +428,21 @@
      "label": "More headlines",
      "articles": [
       {
-       "title": "Regeringspartij van Poetin leidt bij verkiezingen zonder oppositie in Rusland",
-       "url": "https://www.nu.nl/buitenland/6410404/regeringspartij-van-poetin-leidt-bij-verkiezingen-zonder-oppositie-in-rusland.html",
+       "title": "Koopkracht Nederlandse huishoudens stijgt met gemiddeld 1,2 procent",
+       "url": "https://www.nu.nl/economie/6410421/koopkracht-nederlandse-huishoudens-stijgt-met-gemiddeld-12-procent.html",
        "source": "NU.nl",
-       "published_at": "2026-09-20 19:42"
+       "published_at": "2026-09-21 06:24"
       },
       {
-       "title": "NEC verspeelt ook punten tegen Go Ahead Eagles ondanks snelle goal Schuurs",
-       "url": "https://www.nu.nl/voetbal/6410392/nec-verspeelt-ook-punten-tegen-go-ahead-eagles-ondanks-snelle-goal-schuurs.html",
+       "title": "Video | AfD boekt opnieuw verkiezingswinst: 'We zijn meer dan verdubbeld'",
+       "url": "https://www.nu.nl/330462/video/afd-boekt-opnieuw-verkiezingswinst-we-zijn-meer-dan-verdubbeld.html",
        "source": "NU.nl",
-       "published_at": "2026-09-20 16:36"
+       "published_at": "2026-09-20 19:43"
       }
      ]
     }
    ],
-   "count": 5
+   "count": 8
   },
   {
    "key": "mideast",
@@ -418,10 +451,16 @@
    "note": null,
    "clusters": [
     {
-     "label": "Iran · Qatar",
+     "label": "Iran · Tehran",
      "articles": [
       {
-       "title": "Iran war live: Tehran warns US against new strikes; fighting rages in Yemen",
+       "title": "Iran’s military says US preparing to resume strikes",
+       "url": "https://www.aljazeera.com/news/2026/9/21/irans-military-says-us-preparing-to-resume-strikes?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-09-21 05:21"
+      },
+      {
+       "title": "Iran war live: Tehran says world will be ‘astonished’ by its new weapons",
        "url": "https://www.aljazeera.com/news/liveblog/2026/9/21/iran-war-live-tehran-warns-us-against-new-strikes-fighting-rages-in-yemen?traffic_source=rss",
        "source": "Al Jazeera",
        "published_at": "2026-09-21 00:00"
@@ -443,12 +482,6 @@
        "url": "https://www.aljazeera.com/news/2026/9/20/qatari-pm-warns-against-cycles-of-escalation-in-the-middle-east?traffic_source=rss",
        "source": "Al Jazeera",
        "published_at": "2026-09-20 20:13"
-      },
-      {
-       "title": "Qatar says it is working to revive Iran-US talks",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/qatar-says-it-is-working-to-revive-iran-us-talks?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-09-20 19:36"
       }
      ]
     },
@@ -479,9 +512,9 @@
      "label": "More headlines",
      "articles": [
       {
-       "title": "UK minister warns of impact of Trump’s Iran war on next month’s budget",
-       "url": "https://www.theguardian.com/politics/2026/sep/20/uk-budget-made-harder-donald-trump-war-iran-bridget-phillipson-andy-burnham",
-       "source": "Guardian World",
+       "title": "Qatar says it is working to revive Iran-US talks",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/qatar-says-it-is-working-to-revive-iran-us-talks?traffic_source=rss",
+       "source": "Al Jazeera",
        "published_at": "2026-09-20 19:36"
       },
       {
@@ -514,19 +547,25 @@
    "note": null,
    "clusters": [
     {
-     "label": "Russian · Ruling",
+     "label": "Russian · Strikes",
      "articles": [
+      {
+       "title": "Ukraine's oil and gas giant to build storage sites in Hungary amid fears of Russian winter strikes",
+       "url": "https://kyivindependent.com/ukraines-oil-and-gas-giant-to-build-storage-sites-in-hungary-amid-fears-of-russian-winter-strikes/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-09-21 07:30"
+      },
+      {
+       "title": "'No surprises' as results emerge in Russian parliamentary election",
+       "url": "https://www.bbc.co.uk/news/videos/cjp30pq0rx6ro?at_medium=RSS&at_campaign=rss",
+       "source": "BBC World",
+       "published_at": "2026-09-21 06:58"
+      },
       {
        "title": "Putin's ruling party set to claim 'victory' in Russian parliamentary election, in results deemed predetermined",
        "url": "https://kyivindependent.com/putins-ruling-party-set-to-claim-victory-in-russian-parliamentary-election-in-results-deemed-predetermined/",
        "source": "Kyiv Independent",
        "published_at": "2026-09-20 23:04"
-      },
-      {
-       "title": "Polls close in Russian wartime election with ruling party set to dominate",
-       "url": "https://www.aljazeera.com/news/2026/9/20/polls-close-in-russian-wartime-election-with-ruling-party-set-to-dominate?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-09-20 22:54"
       },
       {
        "title": "Ukraine war latest: Zelensky approves 'new long-range operations' in response to Russian strikes",
@@ -539,6 +578,23 @@
        "url": "https://kyivindependent.com/russian-drone-attack-damages-warehouses-businesses-across-kyiv-oblast/",
        "source": "Kyiv Independent",
        "published_at": "2026-09-20 17:43"
+      }
+     ]
+    },
+    {
+     "label": "Ukraine · Russia",
+     "articles": [
+      {
+       "title": "General Staff: Russia has lost 1,519,650 troops in Ukraine since Feb. 24, 2022",
+       "url": "https://kyivindependent.com/general-staff-russia-has-lost-1-519-650-troops-in-ukraine-since-feb-24-2022/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-09-21 06:28"
+      },
+      {
+       "title": "Russia launched more than 2,000 drones at Ukraine over past week, Zelensky says",
+       "url": "https://kyivindependent.com/russia-launched-more-than-2-000-drones-at-ukraine-over-past-week-zelensky-says/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-09-21 04:17"
       },
       {
        "title": "No tanks, lone soldiers — Ukraine details new Russian assault tactics",
@@ -549,36 +605,24 @@
      ]
     },
     {
-     "label": "Ukraine · Russian",
+     "label": "Results · Russia",
      "articles": [
       {
-       "title": "Ukraine targets Moscow with hundreds of drones on final day of Russian election",
-       "url": "https://www.theguardian.com/world/2026/sep/20/hundreds-of-drones-target-moscow-on-last-day-of-voting-in-russias-parliamentary-election",
-       "source": "Guardian World",
-       "published_at": "2026-09-20 14:44"
-      },
-      {
-       "title": "Russian attacks kill at least 8, wound 30 across Ukraine, as a child injured in Sept. 19 strike dies in hospital",
-       "url": "https://kyivindependent.com/russian-attacks-kill-at-least-8-wound-30-across-ukraine-as-a-child-injured-in-sept-19-strike-dies-in-hospital/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-09-20 11:14"
-      },
-      {
-       "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
-       "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
+       "title": "Russia's elections had few surprises - but how the Kremlin uses the results will be crucial",
+       "url": "https://www.bbc.co.uk/news/articles/cx4gqv239043o?at_medium=RSS&at_campaign=rss",
        "source": "BBC World",
-       "published_at": "2026-09-20 10:45"
+       "published_at": "2026-09-21 00:05"
       },
       {
-       "title": "Ukraine reveals new Operation Vivaldi gains in Donetsk Oblast",
-       "url": "https://kyivindependent.com/ukraine-reveals-new-operation-vivaldi-gains-in-donetsk-oblast/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-09-20 09:46"
+       "title": "Ruling party dominates early results in Russia’s wartime parliamentary vote",
+       "url": "https://www.aljazeera.com/news/2026/9/20/polls-close-in-russian-wartime-election-with-ruling-party-set-to-dominate?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-09-20 22:54"
       }
      ]
     },
     {
-     "label": "Zelensky",
+     "label": "More headlines",
      "articles": [
       {
        "title": "Zelensky, Trump to meet in New York in talks that ‘could change a lot’",
@@ -586,17 +630,6 @@
        "source": "Kyiv Independent",
        "published_at": "2026-09-20 19:42"
       },
-      {
-       "title": "Why Zelensky is facing a political crisis",
-       "url": "https://kyivindependent.com/why-zelensky-is-facing-a-political-crisis-2/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-09-20 12:10"
-      }
-     ]
-    },
-    {
-     "label": "More headlines",
-     "articles": [
       {
        "title": "European spy chiefs warn Moscow is planning more decisive action against Nato",
        "url": "https://www.theguardian.com/world/2026/sep/20/baltic-spy-chiefs-warn-moscow-is-preparing-for-more-decisive-action-in-europe",
