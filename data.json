@@ -1,6 +1,6 @@
 {
  "date": "Monday 21 September 2026",
- "generated_at": "19:56 UTC",
+ "generated_at": "23:11 UTC",
  "error": null,
  "total_stories": 76,
  "fx": {
@@ -16,8 +16,14 @@
    "note": null,
    "clusters": [
     {
-     "label": "Qwen · Image",
+     "label": "Qwen",
      "articles": [
+      {
+       "title": "XiaomiMiMo/MiMo-V2.6-Distill-Qwen-9B",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmp2di/xiaomimimomimov26distillqwen9b/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-21 20:51"
+      },
       {
        "title": "yandex/AliceAI-Foundation-80B-A3B-Base: Russian-developed competitor to Qwen 35B and DeepSeek V4 Flash",
        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmmnrt/yandexaliceaifoundation80ba3bbase/",
@@ -25,25 +31,53 @@
        "published_at": "2026-09-21 19:24"
       },
       {
-       "title": "Putting the question before the context took my local Qwen from 89% to 100% on a decision benchmark, and from ~400 ms to ~80 ms",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmd3xx/putting_the_question_before_the_context_took_my/",
+       "title": "Can a relatively small language model (Qwen 3.8 27B) understand visual style and not just describe it?I asked it to recreate 618 visual language of designers, artists, movements etc and then transfer those ideas into entirely new SVG artworks and pages. Here what we have:",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmjpag/can_a_relatively_small_language_model_qwen_38_27b/",
        "source": "r/LocalLLaMA",
-       "published_at": "2026-09-21 13:39"
+       "published_at": "2026-09-21 17:39"
       },
       {
-       "title": "abenzerps/Qwen-Image-2.1-GGUF · 526 ♥",
+       "title": "abenzerps/Qwen-Image-2.1-GGUF · 601 ♥",
        "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-GGUF",
        "source": "HF new models",
        "published_at": "2026-09-20 15:51"
       },
       {
-       "title": "harshatheg/Qwen-2.5-1B-RLCD · 510 ♥",
+       "title": "harshatheg/Qwen-2.5-1B-RLCD · 517 ♥",
        "url": "https://huggingface.co/harshatheg/Qwen-2.5-1B-RLCD",
        "source": "HF new models",
        "published_at": "2026-09-16 01:35"
+      }
+     ]
+    },
+    {
+     "label": "Mimo · Flash",
+     "articles": [
+      {
+       "title": "Mimo v2.6-Flash-RL vs open-weight models",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmp5h2/mimo_v26flashrl_vs_openweight_models/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-21 20:54"
       },
       {
-       "title": "Comfy-Org/Qwen-Image-2.1 · 422 ♥",
+       "title": "XiaomiMiMo/MiMo-V2.6-Flash-RL · Hugging Face",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmnw89/xiaomimimomimov26flashrl_hugging_face/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-21 20:09"
+      }
+     ]
+    },
+    {
+     "label": "Image",
+     "articles": [
+      {
+       "title": "[MASSIVE RELEASE] Supra2-IMG - a tiny 100M text-to-image model - SOTA quality and open release!",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmftr3/massive_release_supra2img_a_tiny_100m_texttoimage/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-21 15:21"
+      },
+      {
+       "title": "Comfy-Org/Qwen-Image-2.1 · 436 ♥",
        "url": "https://huggingface.co/Comfy-Org/Qwen-Image-2.1",
        "source": "HF new models",
        "published_at": "2026-09-15 19:41"
@@ -54,16 +88,22 @@
      "label": "More headlines",
      "articles": [
       {
+       "title": "California tightens rules on AI data center energy and water use",
+       "url": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
+       "source": "Verge AI",
+       "published_at": "2026-09-21 20:29"
+      },
+      {
+       "title": "Transformers Explained Visually",
+       "url": "https://poloclub.github.io/transformer-explainer/",
+       "source": "Hacker News",
+       "published_at": "2026-09-21 19:43"
+      },
+      {
        "title": "Huawei shelves global AI chip rollout as China's own demand outstrips supply — AMD and Nvidia no longer have to worry.",
        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmm89l/huawei_shelves_global_ai_chip_rollout_as_chinas/",
        "source": "r/LocalLLaMA",
        "published_at": "2026-09-21 19:09"
-      },
-      {
-       "title": "Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com",
-       "url": "https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/",
-       "source": "Hacker News",
-       "published_at": "2026-09-21 17:00"
       },
       {
        "title": "A better coder for the small-GPU/small-RAM crowd!",
@@ -84,49 +124,19 @@
        "published_at": "2026-09-21 15:38"
       },
       {
-       "title": "[MASSIVE RELEASE] Supra2-IMG - a tiny 100M text-to-image model - SOTA quality and open release!",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmftr3/massive_release_supra2img_a_tiny_100m_texttoimage/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-09-21 15:21"
-      },
-      {
-       "title": "tokenizers v1 (rust)",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmfj04/tokenizers_v1_rust/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-09-21 15:10"
-      },
-      {
-       "title": "M5 Ultra Mac Studio Review: The Dream Mac for Local AI Agents - MacStories",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmec1y/m5_ultra_mac_studio_review_the_dream_mac_for/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-09-21 14:26"
-      },
-      {
-       "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
-       "url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/",
-       "source": "Hacker News",
-       "published_at": "2026-09-21 14:10"
-      },
-      {
-       "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
-       "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
-       "source": "HuggingFace",
-       "published_at": "2026-09-21 13:44"
-      },
-      {
-       "title": "convaiinnovations/laya · 1657 ♥",
+       "title": "convaiinnovations/laya · 1721 ♥",
        "url": "https://huggingface.co/convaiinnovations/laya",
        "source": "HF new models",
        "published_at": "2026-09-18 05:05"
       },
       {
-       "title": "prism-ml/Ternary-Bonsai-2-27B-gguf · 1715 ♥",
+       "title": "prism-ml/Ternary-Bonsai-2-27B-gguf · 1728 ♥",
        "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
        "source": "HF new models",
        "published_at": "2026-09-16 23:40"
       },
       {
-       "title": "XingChen-AGI/Xing4.0-29B-A4B · 1087 ♥",
+       "title": "XingChen-AGI/Xing4.0-29B-A4B · 1117 ♥",
        "url": "https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B",
        "source": "HF new models",
        "published_at": "2026-09-16 06:44"
@@ -225,73 +235,67 @@
      "label": "على",
      "articles": [
       {
-       "title": "الملك يترحم على روح الحسن الثاني",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%85%d9%84%d9%83-%d9%8a%d8%aa%d8%b1%d8%ad%d9%85-%d8%b9%d9%84%d9%89-%d8%b1%d9%88%d8%ad-%d8%a7%d9%84%d8%ad%d8%b3%d9%86-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-1811071.html",
+       "title": "الأحزاب تراهن على أصوات المترددين قبل بدء مرحلة الصمت الانتخابي",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%a3%d8%ad%d8%b2%d8%a7%d8%a8-%d8%aa%d8%b1%d8%a7%d9%87%d9%86-%d8%b9%d9%84%d9%89-%d8%a3%d8%b5%d9%88%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d8%aa%d8%b1%d8%af%d8%af%d9%8a%d9%86-%d9%82%d8%a8%d9%84-1811008.html",
        "source": "Hespress",
-       "published_at": "2026-09-21 19:46"
+       "published_at": "2026-09-21 23:01"
       },
       {
-       "title": "انتكاسات انتخابية تضغط على ميرتس",
-       "url": "https://www.hespress.com/%d8%a7%d9%86%d8%aa%d9%83%d8%a7%d8%b3%d8%a7%d8%aa-%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d9%8a%d8%a9-%d8%aa%d8%b6%d8%ba%d8%b7-%d8%b9%d9%84%d9%89-%d9%85%d9%8a%d8%b1%d8%aa%d8%b3-1810947.html",
+       "title": "شوكي: \"الأحرار\" لم يُبنَ على مقاس أخنوش.. وتسقيف المحروقات \"مزايدة\"",
+       "url": "https://www.hespress.com/%d8%b4%d9%88%d9%83%d9%8a-%d8%a7%d9%84%d8%a3%d8%ad%d8%b1%d8%a7%d8%b1-%d9%84%d9%85-%d9%8a%d9%8f%d8%a8%d9%86%d9%8e-%d8%b9%d9%84%d9%89-%d9%85%d9%82%d8%a7%d8%b3-%d8%a3%d8%ae%d9%86%d9%88%d8%b4-%d9%88-1811179.html",
        "source": "Hespress",
-       "published_at": "2026-09-21 19:36"
-      },
-      {
-       "title": "بولندا تعوّل على آلاف الجنود الأمريكيين",
-       "url": "https://www.hespress.com/%d8%a8%d9%88%d9%84%d9%86%d8%af%d8%a7-%d8%aa%d8%b9%d9%88%d9%91%d9%84-%d8%b9%d9%84%d9%89-%d8%a2%d9%84%d8%a7%d9%81-%d8%a7%d9%84%d8%ac%d9%86%d9%88%d8%af-%d8%a7%d9%84%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d9%8a-1810941.html",
-       "source": "Hespress",
-       "published_at": "2026-09-21 18:36"
+       "published_at": "2026-09-21 22:23"
       }
      ]
     },
     {
-     "label": "الملك",
+     "label": "الاتحاد · الاشتراكي",
      "articles": [
       {
-       "title": "الملك يخلد ذكرى وفاة الحسن الثاني",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%85%d9%84%d9%83-%d9%8a%d8%ae%d9%84%d8%af-%d8%a7%d9%84%d8%b0%d9%83%d8%b1%d9%89-28-%d9%84%d9%88%d9%81%d8%a7%d8%a9-%d8%a7%d9%84%d8%ad%d8%b3%d9%86-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-1811093.html",
+       "title": "الاتحاد الاشتراكي يواصل حملته بالرباط",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af-%d8%a7%d9%84%d8%a7%d8%b4%d8%aa%d8%b1%d8%a7%d9%83%d9%8a-%d9%8a%d9%88%d8%a7%d8%b5%d9%84-%d8%ad%d9%85%d9%84%d8%aa%d9%87-%d8%a8%d8%a7%d9%84%d8%b1%d8%a8%d8%a7-1811184.html",
        "source": "Hespress",
-       "published_at": "2026-09-21 18:51"
+       "published_at": "2026-09-21 22:12"
       },
       {
-       "title": "الملك يبعث التعازي إلى قادة الإمارات",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%85%d9%84%d9%83-%d9%8a%d8%a8%d8%b9%d8%ab-%d8%a7%d9%84%d8%aa%d8%b9%d8%a7%d8%b2%d9%8a-%d8%a5%d9%84%d9%89-%d9%82%d8%a7%d8%af%d8%a9-%d8%a7%d9%84%d8%a5%d9%85%d8%a7%d8%b1%d8%a7%d8%aa-1811059.html",
+       "title": "مسيرة الاتحاد الاشتراكي في البيضاء",
+       "url": "https://www.hespress.com/%d9%85%d8%b3%d9%8a%d8%b1%d8%a9-%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af-%d8%a7%d9%84%d8%a7%d8%b4%d8%aa%d8%b1%d8%a7%d9%83%d9%8a-%d9%81%d9%8a-%d8%a7%d9%84%d8%a8%d9%8a%d8%b6%d8%a7%d8%a1-1811141.html",
        "source": "Hespress",
-       "published_at": "2026-09-21 17:43"
+       "published_at": "2026-09-21 21:33"
       }
      ]
     },
     {
-     "label": "لقاء",
+     "label": "Maroc",
      "articles": [
       {
-       "title": "لقاء خاص | هشام رحيل",
-       "url": "https://www.hespress.com/%d9%84%d9%82%d8%a7%d8%a1-%d8%ae%d8%a7%d8%b5-%d9%87%d8%b4%d8%a7%d9%85-%d8%b1%d8%ad%d9%8a%d9%84-1811107.html",
-       "source": "Hespress",
-       "published_at": "2026-09-21 19:30"
+       "title": "Israël propose à l’UE de promouvoir des projets communs avec le Maroc",
+       "url": "https://telquel.ma/instant-t/2026/09/21/israel-propose-a-lue-de-promouvoir-des-projets-communs-avec-le-maroc_2008765/",
+       "source": "TelQuel",
+       "published_at": "2026-09-21 17:11"
       },
       {
-       "title": "لقاء يجمع بوريطة وويسلون بنيويورك",
-       "url": "https://www.hespress.com/%d9%84%d9%82%d8%a7%d8%a1-%d9%8a%d8%ac%d9%85%d8%b9-%d8%a8%d9%88%d8%b1%d9%8a%d8%b7%d8%a9-%d9%88%d9%88%d9%8a%d8%b3%d9%84%d9%88%d9%86-%d8%a8%d9%86%d9%8a%d9%88%d9%8a%d9%88%d8%b1%d9%83-1811063.html",
-       "source": "Hespress",
-       "published_at": "2026-09-21 18:08"
+       "title": "Une mission de la Ligue des Etats arabes participe à l'observation des élections législatives au Maroc",
+       "url": "https://telquel.ma/instant-t/2026/09/21/une-mission-de-la-ligue-des-etats-arabes-participe-a-lobservation-des-elections-legislatives-au-maroc_2008755/",
+       "source": "TelQuel",
+       "published_at": "2026-09-21 15:42"
       }
      ]
     },
     {
-     "label": "مغربي",
+     "label": "Chiffres",
      "articles": [
       {
-       "title": "شاب مغربي يختبئ أسفل حافلة نادي بلد الوليد للعبور إلى إسبانيا",
-       "url": "https://www.hespress.com/%d8%b4%d8%a7%d8%a8-%d9%85%d8%ba%d8%b1%d8%a8%d9%8a-%d9%8a%d8%ae%d8%aa%d8%a8%d8%a6-%d8%a3%d8%b3%d9%81%d9%84-%d8%ad%d8%a7%d9%81%d9%84%d8%a9-%d9%86%d8%a7%d8%af%d9%8a-%d8%a8%d9%84%d8%af-%d8%a7%d9%84%d9%88-1811066.html",
-       "source": "Hespress",
-       "published_at": "2026-09-21 19:18"
+       "title": "Les élections législatives du 23 septembre en chiffres",
+       "url": "https://telquel.ma/instant-t/2026/09/21/les-elections-legislatives-du-23-septembre-en-chiffres_2008730/",
+       "source": "TelQuel",
+       "published_at": "2026-09-21 15:22"
       },
       {
-       "title": "طالب مغربي يحقق التميز بسلطنة عُمان",
-       "url": "https://www.hespress.com/%d8%b7%d8%a7%d9%84%d8%a8-%d9%85%d8%ba%d8%b1%d8%a8%d9%8a-%d9%8a%d8%ad%d9%82%d9%82-%d8%a7%d9%84%d8%aa%d9%85%d9%8a%d8%b2-%d8%a8%d8%b3%d9%84%d8%b7%d9%86%d8%a9-%d8%b9%d9%8f%d9%85%d8%a7%d9%86-1810847.html",
-       "source": "Hespress",
-       "published_at": "2026-09-21 19:12"
+       "title": "[Tribune] Tourisme marocain : après la course aux chiffres, la bataille de la valeur",
+       "url": "https://telquel.ma/2026/09/21/tribune-tourisme-marocain-apres-la-course-aux-chiffres-la-bataille-de-la-valeur_2008672",
+       "source": "TelQuel",
+       "published_at": "2026-09-21 15:14"
       }
      ]
     },
@@ -299,28 +303,52 @@
      "label": "More headlines",
      "articles": [
       {
-       "title": "الطعون تدخل مبكرا حسابات الأحزاب .. ولجان يقظة تواكب اقتراع 23 شتنبر",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%b7%d8%b9%d9%88%d9%86-%d8%aa%d8%af%d8%ae%d9%84-%d9%85%d8%a8%d9%83%d8%b1%d8%a7-%d8%ad%d8%b3%d8%a7%d8%a8%d8%a7%d8%aa-%d8%a7%d9%84%d8%a3%d8%ad%d8%b2%d8%a7%d8%a8-%d9%88%d9%84%d8%ac%d8%a7-1810900.html",
+       "title": "وهبي يجهز \"الأسود\" لتصفيات \"كان 2027\"",
+       "url": "https://www.hespress.com/%d9%88%d9%87%d8%a8%d9%8a-%d9%8a%d8%ac%d9%87%d8%b2-%d8%a7%d9%84%d8%a3%d8%b3%d9%88%d8%af-%d9%84%d8%aa%d8%b5%d9%81%d9%8a%d8%a7%d8%aa-%d9%83%d8%a7%d9%86-2027-1811190.html",
        "source": "Hespress",
-       "published_at": "2026-09-21 19:00"
+       "published_at": "2026-09-21 23:01"
       },
       {
-       "title": "توظيف الذكاء الاصطناعي يفتح الأسواق الأوروبية أمام حلول مغربية مبتكرة",
-       "url": "https://www.hespress.com/%d8%aa%d9%88%d8%b8%d9%8a%d9%81-%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1-%d8%a7%d9%84%d8%a7%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a-%d9%8a%d9%81%d8%aa%d8%ad-%d8%a7%d9%84%d8%a3%d8%b3%d9%88%d8%a7%d9%82-%d8%a7-1811036.html",
+       "title": "إنفانتينو يطرح تعزيز الشفافية داخل فيفا",
+       "url": "https://www.hespress.com/%d8%a5%d9%86%d9%81%d8%a7%d9%86%d8%aa%d9%8a%d9%86%d9%88-%d9%8a%d8%b7%d8%b1%d8%ad-%d8%aa%d8%b9%d8%b2%d9%8a%d8%b2-%d8%a7%d9%84%d8%b4%d9%81%d8%a7%d9%81%d9%8a%d8%a9-%d8%af%d8%a7%d8%ae%d9%84-%d9%81%d9%8a-1811135.html",
        "source": "Hespress",
-       "published_at": "2026-09-21 18:00"
+       "published_at": "2026-09-21 22:35"
       },
       {
-       "title": "لماذا يستهدف \"الطابور الخامس\" المغرب؟",
-       "url": "https://www.hespress.com/%d9%84%d9%85%d8%a7%d8%b0%d8%a7-%d9%8a%d8%b3%d8%aa%d9%87%d8%af%d9%81-%d8%a7%d9%84%d8%b7%d8%a7%d8%a8%d9%88%d8%b1-%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8%d8%9f-1810871.html",
+       "title": "النفط يتراجع لأدنى مستوى في 12 يوما",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%86%d9%81%d8%b7-%d9%8a%d8%aa%d8%b1%d8%a7%d8%ac%d8%b9-%d9%84%d8%a3%d8%af%d9%86%d9%89-%d9%85%d8%b3%d8%aa%d9%88%d9%89-%d9%81%d9%8a-12-%d9%8a%d9%88%d9%85%d8%a7-1811127.html",
        "source": "Hespress",
-       "published_at": "2026-09-21 17:45"
+       "published_at": "2026-09-21 22:09"
       },
       {
-       "title": "Israël propose à l’UE de promouvoir des projets communs avec le Maroc",
-       "url": "https://telquel.ma/instant-t/2026/09/21/israel-propose-a-lue-de-promouvoir-des-projets-communs-avec-le-maroc_2008765/",
-       "source": "TelQuel",
-       "published_at": "2026-09-21 17:11"
+       "title": "رصيف الصحافة: نقص الأنسولين يثير قلق أسر الأطفال المصابين بالسكري",
+       "url": "https://www.hespress.com/%d8%b1%d8%b5%d9%8a%d9%81-%d8%a7%d9%84%d8%b5%d8%ad%d8%a7%d9%81%d8%a9-%d9%86%d9%82%d8%b5-%d8%a7%d9%84%d8%a3%d9%86%d8%b3%d9%88%d9%84%d9%8a%d9%86-%d9%8a%d8%ab%d9%8a%d8%b1-%d9%82%d9%84%d9%82-%d8%a3%d8%b3-1811163.html",
+       "source": "Hespress",
+       "published_at": "2026-09-21 22:00"
+      },
+      {
+       "title": "قاطنو المحج يطالبون بالإنصاف",
+       "url": "https://www.hespress.com/%d9%82%d8%a7%d8%b7%d9%86%d9%88-%d8%a7%d9%84%d9%85%d8%ad%d8%ac-%d9%8a%d8%b7%d8%a7%d9%84%d8%a8%d9%88%d9%86-%d8%a8%d8%a7%d9%84%d8%a5%d9%86%d8%b5%d8%a7%d9%81-1811176.html",
+       "source": "Hespress",
+       "published_at": "2026-09-21 21:50"
+      },
+      {
+       "title": "الرأس الأخضر تجدد دعم مغربية الصحراء",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%b1%d8%a3%d8%b3-%d8%a7%d9%84%d8%a3%d8%ae%d8%b6%d8%b1-%d8%aa%d8%ac%d8%af%d8%af-%d8%af%d8%b9%d9%85-%d9%85%d8%ba%d8%b1%d8%a8%d9%8a%d8%a9-%d8%a7%d9%84%d8%b5%d8%ad%d8%b1%d8%a7%d8%a1-1811151.html",
+       "source": "Hespress",
+       "published_at": "2026-09-21 21:39"
+      },
+      {
+       "title": "بنكيران لا يمثل أربعين مليون مغربي .. وفلسطين ليست صندوقا انتخابيا",
+       "url": "https://www.hespress.com/%d8%a8%d9%86%d9%83%d9%8a%d8%b1%d8%a7%d9%86-%d9%84%d8%a7-%d9%8a%d9%85%d8%ab%d9%84-%d8%a3%d8%b1%d8%a8%d8%b9%d9%8a%d9%86-%d9%85%d9%84%d9%8a%d9%88%d9%86-%d9%85%d8%ba%d8%b1%d8%a8%d9%8a-%d9%88%d9%81-1810848.html",
+       "source": "Hespress",
+       "published_at": "2026-09-21 21:36"
+      },
+      {
+       "title": "\"نارسا\" تفتح ملف سائقي التوصيل وتستعد لتغيير إجراءات تسجيل الدراجات",
+       "url": "https://www.hespress.com/%d9%86%d8%a7%d8%b1%d8%b3%d8%a7-%d8%aa%d9%81%d8%aa%d8%ad-%d9%85%d9%84%d9%81-%d8%b3%d8%a7%d8%a6%d9%82%d9%8a-%d8%a7%d9%84%d8%aa%d9%88%d8%b5%d9%8a%d9%84-%d9%88%d8%aa%d8%b3%d8%aa%d8%b9%d8%af-%d9%84-1811097.html",
+       "source": "Hespress",
+       "published_at": "2026-09-21 21:30"
       },
       {
        "title": "Hausse des taux de la Fed : pourquoi l'or et les minières marocaines devraient résister",
@@ -333,24 +361,6 @@
        "url": "https://telquel.ma/instant-t/2026/09/21/new-york-nasser-bourita-appelle-a-renforcer-la-reponse-internationale-face-aux-groupes-armes-non-etatiques_2008758/",
        "source": "TelQuel",
        "published_at": "2026-09-21 15:57"
-      },
-      {
-       "title": "Une mission de la Ligue des Etats arabes participe à l'observation des élections législatives au Maroc",
-       "url": "https://telquel.ma/instant-t/2026/09/21/une-mission-de-la-ligue-des-etats-arabes-participe-a-lobservation-des-elections-legislatives-au-maroc_2008755/",
-       "source": "TelQuel",
-       "published_at": "2026-09-21 15:42"
-      },
-      {
-       "title": "Les élections législatives du 23 septembre en chiffres",
-       "url": "https://telquel.ma/instant-t/2026/09/21/les-elections-legislatives-du-23-septembre-en-chiffres_2008730/",
-       "source": "TelQuel",
-       "published_at": "2026-09-21 15:22"
-      },
-      {
-       "title": "[Tribune] Tourisme marocain : après la course aux chiffres, la bataille de la valeur",
-       "url": "https://telquel.ma/2026/09/21/tribune-tourisme-marocain-apres-la-course-aux-chiffres-la-bataille-de-la-valeur_2008672",
-       "source": "TelQuel",
-       "published_at": "2026-09-21 15:14"
       }
      ]
     }
@@ -419,13 +429,13 @@
    "note": null,
    "clusters": [
     {
-     "label": "Houthis · Saudi",
+     "label": "Saudi · Houthis",
      "articles": [
       {
-       "title": "Houthis move to seize strategic terrain after Trump calls off airstrikes at last minute",
-       "url": "https://www.theguardian.com/world/2026/sep/21/houthis-seize-strategic-terrain-yemen-trump-calls-off-airstrikes-last-minute",
+       "title": "UK to give support to Saudi jets in attempt to counter Houthi fighters",
+       "url": "https://www.theguardian.com/politics/2026/sep/21/uk-to-give-support-to-saudi-jets-in-attempt-to-counter-houthi-fighters",
        "source": "Guardian World",
-       "published_at": "2026-09-21 16:14"
+       "published_at": "2026-09-21 21:33"
       },
       {
        "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
@@ -448,19 +458,19 @@
      ]
     },
     {
-     "label": "Iran",
+     "label": "Trump",
      "articles": [
       {
-       "title": "Trump’s approval rating hits record low amid Iran war, economy fallout",
+       "title": "Trump approval rating hits career low of 32% amid Iran war, high costs",
        "url": "https://www.aljazeera.com/news/2026/9/21/trumps-approval-rating-hits-record-low-amid-iran-war-economy-fallout?traffic_source=rss",
        "source": "Al Jazeera",
        "published_at": "2026-09-21 19:10"
       },
       {
-       "title": "Middle East braces for more violence as Iran claims US is planning to renew bombing campaign",
-       "url": "https://www.theguardian.com/world/2026/sep/20/middle-east-braces-for-more-violence-as-iran-claims-us-is-planning-to-renew-bombing-campaign",
+       "title": "Houthis move to seize strategic terrain after Trump calls off airstrikes at last minute",
+       "url": "https://www.theguardian.com/world/2026/sep/21/houthis-seize-strategic-terrain-yemen-trump-calls-off-airstrikes-last-minute",
        "source": "Guardian World",
-       "published_at": "2026-09-20 18:56"
+       "published_at": "2026-09-21 16:14"
       }
      ]
     },
@@ -497,16 +507,16 @@
        "published_at": "2026-09-21 15:18"
       },
       {
-       "title": "How an economic squeeze is changing everyday life and work for Iranians",
-       "url": "https://www.aljazeera.com/economy/2026/9/21/how-an-economic-squeeze-is-changing-everyday-life-and-work-for-iranians?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-09-21 14:50"
-      },
-      {
        "title": "Inside Djibouti refugee camp for thousands fleeing Houthi advance in Yemen",
        "url": "https://www.bbc.co.uk/news/videos/c6z0z2nne11vo?at_medium=RSS&at_campaign=rss",
        "source": "BBC World",
        "published_at": "2026-09-21 10:00"
+      },
+      {
+       "title": "Middle East braces for more violence as Iran claims US is planning to renew bombing campaign",
+       "url": "https://www.theguardian.com/world/2026/sep/20/middle-east-braces-for-more-violence-as-iran-claims-us-is-planning-to-renew-bombing-campaign",
+       "source": "Guardian World",
+       "published_at": "2026-09-20 18:56"
       }
      ]
     }
@@ -520,8 +530,20 @@
    "note": null,
    "clusters": [
     {
-     "label": "Russia · War",
+     "label": "Russia · Election",
      "articles": [
+      {
+       "title": "EU fails to finalize Russia sanctions deal, ambassadors to reconvene hours before deadline",
+       "url": "https://kyivindependent.com/eu-fails-to-finalize-russia-sanctions-deal-ambassadors-to-reconvene-sept-22-hours-before-deadline/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-09-21 20:48"
+      },
+      {
+       "title": "Putin’s party wins supermajority in Russia’s parliamentary election",
+       "url": "https://www.aljazeera.com/news/2026/9/21/pro-putin-party-wins-supermajority-amid-ramped-up-ukrainian-attacks?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-09-21 20:17"
+      },
       {
        "title": "Ukraine war latest: Russia's oil refining capacity falls as damage from Moscow strikes sets in",
        "url": "https://kyivindependent.com/ukraine-war-latest-russias-oil-refining-capacity-falls-as-damage-from-moscow-strikes-sets-in/",
@@ -539,18 +561,6 @@
        "url": "https://kyivindependent.com/russias-election-is-over-could-mobilization-be-next/",
        "source": "Kyiv Independent",
        "published_at": "2026-09-21 17:08"
-      },
-      {
-       "title": "Exclusive: EU readies biggest-ever sanctions package targeting Russia's war machine",
-       "url": "https://kyivindependent.com/exclusive-eu-readies-biggest-ever-sanctions-package-targeting-russias-war-machine/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-09-21 15:19"
-      },
-      {
-       "title": "Putin consolidates grip on Russia as 49 Ukraine war veterans elected to parliament",
-       "url": "https://www.theguardian.com/world/2026/sep/21/putin-consolidates-grip-russia-ukraine-war-veterans-elected-duma",
-       "source": "Guardian World",
-       "published_at": "2026-09-21 13:40"
       }
      ]
     },
@@ -558,22 +568,22 @@
      "label": "Ukraine",
      "articles": [
       {
+       "title": "Former Prosecutor General Kravchenko resigns from prosecution service after failing to return to Ukraine",
+       "url": "https://kyivindependent.com/former-prosecutor-general-kravchenko-resigns-from-prosecution-service-after-failing-to-return-to-ukraine/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-09-21 19:39"
+      },
+      {
        "title": "Hungary not part of Ukraine's Carpathian initiative, Magyar says",
        "url": "https://kyivindependent.com/hungary-not-part-of-ukraines-carpathian-initiative-magyar-says/",
        "source": "Kyiv Independent",
        "published_at": "2026-09-21 17:24"
       },
       {
-       "title": "Is it a missile? Is it a drone? What’s the Pelican used by Ukraine?",
-       "url": "https://www.aljazeera.com/news/2026/9/21/is-it-a-missile-is-it-a-drone-whats-the-pelican-used-by-ukraine?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-09-21 14:19"
-      },
-      {
-       "title": "Russia 'lost control' of its oil refining industry due to Ukraine's attacks, Trump says",
-       "url": "https://kyivindependent.com/russia-lost-control-of-its-diesel-industry-due-to-ukraines-attacks-trump-says-ahead-of-zelensky-meeting-2/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-09-21 12:36"
+       "title": "Putin consolidates grip on Russia as 49 Ukraine war veterans elected to parliament",
+       "url": "https://www.theguardian.com/world/2026/sep/21/putin-consolidates-grip-russia-ukraine-war-veterans-elected-duma",
+       "source": "Guardian World",
+       "published_at": "2026-09-21 13:40"
       }
      ]
     },
@@ -591,18 +601,18 @@
        "url": "https://kyivindependent.com/investigation-how-a-swiss-linked-company-helped-russian-arms-factories-like-kalashnikov-stay-afloat/",
        "source": "Kyiv Independent",
        "published_at": "2026-09-21 12:53"
-      },
-      {
-       "title": "EU sanctions U-turn: France and Slovakia force bloc to delist two Russian oligarchs, diplomats say",
-       "url": "https://kyivindependent.com/france-and-slovakias-threat-to-scupper-3-000-eu-sanctions-to-protect-two-russian-oligarchs-gathers-steam/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-09-21 10:26"
       }
      ]
     },
     {
      "label": "More headlines",
      "articles": [
+      {
+       "title": "Exclusive: EU readies biggest-ever sanctions package targeting Russia's war machine",
+       "url": "https://kyivindependent.com/exclusive-eu-readies-biggest-ever-sanctions-package-targeting-russias-war-machine/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-09-21 15:19"
+      },
       {
        "title": "Campaign for Putin, be a star in Washington?",
        "url": "https://kyivindependent.com/campaign-for-putin-be-a-star-in-washington/",
