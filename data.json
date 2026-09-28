@@ -1,12 +1,12 @@
 {
- "date": "Sunday 27 September 2026",
- "generated_at": "22:29 UTC",
+ "date": "Monday 28 September 2026",
+ "generated_at": "01:07 UTC",
  "error": null,
  "total_stories": 78,
  "fx": {
   "pair": "EUR/MAD",
-  "rate": 10.938,
-  "change_pct": 0.0
+  "rate": 10.947,
+  "change_pct": 0.08
  },
  "lanes": [
   {
@@ -19,6 +19,24 @@
      "label": "Qwen",
      "articles": [
       {
+       "title": "Qwen company already rushed out a Jev competitor. No open weights yet.",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wrz9py/qwen_company_already_rushed_out_a_jev_competitor/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-27 23:43"
+      },
+      {
+       "title": "Qwen plays World of Warcraft",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wry136/qwen_plays_world_of_warcraft/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-27 22:46"
+      },
+      {
+       "title": "Qwen3.8-Flash-Next 177B NVFP4(119GiB): SSD streaming at 9-10 tok/s on one 16 GB RTX 5060 Ti + 32 GB RAM",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wrxap8/qwen38flashnext_177b_nvfp4119gib_ssd_streaming_at/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-27 22:13"
+      },
+      {
        "title": "Swift 1.5 Qwen3.8 27b (A must-have for low thinking!)",
        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wrv6bp/swift_15_qwen38_27b_a_musthave_for_low_thinking/",
        "source": "r/LocalLLaMA",
@@ -29,41 +47,40 @@
        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wrv2l3/2x_tesla_p100s_q6_k_quant_qwen_38_27b_60tps_v30/",
        "source": "r/LocalLLaMA",
        "published_at": "2026-09-27 20:42"
-      },
+      }
+     ]
+    },
+    {
+     "label": "Models · Frontier",
+     "articles": [
       {
-       "title": "Qwen3.8-Flash-Next (125B) at 12-15 tok/s on a 2021 32GB M1 Max",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wrqql8/qwen38flashnext_125b_at_1215_toks_on_a_2021_32gb/",
+       "title": "FT: Corporate America rejects overpriced frontier, embraces open models",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wrzpzg/ft_corporate_america_rejects_overpriced_frontier/",
        "source": "r/LocalLLaMA",
-       "published_at": "2026-09-27 17:53"
+       "published_at": "2026-09-28 00:03"
       },
       {
-       "title": "XiaomiMiMo/MiMo-V2.6-Distill-Qwen-9B · 521 ♥",
+       "title": "Don't trust frontier models when asking about budget hardware!",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wrrgex/dont_trust_frontier_models_when_asking_about/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-27 18:21"
+      }
+     ]
+    },
+    {
+     "label": "Xiaomimimo · Mimo",
+     "articles": [
+      {
+       "title": "XiaomiMiMo/MiMo-V2.6-Distill-Qwen-9B · 522 ♥",
        "url": "https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Distill-Qwen-9B",
        "source": "HF new models",
        "published_at": "2026-09-21 18:18"
       },
       {
-       "title": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF · 2066 ♥",
-       "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+       "title": "XiaomiMiMo/MiMo-V2.6-Pro-RL · 557 ♥",
+       "url": "https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Pro-RL",
        "source": "HF new models",
-       "published_at": "2026-09-20 15:51"
-      }
-     ]
-    },
-    {
-     "label": "Flash",
-     "articles": [
-      {
-       "title": "Naive-N0.5-Flash - 309B-A15.5B",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wrs58t/naiven05flash_309ba155b/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-09-27 18:48"
-      },
-      {
-       "title": "Mimo v2.6 flash MOPD",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wrq71o/mimo_v26_flash_mopd/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-09-27 17:31"
+       "published_at": "2026-09-21 15:39"
       }
      ]
     },
@@ -89,49 +106,37 @@
        "published_at": "2026-09-27 20:18"
       },
       {
+       "title": "Naive-N0.5-Flash - 309B-A15.5B",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wrs58t/naiven05flash_309ba155b/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-27 18:48"
+      },
+      {
        "title": "Public MCP server for Canadian privacy law data (free, no auth) - works with any client that speaks Streamable HTTP",
        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wrs1dw/public_mcp_server_for_canadian_privacy_law_data/",
        "source": "r/LocalLLaMA",
        "published_at": "2026-09-27 18:43"
       },
       {
-       "title": "Don't trust frontier models when asking about budget hardware!",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wrrgex/dont_trust_frontier_models_when_asking_about/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-09-27 18:21"
-      },
-      {
-       "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
-       "url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
-       "source": "Verge AI",
-       "published_at": "2026-09-27 17:21"
-      },
-      {
-       "title": "Updated from 3x3090(2x3090, 1x3090TI) to 2x5090",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wrpiru/updated_from_3x30902x3090_1x3090ti_to_2x5090/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-09-27 17:04"
-      },
-      {
-       "title": "XiaomiMiMo/MiMo-V2.6-Pro-RL · 554 ♥",
-       "url": "https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Pro-RL",
-       "source": "HF new models",
-       "published_at": "2026-09-21 15:39"
-      },
-      {
-       "title": "Edge0/Audio8-ASR-Infinite · 980 ♥",
+       "title": "Edge0/Audio8-ASR-Infinite · 1059 ♥",
        "url": "https://huggingface.co/Edge0/Audio8-ASR-Infinite",
        "source": "HF new models",
        "published_at": "2026-09-21 15:03"
       },
       {
-       "title": "Altworld/Hemmingway-1 · 734 ♥",
+       "title": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF · 2082 ♥",
+       "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+       "source": "HF new models",
+       "published_at": "2026-09-20 15:51"
+      },
+      {
+       "title": "Altworld/Hemmingway-1 · 738 ♥",
        "url": "https://huggingface.co/Altworld/Hemmingway-1",
        "source": "HF new models",
        "published_at": "2026-09-20 12:10"
       },
       {
-       "title": "convaiinnovations/laya · 4083 ♥",
+       "title": "convaiinnovations/laya · 4095 ♥",
        "url": "https://huggingface.co/convaiinnovations/laya",
        "source": "HF new models",
        "published_at": "2026-09-18 05:05"
@@ -182,7 +187,7 @@
      ]
     },
     {
-     "label": "Bestuursfotoverkiezing · Grote",
+     "label": "Grote · Bestuursfotoverkiezing",
      "articles": [
       {
        "title": "De Grote U-Today Bestuursfotoverkiezing 2026, de uitslag",
@@ -240,6 +245,54 @@
      "label": "",
      "articles": [
       {
+       "title": "كيف تؤثر المداخيل والأحياء السكنية على الحركية في الرباط والدار البيضاء؟",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%b3%d9%83%d9%86-%d9%81%d9%8a-%d8%a7%d9%84%d9%87%d9%88%d8%a7%d9%85%d8%b4-%d9%8a%d9%88%d8%b3%d8%b9-%d9%81%d8%ac%d9%88%d8%a9-%d8%a7%d9%84%d8%aa%d9%86%d9%82%d9%84-%d8%af%d8%a7%d8%ae%d9%84-1811861.html",
+       "source": "Hespress",
+       "published_at": "2026-09-28 01:00"
+      },
+      {
+       "title": "\"أسود U20\" يتعادلون مع تونس",
+       "url": "https://www.hespress.com/%d8%a3%d8%b3%d9%88%d8%af-u20-%d9%8a%d8%aa%d8%b9%d8%a7%d8%af%d9%84%d9%88%d9%86-%d9%85%d8%b9-%d8%aa%d9%88%d9%86%d8%b3-1814553.html",
+       "source": "Hespress",
+       "published_at": "2026-09-28 00:22"
+      },
+      {
+       "title": "انتخابات 2026 .. هندسة جديدة للأغلبية والمعارضة في أفق 2030",
+       "url": "https://www.hespress.com/%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-2026-%d9%87%d9%86%d8%af%d8%b3%d8%a9-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d9%84%d9%84%d8%a3%d8%ba%d9%84%d8%a8%d9%8a%d8%a9-%d9%88%d8%a7%d9%84%d9%85%d8%b9-1814379.html",
+       "source": "Hespress",
+       "published_at": "2026-09-28 00:00"
+      },
+      {
+       "title": "رالي المغرب يخترق الصحراء",
+       "url": "https://www.hespress.com/%d8%b1%d8%a7%d9%84%d9%8a-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d9%8a%d8%ae%d8%aa%d8%b1%d9%82-%d8%a7%d9%84%d8%b5%d8%ad%d8%b1%d8%a7%d8%a1-1814648.html",
+       "source": "Hespress",
+       "published_at": "2026-09-27 23:36"
+      },
+      {
+       "title": "الاصطفاف يشغل المنتخبين بالبيضاء",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%a7%d8%b5%d8%b7%d9%81%d8%a7%d9%81-%d9%8a%d8%b4%d8%ba%d9%84-%d8%a7%d9%84%d9%85%d9%86%d8%aa%d8%ae%d8%a8%d9%8a%d9%86-%d8%a8%d8%a7%d9%84%d8%a8%d9%8a%d8%b6%d8%a7%d8%a1-1814508.html",
+       "source": "Hespress",
+       "published_at": "2026-09-27 23:32"
+      },
+      {
+       "title": "إسرائيل تعاقب دبلوماسيين من هولندا",
+       "url": "https://www.hespress.com/%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84-%d8%aa%d8%b9%d8%a7%d9%82%d8%a8-%d8%af%d8%a8%d9%84%d9%88%d9%85%d8%a7%d8%b3%d9%8a%d9%8a%d9%86-%d9%85%d9%86-%d9%87%d9%88%d9%84%d9%86%d8%af%d8%a7-1814551.html",
+       "source": "Hespress",
+       "published_at": "2026-09-27 23:24"
+      },
+      {
+       "title": "حزب الاستقلال يترقب \"التعيين الملكي\" قبل مناقشة المشاركة في الحكومة",
+       "url": "https://www.hespress.com/%d8%ad%d8%b2%d8%a8-%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d9%82%d9%84%d8%a7%d9%84-%d9%8a%d8%aa%d8%b1%d9%82%d8%a8-%d8%a7%d9%84%d8%aa%d8%b9%d9%8a%d9%8a%d9%86-%d8%a7%d9%84%d9%85%d9%84%d9%83%d9%8a-%d9%82-1814507.html",
+       "source": "Hespress",
+       "published_at": "2026-09-27 23:00"
+      },
+      {
+       "title": "جرائم قتل النساء تهز جنوب إفريقيا",
+       "url": "https://www.hespress.com/%d8%ac%d8%b1%d8%a7%d8%a6%d9%85-%d9%82%d8%aa%d9%84-%d8%a7%d9%84%d9%86%d8%b3%d8%a7%d8%a1-%d8%aa%d9%87%d8%b2-%d8%ac%d9%86%d9%88%d8%a8-%d8%a5%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7-1814407.html",
+       "source": "Hespress",
+       "published_at": "2026-09-27 22:44"
+      },
+      {
        "title": "الحسنية تغلب الكوكب في مراكش",
        "url": "https://www.hespress.com/%d8%a7%d9%84%d8%ad%d8%b3%d9%86%d9%8a%d8%a9-%d8%aa%d8%ba%d9%84%d8%a8-%d8%a7%d9%84%d9%83%d9%88%d9%83%d8%a8-%d9%81%d9%8a-%d9%85%d8%b1%d8%a7%d9%83%d8%b4-1814621.html",
        "source": "Hespress",
@@ -262,54 +315,6 @@
        "url": "https://www.hespress.com/%d8%b6%d8%a8%d8%b7-%d9%85%d9%88%d8%b8%d9%81-%d8%b4%d8%b1%d8%b7%d8%a9-%d9%8a%d9%86%d9%82%d9%84-%d8%a7%d9%84%d9%85%d8%ae%d8%af%d8%b1%d8%a7%d8%aa-1814475.html",
        "source": "Hespress",
        "published_at": "2026-09-27 21:42"
-      },
-      {
-       "title": "البيضاء تخسر \"ذاكرة السينما\"",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%a8%d9%8a%d8%b6%d8%a7%d8%a1-%d8%aa%d8%ae%d8%b3%d8%b1-%d8%b0%d8%a7%d9%83%d8%b1%d8%a9-%d8%a7%d9%84%d8%b3%d9%8a%d9%86%d9%85%d8%a7-1814595.html",
-       "source": "Hespress",
-       "published_at": "2026-09-27 21:30"
-      },
-      {
-       "title": "استقلاليون يطالبون بـ\"مجلس وطني\"",
-       "url": "https://www.hespress.com/%d8%a7%d8%b3%d8%aa%d9%82%d9%84%d8%a7%d9%84%d9%8a%d9%88%d9%86-%d9%8a%d8%b7%d8%a7%d9%84%d8%a8%d9%88%d9%86-%d8%a8%d9%80%d9%85%d8%ac%d9%84%d8%b3-%d9%88%d8%b7%d9%86%d9%8a-1814417.html",
-       "source": "Hespress",
-       "published_at": "2026-09-27 21:12"
-      },
-      {
-       "title": "المكتب السياسي لحزب الحركة الشعبية يناقش النتائج ويؤجل حسم التموقع",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%85%d9%83%d8%aa%d8%a8-%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3%d9%8a-%d9%84%d8%ad%d8%b2%d8%a8-%d8%a7%d9%84%d8%ad%d8%b1%d9%83%d8%a9-%d8%a7%d9%84%d8%b4%d8%b9%d8%a8%d9%8a%d8%a9-%d9%8a%d9%86-1814465.html",
-       "source": "Hespress",
-       "published_at": "2026-09-27 21:00"
-      },
-      {
-       "title": "المغرب الفاسي يهزم نهضة الزمامرة",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d8%a7%d9%84%d9%81%d8%a7%d8%b3%d9%8a-%d9%8a%d9%87%d8%b2%d9%85-%d9%86%d9%87%d8%b6%d8%a9-%d8%a7%d9%84%d8%b2%d9%85%d8%a7%d9%85%d8%b1%d8%a9-1814567.html",
-       "source": "Hespress",
-       "published_at": "2026-09-27 20:33"
-      },
-      {
-       "title": "محاكاة قواعد 2016 باقتراع 2026 ..107 مقاعد لـ\"البام\" واثنان لتحالف اليسار",
-       "url": "https://www.hespress.com/%d9%86%d8%aa%d8%a7%d8%a6%d8%ac-%d8%a7%d9%84%d8%a7%d9%82%d8%aa%d8%b1%d8%a7%d8%b9-%d8%a8%d9%80%d9%82%d8%a7%d8%b3%d9%85-2016-107-%d9%85%d9%82%d8%a7%d8%b9%d8%af-%d9%84%d9%80%d8%a7%d9%84%d8%a8-1814555.html",
-       "source": "Hespress",
-       "published_at": "2026-09-27 20:08"
-      },
-      {
-       "title": "الأردن يتعادل في أول لقاء مع الزاكي",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%a3%d8%b1%d8%af%d9%86-%d9%8a%d8%aa%d8%b9%d8%a7%d8%af%d9%84-%d9%81%d9%8a-%d8%a3%d9%88%d9%84-%d9%84%d9%82%d8%a7%d8%a1-%d9%85%d8%b9-%d8%a7%d9%84%d8%b2%d8%a7%d9%83%d9%8a-1814535.html",
-       "source": "Hespress",
-       "published_at": "2026-09-27 20:06"
-      },
-      {
-       "title": "المكملات الغذائية تنتشر بين رياضيين مغاربة وسط ضعف الإشراف الطبي",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%85%d9%83%d9%85%d9%84%d8%a7%d8%aa-%d8%a7%d9%84%d8%ba%d8%b0%d8%a7%d8%a6%d9%8a%d8%a9-%d8%aa%d9%86%d8%aa%d8%b4%d8%b1-%d8%a8%d9%8a%d9%86-%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a%d9%8a%d9%86-%d9%85-1811887.html",
-       "source": "Hespress",
-       "published_at": "2026-09-27 20:00"
-      },
-      {
-       "title": "أكرد يتخلف عن مرافقة \"أسود الأطلس\"",
-       "url": "https://www.hespress.com/%d8%a3%d9%83%d8%b1%d8%af-%d9%8a%d8%aa%d8%ae%d9%84%d9%81-%d8%b9%d9%86-%d9%85%d8%b1%d8%a7%d9%81%d9%82%d8%a9-%d8%a3%d8%b3%d9%88%d8%af-%d8%a7%d9%84%d8%a3%d8%b7%d9%84%d8%b3-1814536.html",
-       "source": "Hespress",
-       "published_at": "2026-09-27 19:48"
       },
       {
        "title": "[Tribune]Hamid Barrada témoin et acteur de l’histoire du Maroc",
@@ -434,22 +439,16 @@
      "label": "Iran · War",
      "articles": [
       {
+       "title": "Iran war live: Tehran says it’s fully prepared for war amid Hormuz tensions",
+       "url": "https://www.aljazeera.com/news/liveblog/2026/9/28/iran-war-live-tehran-warns-its-fully-prepared-for-war-amid-hormuz-tensions?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-09-28 00:00"
+      },
+      {
        "title": "Why has Trump rejected Iran’s peace proposal?",
        "url": "https://www.aljazeera.com/video/inside-story/2026/9/27/why-has-trump-rejected-irans-peace-proposal?traffic_source=rss",
        "source": "Al Jazeera",
        "published_at": "2026-09-27 20:03"
-      },
-      {
-       "title": "‘Iran ready for doomsday war’, FM Araghchi says",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/iran-ready-for-doomsday-war-fm-araghchi-says?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-09-27 17:46"
-      },
-      {
-       "title": "Mike Waltz: US offered to sell Iran uranium for civilian programme",
-       "url": "https://www.aljazeera.com/news/2026/9/27/mike-waltz-us-offered-to-sell-iran-uranium-for-civilian-programme?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-09-27 17:42"
       },
       {
        "title": "UN ambassador Waltz says Iran was not negotiating ‘in good faith’ to end war",
@@ -483,31 +482,14 @@
      ]
     },
     {
-     "label": "Israeli",
+     "label": "Yemen · Line",
      "articles": [
       {
-       "title": "Israeli strikes continue in southern Lebanon despite ceasefire",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/israeli-strikes-continue-in-southern-lebanon-despite-ceasefire?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-09-27 20:57"
+       "title": "Inside Yemen's front-line city as Houthis battle for control",
+       "url": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss",
+       "source": "BBC World",
+       "published_at": "2026-09-27 21:16"
       },
-      {
-       "title": "Stuck between Israeli military checkpoints",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/stuck-between-israeli-military-checkpoints?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-09-27 19:04"
-      },
-      {
-       "title": "Jerusalem Daily: Israeli opposition leaders unite to drive out Netanyahu",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/jerusalem-daily-israeli-opposition-leaders-unite-to-drive-out-netanyahu?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-09-27 16:53"
-      }
-     ]
-    },
-    {
-     "label": "Yemen",
-     "articles": [
       {
        "title": "Deadly strike hits market in Yemen’s Taiz",
        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/deadly-strike-hits-market-in-yemens-taiz?traffic_source=rss",
@@ -521,6 +503,34 @@
        "published_at": "2026-09-27 21:00"
       }
      ]
+    },
+    {
+     "label": "Israeli",
+     "articles": [
+      {
+       "title": "Israeli strikes continue in southern Lebanon despite ceasefire",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/israeli-strikes-continue-in-southern-lebanon-despite-ceasefire?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-09-27 20:57"
+      },
+      {
+       "title": "Stuck between Israeli military checkpoints",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/stuck-between-israeli-military-checkpoints?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-09-27 19:04"
+      }
+     ]
+    },
+    {
+     "label": "More headlines",
+     "articles": [
+      {
+       "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
+       "url": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
+       "source": "BBC World",
+       "published_at": "2026-09-27 07:44"
+      }
+     ]
     }
    ],
    "count": 12
@@ -532,43 +542,20 @@
    "note": null,
    "clusters": [
     {
-     "label": "Russian · Killed",
+     "label": "Ukraine",
      "articles": [
+      {
+       "title": "Ukraine enters winter better prepared than last year, PM says, but risks remain",
+       "url": "https://kyivindependent.com/ukraine-enters-winter-better-prepared-than-last-year-pm-says-but-risks-remain/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-09-28 00:26"
+      },
       {
        "title": "Ukraine war latest: Russian attacks kill 14, injure 57 across Ukraine in 'mass strike'",
        "url": "https://kyivindependent.com/ukraine-war-latest-russian-attacks-kill-14-injure-57-across-ukraine-in-mass-strike/",
        "source": "Kyiv Independent",
        "published_at": "2026-09-27 20:49"
       },
-      {
-       "title": "Serbia's Russian-friendly President Vucic announces resignation, plans to run for PM",
-       "url": "https://kyivindependent.com/serbias-russian-friendly-president-vucic-announces-resignation-plans-to-run-for-pm/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-09-27 20:16"
-      },
-      {
-       "title": "2 killed, 4 injured by Russian strikes on market as drones, missiles batter Kyiv",
-       "url": "https://kyivindependent.com/russian-drones-missiles-continue-to-batter-kyiv-for-fourth-consecutive-night-of-strikes/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-09-27 18:32"
-      },
-      {
-       "title": "Zelensky says over 10,000 Russian troops killed or wounded this week as Ukrainian military advances in Lyman sector",
-       "url": "https://kyivindependent.com/zelensky-says-over-10-000-russian-troops-killed-or-wounded-this-week-as-ukrainian-military-advances-in-lyman-sector/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-09-27 13:35"
-      },
-      {
-       "title": "‘Hell on earth’: last residents eat weeds to survive in Russian-occupied Oleshky",
-       "url": "https://www.theguardian.com/world/2026/sep/27/hell-on-earth-last-residents-eat-weeds-to-survive-in-russian-occupied-oleshky",
-       "source": "Guardian World",
-       "published_at": "2026-09-27 11:00"
-      }
-     ]
-    },
-    {
-     "label": "Ukraine",
-     "articles": [
       {
        "title": "South Korea, Ukraine relations sour over North Korean POW transfer",
        "url": "https://www.aljazeera.com/news/2026/9/27/south-korea-ukraine-relations-sour-over-north-korean-pow-transfer?traffic_source=rss",
@@ -590,13 +577,36 @@
      ]
     },
     {
+     "label": "Russian · Killed",
+     "articles": [
+      {
+       "title": "Serbia's Russian-friendly President Vucic announces resignation, plans to run for PM",
+       "url": "https://kyivindependent.com/serbias-russian-friendly-president-vucic-announces-resignation-plans-to-run-for-pm/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-09-27 20:16"
+      },
+      {
+       "title": "2 killed, 4 injured by Russian strikes on market as drones, missiles batter Kyiv",
+       "url": "https://kyivindependent.com/russian-drones-missiles-continue-to-batter-kyiv-for-fourth-consecutive-night-of-strikes/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-09-27 18:32"
+      },
+      {
+       "title": "Zelensky says over 10,000 Russian troops killed or wounded this week as Ukrainian military advances in Lyman sector",
+       "url": "https://kyivindependent.com/zelensky-says-over-10-000-russian-troops-killed-or-wounded-this-week-as-ukrainian-military-advances-in-lyman-sector/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-09-27 13:35"
+      }
+     ]
+    },
+    {
      "label": "More headlines",
      "articles": [
       {
        "title": "Republican senator criticizes White House for taxpayer-funded Trump ads",
        "url": "https://www.theguardian.com/us-news/2026/sep/27/john-kennedy-white-house-trump-ad-tax-money",
        "source": "Guardian World",
-       "published_at": "2026-09-27 19:54"
+       "published_at": "2026-09-27 23:40"
       },
       {
        "title": "Under FPVs and glide bombs, life clings on in Zaporizhzhia",
