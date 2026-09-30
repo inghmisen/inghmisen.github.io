@@ -1,12 +1,12 @@
 {
- "date": "Tuesday 29 September 2026",
- "generated_at": "23:55 UTC",
+ "date": "Wednesday 30 September 2026",
+ "generated_at": "04:56 UTC",
  "error": null,
- "total_stories": 78,
+ "total_stories": 77,
  "fx": {
   "pair": "EUR/MAD",
-  "rate": 10.961,
-  "change_pct": 0.0
+  "rate": 10.966,
+  "change_pct": 0.05
  },
  "lanes": [
   {
@@ -16,50 +16,28 @@
    "note": null,
    "clusters": [
     {
-     "label": "Harness",
+     "label": "Qwen · Gguf",
      "articles": [
       {
-       "title": "Any good harness or tools for helping students?",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtnhte/any_good_harness_or_tools_for_helping_students/",
+       "title": "Qwen3.8 flash next ISTA-DASLab GGUF 50t/s TG and 1500t/s PP with 12GB VRAM and 64GB RAM Laptop on 'Strata' engine",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtv43r/qwen38_flash_next_istadaslab_gguf_50ts_tg_and/",
        "source": "r/LocalLLaMA",
-       "published_at": "2026-09-29 21:59"
+       "published_at": "2026-09-30 04:01"
       },
       {
-       "title": "Deepseek Harness app is out now!!!",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtg1hs/deepseek_harness_app_is_out_now/",
+       "title": "Qwen-family LLMs are quietly becoming the backbone of modern audio models; One chart for the architectures of 100+ audio models",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtpntt/qwenfamily_llms_are_quietly_becoming_the_backbone/",
        "source": "r/LocalLLaMA",
-       "published_at": "2026-09-29 17:15"
-      }
-     ]
-    },
-    {
-     "label": "Glm",
-     "articles": [
-      {
-       "title": "Anthropic just dropped the greatest advertisement for GLM ever.",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wth4iz/anthropic_just_dropped_the_greatest_advertisement/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-09-29 17:55"
+       "published_at": "2026-09-29 23:35"
       },
       {
-       "title": "Recommended replacements for glm 4.7 flash",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtgb0y/recommended_replacements_for_glm_47_flash/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-09-29 17:25"
-      }
-     ]
-    },
-    {
-     "label": "Qwen · Image",
-     "articles": [
-      {
-       "title": "Viggle/Qwen-Image-2.1-viggle-turbo · 425 ♥",
+       "title": "Viggle/Qwen-Image-2.1-viggle-turbo · 427 ♥",
        "url": "https://huggingface.co/Viggle/Qwen-Image-2.1-viggle-turbo",
        "source": "HF new models",
        "published_at": "2026-09-22 04:14"
       },
       {
-       "title": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF · 2432 ♥",
+       "title": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF · 2454 ♥",
        "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
        "source": "HF new models",
        "published_at": "2026-09-20 15:51"
@@ -67,8 +45,54 @@
      ]
     },
     {
+     "label": "Models",
+     "articles": [
+      {
+       "title": "Sam Altman says OpenAI won’t go public until its models are safe",
+       "url": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
+       "source": "Verge AI",
+       "published_at": "2026-09-30 00:19"
+      },
+      {
+       "title": "Are you worried about a potential ban of Chinese open weight models?",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtp9x4/are_you_worried_about_a_potential_ban_of_chinese/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-29 23:17"
+      }
+     ]
+    },
+    {
+     "label": "Model",
+     "articles": [
+      {
+       "title": "Sherry's 3:4 ternary format (1.375 bits per weight) running on WebGPU: a 1.6 MB model that plays Connect Four as well as its 7.8 MB int8 version",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtp8h5/sherrys_34_ternary_format_1375_bits_per_weight/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-29 23:16"
+      },
+      {
+       "title": "Best model for blender?",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtlxa9/best_model_for_blender/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-29 20:57"
+      }
+     ]
+    },
+    {
      "label": "More headlines",
      "articles": [
+      {
+       "title": "PSA: ModelScope CLI is now moved to \"modelscope-hub\"",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtrykk/psa_modelscope_cli_is_now_moved_to_modelscopehub/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-30 01:22"
+      },
+      {
+       "title": "AMD boosting AI/LLM performance for Radeon iGPUs as much as 18~23% with Linux 7.4",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtp87p/amd_boosting_aillm_performance_for_radeon_igpus/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-29 23:15"
+      },
       {
        "title": "Trump orders US government to call AI ‘Super Intelligence’",
        "url": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
@@ -82,61 +106,37 @@
        "published_at": "2026-09-29 21:49"
       },
       {
-       "title": "Best model for blender?",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtlxa9/best_model_for_blender/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-09-29 20:57"
-      },
-      {
-       "title": "Does post training make LLMs funnier?",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtkgsl/does_post_training_make_llms_funnier/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-09-29 20:00"
-      },
-      {
        "title": "Another case of censorship",
        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtjp1j/another_case_of_censorship/",
        "source": "r/LocalLLaMA",
        "published_at": "2026-09-29 19:31"
       },
       {
-       "title": "AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’",
-       "url": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
-       "source": "Verge AI",
-       "published_at": "2026-09-29 17:35"
-      },
-      {
-       "title": "Inference Engines will become a series of one-offs",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtg7zu/inference_engines_will_become_a_series_of_oneoffs/",
+       "title": "Anthropic just dropped the greatest advertisement for GLM ever.",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wth4iz/anthropic_just_dropped_the_greatest_advertisement/",
        "source": "r/LocalLLaMA",
-       "published_at": "2026-09-29 17:21"
+       "published_at": "2026-09-29 17:55"
       },
       {
-       "title": "OpenAI launches Dots, its Muse competitor",
-       "url": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
-       "source": "Verge AI",
-       "published_at": "2026-09-29 17:15"
-      },
-      {
-       "title": "Contrastive-LM/CLM-v0.1-8B · 527 ♥",
+       "title": "Contrastive-LM/CLM-v0.1-8B · 532 ♥",
        "url": "https://huggingface.co/Contrastive-LM/CLM-v0.1-8B",
        "source": "HF new models",
        "published_at": "2026-09-21 20:09"
       },
       {
-       "title": "Edge0/Audio8-ASR-Infinite · 1504 ♥",
+       "title": "Edge0/Audio8-ASR-Infinite · 1550 ♥",
        "url": "https://huggingface.co/Edge0/Audio8-ASR-Infinite",
        "source": "HF new models",
        "published_at": "2026-09-21 15:03"
       },
       {
-       "title": "convaiinnovations/laya · 4505 ♥",
+       "title": "convaiinnovations/laya · 4531 ♥",
        "url": "https://huggingface.co/convaiinnovations/laya",
        "source": "HF new models",
        "published_at": "2026-09-18 05:05"
       },
       {
-       "title": "prism-ml/Ternary-Bonsai-2-27B-gguf · 2267 ♥",
+       "title": "prism-ml/Ternary-Bonsai-2-27B-gguf · 2274 ♥",
        "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
        "source": "HF new models",
        "published_at": "2026-09-16 23:40"
@@ -237,47 +237,24 @@
    "note": null,
    "clusters": [
     {
-     "label": "المنصوري",
+     "label": "مغربية",
      "articles": [
       {
-       "title": "بنكيران يرحب بلقاء تواصلي مع المنصوري",
-       "url": "https://www.hespress.com/%d8%a8%d9%86%d9%83%d9%8a%d8%b1%d8%a7%d9%86-%d9%8a%d8%b1%d8%ad%d8%a8-%d8%a8%d9%84%d9%82%d8%a7%d8%a1-%d8%aa%d9%88%d8%a7%d8%b5%d9%84%d9%8a-%d9%85%d8%b9-%d8%a7%d9%84%d9%85%d9%86%d8%b5%d9%88%d8%b1%d9%8a-1815654.html",
+       "title": "جامعات مغربية تتقدم في الاستدامة",
+       "url": "https://www.hespress.com/%d8%ac%d8%a7%d9%85%d8%b9%d8%a7%d8%aa-%d9%85%d8%ba%d8%b1%d8%a8%d9%8a%d8%a9-%d8%aa%d8%aa%d9%82%d8%af%d9%85-%d9%81%d9%8a-%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%af%d8%a7%d9%85%d8%a9-1815223.html",
        "source": "Hespress",
-       "published_at": "2026-09-29 23:33"
+       "published_at": "2026-09-30 04:24"
       },
       {
-       "title": "المنصوري تعيد إلى الواجهة تاريخ النساء على رأس حكومات العالم الإسلامي",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%85%d9%86%d8%b5%d9%88%d8%b1%d9%8a-%d8%aa%d8%b9%d9%8a%d8%af-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d9%88%d8%a7%d8%ac%d9%87%d8%a9-%d8%aa%d8%a7%d8%b1%d9%8a%d8%ae-%d8%a7%d9%84%d9%86%d8%b3%d8%a7-1815617.html",
+       "title": "رغم التعبئة .. أحزاب مغربية تخرج من سباق المقاعد البرلمانية بخفّي حنين",
+       "url": "https://www.hespress.com/%d8%b1%d8%ba%d9%85-%d8%a7%d9%84%d8%aa%d8%b9%d8%a8%d8%a6%d8%a9-%d8%a3%d8%ad%d8%b2%d8%a7%d8%a8-%d9%85%d8%ba%d8%b1%d8%a8%d9%8a%d8%a9-%d8%aa%d8%ae%d8%b1%d8%ac-%d9%85%d9%86-%d8%b3%d8%a8%d8%a7%d9%82-1815311.html",
        "source": "Hespress",
-       "published_at": "2026-09-29 22:31"
-      },
-      {
-       "title": "نادي الكوكب المراكشي يهنئ المنصوري",
-       "url": "https://www.hespress.com/%d9%86%d8%a7%d8%af%d9%8a-%d8%a7%d9%84%d9%83%d9%88%d9%83%d8%a8-%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%83%d8%b4%d9%8a-%d9%8a%d9%87%d9%86%d8%a6-%d8%a7%d9%84%d9%85%d9%86%d8%b5%d9%88%d8%b1%d9%8a-1815526.html",
-       "source": "Hespress",
-       "published_at": "2026-09-29 22:11"
+       "published_at": "2026-09-30 03:00"
       }
      ]
     },
     {
-     "label": "منتخب",
-     "articles": [
-      {
-       "title": "ميطا 3 | كيف هزم \"الأسود\" منتخب ليسوتو؟",
-       "url": "https://www.hespress.com/%d9%85%d9%8a%d8%b7%d8%a7-3-%d9%83%d9%8a%d9%81-%d9%87%d8%b2%d9%85-%d8%a7%d9%84%d8%a3%d8%b3%d9%88%d8%af-%d9%85%d9%86%d8%aa%d8%ae%d8%a8-%d9%84%d9%8a%d8%b3%d9%88%d8%aa%d9%88%d8%9f-1815587.html",
-       "source": "Hespress",
-       "published_at": "2026-09-29 22:23"
-      },
-      {
-       "title": "القرعة تبتسم للسكتيوي مع منتخب عُمان",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%82%d8%b1%d8%b9%d8%a9-%d8%aa%d8%a8%d8%aa%d8%b3%d9%85-%d9%84%d9%84%d8%b3%d9%83%d8%aa%d9%8a%d9%88%d9%8a-%d9%85%d8%b9-%d9%85%d9%86%d8%aa%d8%ae%d8%a8-%d8%b9%d9%8f%d9%85%d8%a7%d9%86-1815628.html",
-       "source": "Hespress",
-       "published_at": "2026-09-29 22:21"
-      }
-     ]
-    },
-    {
-     "label": "Mansouri · Fatima",
+     "label": "Ezzahra · Mansouri",
      "articles": [
       {
        "title": "“Le travail commence dès aujourd'hui”, promet Fatima Ezzahra El Mansouri à peine nommée",
@@ -297,6 +274,54 @@
      "label": "More headlines",
      "articles": [
       {
+       "title": "تقرير حكومي ألماني يكشف تفاصيل صادرات عسكرية موجهة إلى المغرب",
+       "url": "https://www.hespress.com/%d8%aa%d9%82%d8%b1%d9%8a%d8%b1-%d8%ad%d9%83%d9%88%d9%85%d9%8a-%d8%a3%d9%84%d9%85%d8%a7%d9%86%d9%8a-%d9%8a%d9%83%d8%b4%d9%81-%d8%aa%d9%81%d8%a7%d8%b5%d9%8a%d9%84-%d8%b5%d8%a7%d8%af%d8%b1%d8%a7%d8%aa-1815182.html",
+       "source": "Hespress",
+       "published_at": "2026-09-30 04:00"
+      },
+      {
+       "title": "سان جيرمان يضع بديلا لأشرف حكيمي",
+       "url": "https://www.hespress.com/%d8%b3%d8%a7%d9%86-%d8%ac%d9%8a%d8%b1%d9%85%d8%a7%d9%86-%d9%8a%d8%b6%d8%b9-%d8%a8%d8%af%d9%8a%d9%84%d8%a7-%d9%84%d8%a3%d8%b4%d8%b1%d9%81-%d8%ad%d9%83%d9%8a%d9%85%d9%8a-1815410.html",
+       "source": "Hespress",
+       "published_at": "2026-09-30 03:19"
+      },
+      {
+       "title": "نيابة تنغير تكافح التحرش بالمدارس",
+       "url": "https://www.hespress.com/%d9%86%d9%8a%d8%a7%d8%a8%d8%a9-%d8%aa%d9%86%d8%ba%d9%8a%d8%b1-%d8%aa%d9%83%d8%a7%d9%81%d8%ad-%d8%a7%d9%84%d8%aa%d8%ad%d8%b1%d8%b4-%d8%a8%d8%a7%d9%84%d9%85%d8%af%d8%a7%d8%b1%d8%b3-1815511.html",
+       "source": "Hespress",
+       "published_at": "2026-09-30 02:31"
+      },
+      {
+       "title": "الحرب في أوكرانيا تفتح الباب مجددا أمام ازدهار أنشطة \"مافيا الكهرمان\"",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%ad%d8%b1%d8%a8-%d9%81%d9%8a-%d8%a3%d9%88%d9%83%d8%b1%d8%a7%d9%86%d9%8a%d8%a7-%d8%aa%d9%81%d8%aa%d8%ad-%d8%a7%d9%84%d8%a8%d8%a7%d8%a8-%d9%85%d8%ac%d8%af%d8%af%d8%a7-%d8%a3%d9%85%d8%a7-1815291.html",
+       "source": "Hespress",
+       "published_at": "2026-09-30 02:00"
+      },
+      {
+       "title": "حصيلة حوادث السير بالمدن 26 قتيلا",
+       "url": "https://www.hespress.com/%d8%ad%d8%b5%d9%8a%d9%84%d8%a9-%d8%ad%d9%88%d8%a7%d8%af%d8%ab-%d8%a7%d9%84%d8%b3%d9%8a%d8%b1-%d8%a8%d8%a7%d9%84%d9%85%d8%af%d9%86-26-%d9%82%d8%aa%d9%8a%d9%84%d8%a7-1815431.html",
+       "source": "Hespress",
+       "published_at": "2026-09-30 01:28"
+      },
+      {
+       "title": "حزب \"البام\" يرغب في تشكيل أغلبية حكومية منسجمة في أقرب الآجال",
+       "url": "https://www.hespress.com/%d8%ad%d8%b2%d8%a8-%d8%a7%d9%84%d8%a8%d8%a7%d9%85-%d9%8a%d8%b1%d8%ba%d8%a8-%d9%81%d9%8a-%d8%aa%d8%b4%d9%83%d9%8a%d9%84-%d8%a3%d8%ba%d9%84%d8%a8%d9%8a%d8%a9-%d8%ad%d9%83%d9%88%d9%85%d9%8a%d8%a9-1815688.html",
+       "source": "Hespress",
+       "published_at": "2026-09-30 00:42"
+      },
+      {
+       "title": "التخريب يطال مركزا صحيا في وزان",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%aa%d8%ae%d8%b1%d9%8a%d8%a8-%d9%8a%d8%b7%d8%a7%d9%84-%d9%85%d8%b1%d9%83%d8%b2%d8%a7-%d8%b5%d8%ad%d9%8a%d8%a7-%d9%81%d9%8a-%d9%88%d8%b2%d8%a7%d9%86-1815496.html",
+       "source": "Hespress",
+       "published_at": "2026-09-30 00:22"
+      },
+      {
+       "title": "العسري: تعيين المنصوري التزام ملكي صريح بالمادة 47 من الدستور",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%b9%d8%b3%d8%b1%d9%8a-%d8%aa%d8%b9%d9%8a%d9%8a%d9%86-%d8%a7%d9%84%d9%85%d9%86%d8%b5%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%aa%d8%b2%d8%a7%d9%85-%d9%85%d9%84%d9%83%d9%8a-%d8%b5%d8%b1%d9%8a-1815635.html",
+       "source": "Hespress",
+       "published_at": "2026-09-30 00:00"
+      },
+      {
        "title": "الإعلام الدولي يهتم بتعيين \"بنت الباشا\"",
        "url": "https://www.hespress.com/%d8%a7%d9%84%d8%a5%d8%b9%d9%84%d8%a7%d9%85-%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a-%d9%8a%d9%87%d8%aa%d9%85-%d8%a8%d8%aa%d8%b9%d9%8a%d9%8a%d9%86-%d8%a8%d9%86%d8%aa-%d8%a7%d9%84%d8%a8%d8%a7%d8%b4%d8%a7-1815523.html",
        "source": "Hespress",
@@ -307,36 +332,6 @@
        "url": "https://www.hespress.com/%d8%a7%d9%84%d8%b3%d9%8a%d8%af%d8%a9-%d8%b1%d8%a6%d9%8a%d8%b3%d8%a9-%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d8%a9-1815655.html",
        "source": "Hespress",
        "published_at": "2026-09-29 23:36"
-      },
-      {
-       "title": "أغنى رجل في إفريقيا يتوقع اكتفاء القارة بالوقود في غضون 4 سنوات",
-       "url": "https://www.hespress.com/%d8%a3%d8%ba%d9%86%d9%89-%d8%b1%d8%ac%d9%84-%d9%81%d9%8a-%d8%a5%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7-%d9%8a%d8%aa%d9%88%d9%82%d8%b9-%d8%a7%d9%83%d8%aa%d9%81%d8%a7%d8%a1-%d8%a7%d9%84%d9%82%d8%a7%d8%b1-1815541.html",
-       "source": "Hespress",
-       "published_at": "2026-09-29 23:34"
-      },
-      {
-       "title": "مشاركة مغربية تبهر الأرجنتينيين في قمة \"أولي\" بالعاصمة بوينس آيريس‬",
-       "url": "https://www.hespress.com/%d9%85%d8%b4%d8%a7%d8%b1%d9%83%d8%a9-%d9%85%d8%ba%d8%b1%d8%a8%d9%8a%d8%a9-%d8%aa%d8%a8%d9%87%d8%b1-%d8%a7%d9%84%d8%a3%d8%b1%d8%ac%d9%86%d8%aa%d9%8a%d9%86%d9%8a%d9%8a%d9%86-%d9%81%d9%8a-%d9%82%d9%85-1815642.html",
-       "source": "Hespress",
-       "published_at": "2026-09-29 23:31"
-      },
-      {
-       "title": "توقيف ليموري يربك تدبير مدينة طنجة",
-       "url": "https://www.hespress.com/%d8%aa%d9%88%d9%82%d9%8a%d9%81-%d9%84%d9%8a%d9%85%d9%88%d8%b1%d9%8a-%d9%8a%d8%b1%d8%a8%d9%83-%d8%aa%d8%af%d8%a8%d9%8a%d8%b1-%d9%85%d8%af%d9%8a%d9%86%d8%a9-%d8%b7%d9%86%d8%ac%d8%a9-1815534.html",
-       "source": "Hespress",
-       "published_at": "2026-09-29 23:07"
-      },
-      {
-       "title": "غضب طلبة طب الأسنان بالدار البيضاء",
-       "url": "https://www.hespress.com/%d8%ba%d8%b6%d8%a8-%d8%b7%d9%84%d8%a8%d8%a9-%d8%b7%d8%a8-%d8%a7%d9%84%d8%a3%d8%b3%d9%86%d8%a7%d9%86-%d8%a8%d8%a7%d9%84%d8%af%d8%a7%d8%b1-%d8%a7%d9%84%d8%a8%d9%8a%d8%b6%d8%a7%d8%a1-1815625.html",
-       "source": "Hespress",
-       "published_at": "2026-09-29 22:22"
-      },
-      {
-       "title": "إطلاق مدرسة \"التكنولوجيات\" بالعيون",
-       "url": "https://www.hespress.com/%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d9%85%d8%af%d8%b1%d8%b3%d8%a9-%d8%a7%d9%84%d8%aa%d9%83%d9%86%d9%88%d9%84%d9%88%d8%ac%d9%8a%d8%a7%d8%aa-%d8%a8%d8%a7%d9%84%d8%b9%d9%8a%d9%88%d9%86-1815550.html",
-       "source": "Hespress",
-       "published_at": "2026-09-29 22:19"
       },
       {
        "title": "Eliminatoires CAN-2027 : Ouahbi “satisfait” de la performance des Lions de l’Atlas après leur victoire face au Lesotho",
@@ -408,23 +403,6 @@
      ]
     },
     {
-     "label": "Nieuw",
-     "articles": [
-      {
-       "title": "Kabinet heeft nieuw aanbod voor oppositie en wil daarin koopkracht verbeteren",
-       "url": "https://www.nu.nl/politiek/6411374/kabinet-heeft-nieuw-aanbod-voor-oppositie-en-wil-daarin-koopkracht-verbeteren.html",
-       "source": "NU.nl",
-       "published_at": "2026-09-29 16:51"
-      },
-      {
-       "title": "Snelle en Domien Verschuuren vervullen rol in nieuw seizoen The voice of Holland",
-       "url": "https://www.telegraaf.nl/entertainment/cultuur/snelle-en-domien-verschuuren-vervullen-rol-in-nieuw-seizoen-the-voice-of-holland/162342289.html",
-       "source": "de Telegraaf",
-       "published_at": "2026-09-29 16:21"
-      }
-     ]
-    },
-    {
      "label": "More headlines",
      "articles": [
       {
@@ -438,11 +416,17 @@
        "url": "https://www.telegraaf.nl/opinie/marcel-peereboom-voller-premierwaardig-is-een-achterhaald-begrip/162259550.html",
        "source": "de Telegraaf",
        "published_at": "2026-09-29 17:00"
+      },
+      {
+       "title": "Kabinet heeft nieuw aanbod voor oppositie en wil daarin koopkracht verbeteren",
+       "url": "https://www.nu.nl/politiek/6411374/kabinet-heeft-nieuw-aanbod-voor-oppositie-en-wil-daarin-koopkracht-verbeteren.html",
+       "source": "NU.nl",
+       "published_at": "2026-09-29 16:51"
       }
      ]
     }
    ],
-   "count": 8
+   "count": 7
   },
   {
    "key": "mideast",
@@ -451,31 +435,20 @@
    "note": null,
    "clusters": [
     {
-     "label": "Gaza",
-     "articles": [
-      {
-       "title": "‘Netanyahu targets Qatar to deflect from Gaza war crimes’",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/netanyahu-targets-qatar-to-deflect-from-gaza-war?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-09-29 21:24"
-      },
-      {
-       "title": "Has Gaza broken the Israel consensus in the US?",
-       "url": "https://www.aljazeera.com/video/lets-focus/2026/9/29/has-gaza-broken-the-israel-consensus-in-the-us?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-09-29 20:05"
-      },
-      {
-       "title": "‘You were right’: Ed Miliband tells critics Labour was wrong on Gaza",
-       "url": "https://www.theguardian.com/politics/2026/sep/28/ed-miliband-labour-former-stance-palestine-fell-short",
-       "source": "Guardian World",
-       "published_at": "2026-09-28 04:00"
-      }
-     ]
-    },
-    {
      "label": "Israel",
      "articles": [
+      {
+       "title": "Morocco’s pro-Palestine protests challenge Rabat’s deepening Israel ties",
+       "url": "https://www.aljazeera.com/news/2026/9/30/moroccos-pro-palestine-protests-challenge-rabats-deepening-israel-ties?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-09-30 01:46"
+      },
+      {
+       "title": "‘Nothing is justifying this’: Qatar’s PM slams Israel’s atrocities in Gaza",
+       "url": "https://www.aljazeera.com/news/2026/9/29/nothing-is-justifying-this-qatari-pm-slams-atrocities-in-gaza?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-09-29 23:49"
+      },
       {
        "title": "What is white phosphorus, and why is Israel using it in Lebanon?",
        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/what-is-white-phosphorus-and-why-is-israel-using-it-in-lebanon?traffic_source=rss",
@@ -491,36 +464,19 @@
      ]
     },
     {
-     "label": "Iran",
+     "label": "Bank · West",
      "articles": [
       {
-       "title": "US sanctions 10 entities for allegedly supporting Iran’s military",
-       "url": "https://www.aljazeera.com/news/2026/9/29/us-sanctions-10-entities-for-allegedly-supporting-irans-military?traffic_source=rss",
+       "title": "US Senate blocks resolution seeking report on Americans killed in West Bank",
+       "url": "https://www.aljazeera.com/news/2026/9/30/us-senate-blocks-resolution-seeking-report-on-americans-killed-in-west-bank?traffic_source=rss",
        "source": "Al Jazeera",
-       "published_at": "2026-09-29 20:48"
+       "published_at": "2026-09-30 02:26"
       },
       {
-       "title": "Trump administration ‘must be changed’: Iran’s IRGC appeals to US voters",
-       "url": "https://www.aljazeera.com/news/2026/9/29/trump-administration-must-be-changed-irans-irgc-appeals-to-us-voters?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-09-29 17:51"
-      },
-      {
-       "title": "Questions remain over Iran’s link to alleged RAF Fairford bomb plot",
-       "url": "https://www.theguardian.com/world/2026/sep/28/questions-remain-over-irans-link-to-alleged-raf-fairford-bomb-plot",
+       "title": "US Senate blocks resolution demanding accountability over Israeli violence in West Bank",
+       "url": "https://www.theguardian.com/us-news/2026/sep/29/senate-resolution-west-bank-israel-violence",
        "source": "Guardian World",
-       "published_at": "2026-09-28 21:36"
-      }
-     ]
-    },
-    {
-     "label": "Israeli · Attack",
-     "articles": [
-      {
-       "title": "Jerusalem Daily: Israeli worshippers attack Palestinian man",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/aje-onl-nf_j_daily_israeli-worshippers-attack-palestinian-man-290926?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-09-29 18:51"
+       "published_at": "2026-09-30 00:16"
       },
       {
        "title": "Israeli settlers attack West Bank village and block Palestinian family's return home",
@@ -531,7 +487,24 @@
      ]
     },
     {
-     "label": "More headlines",
+     "label": "War",
+     "articles": [
+      {
+       "title": "Iran war live: Trump claims war will end ‘very soon’, gives no details",
+       "url": "https://www.aljazeera.com/news/liveblog/2026/9/30/iran-war-live-trump-claims-war-will-end-very-soon-provides-no-details?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-09-30 00:00"
+      },
+      {
+       "title": "‘Netanyahu targets Qatar to deflect from Gaza war crimes’",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/netanyahu-targets-qatar-to-deflect-from-gaza-war?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-09-29 21:24"
+      }
+     ]
+    },
+    {
+     "label": "Yemen",
      "articles": [
       {
        "title": "Saudi Arabia urged to reconcile with UAE to drive back Houthi separatists in Yemen",
@@ -546,6 +519,17 @@
        "published_at": "2026-09-28 07:07"
       }
      ]
+    },
+    {
+     "label": "More headlines",
+     "articles": [
+      {
+       "title": "Questions remain over Iran’s link to alleged RAF Fairford bomb plot",
+       "url": "https://www.theguardian.com/world/2026/sep/28/questions-remain-over-irans-link-to-alleged-raf-fairford-bomb-plot",
+       "source": "Guardian World",
+       "published_at": "2026-09-28 21:36"
+      }
+     ]
     }
    ],
    "count": 12
@@ -557,8 +541,14 @@
    "note": null,
    "clusters": [
     {
-     "label": "Ukraine · Russian",
+     "label": "Ukraine · Missile",
      "articles": [
+      {
+       "title": "Missile alerts cost Ukraine $45m for every hour they halt businesses",
+       "url": "https://www.theguardian.com/world/2026/sep/30/missile-alerts-cost-ukraine-businesses-halt",
+       "source": "Guardian World",
+       "published_at": "2026-09-30 04:00"
+      },
       {
        "title": "Ukraine's prized steel industry left in ruins by Russian missile campaign",
        "url": "https://www.bbc.co.uk/news/articles/cjkg7k6z9296o?at_medium=RSS&at_campaign=rss",
@@ -582,41 +572,30 @@
        "url": "https://www.bbc.co.uk/news/articles/c6m27l4er4jxo?at_medium=RSS&at_campaign=rss",
        "source": "BBC World",
        "published_at": "2026-09-29 19:36"
-      },
-      {
-       "title": "Ukraine war latest: Record Russian military budget for 2027 confirms no interest in ending war",
-       "url": "https://kyivindependent.com/ukraine-war-latest-record-russian-military-budget-for-2027-confirms-no-interest-in-ending-war/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-09-29 17:43"
-      }
-     ]
-    },
-    {
-     "label": "Russia",
-     "articles": [
-      {
-       "title": "3 children injured as Russia strikes Sumy school with glide bombs",
-       "url": "https://kyivindependent.com/3-children-injured-as-russia-strikes-sumy-school-with-glide-bombs/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-09-29 17:14"
-      },
-      {
-       "title": "After Nestle and Auchan seizures, Russia is coming for others",
-       "url": "https://kyivindependent.com/after-nestle-and-auchan-seizures-russia-is-coming-for-others/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-09-29 15:32"
-      },
-      {
-       "title": "Lukashenko urges US to join Russia-Belarus fertilizer plant project",
-       "url": "https://kyivindependent.com/lukashenko-urges-us-to-join-russia-belarus-fertilizer-plant-project/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-09-29 15:25"
       }
      ]
     },
     {
      "label": "Russian · Military",
      "articles": [
+      {
+       "title": "US imposes sanctions against Russian companies tied to Iran weapons procurement",
+       "url": "https://kyivindependent.com/us-imposes-sanctions-against-russian-companies-tied-to-iran-weapons-procurement/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-09-30 02:28"
+      },
+      {
+       "title": "2 killed, 4 injured in Russian missile, drone attack on Kyiv",
+       "url": "https://kyivindependent.com/russian-ballistic-missiles-rock-kyiv-disrupt-electricity-as-multi-day-russian-attacks-on-capital-continue/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-09-30 00:28"
+      },
+      {
+       "title": "Ukraine war latest: Record Russian military budget for 2027 confirms no interest in ending war",
+       "url": "https://kyivindependent.com/ukraine-war-latest-record-russian-military-budget-for-2027-confirms-no-interest-in-ending-war/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-09-29 17:43"
+      },
       {
        "title": "Russian military units allegedly involved in Oleshky humanitarian crisis identified",
        "url": "https://kyivindependent.com/russian-military-units-allegedly-involved-in-oleshky-humanitarian-crisis-identified/",
@@ -635,16 +614,16 @@
      "label": "More headlines",
      "articles": [
       {
+       "title": "3 children injured as Russia strikes Sumy school with glide bombs",
+       "url": "https://kyivindependent.com/3-children-injured-as-russia-strikes-sumy-school-with-glide-bombs/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-09-29 17:14"
+      },
+      {
        "title": "Reporter's Notebook: How constant drone attacks became a normal workday in Kyiv",
        "url": "https://kyivindependent.com/reporters-notebook-how-constant-drone-attacks-became-a-normal-workday-in-kyiv/",
        "source": "Kyiv Independent",
        "published_at": "2026-09-29 16:26"
-      },
-      {
-       "title": "Belgium to transfer 3 F-16 fighter jets to Ukraine by end of 2026, Zelensky says",
-       "url": "https://kyivindependent.com/belgium-to-transfer-3-f-16-fighter-jets-to-ukraine-by-end-of-2026-zelensky-says/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-09-29 15:31"
       }
      ]
     }
