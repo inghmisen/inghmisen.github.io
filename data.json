@@ -1,12 +1,12 @@
 {
  "date": "Thursday 1 October 2026",
- "generated_at": "00:45 UTC",
+ "generated_at": "07:02 UTC",
  "error": null,
  "total_stories": 78,
  "fx": {
   "pair": "EUR/MAD",
   "rate": 11.0,
-  "change_pct": 0.31
+  "change_pct": 0.0
  },
  "lanes": [
   {
@@ -16,8 +16,14 @@
    "note": null,
    "clusters": [
     {
-     "label": "Qwen · Gguf",
+     "label": "Qwen · Next",
      "articles": [
+      {
+       "title": "Qwen Flash Next MTP work restarted",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wur4lt/qwen_flash_next_mtp_work_restarted/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-10-01 05:27"
+      },
       {
        "title": "Two open-weights releases: Victoria (Qwen3.8-Flash-Next with 44% of experts cut, 70% Terminal-Bench 2.1, GGUF included) and Maple (a Canada-first fine-tune)",
        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wujph3/two_openweights_releases_victoria_qwen38flashnext/",
@@ -25,19 +31,19 @@
        "published_at": "2026-09-30 23:10"
       },
       {
-       "title": "Qwen3.8-27B-pi: Effort-Ordered Reasoning for Agentic Coding",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wufzrh/qwen3827bpi_effortordered_reasoning_for_agentic/",
+       "title": "peculiar-ragdoll's Dirk-Qwen 3.8-27B vs. UkisAI Swift-1.5 Qwen3.8-27B",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wuigui/peculiarragdolls_dirkqwen_3827b_vs_ukisai_swift15/",
        "source": "r/LocalLLaMA",
-       "published_at": "2026-09-30 20:32"
+       "published_at": "2026-09-30 22:14"
       },
       {
-       "title": "Viggle/Qwen-Image-2.1-viggle-turbo · 453 ♥",
+       "title": "Viggle/Qwen-Image-2.1-viggle-turbo · 464 ♥",
        "url": "https://huggingface.co/Viggle/Qwen-Image-2.1-viggle-turbo",
        "source": "HF new models",
        "published_at": "2026-09-22 04:14"
       },
       {
-       "title": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF · 2580 ♥",
+       "title": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF · 2604 ♥",
        "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
        "source": "HF new models",
        "published_at": "2026-09-20 15:51"
@@ -45,42 +51,31 @@
      ]
     },
     {
-     "label": "Amd",
+     "label": "Open · Source",
      "articles": [
+      {
+       "title": "Astrabox - Open source Arcade Game Generator",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wumex2/astrabox_open_source_arcade_game_generator/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-10-01 01:17"
+      },
       {
        "title": "Open source inference engine (like LM Studio or Unsloth Desktop) that optimizes itself for your exact hardware. Compiles and tunes its kernels on your device, so open models run up to 2x faster than llama.cpp. Works on Apple Silicon, NVIDIA, AMD or nothing but a CPU.",
        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wuj70v/open_source_inference_engine_like_lm_studio_or/",
        "source": "r/LocalLLaMA",
        "published_at": "2026-09-30 22:46"
-      },
-      {
-       "title": "Preorder for new AMD Ryzen™ AI Max 400 Series 192GB from framework just started",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wue339/preorder_for_new_amd_ryzen_ai_max_400_series/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-09-30 19:19"
-      }
-     ]
-    },
-    {
-     "label": "Gemini",
-     "articles": [
-      {
-       "title": "Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now",
-       "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
-       "source": "Verge AI",
-       "published_at": "2026-09-30 20:41"
-      },
-      {
-       "title": "Gemini 4 Argon",
-       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
-       "source": "Hacker News",
-       "published_at": "2026-09-30 20:04"
       }
      ]
     },
     {
      "label": "More headlines",
      "articles": [
+      {
+       "title": "Finally got my 4th card in (64gb total)",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wupsay/finally_got_my_4th_card_in_64gb_total/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-10-01 04:10"
+      },
       {
        "title": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
        "url": "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
@@ -100,6 +95,12 @@
        "published_at": "2026-09-30 23:36"
       },
       {
+       "title": "Best local model for Blender and game dev?",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wuk9f1/best_local_model_for_blender_and_game_dev/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-09-30 23:35"
+      },
+      {
        "title": "If one hour of AI is costing me 0.12€ is paying for frontier a cheaper option?",
        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wuhrop/if_one_hour_of_ai_is_costing_me_012_is_paying_for/",
        "source": "r/LocalLLaMA",
@@ -112,13 +113,7 @@
        "published_at": "2026-09-30 20:49"
       },
       {
-       "title": "Update: Strix Halo + R9700 with llama-halo-hybrid - now beats DGX Spark",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wuet5g/update_strix_halo_r9700_with_llamahalohybrid_now/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-09-30 19:46"
-      },
-      {
-       "title": "SupersonicLabs/Julia-1 · 317 ♥",
+       "title": "SupersonicLabs/Julia-1 · 321 ♥",
        "url": "https://huggingface.co/SupersonicLabs/Julia-1",
        "source": "HF new models",
        "published_at": "2026-09-23 15:29"
@@ -130,13 +125,13 @@
        "published_at": "2026-09-23 14:56"
       },
       {
-       "title": "Contrastive-LM/CLM-v0.1-8B · 573 ♥",
+       "title": "Contrastive-LM/CLM-v0.1-8B · 581 ♥",
        "url": "https://huggingface.co/Contrastive-LM/CLM-v0.1-8B",
        "source": "HF new models",
        "published_at": "2026-09-21 20:09"
       },
       {
-       "title": "Edge0/Audio8-ASR-Infinite · 1865 ♥",
+       "title": "Edge0/Audio8-ASR-Infinite · 1972 ♥",
        "url": "https://huggingface.co/Edge0/Audio8-ASR-Infinite",
        "source": "HF new models",
        "published_at": "2026-09-21 15:03"
@@ -153,7 +148,7 @@
    "note": null,
    "clusters": [
     {
-     "label": "Grote · Bestuursfotoverkiezing",
+     "label": "Bestuursfotoverkiezing · Grote",
      "articles": [
       {
        "title": "De Grote U-Today Bestuursfotoverkiezing 2026, de uitslag",
@@ -202,6 +197,12 @@
        "published_at": "2026-09-23 11:36"
       },
       {
+       "title": "EEMCS-bestuur: ‘Publicatie schetst onjuist en onvolledig beeld’",
+       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcXp6YWNOeDFmaFMzbGtNMkNuR2pCMDg1cktPSDhmUHJpcFpEZGxSdDhnT2Z0Vk1hLUMzVU9XTlZFZzV6Z1JYVWF5a1EtRjJzQ2t5aGJrNVF2QlY2NW9ZaE5rN29Bc1hJN2xZaGlVdEJkZWhfbnlLaXlodDFJWl9XX0NrWmpicXVYVXhJX0gzZWFEdEdzT1YxeQ?oc=5",
+       "source": "UToday",
+       "published_at": "2026-09-01 07:00"
+      },
+      {
        "title": "Elfbierentocht vs alcoholconvenant: ‘Cola mag ook’",
        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRjNkNzM5VjZVV3ZEaC05UzRpVG9kLUZFQkc3Nzk3UDlqWXlPaFNzZFVieXBpbWlyTDRQcEFvNVVlRmJtX3BTTXNUZlctWGlQSzA1NXVER2NYcWJDaU1valZ1T3AxR0NsOWtHZmxpcHZvX1VJd0l5cFRqNGlSdG9mZDhEU2VyOG13bHAxZg?oc=5",
        "source": "UToday",
@@ -218,12 +219,6 @@
        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcmppb3BwZ0tnV21aNTBCQm1EQzhudzZDeW1BUU5VZ0Y0NjlBUHFkUUNoNWNYeUtNWjZ3Zk9QbTF3VGZydTdBbUk0NzJtVFpONlVfLXZwbm9HNXhEX1p2WEFUTU1GeTQzVWtQcjdZWnJ3eUFjZVd6SFFSZWRBdVdweGNiRUFBcWIwZ3NtNUdn?oc=5",
        "source": "UToday",
        "published_at": "2026-05-21 07:00"
-      },
-      {
-       "title": "Hoogleraar Maaike Endedijk houdt betoog tegen machtsmisbruik: ‘Sta op’",
-       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUUw5SEpLaEZTLWgxRTdEcklZQmJ6WTRSMUl4QXh0Y1ljanpibXVnS3pRQ3loQ1luNkFpNm1ONlk4ZVdVdWpncnhzaHRwdFNKM252aG1tVHFqSUhXaEdUTk80OXFELWVUZzBaS21wNVZVU0xVeTlnWmhZTlZraDNPQ1N5d3dGTGRCU3dJSFpPLUEtSkZVWnV4NDJkQW1QdGw5M0E?oc=5",
-       "source": "UToday",
-       "published_at": "2026-04-14 07:00"
       }
      ]
     }
@@ -260,19 +255,19 @@
      ]
     },
     {
-     "label": "المرابطين · والموحدين",
+     "label": "الحكومة",
      "articles": [
       {
-       "title": "إرث المرابطين والموحدين",
-       "url": "https://www.hespress.com/%d8%a5%d8%b1%d8%ab-%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d8%a8%d8%b7%d9%8a%d9%86-%d9%88%d8%a7%d9%84%d9%85%d9%88%d8%ad%d8%af%d9%8a%d9%86-1815947.html",
+       "title": "الحكومة تنتصر لمنتجي الثوم المغارية وتفرض ترخيصا مسبقا للاستيراد",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d8%a9-%d8%aa%d9%86%d8%aa%d8%b5%d8%b1-%d9%84%d9%85%d9%86%d8%aa%d8%ac%d9%8a-%d8%a7%d9%84%d8%ab%d9%88%d9%85-%d8%a7%d9%84%d9%85%d8%ba%d8%a7%d8%b1%d9%8a%d8%a9-%d9%88-1814775.html",
        "source": "Hespress",
-       "published_at": "2026-10-01 00:10"
+       "published_at": "2026-10-01 04:00"
       },
       {
-       "title": "أكاديمية المملكة تعيد فتح تاريخ المرابطين والموحدين بقراءات جديدة",
-       "url": "https://www.hespress.com/%d8%a3%d9%83%d8%a7%d8%af%d9%8a%d9%85%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d9%85%d9%84%d9%83%d8%a9-%d8%aa%d8%b9%d9%8a%d8%af-%d9%81%d8%aa%d8%ad-%d8%aa%d8%a7%d8%b1%d9%8a%d8%ae-%d8%a7%d9%84%d9%85%d8%b1%d8%a7-1816276.html",
+       "title": "من رئاسة الحكومة إلى البرلمان .. حضور نسائي لافت في مؤسسات 2026",
+       "url": "https://www.hespress.com/%d9%85%d9%86-%d8%b1%d8%a6%d8%a7%d8%b3%d8%a9-%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d8%a9-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d8%a8%d8%b1%d9%84%d9%85%d8%a7%d9%86-%d8%ad%d8%b6%d9%88%d8%b1-%d9%86%d8%b3-1815831.html",
        "source": "Hespress",
-       "published_at": "2026-09-30 23:45"
+       "published_at": "2026-10-01 03:00"
       }
      ]
     },
@@ -280,64 +275,64 @@
      "label": "More headlines",
      "articles": [
       {
-       "title": "\"زوق تبيع\"",
-       "url": "https://www.hespress.com/%d8%b2%d9%88%d9%82-%d8%aa%d8%a8%d9%8a%d8%b9-1816309.html",
+       "title": "مطالب بمرصد لحماية مهاجري سبتة",
+       "url": "https://www.hespress.com/%d9%85%d8%b7%d8%a7%d9%84%d8%a8-%d8%a8%d9%85%d8%b1%d8%b5%d8%af-%d9%84%d8%ad%d9%85%d8%a7%d9%8a%d8%a9-%d9%85%d9%87%d8%a7%d8%ac%d8%b1%d9%8a-%d8%b3%d8%a8%d8%aa%d8%a9-1816047.html",
        "source": "Hespress",
-       "published_at": "2026-10-01 00:29"
+       "published_at": "2026-10-01 06:03"
       },
       {
-       "title": "بطاقة حزبية للاستوزار؟",
-       "url": "https://www.hespress.com/%d8%a8%d8%b7%d8%a7%d9%82%d8%a9-%d8%ad%d8%b2%d8%a8%d9%8a%d8%a9-%d9%84%d9%84%d8%a7%d8%b3%d8%aa%d9%88%d8%b2%d8%a7%d8%b1%d8%9f-1816311.html",
+       "title": "وزارة التعليم العالي تعفي الطلبة الدوليين من معادلات الشهادات والمباريات",
+       "url": "https://www.hespress.com/%d9%88%d8%b2%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%8a-%d8%aa%d8%b9%d9%81%d9%8a-%d8%a7%d9%84%d8%b7%d9%84%d8%a8%d8%a9-%d8%a7%d9%84%d8%af%d9%88-1815954.html",
        "source": "Hespress",
-       "published_at": "2026-10-01 00:28"
+       "published_at": "2026-10-01 06:00"
       },
       {
-       "title": "الكراوي: تفعيل القوانين وتجديد الحكامة شرطان لإطلاق الطاقات الاقتصادية",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%83%d8%b1%d8%a7%d9%88%d9%8a-%d8%aa%d9%81%d8%b9%d9%8a%d9%84-%d8%a7%d9%84%d9%82%d9%88%d8%a7%d9%86%d9%8a%d9%86-%d9%88%d8%aa%d8%ac%d8%af%d9%8a%d8%af-%d8%a7%d9%84%d8%ad%d9%83%d8%a7%d9%85-1815753.html",
+       "title": "نساء \"الجرار\" يرحبن بتعيين المنصوري",
+       "url": "https://www.hespress.com/%d9%86%d8%b3%d8%a7%d8%a1-%d8%a7%d9%84%d8%ac%d8%b1%d8%a7%d8%b1-%d9%8a%d8%b1%d8%ad%d8%a8%d9%86-%d8%a8%d8%aa%d8%b9%d9%8a%d9%8a%d9%86-%d8%a7%d9%84%d9%85%d9%86%d8%b5%d9%88%d8%b1%d9%8a-1816036.html",
        "source": "Hespress",
-       "published_at": "2026-10-01 00:00"
+       "published_at": "2026-10-01 05:25"
       },
       {
-       "title": "طريق مهترئة وخسائر متواصلة",
-       "url": "https://www.hespress.com/%d8%b7%d8%b1%d9%8a%d9%82-%d9%85%d9%87%d8%aa%d8%b1%d8%a6%d8%a9-%d9%88%d8%ae%d8%b3%d8%a7%d8%a6%d8%b1-%d9%85%d8%aa%d9%88%d8%a7%d8%b5%d9%84%d8%a9-1816280.html",
+       "title": "بلهندة: جيل \"مونديال 2018\" ذهبي .. وبكيت بعد استبعادي من لائحة الركراكي",
+       "url": "https://www.hespress.com/%d8%a8%d9%84%d9%87%d9%86%d8%af%d8%a9-%d8%ac%d9%8a%d9%84-%d9%85%d9%88%d9%86%d8%af%d9%8a%d8%a7%d9%84-2018-%d8%b0%d9%87%d8%a8%d9%8a-%d9%88%d8%a8%d9%83%d9%8a%d8%aa-%d8%a8%d8%b9%d8%af-%d8%a7%d8%b3-1816206.html",
        "source": "Hespress",
-       "published_at": "2026-09-30 23:58"
+       "published_at": "2026-10-01 05:00"
       },
       {
-       "title": "الهدر المدرسي",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%87%d8%af%d8%b1-%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%8a-9-1816230.html",
+       "title": "التجديف المغربي يحصد 10 ميداليات",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%aa%d8%ac%d8%af%d9%8a%d9%81-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8%d9%8a-%d9%8a%d8%ad%d8%b5%d8%af-10-%d9%85%d9%8a%d8%af%d8%a7%d9%84%d9%8a%d8%a7%d8%aa-1816186.html",
        "source": "Hespress",
-       "published_at": "2026-09-30 23:53"
+       "published_at": "2026-10-01 04:42"
       },
       {
-       "title": "سوّل الحكومة",
-       "url": "https://www.hespress.com/%d8%b3%d9%88%d9%91%d9%84-%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d8%a9-1816225.html",
+       "title": "\"تاندرا\".. ديوان شعري جديد لعلي شوهاد",
+       "url": "https://www.hespress.com/%d8%aa%d8%a7%d9%86%d8%af%d8%b1%d8%a7-%d8%af%d9%8a%d9%88%d8%a7%d9%86-%d8%b4%d8%b9%d8%b1%d9%8a-%d8%ac%d8%af%d9%8a%d8%af-%d9%84%d8%b9%d9%84%d9%8a-%d8%b4%d9%88%d9%87%d8%a7%d8%af-1815787.html",
        "source": "Hespress",
-       "published_at": "2026-09-30 23:48"
+       "published_at": "2026-10-01 03:48"
       },
       {
-       "title": "القضاء يدين \"موسى أزغنغان\" بـ30 سنة",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%82%d8%b6%d8%a7%d8%a1-%d9%8a%d8%af%d9%8a%d9%86-%d9%85%d9%88%d8%b3%d9%89-%d8%a3%d8%b2%d8%ba%d9%86%d8%ba%d8%a7%d9%86-%d8%a8%d9%8030-%d8%b3%d9%86%d8%a9-1816298.html",
+       "title": "دراسة عربية تحذر من تغيير مفهوم الأسرة والترويج لـ \"الجندر المتنوع\"",
+       "url": "https://www.hespress.com/%d8%af%d8%b1%d8%a7%d8%b3%d8%a9-%d8%b9%d8%b1%d8%a8%d9%8a%d8%a9-%d8%aa%d8%ad%d8%b0%d8%b1-%d9%85%d9%86-%d8%aa%d8%ba%d9%8a%d9%8a%d8%b1-%d9%85%d9%81%d9%87%d9%88%d9%85-%d8%a7%d9%84%d8%a3%d8%b3%d8%b1%d8%a9-1815238.html",
        "source": "Hespress",
-       "published_at": "2026-09-30 23:36"
+       "published_at": "2026-10-01 03:00"
       },
       {
-       "title": "\"تحالف اليسار\" ينتقد مسار \"البام\" .. ويرفض التنسيق مع \"البيجيدي\"",
-       "url": "https://www.hespress.com/%d8%aa%d8%ad%d8%a7%d9%84%d9%81-%d8%a7%d9%84%d9%8a%d8%b3%d8%a7%d8%b1-%d9%8a%d9%86%d8%aa%d9%82%d8%af-%d9%85%d8%b3%d8%a7%d8%b1-%d8%a7%d9%84%d8%a8%d8%a7%d9%85-%d9%88%d9%8a%d8%b1%d9%81%d8%b6-1815855.html",
+       "title": "نفايات طبية تثير الاستياء بالقصر الكبير",
+       "url": "https://www.hespress.com/%d9%86%d9%81%d8%a7%d9%8a%d8%a7%d8%aa-%d8%b7%d8%a8%d9%8a%d8%a9-%d8%aa%d8%ab%d9%8a%d8%b1-%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d9%8a%d8%a7%d8%a1-%d8%a8%d8%a7%d9%84%d9%82%d8%b5%d8%b1-%d8%a7%d9%84%d9%83%d8%a8-1815882.html",
        "source": "Hespress",
-       "published_at": "2026-09-30 23:35"
+       "published_at": "2026-10-01 02:27"
       },
       {
-       "title": "المغرب يقترح مراصد إفريقية للإجرام",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d9%8a%d9%82%d8%aa%d8%b1%d8%ad-%d9%85%d8%b1%d8%a7%d8%b5%d8%af-%d8%a5%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a9-%d9%84%d9%84%d8%a5%d8%ac%d8%b1%d8%a7%d9%85-1815977.html",
+       "title": "\"المينورسو\" تبحث تعزيز تحليل المخاطر",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%85%d9%8a%d9%86%d9%88%d8%b1%d8%b3%d9%88-%d8%aa%d8%a8%d8%ad%d8%ab-%d8%aa%d8%b9%d8%b2%d9%8a%d8%b2-%d8%aa%d8%ad%d9%84%d9%8a%d9%84-%d8%a7%d9%84%d9%85%d8%ae%d8%a7%d8%b7%d8%b1-1815763.html",
        "source": "Hespress",
-       "published_at": "2026-09-30 23:31"
+       "published_at": "2026-10-01 01:31"
       },
       {
-       "title": "جمعية هيئات المحامين تؤكد عدم إلزامية قرار التوقف الشامل عن العمل",
-       "url": "https://www.hespress.com/%d8%ac%d9%85%d8%b9%d9%8a%d8%a9-%d9%87%d9%8a%d8%a6%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d8%ad%d8%a7%d9%85%d9%8a%d9%86-%d8%aa%d8%a4%d9%83%d8%af-%d8%b9%d8%af%d9%85-%d8%a5%d9%84%d8%b2%d8%a7%d9%85%d9%8a%d8%a9-1815970.html",
+       "title": "المغاربة يتصدرون قائمة الطلاب الوافدين للجامعات الفرنسية والبلجيكية",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%85%d8%ba%d8%a7%d8%b1%d8%a8%d8%a9-%d9%8a%d8%aa%d8%b5%d8%af%d8%b1%d9%88%d9%86-%d9%82%d8%a7%d8%a6%d9%85%d8%a9-%d8%a7%d9%84%d8%b7%d9%84%d8%a7%d8%a8-%d8%a7%d9%84%d9%88%d8%a7%d9%81%d8%af-1815790.html",
        "source": "Hespress",
-       "published_at": "2026-09-30 23:30"
+       "published_at": "2026-10-01 01:00"
       },
       {
        "title": "Lesieur Cristal : le résultat net tombe dans le rouge au premier semestre 2026",
@@ -369,36 +364,42 @@
    "note": null,
    "clusters": [
     {
-     "label": "City · Premier",
+     "label": "Rhenen · Gemeentehuis",
      "articles": [
       {
-       "title": "Hoofdsponsor City wil Premier League aanklagen in veelbesproken fraudezaak",
-       "url": "https://www.nu.nl/voetbal/6411572/hoofdsponsor-city-wil-premier-league-aanklagen-in-veelbesproken-fraudezaak.html",
-       "source": "NU.nl",
-       "published_at": "2026-09-30 20:25"
+       "title": "Gemeentehuis Rhenen vernield na demonstratie tegen azc",
+       "url": "https://www.telegraaf.nl/video/gemeentehuis-rhenen-vernield-na-demonstratie-tegen-azc/162411601.html",
+       "source": "de Telegraaf",
+       "published_at": "2026-10-01 06:10"
       },
       {
-       "title": "Britse premier Andy Burnham ’maakt zich zorgen’ als eigenaren Manchester City verkopen",
-       "url": "https://www.telegraaf.nl/sport/voetbal/britse-premier-andy-burnham-maakt-zich-zorgen-als-eigenaren-manchester-city-verkopen/162401465.html",
-       "source": "de Telegraaf",
-       "published_at": "2026-09-30 16:55"
+       "title": "Video | Vuurwerk naar politie en gesneuvelde ruiten bij asieldemonstratie in Rhenen",
+       "url": "https://www.nu.nl/330808/video/vuurwerk-naar-politie-en-gesneuvelde-ruiten-bij-asieldemonstratie-in-rhenen.html",
+       "source": "NU.nl",
+       "published_at": "2026-10-01 04:52"
+      },
+      {
+       "title": "Gemeentehuis Rhenen beschadigd na vergadering over asielopvang, ME ingezet",
+       "url": "https://www.nu.nl/binnenland/6411579/gemeentehuis-rhenen-beschadigd-na-vergadering-over-asielopvang-me-ingezet.html",
+       "source": "NU.nl",
+       "published_at": "2026-10-01 03:58"
       }
      ]
     },
     {
-     "label": "Xavi · Dijk",
+     "label": "Tijd · Voorbij",
      "articles": [
       {
-       "title": "Xavi baalt van blessures bij Oranje en denkt aan schuiven met Van Dijk",
-       "url": "https://www.nu.nl/voetbal/6411568/xavi-baalt-van-blessures-bij-oranje-en-denkt-aan-schuiven-met-van-dijk.html",
-       "source": "NU.nl",
-       "published_at": "2026-09-30 19:43"
+       "title": "LIVE | Deense premier Frederiksen waarschuwt: tijd van vrede in Europa is voorbij",
+       "url": "https://www.telegraaf.nl/buitenland/live-deense-premier-frederiksen-waarschuwt-tijd-van-vrede-in-europa-is-voorbij/162405214.html",
+       "source": "de Telegraaf",
+       "published_at": "2026-10-01 04:59"
       },
       {
-       "title": "In Griekenland populaire Xavi ziet ook in Virgil van Dijk vervanger van Jan Paul van Hecke",
-       "url": "https://www.telegraaf.nl/sport/voetbal/in-griekenland-populaire-xavi-ziet-ook-in-virgil-van-dijk-vervanger-van-jan-paul-van-hecke/162407081.html",
-       "source": "de Telegraaf",
-       "published_at": "2026-09-30 19:07"
+       "title": "Cao-lonen 4 procent omhoog, maar tijd van grote loonstijgingen lijkt voorbij",
+       "url": "https://www.nu.nl/economie/6411501/cao-lonen-4-procent-omhoog-maar-tijd-van-grote-loonstijgingen-lijkt-voorbij.html",
+       "source": "NU.nl",
+       "published_at": "2026-10-01 04:33"
       }
      ]
     },
@@ -406,28 +407,22 @@
      "label": "More headlines",
      "articles": [
       {
-       "title": "Elon Musk krijgt sleutelrol in nieuw Amerikaans oorlogsproject ’Meridan’: ’De toekomst van oorlogsvoering’",
-       "url": "https://www.telegraaf.nl/buitenland/elon-musk-krijgt-sleutelrol-in-nieuw-amerikaans-oorlogsproject-meridan-de-toekomst-van-oorlogsvoering/162409234.html",
+       "title": "Lamin (24) overlijdt na steekpartij in azc Alkmaar: ’Verdachte zorgde al veel langer voor problemen’",
+       "url": "https://www.telegraaf.nl/nieuws/lamin-24-overlijdt-na-steekpartij-in-azc-alkmaar-verdachte-zorgde-al-veel-langer-voor-problemen/162409709.html",
        "source": "de Telegraaf",
-       "published_at": "2026-09-30 21:41"
+       "published_at": "2026-10-01 05:07"
       },
       {
-       "title": "Marianne Zwagerman: 'Vakbond vertegenwoordigt echte werkende Nederlander niet'",
-       "url": "https://www.telegraaf.nl/video/marianne-zwagerman-vakbond-vertegenwoordigt-echte-werkende-nederlander-niet/162407777.html",
+       "title": "Argentinië overtuigt in eerste duel sinds aangekondigd pensioen Messi en hoopt op inkorten schorsing Paredes",
+       "url": "https://www.telegraaf.nl/sport/voetbal/argentinie-overtuigt-in-eerste-duel-sinds-aangekondigd-pensioen-messi-en-hoopt-op-inkorten-schorsing-paredes/162410516.html",
        "source": "de Telegraaf",
-       "published_at": "2026-09-30 19:39"
+       "published_at": "2026-10-01 04:45"
       },
       {
-       "title": "Man (24) overleden bij steekincident op terrein azc Alkmaar, verdachte (22) aangehouden",
-       "url": "https://www.telegraaf.nl/binnenland/man-24-overleden-bij-steekincident-op-terrein-azc-alkmaar-verdachte-22-aangehouden/162405687.html",
+       "title": "Minister wil veilige haven bieden aan ’echte’ zelfstandige: ’Einde maken aan jarenlange zzp-discussie’",
+       "url": "https://www.telegraaf.nl/financieel/minister-wil-veilige-haven-bieden-aan-echte-zelfstandige-einde-maken-aan-jarenlange-zzp-discussie/162221184.html",
        "source": "de Telegraaf",
-       "published_at": "2026-09-30 18:25"
-      },
-      {
-       "title": "Oekraïne meldt grootste Russische aanval op energievoorziening in maanden",
-       "url": "https://www.nu.nl/spanningen-oekraine/6411538/oekraine-meldt-grootste-russische-aanval-op-energievoorziening-in-maanden.html",
-       "source": "NU.nl",
-       "published_at": "2026-09-30 17:42"
+       "published_at": "2026-10-01 04:00"
       }
      ]
     }
@@ -441,99 +436,94 @@
    "note": null,
    "clusters": [
     {
-     "label": "Israel · Bound",
+     "label": "Israel · Netanyahu",
      "articles": [
       {
-       "title": "Pilot who stabbed co-pilot on Israel-bound plane may have tried to crash it, says Netanyahu",
-       "url": "https://www.theguardian.com/world/2026/sep/30/israel-bound-passenger-plane-emergency-landing-saudi-arabia-pilots-feud",
+       "title": "Netanyahu says too early to tell who was behind plane incident as flydubai halts all flights to Israel",
+       "url": "https://www.theguardian.com/world/2026/oct/01/netanyahu-flydubai-halts-all-flights-to-israel",
        "source": "Guardian World",
-       "published_at": "2026-09-30 22:30"
+       "published_at": "2026-10-01 04:55"
+      },
+      {
+       "title": "Israelis divided as vote that could oust Netanyahu only weeks away",
+       "url": "https://www.theguardian.com/world/2026/oct/01/israel-election-benjamin-netanyahu-gadi-eisenkot",
+       "source": "Guardian World",
+       "published_at": "2026-10-01 04:00"
+      },
+      {
+       "title": "Plummeting Israel flight like 'rollercoaster', says passenger",
+       "url": "https://www.bbc.co.uk/news/videos/cwm2r2v42vdeo?at_medium=RSS&at_campaign=rss",
+       "source": "BBC World",
+       "published_at": "2026-10-01 03:52"
       },
       {
        "title": "What we know about stabbing on Flydubai flight to Israel",
        "url": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
        "source": "BBC World",
-       "published_at": "2026-09-30 21:36"
+       "published_at": "2026-10-01 02:31"
       },
       {
-       "title": "Flydubai FZ1073 timeline: How the Israel-bound flight emergency unfolded",
-       "url": "https://www.aljazeera.com/news/2026/9/30/flydubai-fz1073-timeline-how-the-israel-bound-flight-emergency-unfolded?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-09-30 19:39"
-      },
-      {
-       "title": "Netanyahu says pilot arrested after stabbing fellow pilot and apparently trying to crash Israel-bound plane – as it happened",
-       "url": "https://www.theguardian.com/world/live/2026/sep/30/dubai-israel-saudi-arabia-flydubai-flight-diversion-pilots-fight-latest-news-updates",
+       "title": "Pilot who stabbed co-pilot on Israel-bound plane may have tried to crash it, says Netanyahu",
+       "url": "https://www.theguardian.com/world/2026/sep/30/israel-bound-passenger-plane-emergency-landing-saudi-arabia-pilots-feud",
        "source": "Guardian World",
-       "published_at": "2026-09-30 16:26"
-      },
-      {
-       "title": "Passengers describe stabbing on Israel-bound plane",
-       "url": "https://www.bbc.co.uk/news/videos/cv70d22kd34do?at_medium=RSS&at_campaign=rss",
-       "source": "BBC World",
-       "published_at": "2026-09-30 15:07"
+       "published_at": "2026-09-30 22:30"
       }
      ]
     },
     {
-     "label": "Flydubai · Flight",
+     "label": "Flight · Israeli",
      "articles": [
+      {
+       "title": "Too early to say what motive for Dubai-Tel Aviv flight attack was, Israeli PM says",
+       "url": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
+       "source": "BBC World",
+       "published_at": "2026-10-01 06:42"
+      },
       {
        "title": "Trump amazed that an ‘Israeli plumber’ helped land Flydubai flight",
        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/trump-amazed-that-an-israeli-plumber-helped-land-flydubai-flight?traffic_source=rss",
        "source": "Al Jazeera",
        "published_at": "2026-09-30 23:50"
-      },
-      {
-       "title": "Netanyahu praises stabbed Indian pilot for saving lives on Flydubai flight",
-       "url": "https://www.aljazeera.com/news/2026/9/30/netanyahu-praises-indian-pilot-for-saving-lives-on-flydubai-flight?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-09-30 19:49"
       }
      ]
     },
     {
-     "label": "Israeli",
+     "label": "Iran",
      "articles": [
       {
-       "title": "Israeli attacks across Gaza kill at least eight",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/israeli-attacks-across-gaza-kill-at-least-eight?traffic_source=rss",
+       "title": "UK says Iran may be linked to alleged airbase plot, drawing angry denial",
+       "url": "https://www.aljazeera.com/news/2026/10/1/uk-says-iran-may-be-linked-to-alleged-airbase-plot-drawing-angry-denial?traffic_source=rss",
        "source": "Al Jazeera",
-       "published_at": "2026-09-30 20:12"
+       "published_at": "2026-10-01 02:30"
       },
       {
-       "title": "Israeli forces overwhelmed by violent settlers in ‘terrorist attack’ on Palestinian family",
-       "url": "https://www.theguardian.com/world/2026/sep/30/israeli-settler-violence-west-bank-attack-jalud-palestinians-icrc",
-       "source": "Guardian World",
-       "published_at": "2026-09-30 19:01"
-      }
-     ]
-    },
-    {
-     "label": "Strike",
-     "articles": [
+       "title": "Iran parades Shahed drones through capital",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/iran-parades-shahed-drones-through-capital?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-10-01 00:39"
+      },
       {
        "title": "Iran war live: Trump hints US could strike Iran, warns time coming",
        "url": "https://www.aljazeera.com/news/liveblog/2026/10/1/iran-war-live-trump-hints-us-could-strike-iran-warns-time-coming?traffic_source=rss",
        "source": "Al Jazeera",
        "published_at": "2026-10-01 00:00"
-      },
-      {
-       "title": "Girl has multiple surgeries to control infections after strike in Gaza",
-       "url": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&at_campaign=rss",
-       "source": "BBC World",
-       "published_at": "2026-09-30 05:02"
       }
      ]
     },
     {
-     "label": "More headlines",
+     "label": "Gaza",
      "articles": [
       {
-       "title": "Saudi Arabia not to compromise on security as Houthis choose ‘chaos’: MBS",
-       "url": "https://www.aljazeera.com/news/2026/9/30/saudi-crown-prince-says-no-compromise-on-kingdoms-security-against-threats?traffic_source=rss",
+       "title": "Gaza prepares to bury 105 Palestinians killed in October 2023",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/gaza-prepares-to-bury-105-palestinians-killed-in-october-2023?traffic_source=rss",
        "source": "Al Jazeera",
-       "published_at": "2026-09-30 19:20"
+       "published_at": "2026-10-01 05:04"
+      },
+      {
+       "title": "New Google Maps images reveal massive scale of devastation in Gaza",
+       "url": "https://www.theguardian.com/world/2026/oct/01/new-google-maps-images-reveal-massive-scale-of-devastation-in-gaza",
+       "source": "Guardian World",
+       "published_at": "2026-10-01 04:00"
       }
      ]
     }
@@ -547,10 +537,28 @@
    "note": null,
    "clusters": [
     {
-     "label": "Russia · War",
+     "label": "Russia · Ukraine",
      "articles": [
       {
-       "title": "Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
+       "title": "General Staff: Russia has lost 1,535,870 troops in Ukraine since Feb. 24, 2022",
+       "url": "https://kyivindependent.com/general-staff-russia-has-lost-1-535-870-troops-in-ukraine-since-feb-24-2022/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-10-01 06:34"
+      },
+      {
+       "title": "Kyiv Independent editor: ‘Our readers want Russia to suffer but we can’t be propagandists’",
+       "url": "https://www.theguardian.com/world/2026/oct/01/kyiv-independent-editor-olga-rudenko-readers-want-russia-suffer-cant-be-propagandists",
+       "source": "Guardian World",
+       "published_at": "2026-10-01 04:00"
+      },
+      {
+       "title": "Ukraine urges US sanctions on suppliers to Russia’s Rassvet satellite network",
+       "url": "https://kyivindependent.com/ukraine-urges-us-sanctions-on-suppliers-to-russias-rassvet-satellite-network/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-10-01 03:11"
+      },
+      {
+       "title": "Rosenberg: Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
        "url": "https://www.bbc.co.uk/news/articles/cqx2ze420kpyo?at_medium=RSS&at_campaign=rss",
        "source": "BBC World",
        "published_at": "2026-09-30 23:10"
@@ -560,13 +568,12 @@
        "url": "https://kyivindependent.com/kanye-west-concerts-at-russias-gazprom-arena-officially-cancelled/",
        "source": "Kyiv Independent",
        "published_at": "2026-09-30 22:45"
-      },
-      {
-       "title": "Russia warns NATO of possible nuclear response if Kaliningrad is cut off",
-       "url": "https://www.aljazeera.com/news/2026/9/30/russia-warns-nato-of-possible-nuclear-response-if-kaliningrad-is-cut-off?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-09-30 18:52"
-      },
+      }
+     ]
+    },
+    {
+     "label": "Ukraine",
+     "articles": [
       {
        "title": "Ukraine war latest: Russia uses drone with warhead designed to cut power pylons for 1st time, Zelensky adviser says",
        "url": "https://kyivindependent.com/ukraine-war-latest-russia-uses-drone-with-warhead-designed-to-cut-power-pylons-for-1st-time-zelensky-adviser-says/",
@@ -574,10 +581,16 @@
        "published_at": "2026-09-30 18:19"
       },
       {
-       "title": "Russia strikes Ukrainian pylon with steel-cutting drone for 1st time, as power outages hit 3 regions",
-       "url": "https://kyivindependent.com/russia-strikes-ukrainian-power-pylon-with-steel-cutting-drone-for-1st-time-zelenskys-adviser-says/",
+       "title": "The way out of Ukraine's deadlock with Magyar",
+       "url": "https://kyivindependent.com/ukraine-wanted-a-fresh-start-with-hungary-it-got-a-new-kind-of-standoff/",
        "source": "Kyiv Independent",
-       "published_at": "2026-09-30 16:25"
+       "published_at": "2026-09-30 16:22"
+      },
+      {
+       "title": "Ukraine unveils new Mavic alternative, but Chinese dependence persists",
+       "url": "https://kyivindependent.com/ukraine-unveils-new-mavic-alternative-but-chinese-dependence-persists/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-09-30 16:02"
       }
      ]
     },
@@ -603,33 +616,10 @@
        "published_at": "2026-09-30 17:21"
       },
       {
-       "title": "Is Europe prepared for a drone war with Russia?",
-       "url": "https://kyivindependent.com/is-europe-prepared-for-a-drone-war-with-russia/",
+       "title": "Russia strikes Ukrainian pylon with steel-cutting drone for 1st time, as power outages hit 3 regions",
+       "url": "https://kyivindependent.com/russia-strikes-ukrainian-power-pylon-with-steel-cutting-drone-for-1st-time-zelenskys-adviser-says/",
        "source": "Kyiv Independent",
-       "published_at": "2026-09-30 15:14"
-      }
-     ]
-    },
-    {
-     "label": "Ukraine",
-     "articles": [
-      {
-       "title": "The way out of Ukraine's deadlock with Magyar",
-       "url": "https://kyivindependent.com/ukraine-wanted-a-fresh-start-with-hungary-it-got-a-new-kind-of-standoff/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-09-30 16:22"
-      },
-      {
-       "title": "Ukraine unveils new Mavic alternative, but Chinese dependence persists",
-       "url": "https://kyivindependent.com/ukraine-unveils-new-mavic-alternative-but-chinese-dependence-persists/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-09-30 16:02"
-      },
-      {
-       "title": "Russia threatens European arms factories supplying Ukraine, says they are 'not safe'",
-       "url": "https://kyivindependent.com/russia-threatens-european-arms-factories-supplying-ukraine/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-09-30 15:54"
+       "published_at": "2026-09-30 16:25"
       }
      ]
     }
