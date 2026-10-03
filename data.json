@@ -1,8 +1,8 @@
 {
  "date": "Saturday 3 October 2026",
- "generated_at": "20:50 UTC",
+ "generated_at": "23:38 UTC",
  "error": null,
- "total_stories": 75,
+ "total_stories": 76,
  "fx": {
   "pair": "EUR/MAD",
   "rate": 11.149,
@@ -16,8 +16,20 @@
    "note": null,
    "clusters": [
     {
-     "label": "Flash · One",
+     "label": "Flash · Next",
      "articles": [
+      {
+       "title": "Running Qwen3.8 Flash Next 176B on a 16GB RTX 3080 Laptop + 32GB RAM + SSD",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwwmy1/running_qwen38_flash_next_176b_on_a_16gb_rtx_3080/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-10-03 20:06"
+      },
+      {
+       "title": "Flash next rig born from mining parts.",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwt19n/flash_next_rig_born_from_mining_parts/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-10-03 17:36"
+      },
       {
        "title": "Two local Qwen ( 3.8 27b unsloth Q6 and Qwen flash next strata coder ) models vs Claude Opus 4.6 on the same 3 coding tasks. One of them tied it. Not here to start a fight, just sharing numbers",
        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwrgx1/two_local_qwen_38_27b_unsloth_q6_and_qwen_flash/",
@@ -25,33 +37,10 @@
        "published_at": "2026-10-03 16:30"
       },
       {
-       "title": "Two ~300B MoE models, each on ONE 128 GB mini PC (AMD Strix Halo): GLM-5.3-Flash at ~580 tok/s prefill, MiMo-V2.6-Flash up to 44 tok/s decode. EXL3 weights + open ROCm engine",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwocik/two_300b_moe_models_each_on_one_128_gb_mini_pc/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-10-03 14:16"
-      },
-      {
-       "title": "Cloudflare/clef-flash · 349 ♥",
+       "title": "Cloudflare/clef-flash · 352 ♥",
        "url": "https://huggingface.co/Cloudflare/clef-flash",
        "source": "HF new models",
        "published_at": "2026-09-30 21:15"
-      }
-     ]
-    },
-    {
-     "label": "Model",
-     "articles": [
-      {
-       "title": "Have you seen the new model that was trained exclusively on jokes?",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwwko4/have_you_seen_the_new_model_that_was_trained/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-10-03 20:03"
-      },
-      {
-       "title": "Sopro V2 Turbo 2610: cleaner cloned voices, same 120M model, same CPU speed",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwrw0v/sopro_v2_turbo_2610_cleaner_cloned_voices_same/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-10-03 16:48"
       }
      ]
     },
@@ -73,8 +62,37 @@
      ]
     },
     {
+     "label": "Turbo",
+     "articles": [
+      {
+       "title": "Sopro V2 Turbo 2610: cleaner cloned voices, same 120M model, same CPU speed",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwrw0v/sopro_v2_turbo_2610_cleaner_cloned_voices_same/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-10-03 16:48"
+      },
+      {
+       "title": "Viggle/Qwen-Image-2.1-viggle-turbo · 569 ♥",
+       "url": "https://huggingface.co/Viggle/Qwen-Image-2.1-viggle-turbo",
+       "source": "HF new models",
+       "published_at": "2026-09-22 04:14"
+      }
+     ]
+    },
+    {
      "label": "More headlines",
      "articles": [
+      {
+       "title": "The Agent Said It Was Done. The Database Disagreed.",
+       "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+       "source": "HuggingFace",
+       "published_at": "2026-10-03 22:56"
+      },
+      {
+       "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
+       "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
+       "source": "Hacker News",
+       "published_at": "2026-10-03 18:29"
+      },
       {
        "title": "The Rise of Overfit Inference Engines",
        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwu6zj/the_rise_of_overfit_inference_engines/",
@@ -100,46 +118,28 @@
        "published_at": "2026-10-03 15:00"
       },
       {
-       "title": "An OpenAI safety employee has quit and is sounding the alarm",
-       "url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
-       "source": "Verge AI",
-       "published_at": "2026-10-03 14:31"
-      },
-      {
-       "title": "Yes bots we get it, Strata is good now please stop",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwobfg/yes_bots_we_get_it_strata_is_good_now_please_stop/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-10-03 14:15"
-      },
-      {
-       "title": "Cloudflare/clef · 965 ♥",
+       "title": "Cloudflare/clef · 977 ♥",
        "url": "https://huggingface.co/Cloudflare/clef",
        "source": "HF new models",
        "published_at": "2026-09-30 21:15"
       },
       {
-       "title": "PSRben/VisionHOPE · 389 ♥",
+       "title": "PSRben/VisionHOPE · 390 ♥",
        "url": "https://huggingface.co/PSRben/VisionHOPE",
        "source": "HF new models",
        "published_at": "2026-09-29 07:28"
       },
       {
-       "title": "orcarouter/OrcaSAQ-2-Cyber-27B-Uncensored-GGUF · 310 ♥",
+       "title": "orcarouter/OrcaSAQ-2-Cyber-27B-Uncensored-GGUF · 313 ♥",
        "url": "https://huggingface.co/orcarouter/OrcaSAQ-2-Cyber-27B-Uncensored-GGUF",
        "source": "HF new models",
        "published_at": "2026-09-26 03:37"
       },
       {
-       "title": "SupersonicLabs/Julia-1 · 395 ♥",
+       "title": "SupersonicLabs/Julia-1 · 400 ♥",
        "url": "https://huggingface.co/SupersonicLabs/Julia-1",
        "source": "HF new models",
        "published_at": "2026-09-23 15:29"
-      },
-      {
-       "title": "Viggle/Qwen-Image-2.1-viggle-turbo · 565 ♥",
-       "url": "https://huggingface.co/Viggle/Qwen-Image-2.1-viggle-turbo",
-       "source": "HF new models",
-       "published_at": "2026-09-22 04:14"
       }
      ]
     }
@@ -220,10 +220,10 @@
        "published_at": "2026-06-10 07:00"
       },
       {
-       "title": "Inter-Actief throws computers to mark anniversary",
-       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQT29BdUtWMzZVZGRpYTF4N1lCalhLcUE2YnJnY1JHb0xVQ0EyTVpmYm9aR1FBaHN4QVFMcTBjRUJlcl81SmxWVFlGRndfbkdISVp4RXlSenl6Y29UdWduNE1fUE5Xa19Ca2owNFlsUllfbWhkbkVCZkVKaGExM24yOW16NFZsbmtjMUk0cjFUbkhNV2M?oc=5",
+       "title": "Vermoeidheid na borstkanker speelt veel vrouwen parten",
+       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTDE4dmZWeVI3YnllV0ZabC11VVE5ZnFnUjRhd291LUxfV1FQZ09Sb0hkdFlOZ0RkM0Z5SXVIN2NxTUx5VmdFZzR0UTRhelN3clY4TXlUQ0JEa2M2bnU4RU43TUpwc2N3T29VcEJHSldXbWVsRmhQbmlyNVBnZFh3VnNncmdoYjUzMzB6V2M2RWM?oc=5",
        "source": "UToday",
-       "published_at": "2026-05-23 07:00"
+       "published_at": "2026-06-01 07:00"
       }
      ]
     }
@@ -237,41 +237,7 @@
    "note": null,
    "clusters": [
     {
-     "label": "بورصة",
-     "articles": [
-      {
-       "title": "أسهم المعادن تخالف موجة خسائر الفصل الثالث في بورصة الدار البيضاء",
-       "url": "https://www.hespress.com/%d8%a3%d8%b3%d9%87%d9%85-%d8%a7%d9%84%d9%85%d8%b9%d8%a7%d8%af%d9%86-%d8%aa%d8%ae%d8%a7%d9%84%d9%81-%d9%85%d9%88%d8%ac%d8%a9-%d8%ae%d8%b3%d8%a7%d8%a6%d8%b1-%d8%a7%d9%84%d9%81%d8%b5%d9%84-%d8%a7%d9%84-1817588.html",
-       "source": "Hespress",
-       "published_at": "2026-10-03 20:00"
-      },
-      {
-       "title": "بورصة الاستوزار",
-       "url": "https://www.hespress.com/%d8%a8%d9%88%d8%b1%d8%b5%d8%a9-%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d9%88%d8%b2%d8%a7%d8%b1-1817238.html",
-       "source": "Hespress",
-       "published_at": "2026-10-03 18:36"
-      }
-     ]
-    },
-    {
-     "label": "أوزين",
-     "articles": [
-      {
-       "title": "أوزين والضائقة المالية",
-       "url": "https://www.hespress.com/%d8%a3%d9%88%d8%b2%d9%8a%d9%86-%d9%88%d8%a7%d9%84%d8%b6%d8%a7%d8%a6%d9%82%d8%a9-%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d8%a9-1817618.html",
-       "source": "Hespress",
-       "published_at": "2026-10-03 19:34"
-      },
-      {
-       "title": "أوزين يكشف تقاربا مرجعيا مع \"البام\"",
-       "url": "https://www.hespress.com/%d8%a3%d9%88%d8%b2%d9%8a%d9%86-%d9%8a%d9%83%d8%b4%d9%81-%d8%aa%d9%82%d8%a7%d8%b1%d8%a8%d8%a7-%d9%85%d8%b1%d8%ac%d8%b9%d9%8a%d8%a7-%d9%85%d8%b9-%d8%a7%d9%84%d8%a8%d8%a7%d9%85-1817632.html",
-       "source": "Hespress",
-       "published_at": "2026-10-03 19:13"
-      }
-     ]
-    },
-    {
-     "label": "Rni · Pam",
+     "label": "Pam · Rni",
      "articles": [
       {
        "title": "Élections 2026 : le PAM veut tourner la page RNI",
@@ -291,6 +257,60 @@
      "label": "More headlines",
      "articles": [
       {
+       "title": "\"شارك\" ينتقد تأخر العصبة في الحسم",
+       "url": "https://www.hespress.com/%d8%b4%d8%a7%d8%b1%d9%83-%d9%8a%d9%86%d8%aa%d9%82%d8%af-%d8%aa%d8%a3%d8%ae%d8%b1-%d8%a7%d9%84%d8%b9%d8%b5%d8%a8%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d8%ad%d8%b3%d9%85-1817682.html",
+       "source": "Hespress",
+       "published_at": "2026-10-03 23:11"
+      },
+      {
+       "title": "الوزير الأول الموريتاني الأسبق يحكي بأصيلة قصة \"زمن العبور الهادئ\"",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%88%d8%b2%d9%8a%d8%b1-%d8%a7%d9%84%d8%a3%d9%88%d9%84-%d8%a7%d9%84%d9%85%d9%88%d8%b1%d9%8a%d8%aa%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%a3%d8%b3%d8%a8%d9%82-%d9%8a%d8%ad%d9%83%d9%8a-%d8%a8-1817617.html",
+       "source": "Hespress",
+       "published_at": "2026-10-03 23:00"
+      },
+      {
+       "title": "فوز صعب للرجاء أمام نهضة الزمامرة",
+       "url": "https://www.hespress.com/%d9%81%d9%88%d8%b2-%d8%b5%d8%b9%d8%a8-%d9%84%d9%84%d8%b1%d8%ac%d8%a7%d8%a1-%d8%a3%d9%85%d8%a7%d9%85-%d9%86%d9%87%d8%b6%d8%a9-%d8%a7%d9%84%d8%b2%d9%85%d8%a7%d9%85%d8%b1%d8%a9-1817692.html",
+       "source": "Hespress",
+       "published_at": "2026-10-03 22:44"
+      },
+      {
+       "title": "\"أسود الأطلس\" ينهون التحضير لمالي",
+       "url": "https://www.hespress.com/%d8%a3%d8%b3%d9%88%d8%af-%d8%a7%d9%84%d8%a3%d8%b7%d9%84%d8%b3-%d9%8a%d9%86%d9%87%d9%88%d9%86-%d8%a7%d9%84%d8%aa%d8%ad%d8%b6%d9%8a%d8%b1-%d9%84%d9%85%d8%a7%d9%84%d9%8a-1817690.html",
+       "source": "Hespress",
+       "published_at": "2026-10-03 22:02"
+      },
+      {
+       "title": "أحزاب سياسية بلا تمثيلية برلمانية تراهن على الانتخابات الجماعية لـ2027",
+       "url": "https://www.hespress.com/%d8%a3%d8%ad%d8%b2%d8%a7%d8%a8-%d8%b3%d9%8a%d8%a7%d8%b3%d9%8a%d8%a9-%d8%a8%d9%84%d8%a7-%d8%aa%d9%85%d8%ab%d9%8a%d9%84%d9%8a%d8%a9-%d8%a8%d8%b1%d9%84%d9%85%d8%a7%d9%86%d9%8a%d8%a9-%d8%aa%d8%b1%d8%a7-1816101.html",
+       "source": "Hespress",
+       "published_at": "2026-10-03 22:00"
+      },
+      {
+       "title": "جودار يقود مشاورات \"الحصان\" الحكومية",
+       "url": "https://www.hespress.com/%d8%ac%d9%88%d8%af%d8%a7%d8%b1-%d9%8a%d9%82%d9%88%d8%af-%d9%85%d8%b4%d8%a7%d9%88%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d8%ad%d8%b5%d8%a7%d9%86-%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d9%8a%d8%a9-1817689.html",
+       "source": "Hespress",
+       "published_at": "2026-10-03 21:44"
+      },
+      {
+       "title": "زينبي يخطف الأنظار في تداريب الريال",
+       "url": "https://www.hespress.com/%d8%b2%d9%8a%d9%86%d8%a8%d9%8a-%d9%8a%d8%ae%d8%b7%d9%81-%d8%a7%d9%84%d8%a3%d9%86%d8%b8%d8%a7%d8%b1-%d9%81%d9%8a-%d8%aa%d8%af%d8%a7%d8%b1%d9%8a%d8%a8-%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%84-1817532.html",
+       "source": "Hespress",
+       "published_at": "2026-10-03 21:10"
+      },
+      {
+       "title": "ما علاقة الخريف بالأمراض التنفسية؟",
+       "url": "https://www.hespress.com/%d9%85%d8%a7-%d8%b9%d9%84%d8%a7%d9%82%d8%a9-%d8%a7%d9%84%d8%ae%d8%b1%d9%8a%d9%81-%d8%a8%d8%a7%d9%84%d8%a3%d9%85%d8%b1%d8%a7%d8%b6-%d8%a7%d9%84%d8%aa%d9%86%d9%81%d8%b3%d9%8a%d8%a9-1817441.html",
+       "source": "Hespress",
+       "published_at": "2026-10-03 21:00"
+      },
+      {
+       "title": "جمعيات تطالب الحكومة المرتقبة بإحداث وزارة ونظام لتقييم الإعاقة",
+       "url": "https://www.hespress.com/%d8%ac%d9%85%d8%b9%d9%8a%d8%a7%d8%aa-%d8%aa%d8%b7%d8%a7%d9%84%d8%a8-%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d8%a9-%d8%a7%d9%84%d9%85%d8%b1%d8%aa%d9%82%d8%a8%d8%a9-%d8%a8%d8%a5%d8%ad%d8%af%d8%a7%d8%ab-1817663.html",
+       "source": "Hespress",
+       "published_at": "2026-10-03 21:00"
+      },
+      {
        "title": "الإمارات والسعودية في نهائي \"خليجي\"",
        "url": "https://www.hespress.com/%d8%a7%d9%84%d8%a5%d9%85%d8%a7%d8%b1%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9-%d9%81%d9%8a-%d9%86%d9%87%d8%a7%d8%a6%d9%8a-%d8%ae%d9%84%d9%8a%d8%ac%d9%8a-1817673.html",
        "source": "Hespress",
@@ -307,36 +327,6 @@
        "url": "https://www.hespress.com/%d8%a7%d9%84%d9%88%d8%af%d8%a7%d8%af-%d9%8a%d8%b9%d9%88%d8%af-%d8%a8%d9%81%d9%88%d8%b2-%d8%ab%d9%85%d9%8a%d9%86-%d9%85%d9%86-%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af%d8%a9-1817658.html",
        "source": "Hespress",
        "published_at": "2026-10-03 20:09"
-      },
-      {
-       "title": "إسرائيل: غارة تستهدف \"قياديا حمساويا\"",
-       "url": "https://www.hespress.com/%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84-%d8%ba%d8%a7%d8%b1%d8%a9-%d8%aa%d8%b3%d8%aa%d9%87%d8%af%d9%81-%d9%82%d9%8a%d8%a7%d8%af%d9%8a%d8%a7-%d9%81%d9%8a-%d8%ad%d9%85%d8%a7%d8%b3-1817640.html",
-       "source": "Hespress",
-       "published_at": "2026-10-03 20:04"
-      },
-      {
-       "title": "\"الأشبال\" يحجزون بطاقة بلوغ \"الكان\"",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%a3%d8%b4%d8%a8%d8%a7%d9%84-%d9%8a%d8%ad%d8%ac%d8%b2%d9%88%d9%86-%d8%a8%d8%b7%d8%a7%d9%82%d8%a9-%d8%a8%d9%84%d9%88%d8%ba-%d8%a7%d9%84%d9%83%d8%a7%d9%86-1817636.html",
-       "source": "Hespress",
-       "published_at": "2026-10-03 19:19"
-      },
-      {
-       "title": "فيزيائية مغربية تحطم الرقم الوطني للغوص الحر ببلوغ عمق 71 مترا",
-       "url": "https://www.hespress.com/%d9%81%d9%8a%d8%b2%d9%8a%d8%a7%d8%a6%d9%8a%d8%a9-%d9%85%d8%ba%d8%b1%d8%a8%d9%8a%d8%a9-%d8%aa%d8%ad%d8%b7%d9%85-%d8%a7%d9%84%d8%b1%d9%82%d9%85-%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a-%d9%84%d9%84%d8%ba-1817619.html",
-       "source": "Hespress",
-       "published_at": "2026-10-03 19:00"
-      },
-      {
-       "title": "ميلينشون يدعم احتجاجات تلاميذ فرنسا",
-       "url": "https://www.hespress.com/%d9%85%d9%8a%d9%84%d9%8a%d9%86%d8%b4%d9%88%d9%86-%d9%8a%d8%af%d8%b9%d9%85-%d8%a7%d8%ad%d8%aa%d8%ac%d8%a7%d8%ac%d8%a7%d8%aa-%d8%aa%d9%84%d8%a7%d9%85%d9%8a%d8%b0-%d9%81%d8%b1%d9%86%d8%b3%d8%a7-1817463.html",
-       "source": "Hespress",
-       "published_at": "2026-10-03 18:44"
-      },
-      {
-       "title": "المغرب الفاسي يهزم حسنية أكادير",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d8%a7%d9%84%d9%81%d8%a7%d8%b3%d9%8a-%d9%8a%d9%87%d8%b2%d9%85-%d8%ad%d8%b3%d9%86%d9%8a%d8%a9-%d8%a3%d9%83%d8%a7%d8%af%d9%8a%d8%b1-1817609.html",
-       "source": "Hespress",
-       "published_at": "2026-10-03 18:22"
       },
       {
        "title": "Vicenne d'Adil Bennani : 591 MDH de ventes, cap confirmé",
@@ -435,8 +425,14 @@
    "note": null,
    "clusters": [
     {
-     "label": "Israeli · Ireland",
+     "label": "Israeli · Attack",
      "articles": [
+      {
+       "title": "Israeli settlers attack Palestinian farmers during olive harvest",
+       "url": "https://www.aljazeera.com/video/2026/10/3/israeli-settlers-attack-palestinian-farmers-during-olive-harvest-2?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-10-03 21:15"
+      },
       {
        "title": "Israeli reporter’s ‘verbal attack’ ends Ireland football news conference",
        "url": "https://www.aljazeera.com/sports/2026/10/3/israeli-reporters-verbal-attack-ends-ireland-football-news-conference?traffic_source=rss",
@@ -464,7 +460,24 @@
      ]
     },
     {
-     "label": "Alleged · Plot",
+     "label": "Israel",
+     "articles": [
+      {
+       "title": "Pelosi-backed US candidate calls for ‘full arms embargo’ on Israel",
+       "url": "https://www.aljazeera.com/news/2026/10/3/pelosi-backed-us-candidate-calls-for-full-arms-embargo-on-israel?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-10-03 22:43"
+      },
+      {
+       "title": "Israel election double standard: Arab leader forced out, far right cleared",
+       "url": "https://www.aljazeera.com/news/2026/10/3/israel-election-double-standard-arab-leader-forced-out-far-right-cleared?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-10-03 14:06"
+      }
+     ]
+    },
+    {
+     "label": "Fairford · National",
      "articles": [
       {
        "title": "UK-Iran national arrested over alleged bomb plot at RAF Fairford released on bail",
@@ -473,10 +486,10 @@
        "published_at": "2026-10-03 13:19"
       },
       {
-       "title": "Two Iranian men identified Manchester synagogue as site for alleged bomb plot, court hears",
-       "url": "https://www.theguardian.com/uk-news/2026/oct/03/iranian-men-manchester-synagogue-alleged-bomb-plot-court-hears",
-       "source": "Guardian World",
-       "published_at": "2026-10-03 12:53"
+       "title": "UK-Iranian dual national bailed after RAF Fairford incident arrest",
+       "url": "https://www.bbc.co.uk/news/articles/c6d095ygggv1o?at_medium=RSS&at_campaign=rss",
+       "source": "BBC World",
+       "published_at": "2026-10-03 10:58"
       }
      ]
     },
@@ -490,18 +503,6 @@
        "published_at": "2026-10-03 20:10"
       },
       {
-       "title": "Israel election double standard: Arab leader forced out, far right cleared",
-       "url": "https://www.aljazeera.com/news/2026/10/3/israel-election-double-standard-arab-leader-forced-out-far-right-cleared?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-10-03 14:06"
-      },
-      {
-       "title": "UK-Iranian dual national bailed after RAF Fairford incident arrest",
-       "url": "https://www.bbc.co.uk/news/articles/c6d095ygggv1o?at_medium=RSS&at_campaign=rss",
-       "source": "BBC World",
-       "published_at": "2026-10-03 10:58"
-      },
-      {
        "title": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
        "url": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss",
        "source": "BBC World",
@@ -510,7 +511,7 @@
      ]
     }
    ],
-   "count": 10
+   "count": 11
   },
   {
    "key": "ukraine",
@@ -519,19 +520,19 @@
    "note": null,
    "clusters": [
     {
-     "label": "Ukraine · Russia",
+     "label": "Ukraine · Kyiv",
      "articles": [
+      {
+       "title": "Exit polls show pro-Ukraine United List party leading Latvian parliamentary elections as counting begins",
+       "url": "https://kyivindependent.com/exit-polls-show-pro-ukraine-united-list-party-leading-latvian-parliamentary-elections-as-counting-begins/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-10-03 23:28"
+      },
       {
        "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
        "url": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
        "source": "BBC World",
        "published_at": "2026-10-03 16:16"
-      },
-      {
-       "title": "Russia’s ‘new doctrine’ targets civilian sites in Ukraine, Zelenskyy says",
-       "url": "https://www.aljazeera.com/news/2026/10/3/five-killed-as-kyiv-and-moscow-trade-strikes-russia-hits-second-bridge?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-10-03 12:55"
       },
       {
        "title": "5 Russian missiles and drones exploded on Moldova's territory in overnight attack against Ukraine, Sandu says",
@@ -608,10 +609,10 @@
      "label": "More headlines",
      "articles": [
       {
-       "title": "Trump urges calls to Arkansas senator in push for permanent daylight saving time",
+       "title": "Trump appears to share personal phone number of US senator in ploy to push permanent daylight savings",
        "url": "https://www.theguardian.com/us-news/2026/oct/03/trump-tom-cotton-daylight-saving-time",
        "source": "Guardian World",
-       "published_at": "2026-10-03 20:13"
+       "published_at": "2026-10-03 22:07"
       }
      ]
     }
