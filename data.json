@@ -1,12 +1,12 @@
 {
- "date": "Tuesday 6 October 2026",
- "generated_at": "21:49 UTC",
+ "date": "Wednesday 7 October 2026",
+ "generated_at": "01:18 UTC",
  "error": null,
- "total_stories": 75,
+ "total_stories": 74,
  "fx": {
   "pair": "EUR/MAD",
-  "rate": 11.179,
-  "change_pct": 0.0
+  "rate": 11.216,
+  "change_pct": 0.33
  },
  "lanes": [
   {
@@ -16,7 +16,7 @@
    "note": null,
    "clusters": [
     {
-     "label": "Model · Natively",
+     "label": "Model · Best",
      "articles": [
       {
        "title": "Local AI World Model Part 2 - Deep NN to turn Images into Playable Characters, with prompt switching mid rollout",
@@ -51,25 +51,36 @@
      ]
     },
     {
-     "label": "Embeddinggemma",
+     "label": "Open",
      "articles": [
       {
-       "title": "EmbeddingGemma 2 running locally in-browser on WebGPU",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wz6uxn/embeddinggemma_2_running_locally_inbrowser_on/",
+       "title": "Europe rejoins the fight with Chonky! Mistral Large 4 Released, Open weights end of month, who’s ready?",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzginu/europe_rejoins_the_fight_with_chonky_mistral/",
        "source": "r/LocalLLaMA",
-       "published_at": "2026-10-06 16:20"
+       "published_at": "2026-10-06 22:40"
       },
       {
-       "title": "EmbeddingGemma 2",
-       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
+       "title": "OpenTPU – An open-source AI accelerator, developed by AI",
+       "url": "https://github.com/FeSens/openTPU",
        "source": "Hacker News",
-       "published_at": "2026-10-06 16:03"
+       "published_at": "2026-10-06 16:23"
+      }
+     ]
+    },
+    {
+     "label": "Models",
+     "articles": [
+      {
+       "title": "How abliterated models can get you pwned",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzdywk/how_abliterated_models_can_get_you_pwned/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-10-06 20:52"
       },
       {
-       "title": "google/embeddinggemma-2 · Hugging Face",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wz5va3/googleembeddinggemma2_hugging_face/",
+       "title": "GPT-6.1 Sol looped \"leak\" hints at nested models serving architecture",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzbvu7/gpt61_sol_looped_leak_hints_at_nested_models/",
        "source": "r/LocalLLaMA",
-       "published_at": "2026-10-06 15:41"
+       "published_at": "2026-10-06 19:31"
       }
      ]
     },
@@ -77,13 +88,13 @@
      "label": "Autotrust",
      "articles": [
       {
-       "title": "autotrust/GEV-26B-Decide · 674 ♥",
+       "title": "autotrust/GEV-26B-Decide · 690 ♥",
        "url": "https://huggingface.co/autotrust/GEV-26B-Decide",
        "source": "HF new models",
        "published_at": "2026-10-02 04:20"
       },
       {
-       "title": "autotrust/JEV-27B-VL · 969 ♥",
+       "title": "autotrust/JEV-27B-VL · 976 ♥",
        "url": "https://huggingface.co/autotrust/JEV-27B-VL",
        "source": "HF new models",
        "published_at": "2026-09-30 05:02"
@@ -91,30 +102,19 @@
      ]
     },
     {
-     "label": "Cloudflare · Clef",
-     "articles": [
-      {
-       "title": "Cloudflare/clef · 1667 ♥",
-       "url": "https://huggingface.co/Cloudflare/clef",
-       "source": "HF new models",
-       "published_at": "2026-09-30 21:15"
-      },
-      {
-       "title": "Cloudflare/clef-flash · 586 ♥",
-       "url": "https://huggingface.co/Cloudflare/clef-flash",
-       "source": "HF new models",
-       "published_at": "2026-09-30 21:15"
-      }
-     ]
-    },
-    {
      "label": "More headlines",
      "articles": [
       {
-       "title": "GPT-6.1 Sol looped \"leak\" hints at nested models serving architecture",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzbvu7/gpt61_sol_looped_leak_hints_at_nested_models/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-10-06 19:31"
+       "title": "OpenAI drops another batch of mathematical breakthroughs",
+       "url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
+       "source": "Verge AI",
+       "published_at": "2026-10-06 23:26"
+      },
+      {
+       "title": "Sharing AI progress in mathematics",
+       "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+       "source": "Hacker News",
+       "published_at": "2026-10-06 22:17"
       },
       {
        "title": "Local AI ecosystem overview",
@@ -123,25 +123,25 @@
        "published_at": "2026-10-06 18:02"
       },
       {
-       "title": "OpenTPU – An open-source AI accelerator, developed by AI",
-       "url": "https://github.com/FeSens/openTPU",
-       "source": "Hacker News",
-       "published_at": "2026-10-06 16:23"
-      },
-      {
-       "title": "54gb vram for 35$",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wz6ist/54gb_vram_for_35/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-10-06 16:06"
-      },
-      {
-       "title": "Aleph-Alpha/Kolibri-1 · 708 ♥",
+       "title": "Aleph-Alpha/Kolibri-1 · 712 ♥",
        "url": "https://huggingface.co/Aleph-Alpha/Kolibri-1",
        "source": "HF new models",
        "published_at": "2026-10-02 05:54"
       },
       {
-       "title": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF · 3416 ♥",
+       "title": "Cloudflare/clef · 1679 ♥",
+       "url": "https://huggingface.co/Cloudflare/clef",
+       "source": "HF new models",
+       "published_at": "2026-09-30 21:15"
+      },
+      {
+       "title": "Cloudflare/clef-flash · 591 ♥",
+       "url": "https://huggingface.co/Cloudflare/clef-flash",
+       "source": "HF new models",
+       "published_at": "2026-09-30 21:15"
+      },
+      {
+       "title": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF · 3429 ♥",
        "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
        "source": "HF new models",
        "published_at": "2026-09-20 15:51"
@@ -202,6 +202,12 @@
        "published_at": "2026-09-29 08:05"
       },
       {
+       "title": "Rouwprofessor Lonneke Lenferink: ‘Ik voelde me nooit heel erg thuis op de universiteit’",
+       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaW9yV1BjbmFhVDVrY21qQ3BsOVlDejlnWHQxYWFyYnBCcDctcVUxWmZaeFh1RXlwWlJKYVhwSFJZeU9Sa2hCU0J1WUlQcktHRDNrb1Y2Q25Yc1VPMDFxTnE4c1pHQjZuX2kza1UwTGsteDg4ZDhEX3FpX3dJaXgyNkwxWG56YS15RlEwSjhJamRnRzM5NTczWF9RRnRvd3F5UDM4YXU0NUpqZU0zUGU1aE03YW1vRHlNbFlOS2hJcw?oc=5",
+       "source": "UToday",
+       "published_at": "2026-07-08 07:00"
+      },
+      {
        "title": "De Grote U-Today Bestuursfotoverkiezing 2026, de uitslag",
        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNjU5OVlOSzctN0dKYlZ2ZVdzd2U1UWZCeEY0SXF3bzVfWTg0bXJqZGp0OGs2WUxSaGZlRVZLQjVSU2pZZGZXR1JsclBPZ1hFS1hQTVZmMXNxYTVOQ0w3NEJyS2xjZlhTWTlJQTl2LWV3bGdCaHQ2U1dLZldxeUxVVkpQYjA0LU1xY0VqMi1RU1RIM2RJVzdYdFd6UQ?oc=5",
        "source": "UToday",
@@ -218,12 +224,6 @@
        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTDE4dmZWeVI3YnllV0ZabC11VVE5ZnFnUjRhd291LUxfV1FQZ09Sb0hkdFlOZ0RkM0Z5SXVIN2NxTUx5VmdFZzR0UTRhelN3clY4TXlUQ0JEa2M2bnU4RU43TUpwc2N3T29VcEJHSldXbWVsRmhQbmlyNVBnZFh3VnNncmdoYjUzMzB6V2M2RWM?oc=5",
        "source": "UToday",
        "published_at": "2026-06-01 07:00"
-      },
-      {
-       "title": "Nieuwe hulpwijzer sociale veiligheid online",
-       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUks5UG5DX2FNZkFqZ0dvaWxfM3UzempKbkVKOTVELTZMX3liM24xWTdzYnRMV3JQajlTTjVlc0JuMTc0NzIyUzNqVTFXaTJvcEUzVlB4YzR5bHBmWW1RbUxaWk1vd25JeHgxWXd2QTJVRXFoWXgxLUpFR3B0LUtlNlZ3?oc=5",
-       "source": "UToday",
-       "published_at": "2026-05-28 07:00"
       }
      ]
     }
@@ -237,79 +237,94 @@
    "note": null,
    "clusters": [
     {
-     "label": "",
+     "label": "جدلا",
      "articles": [
+      {
+       "title": "الطاعون يثير جدلا بين روسيا وأمريكا",
+       "url": "https://www.hespress.com/%d8%aa%d8%b1%d8%a7%d9%85%d8%a8-%d9%8a%d9%87%d8%aa%d9%85-%d8%a8%d8%ad%d8%a7%d9%84%d8%a9-%d8%b7%d8%a7%d8%b9%d9%88%d9%86-%d9%81%d9%8a-%d8%b1%d9%88%d8%b3%d9%8a%d8%a7-1819027.html",
+       "source": "Hespress",
+       "published_at": "2026-10-06 23:02"
+      },
+      {
+       "title": "رصيف الصحافة: البناء العشوائي وحفر الآبار يثيران جدلا خلال انتخابات 2026",
+       "url": "https://www.hespress.com/%d8%b1%d8%b5%d9%8a%d9%81-%d8%a7%d9%84%d8%b5%d8%ad%d8%a7%d9%81%d8%a9-%d8%a7%d9%84%d8%a8%d9%86%d8%a7%d8%a1-%d8%a7%d9%84%d8%b9%d8%b4%d9%88%d8%a7%d8%a6%d9%8a-%d9%88%d8%ad%d9%81%d8%b1-%d8%a7%d9%84%d8%a2-1819017.html",
+       "source": "Hespress",
+       "published_at": "2026-10-06 22:00"
+      }
+     ]
+    },
+    {
+     "label": "احتجاجات",
+     "articles": [
+      {
+       "title": "احتجاجات التلاميذ تتمدد في الشوارع .. وحكومة ماكرون تبحث عن مخرج",
+       "url": "https://www.hespress.com/%d8%a7%d8%ad%d8%aa%d8%ac%d8%a7%d8%ac%d8%a7%d8%aa-%d8%a7%d9%84%d8%aa%d9%84%d8%a7%d9%85%d9%8a%d8%b0-%d8%aa%d8%aa%d9%85%d8%af%d8%af-%d9%81%d9%8a-%d8%a7%d9%84%d8%b4%d9%88%d8%a7%d8%b1%d8%b9-%d9%88%d8%ad-1819001.html",
+       "source": "Hespress",
+       "published_at": "2026-10-06 23:00"
+      },
       {
        "title": "احتجاجات طلابية تهز لييج البلجيكية",
        "url": "https://www.hespress.com/%d8%a7%d8%ad%d8%aa%d8%ac%d8%a7%d8%ac%d8%a7%d8%aa-%d8%b7%d9%84%d8%a7%d8%a8%d9%8a%d8%a9-%d8%aa%d9%87%d8%b2-%d9%84%d9%8a%d9%8a%d8%ac-%d8%a7%d9%84%d8%a8%d9%84%d8%ac%d9%8a%d9%83%d9%8a%d8%a9-1818979.html",
        "source": "Hespress",
        "published_at": "2026-10-06 21:21"
+      }
+     ]
+    },
+    {
+     "label": "إلى",
+     "articles": [
+      {
+       "title": "بوتشيمون يستعد للرجوع إلى إسبانيا",
+       "url": "https://www.hespress.com/%d8%a8%d9%88%d8%aa%d8%b4%d9%8a%d9%85%d9%88%d9%86-%d9%8a%d8%b3%d8%aa%d8%b9%d8%af-%d9%84%d9%84%d8%b1%d8%ac%d9%88%d8%b9-%d8%a5%d9%84%d9%89-%d8%a5%d8%b3%d8%a8%d8%a7%d9%86%d9%8a%d8%a7-1818657.html",
+       "source": "Hespress",
+       "published_at": "2026-10-06 22:33"
       },
       {
-       "title": "رونالدو يفتح باب العودة إلى المنتخب",
-       "url": "https://www.hespress.com/%d8%b1%d9%88%d9%86%d8%a7%d9%84%d8%af%d9%88-%d9%8a%d9%81%d8%aa%d8%ad-%d8%a8%d8%a7%d8%a8-%d8%a7%d9%84%d8%b9%d9%88%d8%af%d8%a9-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d9%85%d9%86%d8%aa%d8%ae%d8%a8-1818943.html",
+       "title": "مغامر بريطاني يعود إلى بلاده بعد 28 عاما من السفر سيرا وسباحة",
+       "url": "https://www.hespress.com/%d9%85%d8%ba%d8%a7%d9%85%d8%b1-%d8%a8%d8%b1%d9%8a%d8%b7%d8%a7%d9%86%d9%8a-%d9%8a%d8%b9%d9%88%d8%af-%d8%a5%d9%84%d9%89-%d8%a8%d9%84%d8%a7%d8%af%d9%87-%d8%a8%d8%b9%d8%af-28-%d8%b9%d8%a7%d9%85%d8%a7-1818970.html",
        "source": "Hespress",
-       "published_at": "2026-10-06 21:03"
+       "published_at": "2026-10-06 21:53"
+      }
+     ]
+    },
+    {
+     "label": "More headlines",
+     "articles": [
+      {
+       "title": "بلاموندون يجمد رواتب وزراء ونواب كيبيك.. ويرفض قسم الولاء للملك",
+       "url": "https://www.hespress.com/%d8%a8%d9%84%d8%a7%d9%85%d9%88%d9%86%d8%af%d9%88%d9%86-%d9%8a%d8%ac%d9%85%d8%af-%d8%b1%d9%88%d8%a7%d8%aa%d8%a8-%d9%88%d8%b2%d8%b1%d8%a7%d8%a1-%d9%88%d9%86%d9%88%d8%a7%d8%a8-%d9%83%d9%8a%d8%a8%d9%8a-1819066.html",
+       "source": "Hespress",
+       "published_at": "2026-10-07 01:00"
       },
       {
-       "title": "المحكمة الدستورية تتلقى ستة ملفات طعن في نتائج الانتخابات التشريعية",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%85%d8%ad%d9%83%d9%85%d8%a9-%d8%a7%d9%84%d8%af%d8%b3%d8%aa%d9%88%d8%b1%d9%8a%d8%a9-%d8%aa%d8%aa%d9%84%d9%82%d9%89-%d8%b3%d8%aa%d8%a9-%d8%b7%d8%b9%d9%88%d9%86-%d9%81%d9%8a-%d9%86%d8%aa-1818912.html",
+       "title": "مدرسة بني عمار معلمة تنتظر التأهيل",
+       "url": "https://www.hespress.com/%d9%85%d8%af%d8%b1%d8%b3%d8%a9-%d8%a8%d9%86%d9%8a-%d8%b9%d9%85%d8%a7%d8%b1-%d9%85%d8%b9%d9%84%d9%85%d8%a9-%d8%aa%d9%86%d8%aa%d8%b8%d8%b1-%d8%a7%d9%84%d8%aa%d8%a3%d9%87%d9%8a%d9%84-1818830.html",
        "source": "Hespress",
-       "published_at": "2026-10-06 21:00"
+       "published_at": "2026-10-07 00:48"
       },
       {
-       "title": "أبعاد استراتيجية | أحداث سبتة.. وماذا بعد؟",
-       "url": "https://www.hespress.com/%d8%a3%d8%a8%d8%b9%d8%a7%d8%af-%d8%a7%d8%b3%d8%aa%d8%b1%d8%a7%d8%aa%d9%8a%d8%ac%d9%8a%d8%a9-%d8%a3%d8%ad%d8%af%d8%a7%d8%ab-%d8%b3%d8%a8%d8%aa%d8%a9-%d9%88%d9%85%d8%a7%d8%b0%d8%a7-%d8%a8%d8%b9-1818904.html",
+       "title": "تحقيقات تطال مقالع رمال العوامرة",
+       "url": "https://www.hespress.com/%d8%aa%d8%ad%d9%82%d9%8a%d9%82%d8%a7%d8%aa-%d8%aa%d8%b7%d8%a7%d9%84-%d9%85%d9%82%d8%a7%d9%84%d8%b9-%d8%b1%d9%85%d8%a7%d9%84-%d8%a7%d9%84%d8%b9%d9%88%d8%a7%d9%85%d8%b1%d8%a9-1818925.html",
        "source": "Hespress",
-       "published_at": "2026-10-06 21:00"
+       "published_at": "2026-10-07 00:17"
       },
       {
-       "title": "\"الكتاب\" يدرس المشاركة الحكومية",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%83%d8%aa%d8%a7%d8%a8-%d9%8a%d8%af%d8%b1%d8%b3-%d8%a7%d9%84%d9%85%d8%b4%d8%a7%d8%b1%d9%83%d8%a9-%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d9%8a%d8%a9-1818946.html",
+       "title": "قصة مقتل حاكم سيدي العايدي.. مسار قضائي ينتهي بـ140 سنة سجنا",
+       "url": "https://www.hespress.com/%d9%82%d8%b5%d8%a9-%d9%85%d9%82%d8%aa%d9%84-%d8%ad%d8%a7%d9%83%d9%85-%d8%b3%d9%8a%d8%af%d9%8a-%d8%a7%d9%84%d8%b9%d8%a7%d9%8a%d8%af%d9%8a-%d9%85%d8%b3%d8%a7%d8%b1-%d9%82%d8%b6%d8%a7%d8%a6%d9%8a-1819004.html",
        "source": "Hespress",
-       "published_at": "2026-10-06 20:30"
+       "published_at": "2026-10-07 00:00"
       },
       {
-       "title": "منتخب السعودية يتوج بكأس الخليج",
-       "url": "https://www.hespress.com/%d9%85%d9%86%d8%aa%d8%ae%d8%a8-%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9-%d9%8a%d8%ad%d9%82%d9%82-%d9%83%d8%a3%d8%b3-%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d8%ac-1818949.html",
+       "title": "توقيف حارس اتحاد طنجة 3 مباريات",
+       "url": "https://www.hespress.com/%d8%aa%d9%88%d9%82%d9%8a%d9%81-%d8%ad%d8%a7%d8%b1%d8%b3-%d8%a7%d8%aa%d8%ad%d8%a7%d8%af-%d8%b7%d9%86%d8%ac%d8%a9-3-%d9%85%d8%a8%d8%a7%d8%b1%d9%8a%d8%a7%d8%aa-1818888.html",
        "source": "Hespress",
-       "published_at": "2026-10-06 20:24"
+       "published_at": "2026-10-06 23:28"
       },
       {
-       "title": "‬سيول تقطع طريق السمارة والعيون",
-       "url": "https://www.hespress.com/%d8%b3%d9%8a%d9%88%d9%84-%d8%aa%d9%82%d8%b7%d8%b9-%d8%b7%d8%b1%d9%8a%d9%82-%d8%a7%d9%84%d8%b3%d9%85%d8%a7%d8%b1%d8%a9-%d9%88%d8%a7%d9%84%d8%b9%d9%8a%d9%88%d9%86-1818939.html",
+       "title": "ولد الرشيد يتباحث مع رؤساء برلمانات",
+       "url": "https://www.hespress.com/%d9%88%d9%84%d8%af-%d8%a7%d9%84%d8%b1%d8%b4%d9%8a%d8%af-%d9%8a%d8%aa%d8%a8%d8%a7%d8%ad%d8%ab-%d9%85%d8%b9-%d8%b1%d8%a4%d8%b3%d8%a7%d8%a1-%d8%a8%d8%b1%d9%84%d9%85%d8%a7%d9%86%d8%a7%d8%aa-1818993.html",
        "source": "Hespress",
-       "published_at": "2026-10-06 20:08"
-      },
-      {
-       "title": "القباج لـ\"أول الفهم\": لا أخاف الموت.. وهكذا درَّستُ الفلسفة للملك والأمراء",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%82%d8%a8%d8%a7%d8%ac-%d9%84%d9%80%d8%a3%d9%88%d9%84-%d8%a7%d9%84%d9%81%d9%87%d9%85-%d9%84%d8%a7-%d8%a3%d8%ae%d8%a7%d9%81-%d8%a7%d9%84%d9%85%d9%88%d8%aa-%d9%88%d9%87%d9%83%d8%b0-1818612.html",
-       "source": "Hespress",
-       "published_at": "2026-10-06 20:00"
-      },
-      {
-       "title": "سيرك \"اللاَّيْفْ\"",
-       "url": "https://www.hespress.com/%d8%b3%d9%8a%d8%b1%d9%83-%d8%a7%d9%84%d9%84%d8%a7%d9%8e%d9%91%d9%8a%d9%92%d9%81%d9%92-1818901.html",
-       "source": "Hespress",
-       "published_at": "2026-10-06 19:31"
-      },
-      {
-       "title": "ولد الرشيد يستعرض إصلاحات المغرب",
-       "url": "https://www.hespress.com/%d9%88%d9%84%d8%af-%d8%a7%d9%84%d8%b1%d8%b4%d9%8a%d8%af-%d9%8a%d8%b3%d8%aa%d8%b9%d8%b1%d8%b6-%d8%a5%d8%b5%d9%84%d8%a7%d8%ad%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-1818821.html",
-       "source": "Hespress",
-       "published_at": "2026-10-06 19:26"
-      },
-      {
-       "title": "مباحثات ليبية مغربية حول وضع الجالية",
-       "url": "https://www.hespress.com/%d9%85%d8%a8%d8%a7%d8%ad%d8%ab%d8%a7%d8%aa-%d9%84%d9%8a%d8%a8%d9%8a%d8%a9-%d9%85%d8%ba%d8%b1%d8%a8%d9%8a%d8%a9-%d8%ad%d9%88%d9%84-%d8%a7%d9%84%d8%ac%d8%a7%d9%84%d9%8a%d8%a9-1818875.html",
-       "source": "Hespress",
-       "published_at": "2026-10-06 19:06"
-      },
-      {
-       "title": "عمال مغاربة يشتكون العبودية الحديثة والاتجار بالبشر أمام محكمة فرنسية",
-       "url": "https://www.hespress.com/%d8%b9%d9%85%d8%a7%d9%84-%d9%85%d8%ba%d8%a7%d8%b1%d8%a8%d8%a9-%d9%8a%d8%b4%d8%aa%d9%83%d9%88%d9%86-%d8%a7%d9%84%d8%b9%d8%a8%d9%88%d8%af%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%af%d9%8a%d8%ab%d8%a9-%d9%88-1818916.html",
-       "source": "Hespress",
-       "published_at": "2026-10-06 19:00"
+       "published_at": "2026-10-06 22:11"
       },
       {
        "title": "Matthieu Corosine : “Lorsque nous avons lancé le festival Moga il y a dix ans, on nous prenait pour des fous”",
@@ -359,7 +374,7 @@
    "note": null,
    "clusters": [
     {
-     "label": "Raadslid · Beugelsdijk",
+     "label": "Beugelsdijk · Stopt",
      "articles": [
       {
        "title": "Tom Beugelsdijk stopt als Haags raadslid vanwege privésituatie",
@@ -414,31 +429,48 @@
    "note": null,
    "clusters": [
     {
-     "label": "Yemen · Houthis",
+     "label": "Forces · Yemen",
      "articles": [
       {
-       "title": "Yemen’s government is on the attack against the Houthis. What has changed?",
-       "url": "https://www.aljazeera.com/news-analysis/2026/10/6/yemen-government-is-on-the-attack-against-the-houthis-what-has-changed?traffic_source=rss",
+       "title": "Yemeni forces launch offensive to retake Houthi-held al-Waziiya in Taiz",
+       "url": "https://www.aljazeera.com/news/2026/10/7/yemeni-forces-launch-offensive-to-retake-houthi-held-al-waziiya-in-taiz?traffic_source=rss",
        "source": "Al Jazeera",
-       "published_at": "2026-10-06 19:43"
+       "published_at": "2026-10-07 00:35"
       },
       {
-       "title": "Yemen’s Taiz residents fear food and fuel crisis amid fighting",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/yemens-taiz-residents-fear-food-and-fuel-crisis-amid-fighting?traffic_source=rss",
+       "title": "Iran war live: Yemen forces claim control over strategic Taiz mountain peak",
+       "url": "https://www.aljazeera.com/news/liveblog/2026/10/7/iran-war-live-yemen-forces-claim-control-over-strategic-taiz-mountain-peak?traffic_source=rss",
        "source": "Al Jazeera",
-       "published_at": "2026-10-06 17:34"
+       "published_at": "2026-10-07 00:00"
       },
       {
-       "title": "Children brave snipers and mortars to go to school near Yemen front line",
-       "url": "https://www.bbc.co.uk/news/articles/c670pzpv9gk4o?at_medium=RSS&at_campaign=rss",
-       "source": "BBC World",
-       "published_at": "2026-10-06 07:23"
+       "title": "Houthis, Saudi-led forces claim victories as Yemen fighting rages on",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/houthis-saudi-led-forces-claim-victories-as-yemen-fighting-rages-on?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-10-06 21:57"
       },
       {
        "title": "Saudi-backed forces recapture key areas around strait from Houthis in Yemen",
        "url": "https://www.theguardian.com/world/2026/oct/05/saudi-forces-recapture-key-areas-strait-houthis-yemen",
        "source": "Guardian World",
        "published_at": "2026-10-05 19:44"
+      }
+     ]
+    },
+    {
+     "label": "Trump · Iran",
+     "articles": [
+      {
+       "title": "LA and San Diego residents ‘horrified’ by Trump suggesting Iran bomb them",
+       "url": "https://www.theguardian.com/us-news/2026/oct/06/trump-iran-threat-san-diego-los-angeles-reaction",
+       "source": "Guardian World",
+       "published_at": "2026-10-06 23:45"
+      },
+      {
+       "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
+       "url": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
+       "source": "BBC World",
+       "published_at": "2026-10-06 20:15"
       }
      ]
     },
@@ -452,12 +484,6 @@
        "published_at": "2026-10-06 21:00"
       },
       {
-       "title": "Israeli ambassador to Australia says he hopes for return to ‘traditional friendship’ on 7 October anniversary",
-       "url": "https://www.theguardian.com/world/2026/oct/06/israeli-ambassador-australia-friendship-october-7-attack-anniversary-ntwnfb",
-       "source": "Guardian World",
-       "published_at": "2026-10-06 20:59"
-      },
-      {
        "title": "US, Israeli and European far-right figures to gather for conference in Israel",
        "url": "https://www.theguardian.com/us-news/2026/oct/06/us-israel-far-right-conference",
        "source": "Guardian World",
@@ -466,30 +492,13 @@
      ]
     },
     {
-     "label": "Israel",
+     "label": "More headlines",
      "articles": [
       {
        "title": "US lawmakers call on Israel to release imprisoned doctor Hussam Abu Safia",
        "url": "https://www.aljazeera.com/news/2026/10/6/us-lawmakers-call-on-israel-to-release-imprisoned-doctor-hussam-abu-safia?traffic_source=rss",
        "source": "Al Jazeera",
        "published_at": "2026-10-06 20:42"
-      },
-      {
-       "title": "Jerusalem Daily: Tension high in Israel ahead of October 7",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/jerusalem-daily-tension-high-in-israel-ahead-of-october-7?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-10-06 17:39"
-      }
-     ]
-    },
-    {
-     "label": "More headlines",
-     "articles": [
-      {
-       "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
-       "url": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
-       "source": "BBC World",
-       "published_at": "2026-10-06 20:15"
       },
       {
        "title": "Yemeni military says it has 'secured' Red Sea waterway",
@@ -500,7 +509,7 @@
      ]
     }
    ],
-   "count": 11
+   "count": 10
   },
   {
    "key": "ukraine",
@@ -509,13 +518,19 @@
    "note": null,
    "clusters": [
     {
-     "label": "Russia · Plague",
+     "label": "Russia · Mass",
      "articles": [
       {
-       "title": "Russia denies imposing anti-plague measures after lab worker death",
-       "url": "https://www.aljazeera.com/news/2026/10/6/russia-denies-imposing-anti-plague-measures-after-lab-worker-death?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-10-06 19:26"
+       "title": "Russia slams Kyiv in mass missile, drone attack on Putin's 74th birthday",
+       "url": "https://kyivindependent.com/russia-slams-kyiv-in-mass-missile-drone-attack-on-putins-74th-birthday/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-10-07 00:25"
+      },
+      {
+       "title": "Plague epidemic risk in Russia low after death of lab technician, WHO says",
+       "url": "https://www.theguardian.com/world/2026/oct/06/plague-epidemic-risk-russia-low-death-darya-shipilova-who",
+       "source": "Guardian World",
+       "published_at": "2026-10-06 23:14"
       },
       {
        "title": "Zelensky warns Russia preparing mass strike",
@@ -534,12 +549,6 @@
        "url": "https://kyivindependent.com/europe-is-learning-the-wrong-lesson-from-russias-drone-war-2/",
        "source": "Kyiv Independent",
        "published_at": "2026-10-06 15:44"
-      },
-      {
-       "title": "Rubio presses Russia for answers over suspected plague death in Siberia",
-       "url": "https://kyivindependent.com/rubio-presses-russia-for-answers-over-suspected-plague-death-in-siberia/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-10-06 14:06"
       }
      ]
     },
@@ -553,10 +562,10 @@
        "published_at": "2026-10-06 20:54"
       },
       {
-       "title": "Watch: How Russia responded to US after plague researcher death",
-       "url": "https://www.bbc.co.uk/news/videos/c8e36y796enno?at_medium=RSS&at_campaign=rss",
-       "source": "BBC World",
-       "published_at": "2026-10-06 13:32"
+       "title": "Rubio presses Russia for answers over suspected plague death in Siberia",
+       "url": "https://kyivindependent.com/rubio-presses-russia-for-answers-over-suspected-plague-death-in-siberia/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-10-06 14:06"
       }
      ]
     },
