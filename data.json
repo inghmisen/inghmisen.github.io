@@ -1,12 +1,12 @@
 {
- "date": "Wednesday 7 October 2026",
- "generated_at": "20:44 UTC",
+ "date": "Thursday 8 October 2026",
+ "generated_at": "00:51 UTC",
  "error": null,
- "total_stories": 77,
+ "total_stories": 76,
  "fx": {
   "pair": "EUR/MAD",
-  "rate": 11.216,
-  "change_pct": 0.0
+  "rate": 11.169,
+  "change_pct": -0.42
  },
  "lanes": [
   {
@@ -16,30 +16,30 @@
    "note": null,
    "clusters": [
     {
-     "label": "Liquid · Omni",
+     "label": "Qwen · Flash",
      "articles": [
       {
-       "title": "omni-d1 600M by Liquid AI running in the browser using WebGPU",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x03mrh/omnid1_600m_by_liquid_ai_running_in_the_browser/",
+       "title": "2x CMP 170HX 64GB: GLM-5.3-Flash at 384K context / ~90 tok/s (EXL3, HBM-first setup) + Qwen3.8 comparison",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0b1ws/2x_cmp_170hx_64gb_glm53flash_at_384k_context_90/",
        "source": "r/LocalLLaMA",
-       "published_at": "2026-10-07 18:04"
+       "published_at": "2026-10-07 22:59"
       },
       {
-       "title": "d1-3B and d1-omni from LiquidAI",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x01zg6/d13b_and_d1omni_from_liquidai/",
+       "title": "Qwen 3.8 Flash-Next on 64GB RAM + 16GB VRAM, worth it over a fully-loaded 3.6 35B-A3B?",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x07qlh/qwen_38_flashnext_on_64gb_ram_16gb_vram_worth_it/",
        "source": "r/LocalLLaMA",
-       "published_at": "2026-10-07 17:02"
+       "published_at": "2026-10-07 20:43"
       },
       {
-       "title": "LiquidAI/d1-3B · Hugging Face",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x01xg3/liquidaid13b_hugging_face/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-10-07 17:00"
+       "title": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF · 3560 ♥",
+       "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+       "source": "HF new models",
+       "published_at": "2026-09-20 15:51"
       }
      ]
     },
     {
-     "label": "Cpp · Llama",
+     "label": "Llama · Cpp",
      "articles": [
       {
        "title": "llama.cpp on the stage",
@@ -56,19 +56,19 @@
      ]
     },
     {
-     "label": "Intelligent",
+     "label": "Microsoft",
      "articles": [
       {
-       "title": "ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons",
-       "url": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
-       "source": "Verge AI",
-       "published_at": "2026-10-07 19:10"
+       "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
+       "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
+       "source": "Hacker News",
+       "published_at": "2026-10-07 18:49"
       },
       {
-       "title": "GPT‑6 and Intelligent UI for everyone",
-       "url": "https://openai.com/index/gpt-6-for-everyone/",
-       "source": "Hacker News",
-       "published_at": "2026-10-07 18:00"
+       "title": "Microsoft is giving Copilot more control over Windows and your files",
+       "url": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
+       "source": "Verge AI",
+       "published_at": "2026-10-07 18:01"
       }
      ]
     },
@@ -76,13 +76,13 @@
      "label": "Autotrust",
      "articles": [
       {
-       "title": "autotrust/GEV-26B-Decide · 1192 ♥",
+       "title": "autotrust/GEV-26B-Decide · 1300 ♥",
        "url": "https://huggingface.co/autotrust/GEV-26B-Decide",
        "source": "HF new models",
        "published_at": "2026-10-02 04:20"
       },
       {
-       "title": "autotrust/JEV-27B-VL · 1828 ♥",
+       "title": "autotrust/JEV-27B-VL · 1964 ♥",
        "url": "https://huggingface.co/autotrust/JEV-27B-VL",
        "source": "HF new models",
        "published_at": "2026-09-30 05:02"
@@ -93,10 +93,34 @@
      "label": "More headlines",
      "articles": [
       {
-       "title": "Microsoft is giving Copilot more control over Windows and your files",
-       "url": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
+       "title": "Tested in Coding: Strata",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0b0iq/tested_in_coding_strata/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-10-07 22:57"
+      },
+      {
+       "title": "Surface RTX Spark Dev Box: The Dev Box Built For Developers",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x09g09/surface_rtx_spark_dev_box_the_dev_box_built_for/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-10-07 21:50"
+      },
+      {
+       "title": "Kandinsky 6.0 video gen + video upscaler!",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x06h7i/kandinsky_60_video_gen_video_upscaler/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-10-07 19:58"
+      },
+      {
+       "title": "ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons",
+       "url": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
        "source": "Verge AI",
-       "published_at": "2026-10-07 18:01"
+       "published_at": "2026-10-07 19:10"
+      },
+      {
+       "title": "omni-d1 600M by Liquid AI running in the browser using WebGPU",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x03mrh/omnid1_600m_by_liquid_ai_running_in_the_browser/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-10-07 18:04"
       },
       {
        "title": "Claude Haiku 5.5",
@@ -105,46 +129,22 @@
        "published_at": "2026-10-07 18:01"
       },
       {
-       "title": "Multimodal open d1 decision models for the edge",
-       "url": "https://huggingface.co/blog/LiquidAI/open-d1",
-       "source": "HuggingFace",
-       "published_at": "2026-10-07 16:54"
-      },
-      {
-       "title": "ChatGPT is getting college planning tools",
-       "url": "https://www.theverge.com/ai-artificial-intelligence/1005194/openai-chatgpt-teens-college-planner-notecards",
-       "source": "Verge AI",
-       "published_at": "2026-10-07 16:00"
-      },
-      {
-       "title": "A week in Beijing and Shanghai with the people building AI in China",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzxttk/a_week_in_beijing_and_shanghai_with_the_people/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-10-07 14:22"
-      },
-      {
-       "title": "Aleph-Alpha/Kolibri-1 · 772 ♥",
+       "title": "Aleph-Alpha/Kolibri-1 · 774 ♥",
        "url": "https://huggingface.co/Aleph-Alpha/Kolibri-1",
        "source": "HF new models",
        "published_at": "2026-10-02 05:54"
       },
       {
-       "title": "Cloudflare/clef · 1800 ♥",
+       "title": "Cloudflare/clef · 1815 ♥",
        "url": "https://huggingface.co/Cloudflare/clef",
        "source": "HF new models",
        "published_at": "2026-09-30 21:15"
       },
       {
-       "title": "Cloudflare/clef-flash · 642 ♥",
+       "title": "Cloudflare/clef-flash · 651 ♥",
        "url": "https://huggingface.co/Cloudflare/clef-flash",
        "source": "HF new models",
        "published_at": "2026-09-30 21:15"
-      },
-      {
-       "title": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF · 3553 ♥",
-       "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
-       "source": "HF new models",
-       "published_at": "2026-09-20 15:51"
       }
      ]
     }
@@ -235,33 +235,73 @@
      "label": "المغرب",
      "articles": [
       {
-       "title": "المغرب والسنغال أمام \"طاس\" الخميس",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d9%88%d8%a7%d9%84%d8%b3%d9%86%d8%ba%d8%a7%d9%84-%d8%a3%d9%85%d8%a7%d9%85-%d8%b7%d8%a7%d8%b3-%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3-1819092.html",
+       "title": "من مراكش.. عمالقة صناعة الطيران بالعالم يشيدون بالشراكة مع المغرب",
+       "url": "https://www.hespress.com/%d9%85%d9%86-%d9%85%d8%b1%d8%a7%d9%83%d8%b4-%d8%b9%d9%85%d8%a7%d9%84%d9%82%d8%a9-%d8%b5%d9%86%d8%a7%d8%b9%d8%a9-%d8%a7%d9%84%d8%b7%d9%8a%d8%b1%d8%a7%d9%86-%d8%a8%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85-1819524.html",
        "source": "Hespress",
-       "published_at": "2026-10-07 20:31"
+       "published_at": "2026-10-07 23:00"
       },
       {
-       "title": "\"إف-16 بلوك 72\" ترسم ملامح جيل جديد من القوة الجوية الملكية المغربية",
-       "url": "https://www.hespress.com/%d8%a5%d9%81-16-%d8%a8%d9%84%d9%88%d9%83-72-%d8%aa%d8%b1%d8%b3%d9%85-%d9%85%d9%84%d8%a7%d9%85%d8%ad-%d8%ac%d9%8a%d9%84-%d8%ac%d8%af%d9%8a%d8%af-%d9%85%d9%86-%d8%a7%d9%84%d9%82%d9%88%d8%a9-%d8%a7-1819474.html",
+       "title": "مدافع الوداد فيريرا يعود إلى المغرب",
+       "url": "https://www.hespress.com/%d9%85%d8%af%d8%a7%d9%81%d8%b9-%d8%a7%d9%84%d9%88%d8%af%d8%a7%d8%af-%d9%81%d9%8a%d8%b1%d9%8a%d8%b1%d8%a7-%d9%8a%d8%b9%d9%88%d8%af-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-1819488.html",
        "source": "Hespress",
-       "published_at": "2026-10-07 20:00"
+       "published_at": "2026-10-07 21:31"
+      },
+      {
+       "title": "احتياطات المغرب بـ497 مليار درهم .. والتزامات الخارج تفوق 1,5 تريليون",
+       "url": "https://www.hespress.com/%d8%a7%d8%ad%d8%aa%d9%8a%d8%a7%d8%b7%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d8%a8%d9%80497-%d9%85%d9%84%d9%8a%d8%a7%d8%b1-%d8%af%d8%b1%d9%87%d9%85-%d9%88%d8%a7%d9%84%d8%aa%d8%b2%d8%a7-1819307.html",
+       "source": "Hespress",
+       "published_at": "2026-10-07 21:00"
       }
      ]
     },
     {
-     "label": "Maroc",
+     "label": "ميسي",
      "articles": [
       {
-       "title": "[Tribune] Le Maroc est-il prêt pour la prochaine décennie de l’eau ?",
-       "url": "https://telquel.ma/2026/10/07/tribune-le-maroc-est-il-pret-pour-la-prochaine-decennie-de-leau_2011889",
-       "source": "TelQuel",
-       "published_at": "2026-10-07 17:06"
+       "title": "رونالدو يوجه رسالة احترام إلى ميسي",
+       "url": "https://www.hespress.com/%d8%b1%d9%88%d9%86%d8%a7%d9%84%d8%af%d9%88-%d9%8a%d9%88%d8%ac%d9%87-%d8%b1%d8%b3%d8%a7%d9%84%d8%a9-%d8%a7%d8%ad%d8%aa%d8%b1%d8%a7%d9%85-%d9%84%d9%85%d9%8a%d8%b3%d9%8a-1819562.html",
+       "source": "Hespress",
+       "published_at": "2026-10-08 00:07"
       },
       {
-       "title": "Phillipe Lalliot, ambassadeur de France au Maroc : “La relation bilatérale est à un niveau assez exceptionnel”",
-       "url": "https://telquel.ma/2026/10/07/phillipe-lalliot-ambassadeur-de-france-au-maroc-la-relation-bilaterale-est-a-un-niveau-assez-exceptionnel_2011891",
-       "source": "TelQuel",
-       "published_at": "2026-10-07 16:44"
+       "title": "ميسي: أفتقد قميص منتخب الأرجنتين",
+       "url": "https://www.hespress.com/%d9%85%d9%8a%d8%b3%d9%8a-%d8%a3%d9%81%d8%aa%d9%82%d8%af-%d9%82%d9%85%d9%8a%d8%b5-%d9%85%d9%86%d8%aa%d8%ae%d8%a8-%d8%a7%d9%84%d8%a3%d8%b1%d8%ac%d9%86%d8%aa%d9%8a%d9%86-1818690.html",
+       "source": "Hespress",
+       "published_at": "2026-10-07 22:03"
+      }
+     ]
+    },
+    {
+     "label": "الشرطة",
+     "articles": [
+      {
+       "title": "فرنسا تئن تحت احتجاجات التلاميذ.. إصابات وتحقيقات في تدخلات الشرطة",
+       "url": "https://www.hespress.com/%d9%81%d8%b1%d9%86%d8%b3%d8%a7-%d8%aa%d8%a6%d9%86-%d8%aa%d8%ad%d8%aa-%d8%a7%d8%ad%d8%aa%d8%ac%d8%a7%d8%ac%d8%a7%d8%aa-%d8%a7%d9%84%d8%aa%d9%84%d8%a7%d9%85%d9%8a%d8%b0-%d8%a5%d8%b5%d8%a7%d8%a8%d8%a7-1819519.html",
+       "source": "Hespress",
+       "published_at": "2026-10-07 23:59"
+      },
+      {
+       "title": "الاحتجاجات تختبر عنف الشرطة بأوروبا",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%a7%d8%ad%d8%aa%d8%ac%d8%a7%d8%ac%d8%a7%d8%aa-%d8%aa%d8%ae%d8%aa%d8%a8%d8%b1-%d8%b9%d9%86%d9%81-%d8%a7%d9%84%d8%b4%d8%b1%d8%b7%d8%a9-%d8%a8%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d8%a7-1819340.html",
+       "source": "Hespress",
+       "published_at": "2026-10-07 21:44"
+      }
+     ]
+    },
+    {
+     "label": "حون · يلو",
+     "articles": [
+      {
+       "title": "خصوم إنفانتينو يلوّحون بـ\"سيناريو بلاتر\"",
+       "url": "https://www.hespress.com/%d8%ae%d8%b5%d9%88%d9%85-%d8%a5%d9%86%d9%81%d8%a7%d9%86%d8%aa%d9%8a%d9%86%d9%88-%d9%8a%d9%84%d9%88%d9%91%d8%ad%d9%88%d9%86-%d8%a8%d9%80%d8%b3%d9%8a%d9%86%d8%a7%d8%b1%d9%8a%d9%88-%d8%a8%d9%84%d8%a7-1819345.html",
+       "source": "Hespress",
+       "published_at": "2026-10-07 23:09"
+      },
+      {
+       "title": "مهنيو سيارات الأجرة يلوّحون بالإضراب",
+       "url": "https://www.hespress.com/%d9%85%d9%87%d9%86%d9%8a%d9%88-%d8%b3%d9%8a%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d8%a3%d8%ac%d8%b1%d8%a9-%d9%8a%d9%84%d9%88%d9%91%d8%ad%d9%88%d9%86-%d8%a8%d8%a7%d9%84%d8%a5%d8%b6%d8%b1%d8%a7%d8%a8-1819387.html",
+       "source": "Hespress",
+       "published_at": "2026-10-07 21:10"
       }
      ]
     },
@@ -269,64 +309,22 @@
      "label": "More headlines",
      "articles": [
       {
-       "title": "\"الكتاب\" ينتخب رئيس المجموعة النيابية",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%83%d8%aa%d8%a7%d8%a8-%d9%8a%d9%86%d8%aa%d8%ae%d8%a8-%d8%b1%d8%a6%d9%8a%d8%b3-%d8%a7%d9%84%d9%85%d8%ac%d9%85%d9%88%d8%b9%d8%a9-%d8%a7%d9%84%d9%86%d9%8a%d8%a7%d8%a8%d9%8a%d8%a9-1819407.html",
+       "title": "ترامب سيكرم ماسك بأرفع وسام علمي",
+       "url": "https://www.hespress.com/%d8%aa%d8%b1%d8%a7%d9%85%d8%a8-%d8%b3%d9%8a%d9%83%d8%b1%d9%85-%d9%85%d8%a7%d8%b3%d9%83-%d8%a8%d8%a3%d8%b1%d9%81%d8%b9-%d9%88%d8%b3%d8%a7%d9%85-%d8%b9%d9%84%d9%85%d9%8a-1819553.html",
        "source": "Hespress",
-       "published_at": "2026-10-07 20:06"
+       "published_at": "2026-10-07 23:20"
       },
       {
-       "title": "عروض فرقة المسيرة الخضراء",
-       "url": "https://www.hespress.com/%d8%b9%d8%b1%d9%88%d8%b6-%d8%b1%d9%82%d8%a9-%d8%a7%d9%84%d9%85%d8%b3%d9%8a%d8%b1%d8%a9-%d8%a7%d9%84%d8%ae%d8%b6%d8%b1%d8%a7%d8%a1-1819441.html",
+       "title": "دعاوى عقارية تلاحق مجلس جماعة الرباط",
+       "url": "https://www.hespress.com/%d8%af%d8%b9%d8%a7%d9%88%d9%89-%d8%b9%d9%82%d8%a7%d8%b1%d9%8a%d8%a9-%d8%aa%d9%84%d8%a7%d8%ad%d9%82-%d9%85%d8%ac%d9%84%d8%b3-%d8%ac%d9%85%d8%a7%d8%b9%d8%a9-%d8%a7%d9%84%d8%b1%d8%a8%d8%a7%d8%b7-1819223.html",
        "source": "Hespress",
-       "published_at": "2026-10-07 19:35"
+       "published_at": "2026-10-07 22:27"
       },
       {
-       "title": "وفاة مغربية في اعتداء حوثي بالسعودية",
-       "url": "https://www.hespress.com/%d9%88%d9%81%d8%a7%d8%a9-%d9%85%d8%ba%d8%b1%d8%a8%d9%8a%d8%a9-%d9%81%d9%8a-%d8%a7%d8%b9%d8%aa%d8%af%d8%a7%d8%a1-%d8%ad%d9%88%d8%ab%d9%8a-%d8%a8%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9-1819439.html",
+       "title": "رصيف الصحافة: تحذيرات من الاستنزاف المائي لزراعة \"الدلاح\" بزاكورة",
+       "url": "https://www.hespress.com/%d8%b1%d8%b5%d9%8a%d9%81-%d8%a7%d9%84%d8%b5%d8%ad%d8%a7%d9%81%d8%a9-%d8%aa%d8%ad%d8%b0%d9%8a%d8%b1%d8%a7%d8%aa-%d9%85%d9%86-%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d9%86%d8%b2%d8%a7%d9%81-%d8%a7%d9%84%d9%85-1819540.html",
        "source": "Hespress",
-       "published_at": "2026-10-07 19:14"
-      },
-      {
-       "title": "توقيف مطلوب دوليا بمطار محمد الخامس",
-       "url": "https://www.hespress.com/%d8%aa%d9%88%d9%82%d9%8a%d9%81-%d9%85%d8%b7%d9%84%d9%88%d8%a8-%d8%af%d9%88%d9%84%d9%8a%d8%a7-%d8%a8%d9%85%d8%b7%d8%a7%d8%b1-%d8%a7%d9%84%d8%a8%d9%8a%d8%b6%d8%a7%d8%a1-1819410.html",
-       "source": "Hespress",
-       "published_at": "2026-10-07 19:07"
-      },
-      {
-       "title": "رحو: ملف قطاع الذهب رهن التحقيق .. وتسقيف أسعار الوقود قرار حكومي",
-       "url": "https://www.hespress.com/%d8%b1%d8%ad%d9%88-%d9%85%d9%84%d9%81-%d9%82%d8%b7%d8%a7%d8%b9-%d8%a7%d9%84%d8%b0%d9%87%d8%a8-%d8%b1%d9%87%d9%86-%d8%a7%d9%84%d8%aa%d8%ad%d9%82%d9%8a%d9%82-%d9%88%d8%aa%d8%b3%d9%82%d9%8a%d9%81-1819238.html",
-       "source": "Hespress",
-       "published_at": "2026-10-07 18:45"
-      },
-      {
-       "title": "مصادر حركية تراهن على \"المستشارين\"",
-       "url": "https://www.hespress.com/%d9%85%d8%b5%d8%a7%d8%af%d8%b1-%d8%ad%d8%b1%d9%83%d9%8a%d8%a9-%d8%aa%d8%b1%d8%a7%d9%87%d9%86-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d8%b4%d8%a7%d8%b1%d9%8a%d9%86-1819288.html",
-       "source": "Hespress",
-       "published_at": "2026-10-07 18:38"
-      },
-      {
-       "title": "كعكة الحقائب الحكومية",
-       "url": "https://www.hespress.com/%d9%83%d8%b9%d9%83%d8%a9-%d8%a7%d9%84%d8%ad%d9%82%d8%a7%d8%a6%d8%a8-%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d9%8a%d8%a9-1818343.html",
-       "source": "Hespress",
-       "published_at": "2026-10-07 18:30"
-      },
-      {
-       "title": "مشاورات جديدة بين المنصوري وبركة",
-       "url": "https://www.hespress.com/%d9%85%d8%b4%d8%a7%d9%88%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d8%a9-%d8%aa%d8%ac%d9%85%d8%b9-%d8%a7%d9%84%d9%85%d9%86%d8%b5%d9%88%d8%b1%d9%8a-%d9%88%d8%a8%d8%b1%d9%83%d8%a9-1819392.html",
-       "source": "Hespress",
-       "published_at": "2026-10-07 18:28"
-      },
-      {
-       "title": "محافظتي تتيح تتبع العقارات عن بعد",
-       "url": "https://www.hespress.com/%d9%85%d8%ad%d8%a7%d9%81%d8%b8%d8%aa%d9%8a-%d8%aa%d8%aa%d9%8a%d8%ad-%d8%aa%d8%aa%d8%a8%d8%b9-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d8%a7%d8%aa-%d8%b9%d9%86-%d8%a8%d8%b9%d8%af-1819088.html",
-       "source": "Hespress",
-       "published_at": "2026-10-07 18:00"
-      },
-      {
-       "title": "بلاهيك مدربا جديدا للمنتخب النسوي",
-       "url": "https://www.hespress.com/%d8%a8%d9%84%d8%a7%d9%87%d9%8a%d9%83-%d9%85%d8%af%d8%b1%d8%a8%d8%a7-%d8%ac%d8%af%d9%8a%d8%af%d8%a7-%d9%84%d9%84%d9%85%d9%86%d8%aa%d8%ae%d8%a8-%d8%a7%d9%84%d9%86%d8%b3%d9%88%d9%8a-1819353.html",
-       "source": "Hespress",
-       "published_at": "2026-10-07 17:43"
+       "published_at": "2026-10-07 22:00"
       },
       {
        "title": "Équipe nationale féminine : le nouveau sélectionneur Eric Blahic convoque 31 joueuses pour un stage de préparation",
@@ -341,6 +339,12 @@
        "published_at": "2026-10-07 17:13"
       },
       {
+       "title": "[Tribune] Le Maroc est-il prêt pour la prochaine décennie de l’eau ?",
+       "url": "https://telquel.ma/2026/10/07/tribune-le-maroc-est-il-pret-pour-la-prochaine-decennie-de-leau_2011889",
+       "source": "TelQuel",
+       "published_at": "2026-10-07 17:06"
+      },
+      {
        "title": "Ciment : la consommation quasi stable à fin septembre",
        "url": "https://telquel.ma/instant-t/2026/10/07/ciment-la-consommation-quasi-stable-a-fin-septembre_2011887/",
        "source": "TelQuel",
@@ -351,6 +355,12 @@
        "url": "https://telquel.ma/instant-t/2026/10/07/le-ministere-de-la-sante-appelle-les-familles-a-completer-la-vaccination-de-leurs-enfants_2011942/",
        "source": "TelQuel",
        "published_at": "2026-10-07 16:47"
+      },
+      {
+       "title": "Phillipe Lalliot, ambassadeur de France au Maroc : “La relation bilatérale est à un niveau assez exceptionnel”",
+       "url": "https://telquel.ma/2026/10/07/phillipe-lalliot-ambassadeur-de-france-au-maroc-la-relation-bilaterale-est-a-un-niveau-assez-exceptionnel_2011891",
+       "source": "TelQuel",
+       "published_at": "2026-10-07 16:44"
       }
      ]
     }
@@ -364,7 +374,7 @@
    "note": null,
    "clusters": [
     {
-     "label": "Wil · Infantino",
+     "label": "Wil · Fifa",
      "articles": [
       {
        "title": "Deze oud-voetballer wil het opnemen tegen Gianni Infantino bij FIFA-verkiezing",
@@ -383,12 +393,6 @@
     {
      "label": "More headlines",
      "articles": [
-      {
-       "title": "Johan Derksen niet onder de indruk van aangekondigde aangifte Tweede Kamerlid Ergin: ’Ze bekijken het maar’",
-       "url": "https://www.telegraaf.nl/entertainment/media/johan-derksen-niet-onder-de-indruk-van-aangekondigde-aangifte-tweede-kamerlid-ergin-ze-bekijken-het-maar/162749756.html",
-       "source": "de Telegraaf",
-       "published_at": "2026-10-07 20:32"
-      },
       {
        "title": "ICT van Belastingdienst heeft komende jaren handen vol aan box 3: ’Dat gaat hobbelig worden’",
        "url": "https://www.telegraaf.nl/binnenland/ict-van-belastingdienst-heeft-komende-jaren-handen-vol-aan-box-3-dat-gaat-hobbelig-worden/162746037.html",
@@ -416,7 +420,7 @@
      ]
     }
    ],
-   "count": 7
+   "count": 6
   },
   {
    "key": "mideast",
@@ -425,8 +429,20 @@
    "note": null,
    "clusters": [
     {
-     "label": "Israel",
+     "label": "Israel · October",
      "articles": [
+      {
+       "title": "Gaza child’s autoimmune condition triggered amid Israel’s war",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/gaza-childs-autoimmune-condition-triggered-amid-israels-war?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-10-07 21:06"
+      },
+      {
+       "title": "Israelis mourn 7 October attack victims three years after deadly Hamas raid",
+       "url": "https://www.bbc.co.uk/news/articles/cwkgj0g30m5jo?at_medium=RSS&at_campaign=rss",
+       "source": "BBC World",
+       "published_at": "2026-10-07 20:27"
+      },
       {
        "title": "Israel’s deadline to close UK consulate in East Jerusalem nears",
        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/israels-deadline-to-close-uk-consulate-in-east-jerusalem-nears?traffic_source=rss",
@@ -444,41 +460,41 @@
        "url": "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&at_campaign=rss",
        "source": "BBC World",
        "published_at": "2026-10-07 16:00"
-      },
-      {
-       "title": "The mass killing does not mean Israel’s winning",
-       "url": "https://www.aljazeera.com/opinions/2026/10/7/the-mass-killing-does-not-mean-israels-winning?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-10-07 15:25"
-      },
-      {
-       "title": "How Israel’s genocide in Gaza pulled Britons into the Palestine movement",
-       "url": "https://www.aljazeera.com/news/2026/10/7/how-israels-genocide-in-gaza-pulled-britons-into-the-palestine-movement?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-10-07 15:13"
       }
      ]
     },
     {
-     "label": "Three",
+     "label": "War",
      "articles": [
       {
-       "title": "Saudi Arabia says Houthi attacks on airports killed three foreign nationals",
-       "url": "https://www.aljazeera.com/news/2026/10/7/saudi-arabia-says-three-foreign-nationals-killed-in-attacks-on-airports?traffic_source=rss",
+       "title": "US stocks slide as oil prices fluctuate over renewed Iran war fears",
+       "url": "https://www.aljazeera.com/news/2026/10/8/us-stocks-slide-as-oil-prices-fluctuate-over-renewed-iran-war-fears?traffic_source=rss",
        "source": "Al Jazeera",
-       "published_at": "2026-10-07 18:29"
+       "published_at": "2026-10-08 00:33"
       },
       {
-       "title": "Jerusalem Daily: Gaza’s devastation, three years after October 7",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/jerusalem-daily-gazas-devastation-three-years-after-october-7?traffic_source=rss",
+       "title": "Yemen war live: Yemeni forces claim key heights as Houthi attacks go on",
+       "url": "https://www.aljazeera.com/news/liveblog/2026/10/8/yemen-war-live-yemeni-forces-claim-key-heights-as-houthi-attacks-go-on?traffic_source=rss",
        "source": "Al Jazeera",
-       "published_at": "2026-10-07 18:03"
+       "published_at": "2026-10-08 00:00"
+      },
+      {
+       "title": "‘Neither war nor peace’: Palestinians in Gaza on existing amid disease, despair and ruins",
+       "url": "https://www.theguardian.com/world/2026/oct/07/palestinians-gaza-existing-amid-disease-despair-ruins",
+       "source": "Guardian World",
+       "published_at": "2026-10-07 21:00"
       }
      ]
     },
     {
-     "label": "West",
+     "label": "Houthi · Airports",
      "articles": [
+      {
+       "title": "Saudi Arabia confirms three dead in Houthi strikes on its airports",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/saudi-arabia-confirms-three-dead-in-houthi-strikes-on-its-airports?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-10-08 00:16"
+      },
       {
        "title": "Houthi forces appear to make slow advance in south-west Yemen",
        "url": "https://www.theguardian.com/world/2026/oct/07/houthi-forces-slow-advance-south-west-yemen-taiz-aden-airport",
@@ -486,10 +502,10 @@
        "published_at": "2026-10-07 19:45"
       },
       {
-       "title": "Israeli settlers beat press photographer as soldiers watch in West Bank",
-       "url": "https://www.theguardian.com/world/2026/oct/06/israeli-settlers-beat-press-photographer-as-soldiers-watch-in-west-bank",
-       "source": "Guardian World",
-       "published_at": "2026-10-06 21:00"
+       "title": "Three killed, 36 injured in Houthi attacks on Saudi airports, Riyadh says",
+       "url": "https://www.aljazeera.com/news/2026/10/7/saudi-arabia-says-three-foreign-nationals-killed-in-attacks-on-airports?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-10-07 18:29"
       }
      ]
     },
@@ -497,22 +513,10 @@
      "label": "More headlines",
      "articles": [
       {
-       "title": "How genocide in Gaza followed Bosnia’s painful pattern",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/how-genocide-in-gaza-followed-bosnias-painful-pattern?traffic_source=rss",
+       "title": "UN peacekeeping force in Lebanon says shots fired at Israeli border post",
+       "url": "https://www.aljazeera.com/news/2026/10/7/un-peacekeeping-force-in-lebanon-says-shots-fired-at-israeli-border-post?traffic_source=rss",
        "source": "Al Jazeera",
-       "published_at": "2026-10-07 18:16"
-      },
-      {
-       "title": "More than 200,000 displaced as fighting escalates in Yemen, UN says",
-       "url": "https://www.aljazeera.com/gallery/2026/10/7/more-than-200000-displaced-as-fighting-escalates-in-yemen-un-says-2?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-10-07 16:02"
-      },
-      {
-       "title": "US, Israeli and European far-right figures to gather for conference in Israel",
-       "url": "https://www.theguardian.com/us-news/2026/oct/06/us-israel-far-right-conference",
-       "source": "Guardian World",
-       "published_at": "2026-10-06 12:21"
+       "published_at": "2026-10-07 23:33"
       }
      ]
     }
@@ -526,37 +530,60 @@
    "note": null,
    "clusters": [
     {
-     "label": "Ukraine · Russia",
+     "label": "Russia · Plague",
      "articles": [
       {
-       "title": "At least 24 killed as Russia launches massive attack on Ukraine",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/at-least-24-killed-as-russia-launches-massive-attack-on-ukraine?traffic_source=rss",
+       "title": "Russia dismisses reports of second plague case as ‘false information’",
+       "url": "https://www.aljazeera.com/news/2026/10/8/russia-dismisses-reports-of-second-plague-case-as-false-information?traffic_source=rss",
        "source": "Al Jazeera",
-       "published_at": "2026-10-07 18:32"
+       "published_at": "2026-10-08 00:16"
+      },
+      {
+       "title": "Lithuania to deploy troops along border with Russia's Kaliningrad after Latvia incident",
+       "url": "https://kyivindependent.com/lithuania-to-deploy-troops-along-border-with-russias-kaliningrad-after-latvia-incident/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-10-07 22:56"
+      },
+      {
+       "title": "Russia hits another Kyiv apartment building after day of deadly strikes, injuring 4",
+       "url": "https://kyivindependent.com/russia-hits-another-kyiv-apartment-building-injuring-4/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-10-07 22:00"
+      },
+      {
+       "title": "WHO says it does not have ‘full picture’ from Russia following suspected plague death",
+       "url": "https://www.theguardian.com/world/2026/oct/07/who-says-it-does-not-have-full-picture-from-russia-following-suspected-plague-death",
+       "source": "Guardian World",
+       "published_at": "2026-10-07 20:46"
+      },
+      {
+       "title": "Trump backs away from top aides who reportedly advised pro-Russia government",
+       "url": "https://www.theguardian.com/us-news/2026/oct/07/trump-advisers-republika-srpska",
+       "source": "Guardian World",
+       "published_at": "2026-10-07 20:31"
+      }
+     ]
+    },
+    {
+     "label": "Russian · Kills",
+     "articles": [
+      {
+       "title": "Moldova to build drone shelters near Ukrainian border amid escalating Russian attacks",
+       "url": "https://kyivindependent.com/moldova-to-build-drone-shelters-near-ukrainian-border-amid-escalating-russian-attacks/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-10-07 23:49"
+      },
+      {
+       "title": "Children killed while they slept as Russian missile kills 19 in block of flats",
+       "url": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss",
+       "source": "BBC World",
+       "published_at": "2026-10-07 18:12"
       },
       {
        "title": "Ukraine war latest: Russian attack on Pryluky kills at least 20, including 5 children",
        "url": "https://kyivindependent.com/ukraine-war-latest-russian-attack-on-pryluky-kills-at-least-20-including-5-children/",
        "source": "Kyiv Independent",
        "published_at": "2026-10-07 18:08"
-      },
-      {
-       "title": "War in Ukraine spreads across 3 different dimensions",
-       "url": "https://kyivindependent.com/war-in-ukraine-spreads-across-3-different-dimensions/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-10-07 17:52"
-      },
-      {
-       "title": "Ukraine says Russia bombed apartment block as birthday gift for Putin",
-       "url": "https://www.theguardian.com/world/2026/oct/07/ukraine-accuses-russia-of-bombing-apartment-block-as-birthday-gift-for-putin",
-       "source": "Guardian World",
-       "published_at": "2026-10-07 16:22"
-      },
-      {
-       "title": "Can women solve Ukraine's manpower problem?",
-       "url": "https://kyivindependent.com/can-women-solve-ukraines-manpower-problem-2/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-10-07 14:49"
       }
      ]
     },
@@ -574,35 +601,6 @@
        "url": "https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&at_campaign=rss",
        "source": "BBC World",
        "published_at": "2026-10-07 18:27"
-      },
-      {
-       "title": "Erdogan raises Black Sea safety in call with Putin",
-       "url": "https://kyivindependent.com/erdogan-raises-black-sea-safety-in-call-with-putin/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-10-07 16:43"
-      }
-     ]
-    },
-    {
-     "label": "Russian",
-     "articles": [
-      {
-       "title": "Children killed while they slept as Russian missile kills 19 in block of flats",
-       "url": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss",
-       "source": "BBC World",
-       "published_at": "2026-10-07 18:12"
-      },
-      {
-       "title": "Huge blaze breaks out at Russian oil facility in Samara Oblast",
-       "url": "https://kyivindependent.com/huge-blaze-breaks-out-at-russian-oil-facility-in-samara-oblast/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-10-07 15:10"
-      },
-      {
-       "title": "Russian attacks kill at least 28, injure more than 138 over past day, rescue efforts continue in Pryluky",
-       "url": "https://kyivindependent.com/russian-attacks-kill-at-least-24-injure-more-than-130-over-past-day-rescue-efforts-continue-in-pryluky/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-10-07 13:21"
       }
      ]
     },
@@ -610,10 +608,16 @@
      "label": "More headlines",
      "articles": [
       {
-       "title": "Russia carried out sabotage against Danish defense firms, intelligence says",
-       "url": "https://kyivindependent.com/russia-carried-out-sabotage-against-danish-defense-firms-intelligence-says/",
+       "title": "56 Ukrainians still missing as Nepal ends flash flood search-and-rescue operation",
+       "url": "https://kyivindependent.com/56-ukrainians-still-missing-as-nepal-ends-flash-flood-search-and-rescue-operation/",
        "source": "Kyiv Independent",
-       "published_at": "2026-10-07 17:55"
+       "published_at": "2026-10-07 21:18"
+      },
+      {
+       "title": "At least 24 killed as Russia launches massive attack on Ukraine",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/at-least-24-killed-as-russia-launches-massive-attack-on-ukraine?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-10-07 18:32"
       }
      ]
     }
