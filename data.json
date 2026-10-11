@@ -1,8 +1,8 @@
 {
  "date": "Sunday 11 October 2026",
- "generated_at": "18:21 UTC",
+ "generated_at": "22:20 UTC",
  "error": null,
- "total_stories": 76,
+ "total_stories": 72,
  "fx": {
   "pair": "EUR/MAD",
   "rate": 10.963,
@@ -15,6 +15,63 @@
    "icon": "🤖",
    "note": null,
    "clusters": [
+    {
+     "label": "Qwen · Image",
+     "articles": [
+      {
+       "title": "I tested different Qwen 3.8 27B quants",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3ij13/i_tested_different_qwen_38_27b_quants/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-10-11 20:24"
+      },
+      {
+       "title": "AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF · 319 ♥",
+       "url": "https://huggingface.co/AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF",
+       "source": "HF new models",
+       "published_at": "2026-10-09 16:30"
+      },
+      {
+       "title": "Qwen/Qwen-Image-2.1-Turbo · 534 ♥",
+       "url": "https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo",
+       "source": "HF new models",
+       "published_at": "2026-10-09 04:50"
+      }
+     ]
+    },
+    {
+     "label": "Model",
+     "articles": [
+      {
+       "title": "Every Model That Can Be Run On 10-16GB VRAM Ranked",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3gpyi/every_model_that_can_be_run_on_1016gb_vram_ranked/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-10-11 19:12"
+      },
+      {
+       "title": "Nvidia in talks to acquire US ‘open’ model start-up Reflection AI",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x38rnv/nvidia_in_talks_to_acquire_us_open_model_startup/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-10-11 13:52"
+      }
+     ]
+    },
+    {
+     "label": "Flash · Glm",
+     "articles": [
+      {
+       "title": "\"Strata\" for GLM5.3 Flash is here for some! Project Maya",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3fxzj/strata_for_glm53_flash_is_here_for_some_project/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-10-11 18:42"
+      },
+      {
+       "title": "vllm-ascend updates (GLM5.3-flash) on dual 310p Ascend cards",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3dpv3/vllmascend_updates_glm53flash_on_dual_310p_ascend/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-10-11 17:14"
+      }
+     ]
+    },
     {
      "label": "Local",
      "articles": [
@@ -29,63 +86,6 @@
        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x37z7z/openmed_30_is_out_apache20_clinical_ai_that_runs/",
        "source": "r/LocalLLaMA",
        "published_at": "2026-10-11 13:16"
-      },
-      {
-       "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
-       "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
-       "source": "Verge AI",
-       "published_at": "2026-10-11 11:00"
-      }
-     ]
-    },
-    {
-     "label": "You",
-     "articles": [
-      {
-       "title": "Now you can grow Bonsai on your potato",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x37kxn/now_you_can_grow_bonsai_on_your_potato/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-10-11 12:58"
-      },
-      {
-       "title": "Reminder: try probabilistic MTP if you missed it. Decode +14% on prose",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x33p4o/reminder_try_probabilistic_mtp_if_you_missed_it/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-10-11 09:20"
-      }
-     ]
-    },
-    {
-     "label": "Model",
-     "articles": [
-      {
-       "title": "Nvidia in talks to acquire US ‘open’ model start-up Reflection AI",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x38rnv/nvidia_in_talks_to_acquire_us_open_model_startup/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-10-11 13:52"
-      },
-      {
-       "title": "I trained a 102M recursive BitNet-v2 model from scratch: 64K context, trained on less than 5B tokens",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x34nyx/i_trained_a_102m_recursive_bitnetv2_model_from/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-10-11 10:19"
-      }
-     ]
-    },
-    {
-     "label": "Rtx",
-     "articles": [
-      {
-       "title": "Here’s why RTX 5090 costs $5,000: AI firms are buying gaming GPUs by the pallet",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x37tg6/heres_why_rtx_5090_costs_5000_ai_firms_are_buying/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-10-11 13:08"
-      },
-      {
-       "title": "UPDATE: Qwen 3.8 27B 140 tok/s on single RTX 3090 Megakernel: KL divergence 0.0009 vs llama.cpp",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x37q7b/update_qwen_38_27b_140_toks_on_single_rtx_3090/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-10-11 13:04"
       }
      ]
     },
@@ -93,10 +93,22 @@
      "label": "More headlines",
      "articles": [
       {
-       "title": "vllm-ascend updates (GLM5.3-flash) on dual 310p Ascend cards",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3dpv3/vllmascend_updates_glm53flash_on_dual_310p_ascend/",
+       "title": "[META] What's with the RP bot accounts?",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3iu7f/meta_whats_with_the_rp_bot_accounts/",
        "source": "r/LocalLLaMA",
-       "published_at": "2026-10-11 17:14"
+       "published_at": "2026-10-11 20:37"
+      },
+      {
+       "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
+       "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
+       "source": "Verge AI",
+       "published_at": "2026-10-11 18:33"
+      },
+      {
+       "title": "FileDig - Windows version of DigUp",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3djpz/filedig_windows_version_of_digup/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-10-11 17:07"
       },
       {
        "title": "Whistle: speech to text in 16.9 MB",
@@ -105,46 +117,34 @@
        "published_at": "2026-10-11 15:55"
       },
       {
-       "title": "microsoft/AesCode 8B and 32B",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x35o1y/microsoftaescode_8b_and_32b/",
+       "title": "Here’s why RTX 5090 costs $5,000: AI firms are buying gaming GPUs by the pallet",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x37tg6/heres_why_rtx_5090_costs_5000_ai_firms_are_buying/",
        "source": "r/LocalLLaMA",
-       "published_at": "2026-10-11 11:17"
+       "published_at": "2026-10-11 13:08"
       },
       {
-       "title": "Qwen/Qwen-Image-2.1-Turbo · 521 ♥",
-       "url": "https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo",
-       "source": "HF new models",
-       "published_at": "2026-10-09 04:50"
-      },
-      {
-       "title": "ConwayResearch/Underdog-Saluki-27B-1.0 · 312 ♥",
+       "title": "ConwayResearch/Underdog-Saluki-27B-1.0 · 320 ♥",
        "url": "https://huggingface.co/ConwayResearch/Underdog-Saluki-27B-1.0",
        "source": "HF new models",
        "published_at": "2026-10-08 01:47"
       },
       {
-       "title": "LiquidAI/d1-3B · 292 ♥",
+       "title": "LiquidAI/d1-3B · 296 ♥",
        "url": "https://huggingface.co/LiquidAI/d1-3B",
        "source": "HF new models",
        "published_at": "2026-10-05 09:55"
       },
       {
-       "title": "Aleph-Alpha/Kolibri-1 · 882 ♥",
+       "title": "Aleph-Alpha/Kolibri-1 · 887 ♥",
        "url": "https://huggingface.co/Aleph-Alpha/Kolibri-1",
        "source": "HF new models",
        "published_at": "2026-10-02 05:54"
       },
       {
-       "title": "canberkkkkkk/ema-lightning · 354 ♥",
+       "title": "canberkkkkkk/ema-lightning · 356 ♥",
        "url": "https://huggingface.co/canberkkkkkk/ema-lightning",
        "source": "HF new models",
        "published_at": "2026-10-01 14:18"
-      },
-      {
-       "title": "Cloudflare/clef · 2020 ♥",
-       "url": "https://huggingface.co/Cloudflare/clef",
-       "source": "HF new models",
-       "published_at": "2026-09-30 21:15"
       }
      ]
     }
@@ -247,30 +247,47 @@
    "note": null,
    "clusters": [
     {
-     "label": "على",
+     "label": "المغربية",
      "articles": [
       {
-       "title": "افتتاح البرلمان يزيد الضغط على المنصوري لتسريع تشكيل الحكومة",
-       "url": "https://www.hespress.com/%d8%a7%d9%81%d8%aa%d8%aa%d8%a7%d8%ad-%d8%a7%d9%84%d8%a8%d8%b1%d9%84%d9%85%d8%a7%d9%86-%d9%8a%d8%b2%d9%8a%d8%af-%d8%a7%d9%84%d8%b6%d8%ba%d8%b7-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d9%85%d9%86%d8%b5%d9%88-1821262.html",
+       "title": "الصحراء المغربية .. مواقف عربية وإفريقية وأمريكية تجدد دعم الحكم الذاتي",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%b5%d8%ad%d8%b1%d8%a7%d8%a1-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8%d9%8a%d8%a9-%d9%85%d9%88%d8%a7%d9%82%d9%81-%d8%b9%d8%b1%d8%a8%d9%8a%d8%a9-%d9%88%d8%a5%d9%81%d8%b1%d9%8a%d9%82%d9%8a-1821310.html",
        "source": "Hespress",
-       "published_at": "2026-10-11 18:05"
+       "published_at": "2026-10-11 21:00"
       },
       {
-       "title": "إصابات في هجوم جديد على مطار الرياض",
-       "url": "https://www.hespress.com/%d8%a5%d8%b5%d8%a7%d8%a8%d8%a7%d8%aa-%d9%81%d9%8a-%d9%87%d8%ac%d9%88%d9%85-%d8%ac%d8%af%d9%8a%d8%af-%d8%b9%d9%84%d9%89-%d9%85%d8%b7%d8%a7%d8%b1-%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6-1821285.html",
+       "title": "المغرب يدافع عن لقب \"كان الفوتسال\"",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d9%8a%d8%af%d8%a7%d9%81%d8%b9-%d8%b9%d9%86-%d9%84%d9%82%d8%a8-%d9%83%d8%a7%d9%86-%d8%a7%d9%84%d9%81%d9%88%d8%aa%d8%b3%d8%a7%d9%84-1821333.html",
        "source": "Hespress",
-       "published_at": "2026-10-11 17:01"
+       "published_at": "2026-10-11 20:33"
       },
       {
-       "title": "الطالب: مؤثرون يتطاولون على الفن.. وأرفض الإضحاك بالدين والمآسي",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%b7%d8%a7%d9%84%d8%a8-%d9%85%d8%a4%d8%ab%d8%b1%d9%88%d9%86-%d9%8a%d8%aa%d8%b7%d8%a7%d9%88%d9%84%d9%88%d9%86-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d9%81%d9%86-%d9%88%d8%a3%d8%b1%d9%81%d8%b6-1820941.html",
+       "title": "استثمارات عقارية بـ176 مليار درهم تجذب البنوك وشركات التأمين المغربية",
+       "url": "https://www.hespress.com/%d8%a7%d8%b3%d8%aa%d8%ab%d9%85%d8%a7%d8%b1%d8%a7%d8%aa-%d8%b9%d9%82%d8%a7%d8%b1%d9%8a%d8%a9-%d8%a8%d9%80176-%d9%85%d9%84%d9%8a%d8%a7%d8%b1-%d8%af%d8%b1%d9%87%d9%85-%d8%aa%d8%ac%d8%b0%d8%a8-%d8%a7-1820476.html",
        "source": "Hespress",
-       "published_at": "2026-10-11 17:00"
+       "published_at": "2026-10-11 20:05"
       }
      ]
     },
     {
-     "label": "Maroc · Pourquoi",
+     "label": "مقتل",
+     "articles": [
+      {
+       "title": "رصيف الصحافة: التحقيق مع 20 دركيا في مقتل شرطي بضواحي إمزورن",
+       "url": "https://www.hespress.com/%d8%b1%d8%b5%d9%8a%d9%81-%d8%a7%d9%84%d8%b5%d8%ad%d8%a7%d9%81%d8%a9-%d8%a7%d9%84%d8%aa%d8%ad%d9%82%d9%8a%d9%82-%d9%85%d8%b9-20-%d8%af%d8%b1%d9%83%d9%8a%d8%a7-%d9%81%d9%8a-%d9%85%d9%82%d8%aa%d9%84-1821494.html",
+       "source": "Hespress",
+       "published_at": "2026-10-11 21:54"
+      },
+      {
+       "title": "مقتل يابانية يؤجج الغضب ضد الوجود العسكري الأمريكي في أوكيناوا",
+       "url": "https://www.hespress.com/%d9%85%d9%82%d8%aa%d9%84-%d9%8a%d8%a7%d8%a8%d8%a7%d9%86%d9%8a%d8%a9-%d9%8a%d8%a4%d8%ac%d8%ac-%d8%a7%d9%84%d8%ba%d8%b6%d8%a8-%d8%b6%d8%af-%d8%a7%d9%84%d9%88%d8%ac%d9%88%d8%af-%d8%a7%d9%84%d8%b9%d8%b3-1821457.html",
+       "source": "Hespress",
+       "published_at": "2026-10-11 21:21"
+      }
+     ]
+    },
+    {
+     "label": "Pourquoi · Maroc",
      "articles": [
       {
        "title": "Sahara : ce que propose de Mistura, et pourquoi le Maroc reste maître du jeu",
@@ -307,58 +324,46 @@
      "label": "More headlines",
      "articles": [
       {
-       "title": "أمريكا تحقق مع خمس شبكات إعلامية",
-       "url": "https://www.hespress.com/%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d8%a7-%d8%aa%d8%ad%d9%82%d9%82-%d9%85%d8%b9-%d8%ae%d9%85%d8%b3-%d8%b4%d8%a8%d9%83%d8%a7%d8%aa-%d8%a5%d8%b9%d9%84%d8%a7%d9%85%d9%8a%d8%a9-1821094.html",
+       "title": "التعادل ينهي لقاء الوداد والنادي المكناسي",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%aa%d8%b9%d8%a7%d8%af%d9%84-%d9%8a%d9%86%d9%87%d9%8a-%d9%84%d9%82%d8%a7%d8%a1-%d8%a7%d9%84%d9%88%d8%af%d8%a7%d8%af-%d9%88%d8%a7%d9%84%d9%86%d8%a7%d8%af%d9%8a-%d8%a7%d9%84%d9%85%d9%83-1821511.html",
        "source": "Hespress",
-       "published_at": "2026-10-11 18:15"
+       "published_at": "2026-10-11 22:03"
       },
       {
-       "title": "درك أسفي يحبط عملية لتهريب المخدرات",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%af%d8%b1%d9%83-%d9%8a%d8%ad%d8%a8%d8%b7-%d8%aa%d9%87%d8%b1%d9%8a%d8%a8-%d8%a7%d9%84%d9%85%d8%ae%d8%af%d8%b1%d8%a7%d8%aa-%d8%a8%d8%a3%d8%b3%d9%81%d9%8a-1821232.html",
+       "title": "عموتة ينوه بلاعبي الأهلي أمام الزمالك",
+       "url": "https://www.hespress.com/%d8%b9%d9%85%d9%88%d8%aa%d8%a9-%d9%8a%d9%86%d9%88%d9%87-%d8%a8%d9%84%d8%a7%d8%b9%d8%a8%d9%8a-%d8%a7%d9%84%d8%a3%d9%87%d9%84%d9%8a-%d8%a3%d9%85%d8%a7%d9%85-%d8%a7%d9%84%d8%b2%d9%85%d8%a7%d9%84%d9%83-1821303.html",
        "source": "Hespress",
-       "published_at": "2026-10-11 17:48"
+       "published_at": "2026-10-11 21:54"
       },
       {
-       "title": "لولا سيلفا يتهم \"ميتا\" بالتدخل الانتخابي",
-       "url": "https://www.hespress.com/%d9%84%d9%88%d9%84%d8%a7-%d8%b3%d9%8a%d9%84%d9%81%d8%a7-%d9%8a%d8%aa%d9%87%d9%85-%d9%85%d9%8a%d8%aa%d8%a7-%d8%a8%d8%a7%d9%84%d8%aa%d8%af%d8%ae%d9%84-%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7-1821206.html",
+       "title": "ملفات عالقة تنتظر وزير الفلاحة الجديد",
+       "url": "https://www.hespress.com/%d9%85%d9%84%d9%81%d8%a7%d8%aa-%d8%b9%d8%a7%d9%84%d9%82%d8%a9-%d8%aa%d9%86%d8%aa%d8%b8%d8%b1-%d9%88%d8%b2%d9%8a%d8%b1-%d8%a7%d9%84%d9%81%d9%84%d8%a7%d8%ad%d8%a9-%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af-1821139.html",
        "source": "Hespress",
-       "published_at": "2026-10-11 16:50"
+       "published_at": "2026-10-11 21:19"
       },
       {
-       "title": "جنرال أمريكي: المغرب مصدر للأمن",
-       "url": "https://www.hespress.com/%d8%ac%d9%86%d8%b1%d8%a7%d9%84-%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d9%8a-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d9%85%d8%b5%d8%af%d8%b1-%d9%84%d9%84%d8%a3%d9%85%d9%86-1821296.html",
+       "title": "لوكهيد مارتن بمعرض مراكش",
+       "url": "https://www.hespress.com/%d9%84%d9%88%d9%83%d9%87%d9%8a%d8%af-%d9%85%d8%a7%d8%b1%d8%aa%d9%86-%d8%a8%d9%85%d8%b9%d8%b1%d8%b6-%d9%85%d8%b1%d8%a7%d9%83%d8%b4-1821458.html",
        "source": "Hespress",
-       "published_at": "2026-10-11 16:47"
+       "published_at": "2026-10-11 20:51"
       },
       {
-       "title": "نبيلة جلال تقود المجموعة النيابية لليسار",
-       "url": "https://www.hespress.com/%d9%86%d8%a8%d9%8a%d9%84%d8%a9-%d8%ac%d9%84%d8%a7%d9%84-%d8%aa%d9%82%d9%88%d8%af-%d8%a7%d9%84%d9%85%d8%ac%d9%85%d9%88%d8%b9%d8%a9-%d8%a7%d9%84%d9%86%d9%8a%d8%a7%d8%a8%d9%8a%d8%a9-%d9%84%d9%84%d9%8a-1821280.html",
+       "title": "بيل غيتس يحذر من تصاعد الهجمات الإلكترونية باستخدام الذكاء الاصطناعي",
+       "url": "https://www.hespress.com/%d8%a8%d9%8a%d9%84-%d8%ba%d9%8a%d8%aa%d8%b3-%d9%8a%d8%ad%d8%b0%d8%b1-%d9%85%d9%86-%d8%aa%d8%b5%d8%a7%d8%b9%d8%af-%d8%a7%d9%84%d9%87%d8%ac%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d8%a5%d9%84%d9%83%d8%aa%d8%b1-1821445.html",
        "source": "Hespress",
-       "published_at": "2026-10-11 16:31"
+       "published_at": "2026-10-11 20:16"
       },
       {
-       "title": "إضراب المعلمين يشل المدارس بليبيا",
-       "url": "https://www.hespress.com/%d8%a5%d8%b6%d8%b1%d8%a7%d8%a8-%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%85%d9%8a%d9%86-%d9%8a%d8%b4%d9%84-%d8%a7%d9%84%d9%85%d8%af%d8%a7%d8%b1%d8%b3-%d8%a8%d9%84%d9%8a%d8%a8%d9%8a%d8%a7-1821191.html",
+       "title": "وزارة الثقافة تنعى عزيز السغروشني",
+       "url": "https://www.hespress.com/%d9%88%d8%b2%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d8%ab%d9%82%d8%a7%d9%81%d8%a9-%d8%aa%d9%86%d8%b9%d9%89-%d8%b9%d8%b2%d9%8a%d8%b2-%d8%a7%d9%84%d8%b3%d8%ba%d8%b1%d9%88%d8%b4%d9%86%d9%8a-1821324.html",
        "source": "Hespress",
-       "published_at": "2026-10-11 16:03"
+       "published_at": "2026-10-11 20:08"
       },
       {
-       "title": "بعد اصطفاف \"الحصان\" خارج الحكومة.. أوزين ينتظر عرض المنصوري",
-       "url": "https://www.hespress.com/%d8%a3%d9%88%d8%b2%d9%8a%d9%86-%d9%85%d8%b5%d9%8a%d8%b1-%d9%85%d8%b4%d8%a7%d8%b1%d9%83%d8%a9-%d8%a7%d9%84%d8%b3%d9%86%d8%a8%d9%84%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d8%a9-1821268.html",
+       "title": "فاتح جمادى الأولى يوم الثلاثاء بالمغرب",
+       "url": "https://www.hespress.com/%d9%81%d8%a7%d8%aa%d8%ad-%d8%ac%d9%85%d8%a7%d8%af%d9%89-%d8%a7%d9%84%d8%a3%d9%88%d9%84%d9%89-%d9%8a%d9%88%d9%85-%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1-%d8%a8%d8%a7%d9%84%d9%85%d8%ba%d8%b1-1821438.html",
        "source": "Hespress",
-       "published_at": "2026-10-11 16:00"
-      },
-      {
-       "title": "نتنياهو يعزي السعودية ويدين الإرهاب",
-       "url": "https://www.hespress.com/%d9%86%d8%aa%d9%86%d9%8a%d8%a7%d9%87%d9%88-%d9%8a%d8%b9%d8%b2%d9%8a-%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9-%d9%88%d9%8a%d8%af%d9%8a%d9%86-%d8%a7%d9%84%d8%a5%d8%b1%d9%87%d8%a7%d8%a8-1821241.html",
-       "source": "Hespress",
-       "published_at": "2026-10-11 15:30"
-      },
-      {
-       "title": "مبادرة ساكنة لفك العزلة",
-       "url": "https://www.hespress.com/%d9%85%d8%a8%d8%a7%d8%af%d8%b1%d8%a9-%d8%b3%d8%a7%d9%83%d9%86%d8%a9-%d9%84%d9%81%d9%83-%d8%a7%d9%84%d8%b9%d8%b2%d9%84%d8%a9-1821247.html",
-       "source": "Hespress",
-       "published_at": "2026-10-11 15:06"
+       "published_at": "2026-10-11 19:49"
       },
       {
        "title": "Pour toujours",
@@ -384,48 +389,14 @@
    "note": null,
    "clusters": [
     {
-     "label": "Premier · Aanslag",
+     "label": "",
      "articles": [
       {
-       "title": "Live Premier League | Anfield stroomt leeg na afstraffing Liverpool tegen City",
-       "url": "https://www.nu.nl/voetbal/6412807/live-premier-league-anfield-stroomt-leeg-na-afstraffing-liverpool-tegen-city.html",
-       "source": "NU.nl",
-       "published_at": "2026-10-11 15:10"
-      },
-      {
-       "title": "Man die verdacht wordt van plannen aanslag op Poolse premier aangehouden",
-       "url": "https://www.nu.nl/buitenland/6412800/man-die-verdacht-wordt-van-plannen-aanslag-op-poolse-premier-aangehouden.html",
-       "source": "NU.nl",
-       "published_at": "2026-10-11 13:49"
-      },
-      {
-       "title": "Man opgepakt voor beramen aanslag op Poolse premier Tusk",
-       "url": "https://www.telegraaf.nl/buitenland/man-opgepakt-voor-beramen-aanslag-op-poolse-premier-tusk/162906791.html",
+       "title": "LIVE | Zelenski: Rusland valt energiecentrale aan na aankondiging Trump",
+       "url": "https://www.telegraaf.nl/buitenland/live-zelenski-rusland-valt-energiecentrale-aan-na-aankondiging-trump/162889655.html",
        "source": "de Telegraaf",
-       "published_at": "2026-10-11 13:29"
-      }
-     ]
-    },
-    {
-     "label": "Oekraïne",
-     "articles": [
-      {
-       "title": "LIVE | Trump kondigt ’energiebestand’ tussen Oekraïne en Rusland aan, Zelenski weet van niks",
-       "url": "https://www.telegraaf.nl/buitenland/live-trump-kondigt-energiebestand-tussen-oekrane-en-rusland-aan-zelenski-weet-van-niks/162889655.html",
-       "source": "de Telegraaf",
-       "published_at": "2026-10-11 16:02"
+       "published_at": "2026-10-11 18:25"
       },
-      {
-       "title": "Defensie-expert Ko Colijn over oorlogskoorts en risico op escalatie in Oekraïne",
-       "url": "https://www.nu.nl/spanningen-oekraine/6412540/defensie-expert-ko-colijn-over-oorlogskoorts-en-risico-op-escalatie-in-oekraine.html",
-       "source": "NU.nl",
-       "published_at": "2026-10-11 13:02"
-      }
-     ]
-    },
-    {
-     "label": "More headlines",
-     "articles": [
       {
        "title": "Energieagentschap roept landen op te kijken naar vrijgeven extra diesel",
        "url": "https://www.nu.nl/economie/6412806/energieagentschap-roept-landen-op-te-kijken-naar-vrijgeven-extra-diesel.html",
@@ -435,7 +406,7 @@
      ]
     }
    ],
-   "count": 6
+   "count": 2
   },
   {
    "key": "mideast",
@@ -444,71 +415,71 @@
    "note": null,
    "clusters": [
     {
-     "label": "Airport · Riyadh",
+     "label": "Ceasefire · Energy",
      "articles": [
       {
-       "title": "Middle East crisis: Riyadh airport hit again as Houthis claim attacks, including strike that killed 12 – as it happened",
-       "url": "https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates",
-       "source": "Guardian World",
-       "published_at": "2026-10-11 18:03"
-      },
-      {
-       "title": "Riyadh airport hit again after deadly Houthi missile attack, Saudi authorities say",
-       "url": "https://www.theguardian.com/world/2026/oct/11/saudi-coalition-retaliation-houthi-attack-riyadh-airport",
-       "source": "Guardian World",
-       "published_at": "2026-10-11 16:49"
-      },
-      {
-       "title": "Saudi capital airport hit by second Houthi strike in two days",
-       "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
+       "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+       "url": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
        "source": "BBC World",
-       "published_at": "2026-10-11 16:41"
+       "published_at": "2026-10-11 21:36"
       },
       {
-       "title": "Houthi attack on Riyadh airport forces swift rethink of Trump’s new strategy",
-       "url": "https://www.theguardian.com/world/2026/oct/11/houthi-attack-riyadh-airport-donald-trump-strategy",
-       "source": "Guardian World",
-       "published_at": "2026-10-11 13:23"
-      }
-     ]
-    },
-    {
-     "label": "Trump · Ukraine",
-     "articles": [
+       "title": "Watch: What's behind Trump's energy ceasefire claim?",
+       "url": "https://www.bbc.co.uk/news/videos/cwvgde9vrdd9o?at_medium=RSS&at_campaign=rss",
+       "source": "BBC World",
+       "published_at": "2026-10-11 20:55"
+      },
+      {
+       "title": "Zelenskyy welcomes US-announced energy ceasefire",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/zelenskyy-welcomes-us-announced-energy-ceasefire?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-10-11 20:28"
+      },
       {
        "title": "Zelenskyy signals surprise at Trump claim of Russia-Ukraine ‘energy ceasefire’ but would back it if Moscow does – live updates",
        "url": "https://www.theguardian.com/us-news/live/2026/oct/11/donald-trump-ukraine-russia-energy-ceasefire-diesel-latest-updates",
        "source": "Guardian World",
-       "published_at": "2026-10-11 18:02"
+       "published_at": "2026-10-11 18:36"
       },
       {
        "title": "Trump announces partial ceasefire in Ukraine war as Zelenskyy says deal is ‘news to me’",
        "url": "https://www.theguardian.com/world/2026/oct/11/zelenskyy-trump-ukraine-russia-energy-ceasefire",
        "source": "Guardian World",
        "published_at": "2026-10-11 17:21"
-      },
-      {
-       "title": "Trump says Ukraine and Russia agree to ‘energy ceasefire’",
-       "url": "https://www.aljazeera.com/news/2026/10/11/trump-says-ukraine-russia-agree-to-energy-ceasefire-2?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-10-11 15:10"
       }
      ]
     },
     {
-     "label": "War",
+     "label": "Strike · Airport",
      "articles": [
       {
-       "title": "Is the Yemen war entering a new phase?",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/is-the-yemen-war-entering-a-new-phase?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-10-11 17:30"
+       "title": "Saudi capital airport hit by second Houthi strike in two days",
+       "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
+       "source": "BBC World",
+       "published_at": "2026-10-11 21:30"
       },
       {
-       "title": "Hormuz attacks intensify as efforts to end war on Iran stall",
-       "url": "https://www.aljazeera.com/news/2026/10/11/hormuz-attacks-intensify-as-efforts-to-end-war-on-iran-stall?traffic_source=rss",
+       "title": "Middle East crisis: Riyadh airport hit again as Houthis claim attacks, including strike that killed 12 – as it happened",
+       "url": "https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates",
+       "source": "Guardian World",
+       "published_at": "2026-10-11 18:03"
+      }
+     ]
+    },
+    {
+     "label": "Israeli",
+     "articles": [
+      {
+       "title": "Two killed near Israeli-occupied area in south Lebanon",
+       "url": "https://www.aljazeera.com/news/2026/10/11/two-killed-near-israeli-occupied-area-in-south-lebanon?traffic_source=rss",
        "source": "Al Jazeera",
-       "published_at": "2026-10-11 14:04"
+       "published_at": "2026-10-11 20:46"
+      },
+      {
+       "title": "Jerusalem Daily: Panicked Palestinians flee Israeli attacks on Gaza",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/jerusalem-daily-panicked-palestinians-flee-israeli-attacks-on-gaza?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-10-11 18:25"
       }
      ]
     },
@@ -516,22 +487,22 @@
      "label": "More headlines",
      "articles": [
       {
-       "title": "Israel pushes its ‘Yellow Line’ deeper into Gaza",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/israel-pushes-its-yellow-line-deeper-into-gaza?traffic_source=rss",
+       "title": "Syrian families demand release of detainees held by Israel",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/syrian-families-demand-release-of-detainees-held-by-israel?traffic_source=rss",
        "source": "Al Jazeera",
-       "published_at": "2026-10-11 17:14"
+       "published_at": "2026-10-11 20:24"
       },
       {
-       "title": "Why are Houthi missiles breaking through Saudi Arabia’s air defences?",
-       "url": "https://www.aljazeera.com/news/2026/10/11/why-are-houthi-missiles-breaking-through-saudi-arabias-air-defences?traffic_source=rss",
+       "title": "Lebanon’s first electric train hopes to revive railway system",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/lebanons-first-electric-train-hopes-to-revive-railway-system?traffic_source=rss",
        "source": "Al Jazeera",
-       "published_at": "2026-10-11 14:25"
+       "published_at": "2026-10-11 18:00"
       },
       {
-       "title": "Creating a ghost town: Lives in limbo behind Israeli gates and checkpoints",
-       "url": "https://www.aljazeera.com/features/2026/10/11/creating-a-ghost-town-lives-in-limbo-behind-israeli-gates-and-checkpoints?traffic_source=rss",
+       "title": "Is the Yemen war entering a new phase?",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/is-the-yemen-war-entering-a-new-phase?traffic_source=rss",
        "source": "Al Jazeera",
-       "published_at": "2026-10-11 13:41"
+       "published_at": "2026-10-11 17:30"
       }
      ]
     }
@@ -545,66 +516,77 @@
    "note": null,
    "clusters": [
     {
-     "label": "Trump · Ceasefire",
+     "label": "Trump · Russia",
      "articles": [
+      {
+       "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+       "url": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
+       "source": "BBC World",
+       "published_at": "2026-10-11 21:36"
+      },
+      {
+       "title": "Republican senator says Trump diesel agreement with Russia may be illegal",
+       "url": "https://www.aljazeera.com/news/2026/10/11/republican-senator-says-trump-diesel-agreement-with-russia-may-be-illegal?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-10-11 19:19"
+      },
       {
        "title": "Zelenskyy signals surprise at Trump claim of Russia-Ukraine ‘energy ceasefire’ but would back it if Moscow does – live updates",
        "url": "https://www.theguardian.com/us-news/live/2026/oct/11/donald-trump-ukraine-russia-energy-ceasefire-diesel-latest-updates",
        "source": "Guardian World",
-       "published_at": "2026-10-11 18:02"
+       "published_at": "2026-10-11 18:36"
+      },
+      {
+       "title": "'To keep oil prices from rising' — Russian lawmaker questions Trump’s energy ceasefire claim",
+       "url": "https://kyivindependent.com/to-keep-oil-prices-from-rising-russian-lawmaker-questions-trumps-energy-ceasefire-claim/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-10-11 18:35"
       },
       {
        "title": "Russia struck Kharkiv's power plant shortly after Trump announced 'energy ceasefire'",
        "url": "https://kyivindependent.com/russia-struck-kharkivs-power-plant-shortly-after-trump-announced-energy-ceasefire/",
        "source": "Kyiv Independent",
        "published_at": "2026-10-11 17:21"
+      }
+     ]
+    },
+    {
+     "label": "Energy · Ceasefire",
+     "articles": [
+      {
+       "title": "Zelenskyy welcomes US-announced energy ceasefire",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/zelenskyy-welcomes-us-announced-energy-ceasefire?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-10-11 20:28"
       },
       {
-       "title": "Trump announces partial ceasefire in Ukraine war as Zelenskyy says deal is ‘news to me’",
-       "url": "https://www.theguardian.com/world/2026/oct/11/zelenskyy-trump-ukraine-russia-energy-ceasefire",
-       "source": "Guardian World",
-       "published_at": "2026-10-11 17:21"
+       "title": "US threatens to halt weapons procurement for Ukraine over strikes on Russian energy sites, FT reports",
+       "url": "https://kyivindependent.com/us-threatens-to-halt-weapons-procurement-for-ukraine-over-strikes-on-russian-energy-sites-ft-reports/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-10-11 19:57"
       },
       {
        "title": "Ukraine war latest: Russia pounds Kyiv's energy infrastructure as Trump’s energy ceasefire claim catches Ukraine off guard",
        "url": "https://kyivindependent.com/ukraine-war-latest-russia-pounds-kyivs-energy-infrastructure-as-trumps-energy-ceasefire-claim-catches-ukraine-off-guard/",
        "source": "Kyiv Independent",
        "published_at": "2026-10-11 17:02"
-      },
-      {
-       "title": "Trump’s deal with Putin will have little impact on US diesel prices, experts say",
-       "url": "https://www.theguardian.com/us-news/2026/oct/11/trump-russia-diesel-deal-putin-little-impact-prices",
-       "source": "Guardian World",
-       "published_at": "2026-10-11 15:56"
       }
      ]
     },
     {
-     "label": "Ceasefire · Trump",
+     "label": "Ukraine",
      "articles": [
       {
-       "title": "Russia besieges Kyiv's energy infrastructure as Trump calls for an energy ceasefire",
-       "url": "https://kyivindependent.com/russia-besieges-kyivs-energy-infrastructure-despite-trumps-call-for-an-energy-ceasefire/",
+       "title": "EU to provide Ukraine with 3 billion euro tranche of military funding this week",
+       "url": "https://kyivindependent.com/eu-to-provide-ukraine-with-3-billion-euro-tranche-of-military-funding-this-week/",
        "source": "Kyiv Independent",
-       "published_at": "2026-10-11 15:41"
+       "published_at": "2026-10-11 22:16"
       },
       {
-       "title": "Trump says Ukraine and Russia agree to ‘energy ceasefire’",
-       "url": "https://www.aljazeera.com/news/2026/10/11/trump-says-ukraine-russia-agree-to-energy-ceasefire-2?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-10-11 15:10"
-      },
-      {
-       "title": "Trump's Russia-Ukraine energy ceasefire claim is news to Kyiv",
-       "url": "https://kyivindependent.com/trump-claims-ukraine-russia-agreed-to-energy-ceasefire-kyiv-has-no-information-about-it/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-10-11 14:46"
-      },
-      {
-       "title": "Zelensky says if Trump, Putin want elections in Ukraine, a two-month ceasefire is needed",
-       "url": "https://kyivindependent.com/zelensky-says-if-trump-putin-want-elections-in-ukraine-a-two-month-ceasefire-is-needed/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-10-11 14:24"
+       "title": "Trump announces partial ceasefire in Ukraine war as Zelenskyy says deal is ‘news to me’",
+       "url": "https://www.theguardian.com/world/2026/oct/11/zelenskyy-trump-ukraine-russia-energy-ceasefire",
+       "source": "Guardian World",
+       "published_at": "2026-10-11 17:21"
       }
      ]
     },
@@ -612,22 +594,16 @@
      "label": "More headlines",
      "articles": [
       {
-       "title": "Andy Burnham says it is clear Russia interfered in Brexit referendum",
-       "url": "https://www.theguardian.com/politics/2026/oct/11/andy-burnham-russia-interfered-brexit-vote",
+       "title": "Russian drone strike kills 3 service members in Ivano-Frankivsk, wounds 3 others",
+       "url": "https://kyivindependent.com/russian-drone-strike-kills-3-service-members-in-ivano-frankivsk-wounds-3-others/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-10-11 20:40"
+      },
+      {
+       "title": "Trump’s deal with Putin will have little impact on US diesel prices, experts say",
+       "url": "https://www.theguardian.com/us-news/2026/oct/11/trump-russia-diesel-deal-putin-little-impact-prices",
        "source": "Guardian World",
-       "published_at": "2026-10-11 15:33"
-      },
-      {
-       "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
-       "url": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
-       "source": "BBC World",
-       "published_at": "2026-10-11 14:38"
-      },
-      {
-       "title": "Oval Office spat to public rebukes: A timeline of Trump-Zelenskyy ties",
-       "url": "https://www.aljazeera.com/news/2026/10/11/oval-office-spat-to-public-rebukes-a-timeline-of-trump-zelenskyy-ties?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-10-11 14:34"
+       "published_at": "2026-10-11 15:56"
       }
      ]
     }
