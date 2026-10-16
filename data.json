@@ -1,12 +1,12 @@
 {
  "date": "Friday 16 October 2026",
- "generated_at": "00:37 UTC",
+ "generated_at": "05:38 UTC",
  "error": null,
- "total_stories": 74,
+ "total_stories": 73,
  "fx": {
   "pair": "EUR/MAD",
   "rate": 10.972,
-  "change_pct": -0.24
+  "change_pct": 0.0
  },
  "lanes": [
   {
@@ -16,8 +16,14 @@
    "note": null,
    "clusters": [
     {
-     "label": "Qwen · Next",
+     "label": "Qwen · Turbo",
      "articles": [
+      {
+       "title": "ALoDLM 8b looped diffusion language model: ~3x inference speed vs its base model qwen3-8b with better benchmark results",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x75bme/alodlm_8b_looped_diffusion_language_model_3x/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-10-16 03:09"
+      },
       {
        "title": "Ternary Bonsai 2 Family: 2B, 4B, & 9B based on Qwen 3.5",
        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6yk1f/ternary_bonsai_2_family_2b_4b_9b_based_on_qwen_35/",
@@ -31,19 +37,13 @@
        "published_at": "2026-10-15 20:20"
       },
       {
-       "title": "FP4 QAD quant of Qwen3.8-Flash-Next from Nvidia",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6vqft/fp4_qad_quant_of_qwen38flashnext_from_nvidia/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-10-15 19:52"
-      },
-      {
-       "title": "AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF · 490 ♥",
+       "title": "AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF · 501 ♥",
        "url": "https://huggingface.co/AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF",
        "source": "HF new models",
        "published_at": "2026-10-09 16:30"
       },
       {
-       "title": "Qwen/Qwen-Image-2.1-Turbo · 877 ♥",
+       "title": "Qwen/Qwen-Image-2.1-Turbo · 893 ♥",
        "url": "https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo",
        "source": "HF new models",
        "published_at": "2026-10-09 04:50"
@@ -105,46 +105,46 @@
      "label": "More headlines",
      "articles": [
       {
+       "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+       "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+       "source": "HuggingFace",
+       "published_at": "2026-10-16 01:44"
+      },
+      {
+       "title": "Craziest, strangest, funniest, and weirdest LLM fine tunes?",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6yuc1/craziest_strangest_funniest_and_weirdest_llm_fine/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-10-15 21:58"
+      },
+      {
        "title": "Trump posts AI-edited photo to brag about White House restoration work",
        "url": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
        "source": "Verge AI",
        "published_at": "2026-10-15 21:09"
       },
       {
-       "title": "I turned a transformer into a game console that runs Pong, Tetris, Space Invaders and 116 more games.",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6uaav/i_turned_a_transformer_into_a_game_console_that/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-10-15 18:57"
+       "title": "black-forest-labs/flux-3-image-klein · 275 ♥",
+       "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein",
+       "source": "HF new models",
+       "published_at": "2026-10-13 10:58"
       },
       {
-       "title": "128GB RTX Spark laptop for $3832.",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6trqq/128gb_rtx_spark_laptop_for_3832/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-10-15 18:38"
-      },
-      {
-       "title": "LiquidAI/LFM2.5-24B-A2B · 390 ♥",
+       "title": "LiquidAI/LFM2.5-24B-A2B · 393 ♥",
        "url": "https://huggingface.co/LiquidAI/LFM2.5-24B-A2B",
        "source": "HF new models",
        "published_at": "2026-10-12 05:35"
       },
       {
-       "title": "ConwayResearch/Underdog-Saluki-27B-1.0 · 497 ♥",
+       "title": "ConwayResearch/Underdog-Saluki-27B-1.0 · 501 ♥",
        "url": "https://huggingface.co/ConwayResearch/Underdog-Saluki-27B-1.0",
        "source": "HF new models",
        "published_at": "2026-10-08 01:47"
       },
       {
-       "title": "openbmb/MiniCPM-V-4.7-35B-A3B · 793 ♥",
+       "title": "openbmb/MiniCPM-V-4.7-35B-A3B · 803 ♥",
        "url": "https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B",
        "source": "HF new models",
        "published_at": "2026-10-07 07:07"
-      },
-      {
-       "title": "openbmb/MiniCPM-V-4.7-1B · 360 ♥",
-       "url": "https://huggingface.co/openbmb/MiniCPM-V-4.7-1B",
-       "source": "HF new models",
-       "published_at": "2026-10-06 17:40"
       }
      ]
     }
@@ -237,36 +237,19 @@
    "note": null,
    "clusters": [
     {
-     "label": "ملف · حامي",
+     "label": "مغربي",
      "articles": [
       {
-       "title": "جلسة ماراطونية في ملف حامي الدين",
-       "url": "https://www.hespress.com/%d8%ac%d9%84%d8%b3%d8%a9-%d9%85%d8%a7%d8%b1%d8%a7%d8%b7%d9%88%d9%86%d9%8a%d8%a9-%d9%81%d9%8a-%d9%85%d9%84%d9%81-%d8%ad%d8%a7%d9%85%d9%8a-%d8%a7%d9%84%d8%af%d9%8a%d9%86-1823523.html",
+       "title": "2.3 ملايين مغربي يعانون نقص التغذية",
+       "url": "https://www.hespress.com/2-3-%d9%85%d9%84%d8%a7%d9%8a%d9%8a%d9%86-%d9%85%d8%ba%d8%b1%d8%a8%d9%8a-%d9%8a%d8%b9%d8%a7%d9%86%d9%88%d9%86-%d9%86%d9%82%d8%b5-%d8%a7%d9%84%d8%aa%d8%ba%d8%b0%d9%8a%d8%a9-1823166.html",
        "source": "Hespress",
-       "published_at": "2026-10-16 00:10"
+       "published_at": "2026-10-16 05:30"
       },
       {
-       "title": "جنايات فاس ترجئ ملف حامي الدين",
-       "url": "https://www.hespress.com/%d8%ac%d9%86%d8%a7%d9%8a%d8%a7%d8%aa-%d9%81%d8%a7%d8%b3-%d8%aa%d8%b1%d8%ac%d8%a6-%d9%85%d9%84%d9%81-%d8%ad%d8%a7%d9%85%d9%8a-%d8%a7%d9%84%d8%af%d9%8a%d9%86-1823517.html",
+       "title": "\"جمال الخيول العربية\".. تميّز إماراتي عماني وحضور مغربي بالفحول",
+       "url": "https://www.hespress.com/%d8%ac%d9%85%d8%a7%d9%84-%d8%a7%d9%84%d8%ae%d9%8a%d9%88%d9%84-%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d8%a9-%d8%aa%d9%85%d9%8a%d9%91%d8%b2-%d8%a5%d9%85%d8%a7%d8%b1%d8%a7%d8%aa%d9%8a-%d8%b9%d9%85-1823526.html",
        "source": "Hespress",
-       "published_at": "2026-10-15 23:05"
-      }
-     ]
-    },
-    {
-     "label": "الفرس · معرض",
-     "articles": [
-      {
-       "title": "معرض الفرس بالجديدة يكرّم فائزين في \"السرج\" و\"لمكحلة\" و\"الخرقة\"",
-       "url": "https://www.hespress.com/%d9%85%d8%b9%d8%b1%d8%b6-%d8%a7%d9%84%d9%81%d8%b1%d8%b3-%d8%a8%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d9%8a%d9%83%d8%b1%d9%91%d9%85-%d8%b5%d9%86%d8%a7%d8%b9%d8%a7-%d9%81%d8%a7%d8%a6%d8%b2%d9%8a-1823461.html",
-       "source": "Hespress",
-       "published_at": "2026-10-15 23:00"
-      },
-      {
-       "title": "صناع يتألقون في معرض الفرس",
-       "url": "https://www.hespress.com/%d8%b5%d9%86%d8%a7%d8%b9-%d9%8a%d8%aa%d8%a3%d9%84%d9%82%d9%88%d9%86-%d9%81%d9%8a-%d9%85%d8%b9%d8%b1%d8%b6-%d8%a7%d9%84%d9%81%d8%b1%d8%b3-1823498.html",
-       "source": "Hespress",
-       "published_at": "2026-10-15 22:37"
+       "published_at": "2026-10-16 02:00"
       }
      ]
     },
@@ -291,52 +274,64 @@
      "label": "More headlines",
      "articles": [
       {
-       "title": "رحلات جديدة تربط البيضاء بالصويرة",
-       "url": "https://www.hespress.com/%d8%b1%d8%ad%d9%84%d8%a7%d8%aa-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d8%aa%d8%b1%d8%a8%d8%b7-%d8%a7%d9%84%d8%a8%d9%8a%d8%b6%d8%a7%d8%a1-%d8%a8%d8%a7%d9%84%d8%b5%d9%88%d9%8a%d8%b1%d8%a9-1823305.html",
+       "title": "اجتماعات لترحيل \"كاريان الرحامنة\".. التعويض يؤرق قاطني \"البراريك\"",
+       "url": "https://www.hespress.com/%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d8%a7%d8%aa-%d9%84%d8%aa%d8%b1%d8%ad%d9%8a%d9%84-%d9%83%d8%a7%d8%b1%d9%8a%d8%a7%d9%86-%d8%a7%d9%84%d8%b1%d8%ad%d8%a7%d9%85%d9%86%d8%a9-%d8%a7%d9%84%d8%aa-1823439.html",
+       "source": "Hespress",
+       "published_at": "2026-10-16 05:00"
+      },
+      {
+       "title": "نقابة تطالب باسترجاع سبتة ومليلية",
+       "url": "https://www.hespress.com/%d9%86%d9%82%d8%a7%d8%a8%d8%a9-%d8%aa%d8%b7%d8%a7%d9%84%d8%a8-%d8%a8%d8%a7%d8%b3%d8%aa%d8%b1%d8%ac%d8%a7%d8%b9-%d8%b3%d8%a8%d8%aa%d8%a9-%d9%88%d9%85%d9%84%d9%8a%d9%84%d9%8a%d8%a9-1823286.html",
+       "source": "Hespress",
+       "published_at": "2026-10-16 04:33"
+      },
+      {
+       "title": "وقف صادرات الطماطم المغربية يشعل الأسعار في الأسواق الموريتانية",
+       "url": "https://www.hespress.com/%d9%88%d9%82%d9%81-%d8%b5%d8%a7%d8%af%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d8%b7%d9%85%d8%a7%d8%b7%d9%85-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8%d9%8a%d8%a9-%d9%8a%d8%b4%d8%b9%d9%84-%d8%a7%d9%84%d8%a3%d8%b3-1823216.html",
+       "source": "Hespress",
+       "published_at": "2026-10-16 04:00"
+      },
+      {
+       "title": "السلطاني يستعيد زمن العرائش الجميل",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%b3%d9%84%d8%b7%d8%a7%d9%86%d9%8a-%d9%8a%d8%b3%d8%aa%d8%b9%d9%8a%d8%af-%d8%b2%d9%85%d9%86-%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d8%a6%d8%b4-%d8%a7%d9%84%d8%ac%d9%85%d9%8a%d9%84-1823241.html",
+       "source": "Hespress",
+       "published_at": "2026-10-16 03:26"
+      },
+      {
+       "title": "مطالب نقابية بوكالة للنقل المدرسي لتجاوز \"اختلالات\" تدبير الجمعيات",
+       "url": "https://www.hespress.com/%d9%85%d8%b7%d8%a7%d9%84%d8%a8-%d9%86%d9%82%d8%a7%d8%a8%d9%8a%d8%a9-%d8%a8%d9%88%d9%83%d8%a7%d9%84%d8%a9-%d9%84%d9%84%d9%86%d9%82%d9%84-%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%8a-%d9%84%d8%aa%d8%ac-1821837.html",
+       "source": "Hespress",
+       "published_at": "2026-10-16 03:00"
+      },
+      {
+       "title": "تحسن ضحايا \"حقن العيون\" بطنجة",
+       "url": "https://www.hespress.com/%d8%aa%d8%ad%d8%b3%d9%86-%d8%b6%d8%ad%d8%a7%d9%8a%d8%a7-%d8%ad%d9%82%d9%86-%d8%a7%d9%84%d8%b9%d9%8a%d9%88%d9%86-%d8%a8%d8%b7%d9%86%d8%ac%d8%a9-1823320.html",
+       "source": "Hespress",
+       "published_at": "2026-10-16 02:13"
+      },
+      {
+       "title": "البريد الإلكتروني يربك تحصيل الديون",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%a8%d8%b1%d9%8a%d8%af-%d8%a7%d9%84%d8%a5%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a-%d9%8a%d8%b1%d8%a8%d9%83-%d8%aa%d8%ad%d8%b5%d9%8a%d9%84-%d8%a7%d9%84%d8%af%d9%8a%d9%88%d9%86-1823263.html",
+       "source": "Hespress",
+       "published_at": "2026-10-16 01:12"
+      },
+      {
+       "title": "محمود درويش والانتماء للأرض يختمان \"الإحساس بالتاريخ\" بأكاديمية المملكة",
+       "url": "https://www.hespress.com/%d9%85%d8%ad%d9%85%d9%88%d8%af-%d8%af%d8%b1%d9%88%d9%8a%d8%b4-%d9%88%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d9%85%d8%a7%d8%a1-%d9%84%d9%84%d8%a3%d8%b1%d8%b6-%d9%8a%d8%ae%d8%aa%d9%85%d8%a7%d9%86-%d8%a7%d9%84-1823487.html",
+       "source": "Hespress",
+       "published_at": "2026-10-16 01:00"
+      },
+      {
+       "title": "جلسة ماراطونية في ملف حامي الدين",
+       "url": "https://www.hespress.com/%d8%ac%d9%84%d8%b3%d8%a9-%d9%85%d8%a7%d8%b1%d8%a7%d8%b7%d9%88%d9%86%d9%8a%d8%a9-%d9%81%d9%8a-%d9%85%d9%84%d9%81-%d8%ad%d8%a7%d9%85%d9%8a-%d8%a7%d9%84%d8%af%d9%8a%d9%86-1823523.html",
        "source": "Hespress",
        "published_at": "2026-10-16 00:10"
       },
       {
-       "title": "المغرب يتصدر قائمة موردي إسبانيا بالخضر والفواكه بـ982 مليون يورو",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d9%8a%d8%aa%d8%b5%d8%af%d8%b1-%d9%82%d8%a7%d8%a6%d9%85%d8%a9-%d9%85%d9%88%d8%b1%d8%af%d9%8a-%d8%a5%d8%b3%d8%a8%d8%a7%d9%86%d9%8a%d8%a7-%d8%a8%d8%a7%d9%84%d8%ae-1823288.html",
+       "title": "رحلات جديدة تربط البيضاء بالصويرة",
+       "url": "https://www.hespress.com/%d8%b1%d8%ad%d9%84%d8%a7%d8%aa-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d8%aa%d8%b1%d8%a8%d8%b7-%d8%a7%d9%84%d8%a8%d9%8a%d8%b6%d8%a7%d8%a1-%d8%a8%d8%a7%d9%84%d8%b5%d9%88%d9%8a%d8%b1%d8%a9-1823305.html",
        "source": "Hespress",
-       "published_at": "2026-10-16 00:00"
-      },
-      {
-       "title": "الديزل الروسي يدعم استقرار الأسواق",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%af%d9%8a%d8%b2%d9%84-%d8%a7%d9%84%d8%b1%d9%88%d8%b3%d9%8a-%d9%8a%d8%af%d8%b9%d9%85-%d8%a7%d8%b3%d8%aa%d9%82%d8%b1%d8%a7%d8%b1-%d8%a7%d9%84%d8%a3%d8%b3%d9%88%d8%a7%d9%82-1823240.html",
-       "source": "Hespress",
-       "published_at": "2026-10-15 23:29"
-      },
-      {
-       "title": "حكمتان مغربيتان بمونديال أقل من 17",
-       "url": "https://www.hespress.com/%d8%ad%d9%83%d9%85%d8%aa%d8%a7%d9%86-%d9%85%d8%ba%d8%b1%d8%a8%d9%8a%d8%aa%d8%a7%d9%86-%d8%a8%d9%85%d9%88%d9%86%d8%af%d9%8a%d8%a7%d9%84-%d8%a3%d9%82%d9%84-%d9%85%d9%86-17-1823423.html",
-       "source": "Hespress",
-       "published_at": "2026-10-15 23:09"
-      },
-      {
-       "title": "بولس وإيفانكو يتباحثان حول \"مينورسو\"",
-       "url": "https://www.hespress.com/%d8%a8%d9%88%d9%84%d8%b3-%d9%88%d8%a5%d9%8a%d9%81%d8%a7%d9%86%d9%83%d9%88-%d9%8a%d8%aa%d8%a8%d8%a7%d8%ad%d8%ab%d8%a7%d9%86-%d8%ad%d9%88%d9%84-%d9%85%d9%8a%d9%86%d9%88%d8%b1%d8%b3%d9%88-1823345.html",
-       "source": "Hespress",
-       "published_at": "2026-10-15 22:33"
-      },
-      {
-       "title": "إهانة موظفين تورط ذا سوابق بسلا",
-       "url": "https://www.hespress.com/%d8%a5%d9%87%d8%a7%d9%86%d8%a9-%d9%85%d9%88%d8%b8%d9%81%d9%8a%d9%86-%d8%aa%d9%88%d8%b1%d8%b7-%d8%b0%d8%a7-%d8%b3%d9%88%d8%a7%d8%a8%d9%82-%d8%a8%d8%b3%d9%84%d8%a7-1823400.html",
-       "source": "Hespress",
-       "published_at": "2026-10-15 22:03"
-      },
-      {
-       "title": "رصيف الصحافة: اضطرابات نفسية تنهي حياة أربعينية بمدينة مكناس",
-       "url": "https://www.hespress.com/%d8%b1%d8%b5%d9%8a%d9%81-%d8%a7%d9%84%d8%b5%d8%ad%d8%a7%d9%81%d8%a9-%d8%a7%d8%b6%d8%b7%d8%b1%d8%a7%d8%a8%d8%a7%d8%aa-%d9%86%d9%81%d8%b3%d9%8a%d8%a9-%d8%aa%d9%86%d9%87%d9%8a-%d8%ad%d9%8a%d8%a7%d8%a9-1823469.html",
-       "source": "Hespress",
-       "published_at": "2026-10-15 22:00"
-      },
-      {
-       "title": "قتلى في إطلاق نار بمدرسة أمريكية",
-       "url": "https://www.hespress.com/%d8%b6%d8%ad%d8%a7%d9%8a%d8%a7-%d9%81%d9%8a-%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d9%86%d8%a7%d8%b1-%d8%a8%d9%85%d8%af%d8%b1%d8%b3%d8%a9-%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d9%8a%d8%a9-1823456.html",
-       "source": "Hespress",
-       "published_at": "2026-10-15 21:37"
+       "published_at": "2026-10-16 00:10"
       },
       {
        "title": "Trafic de migrants et traite d'êtres humains : 1.597 réseaux criminels démantelés entre 2021 et 2025",
@@ -374,36 +369,35 @@
    "note": null,
    "clusters": [
     {
-     "label": "",
+     "label": "Gaan",
+     "articles": [
+      {
+       "title": "Steun voor hybride warmtepomp brokkelt af nu ook Pro zorgen heeft, minister dendert door: ’We gaan het wél doen’",
+       "url": "https://www.telegraaf.nl/politiek/steun-voor-hybride-warmtepomp-brokkelt-af-nu-ook-pro-zorgen-heeft-minister-dendert-door-we-gaan-het-wel-doen/163129785.html",
+       "source": "de Telegraaf",
+       "published_at": "2026-10-16 03:30"
+      },
+      {
+       "title": "Kabinet gaat 'pijnlijke keuze' bekendmaken: welke bouwprojecten gaan niet door?",
+       "url": "https://www.nu.nl/politiek/6413282/kabinet-gaat-pijnlijke-keuze-bekendmaken-welke-bouwprojecten-gaan-niet-door.html",
+       "source": "NU.nl",
+       "published_at": "2026-10-16 03:11"
+      }
+     ]
+    },
+    {
+     "label": "More headlines",
      "articles": [
       {
        "title": "SGP waarschuwt kabinet met motie van afkeuring om abortusbeleid",
        "url": "https://www.telegraaf.nl/politiek/sgp-waarschuwt-kabinet-met-motie-van-afkeuring-om-abortusbeleid/163139567.html",
        "source": "de Telegraaf",
        "published_at": "2026-10-15 18:13"
-      },
-      {
-       "title": "Column Han de Jong: met retro-modellen gaan Europese autobouwers de oorlog niet winnen",
-       "url": "https://www.telegraaf.nl/financieel/column-han-de-jong-met-retro-modellen-gaan-europese-autobouwers-de-oorlog-niet-winnen/163120846.html",
-       "source": "de Telegraaf",
-       "published_at": "2026-10-15 18:01"
-      },
-      {
-       "title": "Helen’s dagboek: ’Louise en James staken niet onder stoelen of banken dat ze blij waren met ons besluit’",
-       "url": "https://www.telegraaf.nl/vrouw/feuilletons/helens-dagboek-louise-en-james-staken-niet-onder-stoelen-of-banken-dat-ze-blij-waren-met-ons-besluit/162997046.html",
-       "source": "de Telegraaf",
-       "published_at": "2026-10-15 18:00"
-      },
-      {
-       "title": "Meerderheid voor zorgbegroting nog ver weg: uitstel verhoging eigen risico haalt angel er niet uit",
-       "url": "https://www.telegraaf.nl/politiek/meerderheid-voor-zorgbegroting-nog-ver-weg-uitstel-verhoging-eigen-risico-haalt-angel-er-niet-uit/163131322.html",
-       "source": "de Telegraaf",
-       "published_at": "2026-10-15 16:53"
       }
      ]
     }
    ],
-   "count": 4
+   "count": 3
   },
   {
    "key": "mideast",
@@ -412,37 +406,37 @@
    "note": null,
    "clusters": [
     {
-     "label": "Houthi · Palace",
+     "label": "Yemen",
      "articles": [
       {
-       "title": "Iran war live: Saudi blasts Houthi ‘war crimes’; US warns on Saudi airports",
-       "url": "https://www.aljazeera.com/news/liveblog/2026/10/16/iran-war-live-saudi-blasts-houthi-war-crimes-us-warns-on-saudi-airports?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-10-16 00:02"
+       "title": "Future of western security is at stake in Yemen civil war, says country’s former PM",
+       "url": "https://www.theguardian.com/world/2026/oct/16/future-western-security-at-stake-yemen-civil-war-former-pm",
+       "source": "Guardian World",
+       "published_at": "2026-10-16 04:00"
       },
       {
-       "title": "Houthi missile attack on Yemeni presidential palace kills five, minister says",
-       "url": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
-       "source": "BBC World",
-       "published_at": "2026-10-15 23:38"
-      },
-      {
-       "title": "Houthi missiles strike Saudi-led forces HQ at presidential palace in Aden",
+       "title": "Houthi missiles strike Yemen presidential palace, killing five",
        "url": "https://www.theguardian.com/world/2026/oct/15/houthi-missiles-strike-aden-yemen",
        "source": "Guardian World",
-       "published_at": "2026-10-15 20:00"
+       "published_at": "2026-10-16 00:27"
       },
       {
-       "title": "At least 5 killed in Houthi attack on Yemen’s presidential palace in Aden",
-       "url": "https://www.aljazeera.com/news/2026/10/15/houthis-target-yemens-presidential-palace-in-aden-with-missiles?traffic_source=rss",
+       "title": "Why are migrants risking their lives at sea to reach Yemen?",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/why-are-migrants-risking-their-lives-at-sea-to-reach-yemen?traffic_source=rss",
        "source": "Al Jazeera",
-       "published_at": "2026-10-15 16:50"
+       "published_at": "2026-10-15 20:13"
       }
      ]
     },
     {
-     "label": "Gaza · Israel",
+     "label": "Israel · Gaza",
      "articles": [
+      {
+       "title": "China tells Israel to stop ‘forced establishment’ of West Bank settlements",
+       "url": "https://www.aljazeera.com/news/2026/10/16/china-tells-israel-to-stop-forced-establishment-of-west-bank-settlements?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-10-16 02:56"
+      },
       {
        "title": "Israel halts commercial goods from entering Gaza; Hamas denies tax claims",
        "url": "https://www.aljazeera.com/news/2026/10/15/israel-halts-commercial-goods-from-entering-gaza-hamas-denies-tax-claims?traffic_source=rss",
@@ -450,16 +444,27 @@
        "published_at": "2026-10-15 21:57"
       },
       {
-       "title": "A mother’s touch helps premature babies grow strong in Gaza",
-       "url": "https://www.aljazeera.com/features/2026/10/15/a-mothers-touch-helps-premature-babies-grow-strong-in-gaza?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-10-15 17:43"
-      },
-      {
        "title": "Israel blocks construction of key Gaza base created by Trump peace board",
        "url": "https://www.theguardian.com/us-news/2026/oct/14/israel-trump-peace-board-gaza-base",
        "source": "Guardian World",
        "published_at": "2026-10-14 19:19"
+      }
+     ]
+    },
+    {
+     "label": "Trump",
+     "articles": [
+      {
+       "title": "Iran war live: Trump says ground troops unlikely in Iran; Saudi downs drone",
+       "url": "https://www.aljazeera.com/news/liveblog/2026/10/16/iran-war-live-saudi-blasts-houthi-war-crimes-us-warns-on-saudi-airports?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-10-16 00:02"
+      },
+      {
+       "title": "Russia and Ukraine trade strikes as Trump ‘energy ceasefire’ collapses",
+       "url": "https://www.theguardian.com/world/2026/oct/15/us-effort-to-get-russia-ukraine-energy-ceasefire-collapses",
+       "source": "Guardian World",
+       "published_at": "2026-10-15 23:57"
       }
      ]
     },
@@ -484,22 +489,16 @@
      "label": "More headlines",
      "articles": [
       {
-       "title": "Russia and Ukraine trade strikes as Trump ‘energy ceasefire’ collapses",
-       "url": "https://www.theguardian.com/world/2026/oct/15/us-effort-to-get-russia-ukraine-energy-ceasefire-collapses",
-       "source": "Guardian World",
-       "published_at": "2026-10-15 23:57"
+       "title": "Rubio presses Lebanon on confiscation of weapons from Hezbollah",
+       "url": "https://www.aljazeera.com/news/2026/10/16/rubio-presses-lebanon-on-confiscation-of-weapons-from-hezbollah?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-10-16 05:28"
       },
       {
-       "title": "Why are migrants risking their lives at sea to reach Yemen?",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/why-are-migrants-risking-their-lives-at-sea-to-reach-yemen?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-10-15 20:13"
-      },
-      {
-       "title": "Will Israeli voters punish Benjamin Netanyahu?",
-       "url": "https://www.aljazeera.com/video/inside-story/2026/10/15/will-israeli-voters-punish-benjamin-netanyahu?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-10-15 19:44"
+       "title": "Houthi missile attack on Yemeni presidential palace kills five, minister says",
+       "url": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
+       "source": "BBC World",
+       "published_at": "2026-10-15 23:38"
       }
      ]
     }
@@ -513,54 +512,54 @@
    "note": null,
    "clusters": [
     {
-     "label": "Russia · Ukraine",
+     "label": "Ukraine · Trump",
      "articles": [
       {
-       "title": "Ukrainian drones reportedly strike Yandex data center, warehouses in overnight attack on Russia",
-       "url": "https://kyivindependent.com/ukrainian-drones-reportedly-strike-yandex-data-center-warehouses-in-overnight-attack-on-russia/",
+       "title": "Investigation: How scammers exploit Ukraine’s occupation to deceive foreign men",
+       "url": "https://kyivindependent.com/investigation-how-scammers-exploit-ukraines-occupation-to-deceive-foreign-men-2/",
        "source": "Kyiv Independent",
-       "published_at": "2026-10-16 00:17"
+       "published_at": "2026-10-16 05:00"
+      },
+      {
+       "title": "Order limiting Starlink access for Ukraine's military came from within White House, Reuters reports",
+       "url": "https://kyivindependent.com/order-limiting-starlink-access-for-ukraines-military-came-from-within-white-house-reuters-reports/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-10-16 04:02"
+      },
+      {
+       "title": "Ukraine's Patriot interceptor stocks again reach critically low levels, media reports",
+       "url": "https://kyivindependent.com/ukraines-patriot-interceptor-stocks-again-reach-critically-low-levels-media-reports/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-10-16 02:29"
+      },
+      {
+       "title": "'I'm not a big fan of Zelensky,' Trump says as US-Ukraine tensions deepen",
+       "url": "https://kyivindependent.com/im-not-a-big-fan-of-zelensky-trump-says-as-us-ukraine-tensions-deepen-2/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-10-16 01:05"
       },
       {
        "title": "Russia and Ukraine trade strikes as Trump ‘energy ceasefire’ collapses",
        "url": "https://www.theguardian.com/world/2026/oct/15/us-effort-to-get-russia-ukraine-energy-ceasefire-collapses",
        "source": "Guardian World",
        "published_at": "2026-10-15 23:57"
-      },
-      {
-       "title": "UK to resupply Ukraine with more Storm Shadow missiles to strike Russia, Bloomberg reports",
-       "url": "https://kyivindependent.com/uk-to-resupply-ukraine-with-more-storm-shadow-missiles-to-strike-russia-bloomberg-reports/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-10-15 19:26"
-      },
-      {
-       "title": "Watch: What does Starlink have to do with the Ukraine-Russia war?",
-       "url": "https://www.bbc.co.uk/news/videos/cqr7yzpxm083o?at_medium=RSS&at_campaign=rss",
-       "source": "BBC World",
-       "published_at": "2026-10-15 17:31"
-      },
-      {
-       "title": "The EU loophole Russia is using to free its oligarchs from sanctions",
-       "url": "https://kyivindependent.com/the-eu-loophole-russia-is-using-to-force-euroclear-and-raiffeisen-to-get-its-oligarchs-freed-from-sanctions/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-10-15 17:20"
       }
      ]
     },
     {
-     "label": "Starlink · Ukraine",
+     "label": "Russia",
      "articles": [
       {
-       "title": "Wes Streeting urges US to back Ukraine on Washington visit after Starlink row",
-       "url": "https://www.theguardian.com/politics/2026/oct/15/wes-streeting-us-support-ukraine--washington-visit",
-       "source": "Guardian World",
-       "published_at": "2026-10-15 23:49"
+       "title": "They fled Russia, but the West sent them back",
+       "url": "https://www.bbc.co.uk/news/articles/c6x23qpzjklwo?at_medium=RSS&at_campaign=rss",
+       "source": "BBC World",
+       "published_at": "2026-10-16 04:57"
       },
       {
-       "title": "No one's owning up to throttling Ukraine's military Starlink, and that's telling",
-       "url": "https://kyivindependent.com/no-ones-owning-up-to-crippling-ukraines-military-starlink/",
+       "title": "Ukrainian drones reportedly strike Yandex data center, warehouses in overnight attack on Russia",
+       "url": "https://kyivindependent.com/ukrainian-drones-reportedly-strike-yandex-data-center-warehouses-in-overnight-attack-on-russia/",
        "source": "Kyiv Independent",
-       "published_at": "2026-10-15 17:42"
+       "published_at": "2026-10-16 00:17"
       }
      ]
     },
@@ -584,18 +583,18 @@
        "url": "https://kyivindependent.com/russian-drone-strikes-leave-portions-of-kyiv-without-power-fires-burning/",
        "source": "Kyiv Independent",
        "published_at": "2026-10-15 20:23"
-      },
-      {
-       "title": "Russian soldier faces life in prison over alleged killing of 5 Ukrainian troops, civilian in Kharkiv Oblast",
-       "url": "https://kyivindependent.com/russian-soldier-faces-life-in-prison-over-alleged-killing-of-5-ukrainian-troops-civilian-in-kharkiv-oblast/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-10-15 17:47"
       }
      ]
     },
     {
      "label": "More headlines",
      "articles": [
+      {
+       "title": "Wes Streeting urges US to back Ukraine on Washington visit after Starlink row",
+       "url": "https://www.theguardian.com/politics/2026/oct/15/wes-streeting-us-support-ukraine--washington-visit",
+       "source": "Guardian World",
+       "published_at": "2026-10-15 23:49"
+      },
       {
        "title": "Letters with 'suspicious substances' sent to US senators and election offices",
        "url": "https://www.bbc.co.uk/news/articles/cmq8n513x523o?at_medium=RSS&at_campaign=rss",
