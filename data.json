@@ -1,12 +1,12 @@
 {
- "date": "Monday 19 October 2026",
- "generated_at": "22:10 UTC",
+ "date": "Tuesday 20 October 2026",
+ "generated_at": "01:10 UTC",
  "error": null,
  "total_stories": 75,
  "fx": {
   "pair": "EUR/MAD",
-  "rate": 10.94,
-  "change_pct": 0.0
+  "rate": 10.979,
+  "change_pct": 0.36
  },
  "lanes": [
   {
@@ -16,7 +16,7 @@
    "note": null,
    "clusters": [
     {
-     "label": "Image · Labs",
+     "label": "Image · Forest",
      "articles": [
       {
        "title": "6M param character renderer: one reference image in, a minute of video out, tested against Blender truth",
@@ -25,28 +25,62 @@
        "published_at": "2026-10-19 15:26"
       },
       {
-       "title": "black-forest-labs/flux-3-image-klein-comfy · 953 ♥",
+       "title": "black-forest-labs/flux-3-image-klein-comfy · 968 ♥",
        "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
        "source": "HF new models",
        "published_at": "2026-10-14 12:00"
       },
       {
-       "title": "black-forest-labs/flux-3-image-klein · 526 ♥",
+       "title": "black-forest-labs/flux-3-image-klein · 527 ♥",
        "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein",
        "source": "HF new models",
        "published_at": "2026-10-13 10:58"
       },
       {
-       "title": "OpenMOSS-Team/MOSS-Image-SFT · 403 ♥",
+       "title": "OpenMOSS-Team/MOSS-Image-SFT · 405 ♥",
        "url": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT",
        "source": "HF new models",
        "published_at": "2026-10-11 07:01"
       },
       {
-       "title": "OpenMOSS-Team/MOSS-Image-Base · 363 ♥",
+       "title": "OpenMOSS-Team/MOSS-Image-Base · 365 ♥",
        "url": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-Base",
        "source": "HF new models",
        "published_at": "2026-10-11 06:49"
+      }
+     ]
+    },
+    {
+     "label": "Run · Built",
+     "articles": [
+      {
+       "title": "I built an app to efficiently run decision models on the Apple Neural Engine with Shortcuts actions for OS automations",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xa7ytv/i_built_an_app_to_efficiently_run_decision_models/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-10-19 20:23"
+      },
+      {
+       "title": "We built our own inference engine so a 32B model could keep 262K context inside a 16 GB GPU budget. Here's an uncut run.",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xa02iw/we_built_our_own_inference_engine_so_a_32b_model/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-10-19 15:32"
+      }
+     ]
+    },
+    {
+     "label": "Llama · Cpp",
+     "articles": [
+      {
+       "title": "I checked BitNet and Bonsai on CPU against references: bitnet.cpp main still gives wrong output, Bonsai 1.7B is correct wherever it loads, and ik_llama.cpp with -rtr is usually fastest",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xa3yqk/i_checked_bitnet_and_bonsai_on_cpu_against/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-10-19 17:57"
+      },
+      {
+       "title": "llama.cpp support for Cohere models",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xa0cyz/llamacpp_support_for_cohere_models/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-10-19 15:43"
       }
      ]
     },
@@ -60,33 +94,10 @@
        "published_at": "2026-10-19 14:47"
       },
       {
-       "title": "inclusionAI releases Ming-3.0-audio-flash: 126B MoE / 6.5B active, audio understanding + speech output, MIT",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9yrfi/inclusionai_releases_ming30audioflash_126b_moe/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-10-19 14:42"
-      },
-      {
-       "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017 · 1671 ♥",
+       "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017 · 1695 ♥",
        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
        "source": "HF new models",
        "published_at": "2026-10-17 02:40"
-      }
-     ]
-    },
-    {
-     "label": "Cpp · Llama",
-     "articles": [
-      {
-       "title": "I checked BitNet and Bonsai on CPU against references: bitnet.cpp main still gives wrong output, Bonsai 1.7B is correct wherever it loads, and ik_llama.cpp with -rtr is usually fastest",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xa3yqk/i_checked_bitnet_and_bonsai_on_cpu_against/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-10-19 17:57"
-      },
-      {
-       "title": "llama.cpp support for Cohere models",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xa0cyz/llamacpp_support_for_cohere_models/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-10-19 15:43"
       }
      ]
     },
@@ -118,25 +129,19 @@
        "published_at": "2026-10-19 19:46"
       },
       {
-       "title": "Mercury 3: Diffusion at scale",
-       "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
-       "source": "Hacker News",
-       "published_at": "2026-10-19 17:27"
-      },
-      {
-       "title": "We built our own inference engine so a 32B model could keep 262K context inside a 16 GB GPU budget. Here's an uncut run.",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xa02iw/we_built_our_own_inference_engine_so_a_32b_model/",
+       "title": "Strata 2 beta running at half speed?",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xa5dse/strata_2_beta_running_at_half_speed/",
        "source": "r/LocalLLaMA",
-       "published_at": "2026-10-19 15:32"
+       "published_at": "2026-10-19 18:48"
       },
       {
-       "title": "CERN and Mistral sign a statement of intent to establish a strategic partnership",
-       "url": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/",
-       "source": "Hacker News",
-       "published_at": "2026-10-19 15:28"
+       "title": "Theoretical knowledge graph stack for an org (law firm)",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xa06g0/theoretical_knowledge_graph_stack_for_an_org_law/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-10-19 15:36"
       },
       {
-       "title": "LiquidAI/LFM2.5-24B-A2B · 500 ♥",
+       "title": "LiquidAI/LFM2.5-24B-A2B · 501 ♥",
        "url": "https://huggingface.co/LiquidAI/LFM2.5-24B-A2B",
        "source": "HF new models",
        "published_at": "2026-10-12 05:35"
@@ -235,39 +240,64 @@
      "label": "مصر",
      "articles": [
       {
+       "title": "أمزال أفضل لاعب في مباراة مصر",
+       "url": "https://www.hespress.com/%d8%a3%d9%85%d8%b2%d8%a7%d9%84-%d8%a3%d9%81%d8%b6%d9%84-%d9%84%d8%a7%d8%b9%d8%a8-%d9%81%d9%8a-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d9%85%d8%b5%d8%b1-1825923.html",
+       "source": "Hespress",
+       "published_at": "2026-10-19 23:36"
+      },
+      {
        "title": "\"أسود القاعة\" يكتسحون مصر بسداسية ويبلغون نهائي كأس إفريقيا",
        "url": "https://www.hespress.com/%d8%a3%d8%b3%d9%88%d8%af-%d8%a7%d9%84%d9%82%d8%a7%d8%b9%d8%a9-%d9%8a%d9%83%d8%aa%d8%b3%d8%ad%d9%88%d9%86-%d9%85%d8%b5%d8%b1-%d8%a8%d8%b3%d8%af%d8%a7%d8%b3%d9%8a%d8%a9-%d9%88%d9%8a%d8%a8%d9%84-1825850.html",
        "source": "Hespress",
        "published_at": "2026-10-19 21:50"
-      },
-      {
-       "title": "\"فيفا\" توقف مدرب مصر 3 مباريات",
-       "url": "https://www.hespress.com/%d9%81%d9%8a%d9%81%d8%a7-%d8%aa%d9%88%d9%82%d9%81-%d9%85%d8%af%d8%b1%d8%a8-%d9%85%d8%b5%d8%b1-3-%d9%85%d8%a8%d8%a7%d8%b1%d9%8a%d8%a7%d8%aa-1825845.html",
-       "source": "Hespress",
-       "published_at": "2026-10-19 21:02"
-      }
-     ]
-    },
-    {
-     "label": "الحكومي",
-     "articles": [
-      {
-       "title": "\"المستشارين\" يناقش البرنامج الحكومي",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d8%b4%d8%a7%d8%b1%d9%8a%d9%86-%d9%8a%d9%86%d8%a7%d9%82%d8%b4-%d8%a7%d9%84%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac-%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d9%8a-1825857.html",
-       "source": "Hespress",
-       "published_at": "2026-10-19 21:12"
-      },
-      {
-       "title": "الحكومة تستهدف نموا بـ5% وتضخما بـ2% وتقليص الدين العمومي",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d8%a9-%d8%aa%d8%b3%d8%aa%d9%87%d8%af%d9%81-%d9%86%d9%85%d9%88%d8%a7-%d8%a8%d9%805-%d9%88%d8%aa%d8%b6%d8%ae%d9%85%d8%a7-%d8%a8%d9%802-%d9%88%d8%aa%d9%82%d9%84%d9%8a-1825795.html",
-       "source": "Hespress",
-       "published_at": "2026-10-19 21:00"
       }
      ]
     },
     {
      "label": "More headlines",
      "articles": [
+      {
+       "title": "البروفيسور أوزان: نتائج واعدة لـ132 جراحة بروستاتا بالروبوت في المغرب",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%a8%d8%b1%d9%88%d9%81%d9%8a%d8%b3%d9%88%d8%b1-%d8%a3%d9%88%d8%b2%d8%a7%d9%86-%d9%86%d8%aa%d8%a7%d8%a6%d8%ac-%d9%88%d8%a7%d8%b9%d8%af%d8%a9-%d9%84%d9%80132-%d8%ac%d8%b1%d8%a7%d8%ad-1825804.html",
+       "source": "Hespress",
+       "published_at": "2026-10-20 01:00"
+      },
+      {
+       "title": "جائزة الإعلام العربي تفتح باب المشاركة",
+       "url": "https://www.hespress.com/%d8%ac%d8%a7%d8%a6%d8%b2%d8%a9-%d8%a7%d9%84%d8%a5%d8%b9%d9%84%d8%a7%d9%85-%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a-%d8%aa%d9%81%d8%aa%d8%ad-%d8%a8%d8%a7%d8%a8-%d8%a7%d9%84%d9%85%d8%b4%d8%a7%d8%b1%d9%83-2-1825638.html",
+       "source": "Hespress",
+       "published_at": "2026-10-20 00:10"
+      },
+      {
+       "title": "الوداد يبحث عن مدرب جديد.. التونسي نصر الدين نابي يتصدر المشهد",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%88%d8%af%d8%a7%d8%af-%d9%8a%d8%a8%d8%ad%d8%ab-%d8%b9%d9%86-%d9%85%d8%af%d8%b1%d8%a8-%d8%ac%d8%af%d9%8a%d8%af-%d8%a7%d9%84%d8%aa%d9%88%d9%86%d8%b3%d9%8a-%d9%86%d8%b5%d8%b1-%d8%a7-1825909.html",
+       "source": "Hespress",
+       "published_at": "2026-10-20 00:00"
+      },
+      {
+       "title": "أزمة النقل في أورير وتامراغت",
+       "url": "https://www.hespress.com/%d8%a3%d8%b2%d9%85%d8%a9-%d8%a7%d9%84%d9%86%d9%82%d9%84-%d8%a8%d8%a3%d9%88%d8%b1%d9%8a%d8%b1-%d9%88%d8%aa%d8%a7%d9%85%d8%b1%d8%a7%d8%ba%d8%aa-1825913.html",
+       "source": "Hespress",
+       "published_at": "2026-10-19 23:30"
+      },
+      {
+       "title": "السعودية تؤجل مؤتمر مستقبل الاستثمار",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9-%d8%aa%d8%a4%d8%ac%d9%84-%d9%85%d8%a4%d8%aa%d9%85%d8%b1-%d9%85%d8%b3%d8%aa%d9%82%d8%a8%d9%84-%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%ab%d9%85%d8%a7%d8%b1-1825685.html",
+       "source": "Hespress",
+       "published_at": "2026-10-19 23:09"
+      },
+      {
+       "title": "قبل واقعة الوزيرة المنتدبة خيير.. تعددت الأسباب والإعفاء الدستوري واحد",
+       "url": "https://www.hespress.com/%d9%82%d8%a8%d9%84-%d9%88%d8%a7%d9%82%d8%b9%d8%a9-%d8%a7%d9%84%d9%88%d8%b2%d9%8a%d8%b1%d8%a9-%d8%a7%d9%84%d9%85%d9%86%d8%aa%d8%af%d8%a8%d8%a9-%d8%ae%d9%8a%d9%8a%d8%b1-%d8%a7%d9%84%d8%a3%d8%b3-1825747.html",
+       "source": "Hespress",
+       "published_at": "2026-10-19 23:00"
+      },
+      {
+       "title": "الملك يشيد بخصال القاضية زهور الحر",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%85%d9%84%d9%83-%d8%ae%d8%b5%d8%a7%d9%84-%d8%a7%d9%84%d9%82%d8%a7%d8%b6%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%b1-%d8%b1%d9%81%d9%8a%d8%b9%d8%a9-1825840.html",
+       "source": "Hespress",
+       "published_at": "2026-10-19 22:22"
+      },
       {
        "title": "فضّ اعتصام لأساتذة التعليم الأولي",
        "url": "https://www.hespress.com/%d9%81%d8%b6%d9%91-%d8%a7%d8%b9%d8%aa%d8%b5%d8%a7%d9%85-%d9%84%d8%a3%d8%b3%d8%a7%d8%aa%d8%b0%d8%a9-%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85-%d8%a7%d9%84%d8%a3%d9%88%d9%84%d9%8a-1825853.html",
@@ -281,40 +311,10 @@
        "published_at": "2026-10-19 22:00"
       },
       {
-       "title": "ملعب هسبريس | درس الرجاء يوجع",
-       "url": "https://www.hespress.com/%d9%85%d9%84%d8%b9%d8%a8-%d9%87%d8%b3%d8%a8%d8%b1%d9%8a%d8%b3-%d8%af%d8%b1%d8%b3-%d8%a7%d9%84%d8%b1%d8%ac%d8%a7%d8%a1-%d9%8a%d9%88%d8%ac%d8%b9-1825875.html",
+       "title": "ملعب هسبريس | لسعد الشابي",
+       "url": "https://www.hespress.com/%d9%85%d9%84%d8%b9%d8%a8-%d9%87%d8%b3%d8%a8%d8%b1%d9%8a%d8%b3-%d9%84%d8%b3%d8%b9%d8%af-%d8%a7%d9%84%d8%b4%d8%a7%d8%a8%d9%8a-1825875.html",
        "source": "Hespress",
        "published_at": "2026-10-19 21:30"
-      },
-      {
-       "title": "أول الفهم | نهاية الهيمنة الأمريكية؟",
-       "url": "https://www.hespress.com/%d8%a3%d9%88%d9%84-%d8%a7%d9%84%d9%81%d9%87%d9%85-%d9%86%d9%87%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84%d9%87%d9%8a%d9%85%d9%86%d8%a9-%d8%a7%d9%84%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d9%8a%d8%a9%d8%9f-1825825.html",
-       "source": "Hespress",
-       "published_at": "2026-10-19 21:00"
-      },
-      {
-       "title": "تخريب قنصلية يثير غضب مغاربة فرنسا",
-       "url": "https://www.hespress.com/%d8%aa%d8%ae%d8%b1%d9%8a%d8%a8-%d9%82%d9%86%d8%b5%d9%84%d9%8a%d8%a9-%d9%8a%d8%ab%d9%8a%d8%b1-%d8%ba%d8%b6%d8%a8-%d9%85%d8%ba%d8%a7%d8%b1%d8%a8%d8%a9-%d9%81%d8%b1%d9%86%d8%b3%d8%a7-1825437.html",
-       "source": "Hespress",
-       "published_at": "2026-10-19 20:30"
-      },
-      {
-       "title": "المزواري.. حقيقة صفقة دراسات ومنازعات",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%85%d8%b2%d9%88%d8%a7%d8%b1%d9%8a-%d8%ad%d9%82%d9%8a%d9%82%d8%a9-%d8%b5%d9%81%d9%82%d8%a9-%d8%af%d8%b1%d8%a7%d8%b3%d8%a7%d8%aa-%d9%88%d9%85%d9%86%d8%a7%d8%b2%d8%b9%d8%a7%d8%aa-1825817.html",
-       "source": "Hespress",
-       "published_at": "2026-10-19 20:10"
-      },
-      {
-       "title": "جريمة قتل ضابط مغربي الأصل تهز بلجيكا وتطيح بستة مشتبهين",
-       "url": "https://www.hespress.com/%d8%ac%d8%b1%d9%8a%d9%85%d8%a9-%d9%82%d8%aa%d9%84-%d8%b6%d8%a7%d8%a8%d8%b7-%d9%85%d8%ba%d8%b1%d8%a8%d9%8a-%d8%a7%d9%84%d8%a3%d8%b5%d9%84-%d8%aa%d9%87%d8%b2-%d8%a8%d9%84%d8%ac%d9%8a%d9%83%d8%a7-%d9%88-1825551.html",
-       "source": "Hespress",
-       "published_at": "2026-10-19 20:00"
-      },
-      {
-       "title": "أمير المؤمنين يتمنى الشفاء لـ\"البابا\"",
-       "url": "https://www.hespress.com/%d8%a3%d9%85%d9%8a%d8%b1-%d8%a7%d9%84%d9%85%d8%a4%d9%85%d9%86%d9%8a%d9%86-%d9%8a%d8%aa%d9%85%d9%86%d9%89-%d8%a7%d9%84%d8%b4%d9%81%d8%a7%d8%a1-%d9%84%d9%84%d8%a8%d8%a7%d8%a8%d8%a7-1825814.html",
-       "source": "Hespress",
-       "published_at": "2026-10-19 19:57"
       },
       {
        "title": "Tests rapides en officine : Gigalab et les pharmaciens s'associent",
@@ -364,7 +364,7 @@
    "note": null,
    "clusters": [
     {
-     "label": "Premier · League",
+     "label": "Premier · Zege",
      "articles": [
       {
        "title": "Tottenham Hotspur boekt eindelijk eerste zege van Premier League-seizoen",
@@ -413,48 +413,14 @@
    "note": null,
    "clusters": [
     {
-     "label": "Israel",
+     "label": "Israeli · Arrest",
      "articles": [
       {
-       "title": "Could your halal pension be funding Israel’s military?",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/could-your-halal-pension-be-funding-israels-military?traffic_source=rss",
+       "title": "Rashida Tlaib demands arrest of Israeli soldier linked to Hind Rajab death",
+       "url": "https://www.aljazeera.com/news/2026/10/20/rashida-tlaib-demands-arrest-of-israeli-soldier-linked-to-hind-rajab-death?traffic_source=rss",
        "source": "Al Jazeera",
-       "published_at": "2026-10-19 21:28"
+       "published_at": "2026-10-20 00:18"
       },
-      {
-       "title": "Benny Gantz drops out of Israel’s election race",
-       "url": "https://www.aljazeera.com/news/2026/10/19/benny-gantz-drops-out-of-israels-election-race?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-10-19 18:11"
-      },
-      {
-       "title": "Trump backs Netanyahu: Is the US planning a new Iran attack with Israel?",
-       "url": "https://www.aljazeera.com/news/2026/10/19/trump-backs-netanyahu-is-the-us-planning-a-new-iran-attack-with-israel?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-10-19 17:16"
-      }
-     ]
-    },
-    {
-     "label": "Attack",
-     "articles": [
-      {
-       "title": "Houthi attack kills 53 in biggest single loss of life since Yemen civil war reignited",
-       "url": "https://www.theguardian.com/world/2026/oct/19/houthi-attack-yemen-al-alam-camp-biggest-single-loss-of-life-civil-war",
-       "source": "Guardian World",
-       "published_at": "2026-10-19 17:15"
-      },
-      {
-       "title": "Guardian reporter filmed masked militants seconds before West Bank attack on French mayor",
-       "url": "https://www.theguardian.com/world/2026/oct/18/guardian-reporter-filmed-masked-militants-seconds-before-west-bank-attack-on-french-mayor",
-       "source": "Guardian World",
-       "published_at": "2026-10-18 18:39"
-      }
-     ]
-    },
-    {
-     "label": "Israeli · Police",
-     "articles": [
       {
        "title": "Israeli police say they arrested 10 in connection with settler attacks",
        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/israeli-police-say-they-arrested-10-in-connection-with-settler-attacks?traffic_source=rss",
@@ -470,31 +436,42 @@
      ]
     },
     {
-     "label": "Security",
+     "label": "Israel",
      "articles": [
       {
-       "title": "Netanyahu’s new security doctrine: Regional strategy or election ploy?",
-       "url": "https://www.aljazeera.com/news/2026/10/19/netanyahus-new-security-doctrine-regional-strategy-or-election-ploy?traffic_source=rss",
+       "title": "Hegseth meets Netanyahu in unannounced Israel visit",
+       "url": "https://www.aljazeera.com/news/2026/10/20/hegseth-meets-netanyahu-in-unannounced-israel-visit?traffic_source=rss",
        "source": "Al Jazeera",
-       "published_at": "2026-10-19 18:21"
+       "published_at": "2026-10-20 00:08"
       },
       {
-       "title": "Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
-       "url": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss",
-       "source": "BBC World",
-       "published_at": "2026-10-19 16:20"
+       "title": "Could your halal pension be funding Israel’s military?",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/could-your-halal-pension-be-funding-israels-military?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-10-19 21:28"
       }
      ]
     },
     {
-     "label": "More headlines",
+     "label": "War",
      "articles": [
       {
-       "title": "People scour strait of Hormuz for spilt cargo after Iran attacks container ships",
-       "url": "https://www.theguardian.com/world/2026/oct/19/strait-of-hormuz-spilt-cargo-iran-attacks-container-ships",
-       "source": "Guardian World",
-       "published_at": "2026-10-19 14:48"
+       "title": "Iran war live: Trump says US hits Iran hard ‘economically and militarily’",
+       "url": "https://www.aljazeera.com/news/liveblog/2026/10/20/draft-3?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-10-20 00:00"
       },
+      {
+       "title": "Houthi attack kills 53 in biggest single loss of life since Yemen civil war reignited",
+       "url": "https://www.theguardian.com/world/2026/oct/19/houthi-attack-yemen-al-alam-camp-biggest-single-loss-of-life-civil-war",
+       "source": "Guardian World",
+       "published_at": "2026-10-19 17:15"
+      }
+     ]
+    },
+    {
+     "label": "Gaza · Programme",
+     "articles": [
       {
        "title": "Cuts force World Food Programme to end support for half a million Palestinians in Gaza",
        "url": "https://www.theguardian.com/world/2026/oct/19/cuts-world-food-programme-end-support-palestinians-gaza",
@@ -508,6 +485,29 @@
        "published_at": "2026-10-19 06:00"
       }
      ]
+    },
+    {
+     "label": "More headlines",
+     "articles": [
+      {
+       "title": "Tehran rejects any role in plot to kill leaders of German Jewish groups",
+       "url": "https://www.aljazeera.com/news/2026/10/19/tehran-rejects-any-role-in-plot-to-kill-leaders-of-jewish-groups?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-10-19 23:16"
+      },
+      {
+       "title": "Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
+       "url": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss",
+       "source": "BBC World",
+       "published_at": "2026-10-19 16:20"
+      },
+      {
+       "title": "People scour strait of Hormuz for spilt cargo after Iran attacks container ships",
+       "url": "https://www.theguardian.com/world/2026/oct/19/strait-of-hormuz-spilt-cargo-iran-attacks-container-ships",
+       "source": "Guardian World",
+       "published_at": "2026-10-19 14:48"
+      }
+     ]
     }
    ],
    "count": 12
@@ -519,48 +519,65 @@
    "note": null,
    "clusters": [
     {
-     "label": "Ukraine · Russia",
+     "label": "Ukraine",
      "articles": [
+      {
+       "title": "Ukraine appoints new commander of Third Army Corps as Biletskyi takes charge of Center forces",
+       "url": "https://kyivindependent.com/ukraine-appoints-new-commander-of-third-army-corps-as-biletskyi-takes-charge-of-center-forces/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-10-20 01:07"
+      },
       {
        "title": "Trump slams Zelenskyy amid Russia sanctions rift and says ‘somebody else’ should negotiate for Ukraine - live",
        "url": "https://www.theguardian.com/us-news/live/2026/oct/19/donald-trump-kansas-roger-marshall-golf-ukraine-midterms-latest-news-updates",
        "source": "Guardian World",
-       "published_at": "2026-10-19 22:02"
+       "published_at": "2026-10-20 00:56"
       },
       {
-       "title": "What Russia's doing to Ukraine is 'fine,' Trump says",
-       "url": "https://kyivindependent.com/what-russias-doing-to-ukraine-is-fine-trump-says/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-10-19 20:25"
+       "title": "Children among six killed in Russian drone strike on Ukraine park",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/children-among-six-killed-in-russian-drone-strike-on-ukraine-park?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-10-19 23:12"
       },
       {
-       "title": "Ukraine war latest: Ukraine evacuates wounded soldier from front line by drone for first time, military says",
-       "url": "https://kyivindependent.com/ukraine-war-latest-ukraine-evacuates-wounded-soldier-from-front-line-by-drone-for-first-time-military-says/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-10-19 17:57"
+       "title": "US grants deportation reprieve to migrants from Ukraine and Sudan",
+       "url": "https://www.theguardian.com/us-news/2026/oct/19/us-migrants-deportation-ukraine-sudan",
+       "source": "Guardian World",
+       "published_at": "2026-10-19 22:34"
       },
       {
-       "title": "Ukraine's EU integration chief slams proposal to pick chief prosecutor in open contest",
-       "url": "https://kyivindependent.com/ukraines-eu-integration-chief-slams-proposal-to-pick-chief-prosecutor-in-open-contest-2/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-10-19 17:50"
-      },
-      {
-       "title": "Russia strikes 28 critical energy facilities across Ukraine in latest wave of attacks, Zelensky says",
-       "url": "https://kyivindependent.com/russia-strikes-28-critical-energy-facilities-across-ukraine-in-latest-wave-of-attacks-zelensky-says/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-10-19 17:40"
+       "title": "Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation",
+       "url": "https://www.bbc.co.uk/news/articles/ckd7qy12j148o?at_medium=RSS&at_campaign=rss",
+       "source": "BBC World",
+       "published_at": "2026-10-19 21:02"
       }
      ]
     },
     {
-     "label": "Zelensky",
+     "label": "Drone · First",
      "articles": [
       {
-       "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
-       "url": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
-       "source": "BBC World",
+       "title": "Injured Ukrainian soldier rescued in first-ever drone evacuation mission",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/aje-onl-nf_ukrainian-soldier-rescued-in-drone-evacuation-191026?traffic_source=rss",
+       "source": "Al Jazeera",
        "published_at": "2026-10-19 20:49"
+      },
+      {
+       "title": "Ukraine says it carried out first drone airlift of wounded soldier from front line",
+       "url": "https://www.bbc.co.uk/news/videos/c3vgx05p149wo?at_medium=RSS&at_campaign=rss",
+       "source": "BBC World",
+       "published_at": "2026-10-19 20:00"
+      }
+     ]
+    },
+    {
+     "label": "Russian",
+     "articles": [
+      {
+       "title": "Finland seeking one million land mines as it eyes Russian threat",
+       "url": "https://www.aljazeera.com/news/2026/10/19/finland-seeking-one-million-land-mines-as-it-eyes-russian-threat?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-10-19 19:57"
       },
       {
        "title": "Pope Leo, Zelensky discuss hopes for ceasefire in Russian-occupied Oleshky",
@@ -571,19 +588,19 @@
      ]
     },
     {
-     "label": "Injured",
+     "label": "Zelensky",
      "articles": [
       {
-       "title": "Injured Ukrainian soldier rescued in first-ever drone evacuation mission",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/aje-onl-nf_ukrainian-soldier-rescued-in-drone-evacuation-191026?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-10-19 20:49"
+       "title": "Zelensky appeals to US lawmakers for answers as White House turns on Kyiv",
+       "url": "https://kyivindependent.com/zelensky-appeals-to-us-lawmakers-for-answers-as-white-house-turns-on-kyiv/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-10-19 22:57"
       },
       {
-       "title": "Shooting at Kyiv draft office injures 6 as mobilization tensions rise",
-       "url": "https://kyivindependent.com/shooting-at-kyiv-draft-office-injures-6-as-mobilization-tensions-rise/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-10-19 18:57"
+       "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
+       "url": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
+       "source": "BBC World",
+       "published_at": "2026-10-19 20:49"
       }
      ]
     },
@@ -591,22 +608,10 @@
      "label": "More headlines",
      "articles": [
       {
-       "title": "Finland seeking one million land mines as it eyes Russian threat",
-       "url": "https://www.aljazeera.com/news/2026/10/19/finland-seeking-one-million-land-mines-as-it-eyes-russian-threat?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-10-19 19:57"
-      },
-      {
-       "title": "'We will fight' — We asked Ukrainian soldiers about Trump's latest outburst",
-       "url": "https://kyivindependent.com/we-will-fight-we-asked-ukrainian-soldiers-about-trumps-latest-outburst/",
+       "title": "What Russia's doing to Ukraine is 'fine,' Trump says",
+       "url": "https://kyivindependent.com/what-russias-doing-to-ukraine-is-fine-trump-says/",
        "source": "Kyiv Independent",
-       "published_at": "2026-10-19 19:26"
-      },
-      {
-       "title": "Why Russia's war on Ukraine's data centers could backfire on Moscow",
-       "url": "https://kyivindependent.com/why-russias-war-on-ukraines-data-centers-could-backfire-on-moscow/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-10-19 16:59"
+       "published_at": "2026-10-19 20:25"
       }
      ]
     }
