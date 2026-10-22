@@ -1,8 +1,8 @@
 {
  "date": "Thursday 22 October 2026",
- "generated_at": "19:59 UTC",
+ "generated_at": "23:15 UTC",
  "error": null,
- "total_stories": 72,
+ "total_stories": 73,
  "fx": {
   "pair": "EUR/MAD",
   "rate": 10.989,
@@ -19,19 +19,25 @@
      "label": "Image · Comfy",
      "articles": [
       {
-       "title": "Comfy-Org/MOSS-Image · 359 ♥",
+       "title": "Canva’s first AI image model plans designs before generating them",
+       "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+       "source": "Verge AI",
+       "published_at": "2026-10-22 21:51"
+      },
+      {
+       "title": "Comfy-Org/MOSS-Image · 362 ♥",
        "url": "https://huggingface.co/Comfy-Org/MOSS-Image",
        "source": "HF new models",
        "published_at": "2026-10-16 12:42"
       },
       {
-       "title": "black-forest-labs/flux-3-image-klein-comfy · 1284 ♥",
+       "title": "black-forest-labs/flux-3-image-klein-comfy · 1299 ♥",
        "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
        "source": "HF new models",
        "published_at": "2026-10-14 12:00"
       },
       {
-       "title": "black-forest-labs/flux-3-image-klein · 632 ♥",
+       "title": "black-forest-labs/flux-3-image-klein · 636 ♥",
        "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein",
        "source": "HF new models",
        "published_at": "2026-10-13 10:58"
@@ -39,59 +45,77 @@
      ]
     },
     {
-     "label": "Llama · Cpp",
+     "label": "Agents",
      "articles": [
       {
-       "title": "Massive B70 spec-decoding improvement - Intel XMX matrix engines refactored by budiony · Pull Request #29864 · ggml-org/llama.cpp",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcqb3p/massive_b70_specdecoding_improvement_intel_xmx/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-10-22 18:16"
+       "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+       "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+       "source": "HuggingFace",
+       "published_at": "2026-10-22 22:24"
       },
       {
-       "title": "Ling-3.0-tiny-UBTree DFlash draft for stock mainline llama.cpp (+8% prose, +61% code speedup)",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcnsrj/ling30tinyubtree_dflash_draft_for_stock_mainline/",
+       "title": "NVIDIA/OpenShell: safe, private runtime for autonomous AI agents",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcs9e2/nvidiaopenshell_safe_private_runtime_for/",
        "source": "r/LocalLLaMA",
-       "published_at": "2026-10-22 16:45"
+       "published_at": "2026-10-22 19:29"
       }
      ]
     },
     {
-     "label": "Open · Source",
+     "label": "Tts",
      "articles": [
+      {
+       "title": "Making Kokoro TTS 50-100x faster without knowing how",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcuqor/making_kokoro_tts_50100x_faster_without_knowing/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-10-22 21:02"
+      },
       {
        "title": "What is Currently best open source TTS model for most natural voice generation",
        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcpjbk/what_is_currently_best_open_source_tts_model_for/",
        "source": "r/LocalLLaMA",
        "published_at": "2026-10-22 17:48"
-      },
-      {
-       "title": "DeepSeek and MiniMax Clear China’s AI Export Rules for Overseas Open-Source Releases",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcoelw/deepseek_and_minimax_clear_chinas_ai_export_rules/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-10-22 17:07"
       }
      ]
     },
     {
-     "label": "Flash",
+     "label": "Engines",
      "articles": [
       {
-       "title": "Q4 flash next for £300/600 👀 - snapdragon mini PC results update - 315/43 Tok/s A3b, 46/20 Tok/s Flash Next (read/gen) 💥",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcmioz/q4_flash_next_for_300600_snapdragon_mini_pc/",
+       "title": "Is anyone else concerned about the security of the implementation engines?",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcu4or/is_anyone_else_concerned_about_the_security_of/",
        "source": "r/LocalLLaMA",
-       "published_at": "2026-10-22 15:58"
+       "published_at": "2026-10-22 20:38"
       },
       {
-       "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017 · 2337 ♥",
-       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-       "source": "HF new models",
-       "published_at": "2026-10-17 02:40"
+       "title": "Massive B70 spec-decoding improvement - Intel XMX matrix engines refactored by budiony · Pull Request #29864 · ggml-org/llama.cpp",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcqb3p/massive_b70_specdecoding_improvement_intel_xmx/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-10-22 18:16"
       }
      ]
     },
     {
      "label": "More headlines",
      "articles": [
+      {
+       "title": "Meta’s AI could still scrape news sites, legal experts say",
+       "url": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+       "source": "Verge AI",
+       "published_at": "2026-10-22 20:32"
+      },
+      {
+       "title": "Meta's 816B Muse Spark Open scores 39 on Artificial Analysis, the 180B Qwen3.8-Flash-Next scores 40. Score vs size for 11 open-weight models",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcthj8/metas_816b_muse_spark_open_scores_39_on/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-10-22 20:14"
+      },
+      {
+       "title": "AuroraTTS-100K Releases!",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xctcoe/auroratts100k_releases/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-10-22 20:08"
+      },
       {
        "title": "Whatever happened to TurboQuant?",
        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcqm0z/whatever_happened_to_turboquant/",
@@ -105,43 +129,19 @@
        "published_at": "2026-10-22 18:00"
       },
       {
-       "title": "Someone hacked the Switch 2 by using an old game and AI",
-       "url": "https://www.theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai",
-       "source": "Verge AI",
-       "published_at": "2026-10-22 17:21"
-      },
-      {
-       "title": "Wildwood’s director says AI is ‘antithetical to everything that we are at this studio’",
-       "url": "https://www.theverge.com/entertainment/1016647/wildwood-travis-knight-interview-ai-laika-stop-motion",
-       "source": "Verge AI",
-       "published_at": "2026-10-22 16:16"
-      },
-      {
-       "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-       "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
-       "source": "HuggingFace",
-       "published_at": "2026-10-22 16:11"
-      },
-      {
-       "title": "Is 128GB RAM worth it?",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcmkyh/is_128gb_ram_worth_it/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-10-22 16:00"
-      },
-      {
-       "title": "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
-       "url": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records",
-       "source": "Verge AI",
-       "published_at": "2026-10-22 15:50"
-      },
-      {
-       "title": "RecursiveSI/flint · 491 ♥",
+       "title": "RecursiveSI/flint · 526 ♥",
        "url": "https://huggingface.co/RecursiveSI/flint",
        "source": "HF new models",
        "published_at": "2026-10-21 14:20"
       },
       {
-       "title": "tencent/Hy-Memory-30B-A3B · 284 ♥",
+       "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017 · 2350 ♥",
+       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+       "source": "HF new models",
+       "published_at": "2026-10-17 02:40"
+      },
+      {
+       "title": "tencent/Hy-Memory-30B-A3B · 287 ♥",
        "url": "https://huggingface.co/tencent/Hy-Memory-30B-A3B",
        "source": "HF new models",
        "published_at": "2026-10-15 09:52"
@@ -158,7 +158,7 @@
    "note": null,
    "clusters": [
     {
-     "label": "Universiteiten",
+     "label": "",
      "articles": [
       {
        "title": "Maastricht was bang dat universiteiten afgerekend zouden worden op 7-oktoberfilmpje",
@@ -166,17 +166,6 @@
        "source": "UToday",
        "published_at": "2026-10-22 11:25"
       },
-      {
-       "title": "Zes Nederlandse universiteiten betalen nog steeds tonnen voor instituut in Rusland",
-       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaHNwWmpjMHZGdkFMcldBRGo1TFZ3ODgtS3RGNmwtbW1PYzRiQjhmVGNPbG1Yd2lSdVJsWGNjbDc5NjNldVBORjJuYXhzWGlRUVUwT0pIaEtKd3c5RnlXSDhZT3NqVE56aEpNOTlCR2RDOXVzd0gyUi11d0pLSVlkdGktcmI2V3ZrdHJRSXBhYlRtNDlsb0RhNTAtbVNnOWllU0pFSDRLX05QU1hMWjJ5cU1fNEpWUQ?oc=5",
-       "source": "UToday",
-       "published_at": "2026-10-02 07:00"
-      }
-     ]
-    },
-    {
-     "label": "More headlines",
-     "articles": [
       {
        "title": "Onbegrip over afstoten onderzoek Designlab",
        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMXFyX3BtclYzcVB5T1QxalFTSXlETDJZY1pFY19BX254aF9haW9lVUtFWm10SlJua3FwU2x5ejBMSmdSYXhGMHdTWlk2RXl5TU5vRFZaX3VEak5CejRHMENqUVJUbUtPaTQwOUE5WWhLX0VrMUU0WUU0QTJqelFaVw?oc=5",
@@ -211,7 +200,7 @@
        "title": "Mis geen campusnieuws: stel U-Today in als voorkeursbron",
        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWUV2STVKSGZSdjdpQTdhRVpiMVlDREh1c0pzbjk2NU5LUUEweUtnVk9UX3pCcGtwbF9neTdtRFFSZl9lVDZTSVdhU2ljWU85SUxadXVTcUk5SVJ5dzBqYWFGd0czbmk1S1NTaC1yMFFuWDI2ZXA1M2o4aGMzU0ZzZ1BNY1FRN3hQNUZod0EydEtRZw?oc=5",
        "source": "UToday",
-       "published_at": "2026-10-14 10:42"
+       "published_at": "2026-10-14 07:00"
       },
       {
        "title": "Bike-free Boulevard, artwork disappears and Drienerloweg gets a major overhaul",
@@ -224,6 +213,12 @@
        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbVg5WVlNWkxoeWcyZS1xSjdjam9ab0RGR1hWMXpkTnhBNHR0SUQyaXZVN2Jza016N1JvQmtzdTBjMmhlSE13Y01UaUJtOEdRbUtlNWhVTGc1UTJPRy1NTk5YNHBncEFkVjhMRzNtLVkyNVowMnlJUFF1UUhETEhqUTRTQ18?oc=5",
        "source": "UToday",
        "published_at": "2026-08-25 07:00"
+      },
+      {
+       "title": "Rouwprofessor Lonneke Lenferink: ‘Ik voelde me nooit heel erg thuis op de universiteit’",
+       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaW9yV1BjbmFhVDVrY21qQ3BsOVlDejlnWHQxYWFyYnBCcDctcVUxWmZaeFh1RXlwWlJKYVhwSFJZeU9Sa2hCU0J1WUlQcktHRDNrb1Y2Q25Yc1VPMDFxTnE4c1pHQjZuX2kza1UwTGsteDg4ZDhEX3FpX3dJaXgyNkwxWG56YS15RlEwSjhJamRnRzM5NTczWF9RRnRvd3F5UDM4YXU0NUpqZU0zUGU1aE03YW1vRHlNbFlOS2hJcw?oc=5",
+       "source": "UToday",
+       "published_at": "2026-07-08 07:00"
       }
      ]
     }
@@ -237,76 +232,76 @@
    "note": null,
    "clusters": [
     {
-     "label": "المنصوري · على",
+     "label": "المغرب",
      "articles": [
       {
-       "title": "المنصوري تهاجم \"بيجيدي\": خطاب المظلومية لـ2011 \"مبْقاش كيوكل\"",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%85%d9%86%d8%b5%d9%88%d8%b1%d9%8a-%d8%aa%d9%87%d8%a7%d8%ac%d9%85-%d8%a8%d9%8a%d8%ac%d9%8a%d8%af%d9%8a-%d8%ae%d8%b7%d8%a7%d8%a8-%d8%a7%d9%84%d9%85%d8%b8%d9%84%d9%88%d9%85%d9%8a-1827407.html",
+       "title": "المغرب التنموي.. هندسة الأثر الميداني",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d8%a7%d9%84%d8%aa%d9%86%d9%85%d9%88%d9%8a-%d9%87%d9%86%d8%af%d8%b3%d8%a9-%d8%a7%d9%84%d8%a3%d8%ab%d8%b1-%d8%a7%d9%84%d9%85%d9%8a%d8%af%d8%a7%d9%86%d9%8a-1827516.html",
        "source": "Hespress",
-       "published_at": "2026-10-22 19:40"
+       "published_at": "2026-10-22 22:58"
       },
       {
-       "title": "المنصوري ترد على الأزمي",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%85%d9%86%d8%b5%d9%88%d8%b1%d9%8a-%d8%aa%d8%b1%d8%af-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d8%a3%d8%b2%d9%85%d9%8a-1827387.html",
+       "title": "رصيف الصحافة: مطالب بإلغاء توحيد أختام اللحوم بالمجازر في المغرب",
+       "url": "https://www.hespress.com/%d8%b1%d8%b5%d9%8a%d9%81-%d8%a7%d9%84%d8%b5%d8%ad%d8%a7%d9%81%d8%a9-%d9%85%d8%b7%d8%a7%d9%84%d8%a8-%d8%a8%d8%a5%d9%84%d8%ba%d8%a7%d8%a1-%d8%aa%d9%88%d8%ad%d9%8a%d8%af-%d8%a3%d8%ae%d8%aa%d8%a7%d9%85-1827498.html",
        "source": "Hespress",
-       "published_at": "2026-10-22 19:10"
+       "published_at": "2026-10-22 22:00"
       },
       {
-       "title": "جواب المنصوري والتصويت على البرنامج الحكومي",
-       "url": "https://www.hespress.com/%d8%ac%d9%88%d8%a7%d8%a8-%d8%a7%d9%84%d9%85%d9%86%d8%b5%d9%88%d8%b1%d9%8a-%d9%88%d8%a7%d9%84%d8%aa%d8%b5%d9%88%d9%8a%d8%aa-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac-%d8%a7-1827372.html",
+       "title": "بنك المغرب يضبط 4064 ورقة نقدية مزورة وسط تداول قياسي لـ\"الكاش\"",
+       "url": "https://www.hespress.com/%d8%a8%d9%86%d9%83-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d9%8a%d8%b6%d8%a8%d8%b7-4064-%d9%88%d8%b1%d9%82%d8%a9-%d9%86%d9%82%d8%af%d9%8a%d8%a9-%d9%85%d8%b2%d9%88%d8%b1%d8%a9-%d9%88%d8%b3%d8%b7-%d8%aa-1827262.html",
        "source": "Hespress",
-       "published_at": "2026-10-22 18:32"
+       "published_at": "2026-10-22 21:00"
       }
      ]
     },
     {
-     "label": "أسعار",
+     "label": "المنصوري",
      "articles": [
       {
-       "title": "ترامب يتهم طهران برفع أسعار النفط",
-       "url": "https://www.hespress.com/%d8%aa%d8%b1%d8%a7%d9%85%d8%a8-%d9%8a%d8%aa%d9%87%d9%85-%d8%b7%d9%87%d8%b1%d8%a7%d9%86-%d8%a8%d8%b1%d9%81%d8%b9-%d8%a3%d8%b3%d8%b9%d8%a7%d8%b1-%d8%a7%d9%84%d9%86%d9%81%d8%b7-1827392.html",
+       "title": "المنصوري: الفساد سرطان ينخر المجتمع.. وبجيجو بريء من تضارب المصالح",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%85%d9%86%d8%b5%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d9%81%d8%b3%d8%a7%d8%af-%d8%b3%d8%b1%d8%b7%d8%a7%d9%86-%d9%8a%d9%86%d8%ae%d8%b1-%d8%a7%d9%84%d9%85%d8%ac%d8%aa%d9%85%d8%b9-%d9%88%d8%a8-1827538.html",
        "source": "Hespress",
-       "published_at": "2026-10-22 19:10"
+       "published_at": "2026-10-22 23:00"
       },
       {
-       "title": "تراجع الإنتاج يلهب أسعار الدجاج بالمغرب.. وتحذيرات من المضاربة والاحتكار",
-       "url": "https://www.hespress.com/%d8%aa%d8%b1%d8%a7%d8%ac%d8%b9-%d8%a7%d9%84%d8%a5%d9%86%d8%aa%d8%a7%d8%ac-%d9%8a%d9%84%d9%87%d8%a8-%d8%a3%d8%b3%d8%b9%d8%a7%d8%b1-%d8%a7%d9%84%d8%af%d8%ac%d8%a7%d8%ac-%d8%a8%d8%a7%d9%84%d9%85%d8%ba-1827145.html",
+       "title": "المنصوري: \"الرياضة تحمي الناشئة\"",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%85%d9%86%d8%b5%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d8%a9-%d8%b3%d9%8a%d8%a7%d8%b3%d8%a9-%d8%aa%d8%ad%d9%85%d9%8a-%d8%a7%d9%84%d9%86%d8%a7%d8%b4%d8%a6%d8%a9-1827444.html",
        "source": "Hespress",
-       "published_at": "2026-10-22 18:00"
+       "published_at": "2026-10-22 21:19"
       }
      ]
     },
     {
-     "label": "شرطة · النظافة",
+     "label": "الأغلبية · والمعارضة",
      "articles": [
       {
-       "title": "شرطة النظافة تشعل خلافا بالبيضاء",
-       "url": "https://www.hespress.com/%d8%b4%d8%b1%d8%b7%d8%a9-%d8%a7%d9%84%d9%86%d8%b8%d8%a7%d9%81%d8%a9-%d8%aa%d8%b4%d8%b9%d9%84-%d8%ae%d9%84%d8%a7%d9%81%d8%a7-%d8%a8%d8%a7%d9%84%d8%a8%d9%8a%d8%b6%d8%a7%d8%a1-1827257.html",
+       "title": "الأغلبية ترحب والمعارضة تنتقد",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%a3%d8%ba%d9%84%d8%a8%d9%8a%d8%a9-%d8%aa%d8%b1%d8%ad%d8%a8-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d8%a7%d8%b1%d8%b6%d8%a9-%d8%aa%d9%86%d8%aa%d9%82%d8%af-1827513.html",
        "source": "Hespress",
-       "published_at": "2026-10-22 18:42"
+       "published_at": "2026-10-22 22:16"
       },
       {
-       "title": "الرميلي تعلن شرطة النظافة",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%b1%d9%85%d9%8a%d9%84%d9%8a-%d8%aa%d8%b9%d9%84%d9%86-%d8%b4%d8%b1%d8%b7%d8%a9-%d8%a7%d9%84%d9%86%d8%b8%d8%a7%d9%81%d8%a9-1827356.html",
+       "title": "بعد تنصيب الحكومة الجديدة.. الأغلبية والمعارضة تبرران خيارات التصويت",
+       "url": "https://www.hespress.com/%d8%a8%d8%b9%d8%af-%d8%aa%d9%86%d8%b5%d9%8a%d8%a8-%d8%ad%d9%83%d9%88%d9%85%d8%a9-%d8%a7%d9%84%d9%85%d9%86%d8%b5%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%a3%d8%ba%d9%84%d8%a8%d9%8a%d8%a9-%d9%88%d8%a7-1827501.html",
        "source": "Hespress",
-       "published_at": "2026-10-22 18:10"
+       "published_at": "2026-10-22 22:05"
       }
      ]
     },
     {
-     "label": "والمعارضة · الأغلبية",
+     "label": "Millions",
      "articles": [
       {
-       "title": "سبتة ومليلية المحتلتان توحدان مواقف الأغلبية والمعارضة بقبة البرلمان",
-       "url": "https://www.hespress.com/%d8%b3%d8%a8%d8%aa%d8%a9-%d9%88%d9%85%d9%84%d9%8a%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d8%ad%d8%aa%d9%84%d8%aa%d8%a7%d9%86-%d8%aa%d9%88%d8%ad%d8%af%d8%a7%d9%86-%d9%85%d9%88%d8%a7%d9%82%d9%81-%d8%a7-1827361.html",
-       "source": "Hespress",
-       "published_at": "2026-10-22 18:30"
+       "title": "Sebta chiffre à 75 millions d’euros les pertes liées à la crise et à 90 % la chute du tourisme",
+       "url": "https://telquel.ma/instant-t/2026/10/22/sebta-chiffre-a-75-millions-deuros-les-pertes-liees-a-la-crise-et-a-90-la-chute-du-tourisme_2014510/",
+       "source": "TelQuel",
+       "published_at": "2026-10-22 17:06"
       },
       {
-       "title": "البرنامج الحكومي بعيون الأغلبية والمعارضة",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%85%d8%b9%d8%a7%d8%b1%d8%b6%d8%a9-%d8%aa%d9%86%d8%aa%d9%82%d8%af-%d8%a7%d9%84%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac-%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d9%8a-2-1827340.html",
-       "source": "Hespress",
-       "published_at": "2026-10-22 17:45"
+       "title": "Mondial féminin 2027 : la FIFA relève à 2,5 millions de dollars les fonds de préparation des fédérations participantes",
+       "url": "https://telquel.ma/instant-t/2026/10/22/mondial-feminin-2027-la-fifa-releve-a-25-millions-de-dollars-les-fonds-de-preparation-des-federations-participantes_2014480/",
+       "source": "TelQuel",
+       "published_at": "2026-10-22 16:24"
       }
      ]
     },
@@ -314,28 +309,34 @@
      "label": "More headlines",
      "articles": [
       {
-       "title": "المغرب الفاسي يشد الرحال إلى أبيدجان",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d8%a7%d9%84%d9%81%d8%a7%d8%b3%d9%8a-%d9%8a%d8%b4%d8%af-%d8%a7%d9%84%d8%b1%d8%ad%d8%a7%d9%84-%d8%a5%d9%84%d9%89-%d8%a3%d8%a8%d9%8a%d8%af%d8%ac%d8%a7%d9%86-1827400.html",
+       "title": "جلسة مشتركة لمجلسي البرلمان الجمعة",
+       "url": "https://www.hespress.com/%d8%ac%d9%84%d8%b3%d8%a9-%d9%85%d8%b4%d8%aa%d8%b1%d9%83%d8%a9-%d9%84%d9%85%d8%ac%d9%84%d8%b3%d9%8a-%d8%a7%d9%84%d8%a8%d8%b1%d9%84%d9%85%d8%a7%d9%86-%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d8%a9-1827461.html",
        "source": "Hespress",
-       "published_at": "2026-10-22 19:44"
+       "published_at": "2026-10-22 23:08"
       },
       {
-       "title": "مشروع قانون أمريكي ينهي تواجد \"المينورسو\" ويكرس الحكم الذاتي بالصحراء",
-       "url": "https://www.hespress.com/%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d9%8a-%d9%8a%d9%86%d9%87%d9%8a-%d8%aa%d9%88%d8%a7%d8%ac%d8%af-%d8%a7%d9%84%d9%85%d9%8a%d9%86%d9%88%d8%b1%d8%b3%d9%88-%d9%88%d9%8a-1827378.html",
+       "title": "وزان يسهم في هزم أياكس لأتالانتا",
+       "url": "https://www.hespress.com/%d9%88%d8%b2%d8%a7%d9%86-%d9%8a%d8%b3%d9%87%d9%85-%d9%81%d9%8a-%d9%87%d8%b2%d9%85-%d8%a3%d9%8a%d8%a7%d9%83%d8%b3-%d9%84%d8%a3%d8%aa%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%a7-1827487.html",
        "source": "Hespress",
-       "published_at": "2026-10-22 19:00"
+       "published_at": "2026-10-22 22:33"
       },
       {
-       "title": "مجموعة صينية تطلق مشروعا بطنجة",
-       "url": "https://www.hespress.com/%d9%85%d8%ac%d9%85%d9%88%d8%b9%d8%a9-%d8%b5%d9%8a%d9%86%d9%8a%d8%a9-%d8%aa%d8%b7%d9%84%d9%82-%d9%85%d8%b4%d8%b1%d9%88%d8%b9%d8%a7-%d8%a8%d8%b7%d9%86%d8%ac%d8%a9-1827073.html",
+       "title": "عدلي يسجل هدفا في شباك ميلان",
+       "url": "https://www.hespress.com/%d8%b9%d8%af%d9%84%d9%8a-%d9%8a%d8%b3%d8%ac%d9%84-%d9%87%d8%af%d9%81%d8%a7-%d9%81%d9%8a-%d8%b4%d8%a8%d8%a7%d9%83-%d9%85%d9%8a%d9%84%d8%a7%d9%86-1827466.html",
        "source": "Hespress",
-       "published_at": "2026-10-22 18:12"
+       "published_at": "2026-10-22 22:14"
       },
       {
-       "title": "Sebta chiffre à 75 millions d’euros les pertes liées à la crise et à 90 % la chute du tourisme",
-       "url": "https://telquel.ma/instant-t/2026/10/22/sebta-chiffre-a-75-millions-deuros-les-pertes-liees-a-la-crise-et-a-90-la-chute-du-tourisme_2014510/",
-       "source": "TelQuel",
-       "published_at": "2026-10-22 17:06"
+       "title": "16 قتيلا و32 مصابا في زلزال الصين",
+       "url": "https://www.hespress.com/16-%d9%82%d8%aa%d9%8a%d9%84%d8%a7-%d9%8832-%d9%85%d8%b5%d8%a7%d8%a8%d8%a7-%d9%81%d9%8a-%d8%b2%d9%84%d8%b2%d8%a7%d9%84-%d8%a7%d9%84%d8%b5%d9%8a%d9%86-1827446.html",
+       "source": "Hespress",
+       "published_at": "2026-10-22 21:01"
+      },
+      {
+       "title": "الاحتجاجات الطلابية تصل إلى النمسا",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%a7%d8%ad%d8%aa%d8%ac%d8%a7%d8%ac%d8%a7%d8%aa-%d8%a7%d9%84%d8%b7%d9%84%d8%a7%d8%a8%d9%8a%d8%a9-%d8%aa%d8%b5%d9%84-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d9%86%d9%85%d8%b3%d8%a7-1827428.html",
+       "source": "Hespress",
+       "published_at": "2026-10-22 20:30"
       },
       {
        "title": "Région MENA : le FMI projette une croissance de 6,6 % en 2027",
@@ -360,12 +361,6 @@
        "url": "https://telquel.ma/instant-t/2026/10/22/le-19e-moussem-de-tan-tan-du-30-octobre-au-3-novembre_2014483/",
        "source": "TelQuel",
        "published_at": "2026-10-22 16:28"
-      },
-      {
-       "title": "Mondial féminin 2027 : la FIFA relève à 2,5 millions de dollars les fonds de préparation des fédérations participantes",
-       "url": "https://telquel.ma/instant-t/2026/10/22/mondial-feminin-2027-la-fifa-releve-a-25-millions-de-dollars-les-fonds-de-preparation-des-federations-participantes_2014480/",
-       "source": "TelQuel",
-       "published_at": "2026-10-22 16:24"
       }
      ]
     }
@@ -382,8 +377,14 @@
      "label": "",
      "articles": [
       {
+       "title": "NHG-grens stijgt veel sneller dan de leenruimte van kopers: ’Het zegt weinig meer over de betaalbaarheid’",
+       "url": "https://www.telegraaf.nl/financieel/nhg-grens-stijgt-veel-sneller-dan-de-leenruimte-van-kopers-het-zegt-weinig-meer-over-de-betaalbaarheid/163466095.html",
+       "source": "de Telegraaf",
+       "published_at": "2026-10-22 22:01"
+      },
+      {
        "title": "Rente van 2,5 procent op studieleningen lukt niet, studentenvakbond woest",
-       "url": "https://www.nu.nl/binnenland/6414079/rente-van-25-procent-op-studieleningen-lukt-niet-studentenvakbond-woest.html",
+       "url": "https://www.nu.nl/economie/6414079/rente-van-25-procent-op-studieleningen-lukt-niet-studentenvakbond-woest.html",
        "source": "NU.nl",
        "published_at": "2026-10-22 19:11"
       },
@@ -396,7 +397,7 @@
      ]
     }
    ],
-   "count": 2
+   "count": 3
   },
   {
    "key": "mideast",
@@ -405,14 +406,25 @@
    "note": null,
    "clusters": [
     {
-     "label": "Israel",
+     "label": "Iran",
      "articles": [
       {
-       "title": "Aipac halts candidate endorsements amid US backlash against Israel",
-       "url": "https://www.theguardian.com/world/2026/oct/22/aipac-politics-endorsements-israel",
-       "source": "Guardian World",
-       "published_at": "2026-10-22 19:54"
+       "title": "Epstein, Iran and ‘drain the swamp’: Have Republicans shifted before vote?",
+       "url": "https://www.aljazeera.com/news/2026/10/22/epstein-iran-and-drain-the-swamp-have-republicans-shifted-before-vote?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-10-22 20:05"
       },
+      {
+       "title": "Iran says seven ships hit in Hormuz Strait, warns US of wider response",
+       "url": "https://www.aljazeera.com/news/2026/10/22/iran-says-seven-ships-hit-in-hormuz-strait-warns-us-of-wider-response?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-10-22 17:58"
+      }
+     ]
+    },
+    {
+     "label": "Israel",
+     "articles": [
       {
        "title": "Israel frees suspects in two settler attacks as West Bank pogroms intensify",
        "url": "https://www.aljazeera.com/news/2026/10/22/israel-frees-suspects-in-two-settler-attacks-as-west-bank-pogroms-intensify?traffic_source=rss",
@@ -420,21 +432,38 @@
        "published_at": "2026-10-22 18:17"
       },
       {
-       "title": "Netanyahu promises Iran regime change: Can Israel topple Tehran government?",
-       "url": "https://www.aljazeera.com/news/2026/10/22/netanyahu-promises-iran-regime-change-can-israel-topple-tehran-government?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-10-22 14:55"
+       "title": "How do Israel's elections work and who are the main contenders?",
+       "url": "https://www.bbc.co.uk/news/articles/cx8dz75633vjo?at_medium=RSS&at_campaign=rss",
+       "source": "BBC World",
+       "published_at": "2026-10-22 09:27"
       }
      ]
     },
     {
-     "label": "Attacks",
+     "label": "Crisis",
      "articles": [
       {
-       "title": "Israeli attacks kill four as famine risk looms in Gaza",
-       "url": "https://www.aljazeera.com/news/2026/10/22/israeli-attacks-in-gaza-kill-four-including-a-young-girl?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-10-22 16:06"
+       "title": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
+       "url": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&at_campaign=rss",
+       "source": "BBC World",
+       "published_at": "2026-10-22 15:56"
+      },
+      {
+       "title": "Besieged Yemeni city on verge of ‘unmanageable’ crisis, aid workers warn",
+       "url": "https://www.theguardian.com/world/2026/oct/21/besieged-yemeni-city-taiz-houthis-humanitarian-crisis-aid-workers",
+       "source": "Guardian World",
+       "published_at": "2026-10-21 14:24"
+      }
+     ]
+    },
+    {
+     "label": "Arabia · Saudi",
+     "articles": [
+      {
+       "title": "Two killed in Houthi attack on airport in eastern Saudi Arabia, authorities say",
+       "url": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&at_campaign=rss",
+       "source": "BBC World",
+       "published_at": "2026-10-22 13:46"
       },
       {
        "title": "Some US diplomats told to leave Saudi Arabia amid Houthi attacks",
@@ -448,22 +477,10 @@
      "label": "More headlines",
      "articles": [
       {
-       "title": "Iran says seven ships hit in Hormuz Strait, warns US of wider response",
-       "url": "https://www.aljazeera.com/news/2026/10/22/iran-says-seven-ships-hit-in-hormuz-strait-warns-us-of-wider-response?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-10-22 17:58"
-      },
-      {
        "title": "‘Longer we wait, worse it gets’: Struggle of Gaza’s breast cancer patients",
        "url": "https://www.aljazeera.com/features/2026/10/22/longer-we-wait-worse-it-gets-struggle-of-gazas-breast-cancer-patients?traffic_source=rss",
        "source": "Al Jazeera",
        "published_at": "2026-10-22 17:40"
-      },
-      {
-       "title": "Jerusalem Daily: Israeli soldier abusing cat goes viral",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/jerusalem-daily-israeli-soldier-abusing-cat-goes-viral?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-10-22 17:25"
       },
       {
        "title": "Revealed: billionaire Reform donor was in business with foundation linked to Iranian regime",
@@ -472,22 +489,16 @@
        "published_at": "2026-10-22 16:39"
       },
       {
-       "title": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
-       "url": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&at_campaign=rss",
-       "source": "BBC World",
-       "published_at": "2026-10-22 15:56"
-      },
-      {
-       "title": "Two killed in Houthi attack on airport in eastern Saudi Arabia, authorities say",
-       "url": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&at_campaign=rss",
-       "source": "BBC World",
-       "published_at": "2026-10-22 13:46"
-      },
-      {
        "title": "El Salvador's president threatens Haitian gangs over military hostages",
        "url": "https://www.bbc.co.uk/news/articles/cq33xpjekve4o?at_medium=RSS&at_campaign=rss",
        "source": "BBC World",
        "published_at": "2026-10-22 10:17"
+      },
+      {
+       "title": "How Arab parties could hold critical balance of power in Israeli election",
+       "url": "https://www.bbc.co.uk/news/articles/cx8dzrp768j8o?at_medium=RSS&at_campaign=rss",
+       "source": "BBC World",
+       "published_at": "2026-10-22 05:30"
       }
      ]
     }
@@ -501,8 +512,20 @@
    "note": null,
    "clusters": [
     {
-     "label": "Ukraine · Russia",
+     "label": "Ukraine · Starlink",
      "articles": [
+      {
+       "title": "Trump says Musk has restored access to Ukraine's Starlink network",
+       "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+       "source": "BBC World",
+       "published_at": "2026-10-22 21:42"
+      },
+      {
+       "title": "Rosneft admits losses from Ukraine's refinery strikes becoming unsustainable, Bloomberg reports",
+       "url": "https://kyivindependent.com/rosneft-admits-losses-from-ukraines-refinery-strikes-becoming-unsustainable-bloomberg-reports/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-10-22 21:04"
+      },
       {
        "title": "Kyiv denies reports that Trump, Musk have restored Starlink speeds in Ukraine",
        "url": "https://kyivindependent.com/kyiv-denies-reports-that-trump-musk-have-restored-starlink-speeds-in-ukraine/",
@@ -520,24 +543,18 @@
        "url": "https://kyivindependent.com/ukraine-war-latest-ukrainian-troops-infiltrate-russian-rear-near-kupiansk-through-15-kilometers-of-gas-pipelines/",
        "source": "Kyiv Independent",
        "published_at": "2026-10-22 18:03"
-      },
+      }
+     ]
+    },
+    {
+     "label": "Russia · Strikes",
+     "articles": [
       {
        "title": "Ukraine hit by strikes after Russia agrees to new peace talks",
        "url": "https://www.bbc.co.uk/news/videos/c9146p1vx888o?at_medium=RSS&at_campaign=rss",
        "source": "BBC World",
        "published_at": "2026-10-22 17:49"
       },
-      {
-       "title": "Ukraine strikes Russian electronic warfare station, General Staff says",
-       "url": "https://kyivindependent.com/ukraine-strikes-russian-electronic-warfare-station-general-staff-says/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-10-22 16:54"
-      }
-     ]
-    },
-    {
-     "label": "Russia",
-     "articles": [
       {
        "title": "Russia sentences 77-year-old Crimean activist to 18 years over alleged plot against Moscow's proxy",
        "url": "https://kyivindependent.com/russia-sentences-77-year-old-crimean-activist-to-18-years-over-alleged-plot-to-kill-moscows-proxy/",
@@ -555,12 +572,6 @@
        "url": "https://kyivindependent.com/what-russians-are-told-and-not-told-about-ukrainian-strikes/",
        "source": "Kyiv Independent",
        "published_at": "2026-10-22 16:09"
-      },
-      {
-       "title": "Russia bombards Kyiv with missiles hours after agreeing to resume talks with Ukraine",
-       "url": "https://www.theguardian.com/world/2026/oct/22/russia-missile-attack-kyiv-hours-after-agreeing-to-talks-ukraine",
-       "source": "Guardian World",
-       "published_at": "2026-10-22 15:46"
       }
      ]
     },
@@ -578,17 +589,12 @@
        "url": "https://www.bbc.co.uk/news/articles/cmx28y5e04ggo?at_medium=RSS&at_campaign=rss",
        "source": "BBC World",
        "published_at": "2026-10-22 17:07"
-      }
-     ]
-    },
-    {
-     "label": "More headlines",
-     "articles": [
+      },
       {
-       "title": "Just hours after being bombed, we asked people in Kyiv about Witkoff's praise of Putin",
-       "url": "https://kyivindependent.com/just-hours-after-being-bombed-we-asked-people-in-kyiv-about-witkoffs-praise-of-putin/",
+       "title": "Ukraine strikes Russian electronic warfare station, General Staff says",
+       "url": "https://kyivindependent.com/ukraine-strikes-russian-electronic-warfare-station-general-staff-says/",
        "source": "Kyiv Independent",
-       "published_at": "2026-10-22 15:20"
+       "published_at": "2026-10-22 16:54"
       }
      ]
     }
