@@ -1,12 +1,12 @@
 {
- "date": "Thursday 22 October 2026",
- "generated_at": "23:15 UTC",
+ "date": "Friday 23 October 2026",
+ "generated_at": "01:48 UTC",
  "error": null,
- "total_stories": 73,
+ "total_stories": 71,
  "fx": {
   "pair": "EUR/MAD",
-  "rate": 10.989,
-  "change_pct": 0.0
+  "rate": 10.999,
+  "change_pct": 0.09
  },
  "lanes": [
   {
@@ -15,6 +15,35 @@
    "icon": "🤖",
    "note": null,
    "clusters": [
+    {
+     "label": "Flash · Next",
+     "articles": [
+      {
+       "title": "MiniMax-M3.1-Flash",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xd0fgs/minimaxm31flash/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-10-23 01:12"
+      },
+      {
+       "title": "Qwen 3.8 Flash Next (129 GB) is better than 2.6 bpw DeepSeek V4.1 Flash 1017 (187 GB + 203 GB Engram)",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcylhj/qwen_38_flash_next_129_gb_is_better_than_26_bpw/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-10-22 23:47"
+      },
+      {
+       "title": "Meta's 816B Muse Spark Open scores 39 on Artificial Analysis, the 180B Qwen3.8-Flash-Next scores 40. Score vs size for 11 open-weight models",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcthj8/metas_816b_muse_spark_open_scores_39_on/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-10-22 20:14"
+      },
+      {
+       "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017 · 2367 ♥",
+       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+       "source": "HF new models",
+       "published_at": "2026-10-17 02:40"
+      }
+     ]
+    },
     {
      "label": "Image · Comfy",
      "articles": [
@@ -25,19 +54,19 @@
        "published_at": "2026-10-22 21:51"
       },
       {
-       "title": "Comfy-Org/MOSS-Image · 362 ♥",
+       "title": "Comfy-Org/MOSS-Image · 365 ♥",
        "url": "https://huggingface.co/Comfy-Org/MOSS-Image",
        "source": "HF new models",
        "published_at": "2026-10-16 12:42"
       },
       {
-       "title": "black-forest-labs/flux-3-image-klein-comfy · 1299 ♥",
+       "title": "black-forest-labs/flux-3-image-klein-comfy · 1308 ♥",
        "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
        "source": "HF new models",
        "published_at": "2026-10-14 12:00"
       },
       {
-       "title": "black-forest-labs/flux-3-image-klein · 636 ♥",
+       "title": "black-forest-labs/flux-3-image-klein · 637 ♥",
        "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein",
        "source": "HF new models",
        "published_at": "2026-10-13 10:58"
@@ -45,7 +74,41 @@
      ]
     },
     {
-     "label": "Agents",
+     "label": "Flint",
+     "articles": [
+      {
+       "title": "Flint 40B-A2.5B vs Ornith 1.5 35B-A3B vs Nemotron 3.5 Lightning",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xczcgk/flint_40ba25b_vs_ornith_15_35ba3b_vs_nemotron_35/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-10-23 00:21"
+      },
+      {
+       "title": "RecursiveSI/flint · 541 ♥",
+       "url": "https://huggingface.co/RecursiveSI/flint",
+       "source": "HF new models",
+       "published_at": "2026-10-21 14:20"
+      }
+     ]
+    },
+    {
+     "label": "Making",
+     "articles": [
+      {
+       "title": "LLMs are making formal software verification feasible at a much larger scale",
+       "url": "https://www.anthropic.com/research/formal-verification",
+       "source": "Hacker News",
+       "published_at": "2026-10-22 22:54"
+      },
+      {
+       "title": "Making Kokoro TTS 50-100x faster without knowing how",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcuqor/making_kokoro_tts_50100x_faster_without_knowing/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-10-22 21:02"
+      }
+     ]
+    },
+    {
+     "label": "More headlines",
      "articles": [
       {
        "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
@@ -54,61 +117,16 @@
        "published_at": "2026-10-22 22:24"
       },
       {
-       "title": "NVIDIA/OpenShell: safe, private runtime for autonomous AI agents",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcs9e2/nvidiaopenshell_safe_private_runtime_for/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-10-22 19:29"
-      }
-     ]
-    },
-    {
-     "label": "Tts",
-     "articles": [
-      {
-       "title": "Making Kokoro TTS 50-100x faster without knowing how",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcuqor/making_kokoro_tts_50100x_faster_without_knowing/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-10-22 21:02"
-      },
-      {
-       "title": "What is Currently best open source TTS model for most natural voice generation",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcpjbk/what_is_currently_best_open_source_tts_model_for/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-10-22 17:48"
-      }
-     ]
-    },
-    {
-     "label": "Engines",
-     "articles": [
-      {
        "title": "Is anyone else concerned about the security of the implementation engines?",
        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcu4or/is_anyone_else_concerned_about_the_security_of/",
        "source": "r/LocalLLaMA",
        "published_at": "2026-10-22 20:38"
       },
       {
-       "title": "Massive B70 spec-decoding improvement - Intel XMX matrix engines refactored by budiony · Pull Request #29864 · ggml-org/llama.cpp",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcqb3p/massive_b70_specdecoding_improvement_intel_xmx/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-10-22 18:16"
-      }
-     ]
-    },
-    {
-     "label": "More headlines",
-     "articles": [
-      {
        "title": "Meta’s AI could still scrape news sites, legal experts say",
        "url": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
        "source": "Verge AI",
        "published_at": "2026-10-22 20:32"
-      },
-      {
-       "title": "Meta's 816B Muse Spark Open scores 39 on Artificial Analysis, the 180B Qwen3.8-Flash-Next scores 40. Score vs size for 11 open-weight models",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcthj8/metas_816b_muse_spark_open_scores_39_on/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-10-22 20:14"
       },
       {
        "title": "AuroraTTS-100K Releases!",
@@ -117,28 +135,10 @@
        "published_at": "2026-10-22 20:08"
       },
       {
-       "title": "Whatever happened to TurboQuant?",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcqm0z/whatever_happened_to_turboquant/",
+       "title": "NVIDIA/OpenShell: safe, private runtime for autonomous AI agents",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcs9e2/nvidiaopenshell_safe_private_runtime_for/",
        "source": "r/LocalLLaMA",
-       "published_at": "2026-10-22 18:28"
-      },
-      {
-       "title": "Microsoft says its AI tool is better than doctors at diagnosing conditions",
-       "url": "https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence",
-       "source": "Verge AI",
-       "published_at": "2026-10-22 18:00"
-      },
-      {
-       "title": "RecursiveSI/flint · 526 ♥",
-       "url": "https://huggingface.co/RecursiveSI/flint",
-       "source": "HF new models",
-       "published_at": "2026-10-21 14:20"
-      },
-      {
-       "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017 · 2350 ♥",
-       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-       "source": "HF new models",
-       "published_at": "2026-10-17 02:40"
+       "published_at": "2026-10-22 19:29"
       },
       {
        "title": "tencent/Hy-Memory-30B-A3B · 287 ♥",
@@ -158,13 +158,53 @@
    "note": null,
    "clusters": [
     {
-     "label": "",
+     "label": "Student",
+     "articles": [
+      {
+       "title": "UT en Navitas starten schakeljaar voor Beethoven-student",
+       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaWtySzlYVXBBQUhHeEd2NUdMbzBHSVl0YmJFaEpHTkM3V0lEUHlXdEoyeWJnbFJ4RGowTWRyRmR3OFNhVDZRd2J4dEVjNUh5VVFfOUxfYk1jRlBjU25jY19LcU5aR3FMdzBaYzQ0Q3dsTy1ITlRoQ3d4YkJyTm9XMHl4RFRDVWJzODdpTmFMQjZZSXM?oc=5",
+       "source": "UToday",
+       "published_at": "2026-10-22 06:29"
+      },
+      {
+       "title": "Oud-student met betalingsachterstand bij DUO krijgt voorlopig geen nieuw paspoort",
+       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNakQ4TThmNXJKcVBhaGJkX0ZFc0d1UlJtVXJucWctVmM3ZjVrT1ZCZi1YVDBKeDlhdEhiNmktQ0NFLUxxT0k1MUk5MXJ2aElrVG4yalNxNjRXZkFJU0lmTmpJaXhPRkdCcmhaLWxvcW9hM0JZUi0xMHBJNkdwdVBYWGFrcEtTaHI5dno4LVpablhBT29aNDRPaE5kYnhmaTZVcEZkN2djaDhGNDQyUk1xV1dmQTI?oc=5",
+       "source": "UToday",
+       "published_at": "2026-10-21 06:20"
+      }
+     ]
+    },
+    {
+     "label": "Moet",
+     "articles": [
+      {
+       "title": "Toezicht op hoger onderwijs moet beter, vindt onderwijsminister Letschert",
+       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaHpRN0RWT093OHRaTFVBNTFRbEpfNGJFeWdJYmlsYmxKNlBzdUwyVUlDYjM0RW84NmV0bUtybU5NaVlkaHJGV1FGWGJma0QtTWpjWEh2Y25BVmNrQmREVGpCSzlQQVFpTjZMMnVYZlJ1NW0wTk9tTjJFQmF4ZFc3V1RydV94cEFxbHAzdEpvanRSVV9Ka2FaU25oRG1MWHRxdFQwVU1zdlg?oc=5",
+       "source": "UToday",
+       "published_at": "2026-10-20 12:38"
+      },
+      {
+       "title": "Ministerie van OCW moet jaarlijks 243 miljoen euro bezuinigen op personeel",
+       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUWhoQmZINWM3dXdGQzJ2ZlZaOERNMDNSZklfdkF5UVY1Qm5obzA1SHNaV2NveXJOdUZPM20ydWVyaDF3RzNZQWR2Q19JN0Q4NmEwRUxnWHp2N2p1Yk8xdG04VHJXMHN3R2h3aU1hRHNkUlpXWTlfQTdKZWpVU0txa0J4STNRX29lU3V3azRYTjhNd1hPcXh1RFBEejBZODE2ZEZEaGFNRGVoZnM?oc=5",
+       "source": "UToday",
+       "published_at": "2026-10-20 09:19"
+      }
+     ]
+    },
+    {
+     "label": "More headlines",
      "articles": [
       {
        "title": "Maastricht was bang dat universiteiten afgerekend zouden worden op 7-oktoberfilmpje",
        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONlNjMWVPZzQ1dGlwaFlMQTR3X1FUX2l0UXRXSjkzUm40NkI0ZzhJc3dULTEyWFE2ZVZnT09WaHhGaVFwdl9TR2hJN1JWQktLMkNKRmdjd3VtelVvQnJxNE5mZTBoZUx5Njlod3JKak56WHJFZXd1aFhwR2tpRW5PdHBuSXFsLTh3VzlZcnVib09JY1FiaWRLeXJfRlZ5aFpwendZMVhtZi1EU2E4Tk9jOTJFeUthd0k?oc=5",
        "source": "UToday",
        "published_at": "2026-10-22 11:25"
+      },
+      {
+       "title": "Kick-In let op de centen: laatste dag verdwijnt uit programma",
+       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTWtncVdxS2d2bFY5Nl84bDFyOUJqUDNZM014NXowbkZrY2lnVEIwUm43eXdIcUhYS0Z6QXdXanZZbVJDU0FZLTE4dTNraGZiWThSUzhlbkQ0YmxxX21MUEtYekpKVC03UVR3dk1GLVhUMFRyQUVqV0FrTlNSNG90aFFkTzdXTmlqN090UWt5UHl6YmFOMVZZcA?oc=5",
+       "source": "UToday",
+       "published_at": "2026-10-22 10:08"
       },
       {
        "title": "Onbegrip over afstoten onderzoek Designlab",
@@ -179,46 +219,16 @@
        "published_at": "2026-10-22 08:56"
       },
       {
-       "title": "UT en Navitas starten schakeljaar voor Beethoven-student",
-       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaWtySzlYVXBBQUhHeEd2NUdMbzBHSVl0YmJFaEpHTkM3V0lEUHlXdEoyeWJnbFJ4RGowTWRyRmR3OFNhVDZRd2J4dEVjNUh5VVFfOUxfYk1jRlBjU25jY19LcU5aR3FMdzBaYzQ0Q3dsTy1ITlRoQ3d4YkJyTm9XMHl4RFRDVWJzODdpTmFMQjZZSXM?oc=5",
-       "source": "UToday",
-       "published_at": "2026-10-22 06:29"
-      },
-      {
        "title": "Bouw mee aan de toekomst van Nederland",
        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNU3cxMTJYcmJ1amdqNjFIay1FdlBlaEM0T3VWTjF3TmRUd1g5Q2NIUm1hS2hSS1lhYkd5aHY3dmE3RVk0dnFrU0doS1BlNmxTYW93V2dXRHdEbEFBNnEyWHVfdmZWd1FUTkNTaW1YenlvZ0hJVjA1Q1BZaXFLQjhURFRjRzM5YWhGSVFURzJ3OA?oc=5",
        "source": "UToday",
        "published_at": "2026-10-21 08:59"
       },
       {
-       "title": "RTL: Meer dan de helft van de masterscripties bevat teksten van AI",
-       "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBIeGtvSVQyT2IyYkZmVjFPcTJyWldleWN6UXlaQW1SWTgzRDBxcV9EOVJMNjFwSHRuTFlfaGRLZmFzVHM?oc=5",
+       "title": "Nieuwe ethische commissie geeft één negatief advies",
+       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaVNjTkVZdFhFM3l2OWZKdmt6cTJaRUVvQXpTMWRpVTdSN1hWT09MaEFSQ1Z3TkR6STgyQTZNcFJ4WmZzWThuMkJwWnpEUnMwUnJKc2M2TVFsV1dQVUc0YTBxdS15ZUpiN2ZUSW1wN1pOc0lsWGFqZFlwY0g4MzJVdE9VbkdoNGoxZ2pRYg?oc=5",
        "source": "UToday",
-       "published_at": "2026-10-15 09:15"
-      },
-      {
-       "title": "Mis geen campusnieuws: stel U-Today in als voorkeursbron",
-       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWUV2STVKSGZSdjdpQTdhRVpiMVlDREh1c0pzbjk2NU5LUUEweUtnVk9UX3pCcGtwbF9neTdtRFFSZl9lVDZTSVdhU2ljWU85SUxadXVTcUk5SVJ5dzBqYWFGd0czbmk1S1NTaC1yMFFuWDI2ZXA1M2o4aGMzU0ZzZ1BNY1FRN3hQNUZod0EydEtRZw?oc=5",
-       "source": "UToday",
-       "published_at": "2026-10-14 07:00"
-      },
-      {
-       "title": "Bike-free Boulevard, artwork disappears and Drienerloweg gets a major overhaul",
-       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9SUkxObHl6VHpVblRPa0puU2doaU1QRjFKU0FVZ0trZTBtd3JEWUZIVklyekQ4alVSQ1hRbGZpM2tvaEs0Q1VSbk5UdENxWjg?oc=5",
-       "source": "UToday",
-       "published_at": "2026-10-07 14:31"
-      },
-      {
-       "title": "UT’er kraakt twintig jaar oud wiskundeprobleem",
-       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbVg5WVlNWkxoeWcyZS1xSjdjam9ab0RGR1hWMXpkTnhBNHR0SUQyaXZVN2Jza016N1JvQmtzdTBjMmhlSE13Y01UaUJtOEdRbUtlNWhVTGc1UTJPRy1NTk5YNHBncEFkVjhMRzNtLVkyNVowMnlJUFF1UUhETEhqUTRTQ18?oc=5",
-       "source": "UToday",
-       "published_at": "2026-08-25 07:00"
-      },
-      {
-       "title": "Rouwprofessor Lonneke Lenferink: ‘Ik voelde me nooit heel erg thuis op de universiteit’",
-       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaW9yV1BjbmFhVDVrY21qQ3BsOVlDejlnWHQxYWFyYnBCcDctcVUxWmZaeFh1RXlwWlJKYVhwSFJZeU9Sa2hCU0J1WUlQcktHRDNrb1Y2Q25Yc1VPMDFxTnE4c1pHQjZuX2kza1UwTGsteDg4ZDhEX3FpX3dJaXgyNkwxWG56YS15RlEwSjhJamRnRzM5NTczWF9RRnRvd3F5UDM4YXU0NUpqZU0zUGU1aE03YW1vRHlNbFlOS2hJcw?oc=5",
-       "source": "UToday",
-       "published_at": "2026-07-08 07:00"
+       "published_at": "2026-10-20 06:30"
       }
      ]
     }
@@ -235,56 +245,16 @@
      "label": "المغرب",
      "articles": [
       {
+       "title": "المغرب يستضيف 7 مباريات بالتصفيات",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d9%8a%d8%b3%d8%aa%d8%b6%d9%8a%d9%81-7-%d9%85%d8%a8%d8%a7%d8%b1%d9%8a%d8%a7%d8%aa-%d8%a8%d8%a7%d9%84%d8%aa%d8%b5%d9%81%d9%8a%d8%a7%d8%aa-1827457.html",
+       "source": "Hespress",
+       "published_at": "2026-10-23 01:26"
+      },
+      {
        "title": "المغرب التنموي.. هندسة الأثر الميداني",
        "url": "https://www.hespress.com/%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d8%a7%d9%84%d8%aa%d9%86%d9%85%d9%88%d9%8a-%d9%87%d9%86%d8%af%d8%b3%d8%a9-%d8%a7%d9%84%d8%a3%d8%ab%d8%b1-%d8%a7%d9%84%d9%85%d9%8a%d8%af%d8%a7%d9%86%d9%8a-1827516.html",
        "source": "Hespress",
        "published_at": "2026-10-22 22:58"
-      },
-      {
-       "title": "رصيف الصحافة: مطالب بإلغاء توحيد أختام اللحوم بالمجازر في المغرب",
-       "url": "https://www.hespress.com/%d8%b1%d8%b5%d9%8a%d9%81-%d8%a7%d9%84%d8%b5%d8%ad%d8%a7%d9%81%d8%a9-%d9%85%d8%b7%d8%a7%d9%84%d8%a8-%d8%a8%d8%a5%d9%84%d8%ba%d8%a7%d8%a1-%d8%aa%d9%88%d8%ad%d9%8a%d8%af-%d8%a3%d8%ae%d8%aa%d8%a7%d9%85-1827498.html",
-       "source": "Hespress",
-       "published_at": "2026-10-22 22:00"
-      },
-      {
-       "title": "بنك المغرب يضبط 4064 ورقة نقدية مزورة وسط تداول قياسي لـ\"الكاش\"",
-       "url": "https://www.hespress.com/%d8%a8%d9%86%d9%83-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d9%8a%d8%b6%d8%a8%d8%b7-4064-%d9%88%d8%b1%d9%82%d8%a9-%d9%86%d9%82%d8%af%d9%8a%d8%a9-%d9%85%d8%b2%d9%88%d8%b1%d8%a9-%d9%88%d8%b3%d8%b7-%d8%aa-1827262.html",
-       "source": "Hespress",
-       "published_at": "2026-10-22 21:00"
-      }
-     ]
-    },
-    {
-     "label": "المنصوري",
-     "articles": [
-      {
-       "title": "المنصوري: الفساد سرطان ينخر المجتمع.. وبجيجو بريء من تضارب المصالح",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%85%d9%86%d8%b5%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d9%81%d8%b3%d8%a7%d8%af-%d8%b3%d8%b1%d8%b7%d8%a7%d9%86-%d9%8a%d9%86%d8%ae%d8%b1-%d8%a7%d9%84%d9%85%d8%ac%d8%aa%d9%85%d8%b9-%d9%88%d8%a8-1827538.html",
-       "source": "Hespress",
-       "published_at": "2026-10-22 23:00"
-      },
-      {
-       "title": "المنصوري: \"الرياضة تحمي الناشئة\"",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%85%d9%86%d8%b5%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d8%a9-%d8%b3%d9%8a%d8%a7%d8%b3%d8%a9-%d8%aa%d8%ad%d9%85%d9%8a-%d8%a7%d9%84%d9%86%d8%a7%d8%b4%d8%a6%d8%a9-1827444.html",
-       "source": "Hespress",
-       "published_at": "2026-10-22 21:19"
-      }
-     ]
-    },
-    {
-     "label": "الأغلبية · والمعارضة",
-     "articles": [
-      {
-       "title": "الأغلبية ترحب والمعارضة تنتقد",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%a3%d8%ba%d9%84%d8%a8%d9%8a%d8%a9-%d8%aa%d8%b1%d8%ad%d8%a8-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d8%a7%d8%b1%d8%b6%d8%a9-%d8%aa%d9%86%d8%aa%d9%82%d8%af-1827513.html",
-       "source": "Hespress",
-       "published_at": "2026-10-22 22:16"
-      },
-      {
-       "title": "بعد تنصيب الحكومة الجديدة.. الأغلبية والمعارضة تبرران خيارات التصويت",
-       "url": "https://www.hespress.com/%d8%a8%d8%b9%d8%af-%d8%aa%d9%86%d8%b5%d9%8a%d8%a8-%d8%ad%d9%83%d9%88%d9%85%d8%a9-%d8%a7%d9%84%d9%85%d9%86%d8%b5%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%a3%d8%ba%d9%84%d8%a8%d9%8a%d8%a9-%d9%88%d8%a7-1827501.html",
-       "source": "Hespress",
-       "published_at": "2026-10-22 22:05"
       }
      ]
     },
@@ -309,10 +279,52 @@
      "label": "More headlines",
      "articles": [
       {
+       "title": "أسرار فاس العتيقة .. حين تتداخل الأسواق والمدارس والذاكرة الإنسانية",
+       "url": "https://www.hespress.com/%d8%a3%d8%b3%d8%b1%d8%a7%d8%b1-%d9%81%d8%a7%d8%b3-%d8%a7%d9%84%d8%b9%d8%aa%d9%8a%d9%82%d8%a9-%d8%ad%d9%8a%d9%86-%d8%aa%d8%aa%d8%af%d8%a7%d8%ae%d9%84-%d8%a7%d9%84%d8%a3%d8%b3%d9%88%d8%a7%d9%82-1826981.html",
+       "source": "Hespress",
+       "published_at": "2026-10-23 01:00"
+      },
+      {
+       "title": "مغربي يعرض لوحة ضوئية في إسبانيا",
+       "url": "https://www.hespress.com/%d9%85%d8%ba%d8%b1%d8%a8%d9%8a-%d9%8a%d8%b9%d8%b1%d8%b6-%d9%84%d9%88%d8%ad%d8%a9-%d8%b6%d9%88%d8%a6%d9%8a%d8%a9-%d9%81%d9%8a-%d8%a5%d8%b3%d8%a8%d8%a7%d9%86%d9%8a%d8%a7-1827258.html",
+       "source": "Hespress",
+       "published_at": "2026-10-23 00:17"
+      },
+      {
+       "title": "باحثون مغاربة يشاركون في مراجعة علمية حول الأمراض النفسية بإفريقيا",
+       "url": "https://www.hespress.com/%d8%a8%d8%a7%d8%ad%d8%ab%d9%88%d9%86-%d9%85%d8%ba%d8%a7%d8%b1%d8%a8%d8%a9-%d9%8a%d8%b4%d8%a7%d8%b1%d9%83%d9%88%d9%86-%d9%81%d9%8a-%d9%85%d8%b1%d8%a7%d8%ac%d8%b9%d8%a9-%d8%b9%d9%84%d9%85%d9%8a%d8%a9-1827313.html",
+       "source": "Hespress",
+       "published_at": "2026-10-23 00:00"
+      },
+      {
+       "title": "الجامعة تقيم حفلا لـ\"أسود القاعة\"",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%aa%d9%82%d9%8a%d9%85-%d8%ad%d9%81%d9%84%d8%a7-%d9%84%d9%80%d8%a3%d8%b3%d9%88%d8%af-%d8%a7%d9%84%d9%82%d8%a7%d8%b9%d8%a9-1827555.html",
+       "source": "Hespress",
+       "published_at": "2026-10-22 23:49"
+      },
+      {
+       "title": "مسودة أمريكية تبعثر أوراق البوليساريو",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%85%d8%b3%d9%88%d8%af%d8%a9-%d8%a7%d9%84%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d9%8a%d8%a9-%d8%aa%d8%a8%d8%b9%d8%ab%d8%b1-%d8%a3%d9%88%d8%b1%d8%a7%d9%82-%d8%a7%d9%84%d8%a8%d9%88%d9%84%d9%8a-1827509.html",
+       "source": "Hespress",
+       "published_at": "2026-10-22 23:30"
+      },
+      {
+       "title": "ترامب ينتقد ليبرون جيمس بسبب تصرفات أثناء عزف النشيد الوطني",
+       "url": "https://www.hespress.com/%d8%aa%d8%b1%d8%a7%d9%85%d8%a8-%d9%8a%d9%86%d8%aa%d9%82%d8%af-%d9%84%d9%8a%d8%a8%d8%b1%d9%88%d9%86-%d8%ac%d9%8a%d9%85%d8%b3-%d8%a8%d8%b3%d8%a8%d8%a8-%d8%aa%d8%b5%d8%b1%d9%81%d8%a7%d8%aa-%d8%a3%d8%ab-1827532.html",
+       "source": "Hespress",
+       "published_at": "2026-10-22 23:27"
+      },
+      {
        "title": "جلسة مشتركة لمجلسي البرلمان الجمعة",
        "url": "https://www.hespress.com/%d8%ac%d9%84%d8%b3%d8%a9-%d9%85%d8%b4%d8%aa%d8%b1%d9%83%d8%a9-%d9%84%d9%85%d8%ac%d9%84%d8%b3%d9%8a-%d8%a7%d9%84%d8%a8%d8%b1%d9%84%d9%85%d8%a7%d9%86-%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d8%a9-1827461.html",
        "source": "Hespress",
        "published_at": "2026-10-22 23:08"
+      },
+      {
+       "title": "المنصوري: الفساد سرطان ينخر المجتمع.. وبجيجو بريء من تضارب المصالح",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%85%d9%86%d8%b5%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d9%81%d8%b3%d8%a7%d8%af-%d8%b3%d8%b1%d8%b7%d8%a7%d9%86-%d9%8a%d9%86%d8%ae%d8%b1-%d8%a7%d9%84%d9%85%d8%ac%d8%aa%d9%85%d8%b9-%d9%88%d8%a8-1827538.html",
+       "source": "Hespress",
+       "published_at": "2026-10-22 23:00"
       },
       {
        "title": "وزان يسهم في هزم أياكس لأتالانتا",
@@ -321,22 +333,10 @@
        "published_at": "2026-10-22 22:33"
       },
       {
-       "title": "عدلي يسجل هدفا في شباك ميلان",
-       "url": "https://www.hespress.com/%d8%b9%d8%af%d9%84%d9%8a-%d9%8a%d8%b3%d8%ac%d9%84-%d9%87%d8%af%d9%81%d8%a7-%d9%81%d9%8a-%d8%b4%d8%a8%d8%a7%d9%83-%d9%85%d9%8a%d9%84%d8%a7%d9%86-1827466.html",
+       "title": "الأغلبية ترحب والمعارضة تنتقد",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%a3%d8%ba%d9%84%d8%a8%d9%8a%d8%a9-%d8%aa%d8%b1%d8%ad%d8%a8-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d8%a7%d8%b1%d8%b6%d8%a9-%d8%aa%d9%86%d8%aa%d9%82%d8%af-1827513.html",
        "source": "Hespress",
-       "published_at": "2026-10-22 22:14"
-      },
-      {
-       "title": "16 قتيلا و32 مصابا في زلزال الصين",
-       "url": "https://www.hespress.com/16-%d9%82%d8%aa%d9%8a%d9%84%d8%a7-%d9%8832-%d9%85%d8%b5%d8%a7%d8%a8%d8%a7-%d9%81%d9%8a-%d8%b2%d9%84%d8%b2%d8%a7%d9%84-%d8%a7%d9%84%d8%b5%d9%8a%d9%86-1827446.html",
-       "source": "Hespress",
-       "published_at": "2026-10-22 21:01"
-      },
-      {
-       "title": "الاحتجاجات الطلابية تصل إلى النمسا",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%a7%d8%ad%d8%aa%d8%ac%d8%a7%d8%ac%d8%a7%d8%aa-%d8%a7%d9%84%d8%b7%d9%84%d8%a7%d8%a8%d9%8a%d8%a9-%d8%aa%d8%b5%d9%84-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d9%86%d9%85%d8%b3%d8%a7-1827428.html",
-       "source": "Hespress",
-       "published_at": "2026-10-22 20:30"
+       "published_at": "2026-10-22 22:16"
       },
       {
        "title": "Région MENA : le FMI projette une croissance de 6,6 % en 2027",
@@ -409,33 +409,16 @@
      "label": "Iran",
      "articles": [
       {
+       "title": "Iran war live: Trump hints new strikes, says US knocked ‘hell out’ of Iran",
+       "url": "https://www.aljazeera.com/news/liveblog/2026/10/23/trump-hints-new-strikes-says-us-knocked-hell-out-of-iran?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-10-23 00:00"
+      },
+      {
        "title": "Epstein, Iran and ‘drain the swamp’: Have Republicans shifted before vote?",
        "url": "https://www.aljazeera.com/news/2026/10/22/epstein-iran-and-drain-the-swamp-have-republicans-shifted-before-vote?traffic_source=rss",
        "source": "Al Jazeera",
        "published_at": "2026-10-22 20:05"
-      },
-      {
-       "title": "Iran says seven ships hit in Hormuz Strait, warns US of wider response",
-       "url": "https://www.aljazeera.com/news/2026/10/22/iran-says-seven-ships-hit-in-hormuz-strait-warns-us-of-wider-response?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-10-22 17:58"
-      }
-     ]
-    },
-    {
-     "label": "Israel",
-     "articles": [
-      {
-       "title": "Israel frees suspects in two settler attacks as West Bank pogroms intensify",
-       "url": "https://www.aljazeera.com/news/2026/10/22/israel-frees-suspects-in-two-settler-attacks-as-west-bank-pogroms-intensify?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-10-22 18:17"
-      },
-      {
-       "title": "How do Israel's elections work and who are the main contenders?",
-       "url": "https://www.bbc.co.uk/news/articles/cx8dz75633vjo?at_medium=RSS&at_campaign=rss",
-       "source": "BBC World",
-       "published_at": "2026-10-22 09:27"
       }
      ]
     },
@@ -457,7 +440,7 @@
      ]
     },
     {
-     "label": "Arabia · Saudi",
+     "label": "Houthi · Arabia",
      "articles": [
       {
        "title": "Two killed in Houthi attack on airport in eastern Saudi Arabia, authorities say",
@@ -477,12 +460,6 @@
      "label": "More headlines",
      "articles": [
       {
-       "title": "‘Longer we wait, worse it gets’: Struggle of Gaza’s breast cancer patients",
-       "url": "https://www.aljazeera.com/features/2026/10/22/longer-we-wait-worse-it-gets-struggle-of-gazas-breast-cancer-patients?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-10-22 17:40"
-      },
-      {
        "title": "Revealed: billionaire Reform donor was in business with foundation linked to Iranian regime",
        "url": "https://www.theguardian.com/politics/2026/oct/22/reform-farage-donor-business-ties-iran-ayatollahs",
        "source": "Guardian World",
@@ -495,6 +472,12 @@
        "published_at": "2026-10-22 10:17"
       },
       {
+       "title": "How do Israel's elections work and who are the main contenders?",
+       "url": "https://www.bbc.co.uk/news/articles/cx8dz75633vjo?at_medium=RSS&at_campaign=rss",
+       "source": "BBC World",
+       "published_at": "2026-10-22 09:27"
+      },
+      {
        "title": "How Arab parties could hold critical balance of power in Israeli election",
        "url": "https://www.bbc.co.uk/news/articles/cx8dzrp768j8o?at_medium=RSS&at_campaign=rss",
        "source": "BBC World",
@@ -503,7 +486,7 @@
      ]
     }
    ],
-   "count": 12
+   "count": 10
   },
   {
    "key": "ukraine",
@@ -514,6 +497,12 @@
     {
      "label": "Ukraine · Starlink",
      "articles": [
+      {
+       "title": "Amid Starlink crisis, Finnish tech giants announce plan to help Ukraine build its own sovereign satellite system",
+       "url": "https://kyivindependent.com/amid-starlink-crisis-finnish-tech-giants-announce-plan-to-help-ukraine-build-its-own-sovereign-satellite-system/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-10-22 23:29"
+      },
       {
        "title": "Trump says Musk has restored access to Ukraine's Starlink network",
        "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
@@ -537,47 +526,18 @@
        "url": "https://kyivindependent.com/in-war-between-russia-and-ukraine-united-states-is-first-to-surrender-but-americans-still-stand-with-ukraine/",
        "source": "Kyiv Independent",
        "published_at": "2026-10-22 18:11"
-      },
+      }
+     ]
+    },
+    {
+     "label": "Russian · Ukraine",
+     "articles": [
       {
        "title": "Ukraine war latest: Ukrainian troops infiltrate Russian rear near Kupiansk through 15 kilometers of gas pipelines",
        "url": "https://kyivindependent.com/ukraine-war-latest-ukrainian-troops-infiltrate-russian-rear-near-kupiansk-through-15-kilometers-of-gas-pipelines/",
        "source": "Kyiv Independent",
        "published_at": "2026-10-22 18:03"
-      }
-     ]
-    },
-    {
-     "label": "Russia · Strikes",
-     "articles": [
-      {
-       "title": "Ukraine hit by strikes after Russia agrees to new peace talks",
-       "url": "https://www.bbc.co.uk/news/videos/c9146p1vx888o?at_medium=RSS&at_campaign=rss",
-       "source": "BBC World",
-       "published_at": "2026-10-22 17:49"
       },
-      {
-       "title": "Russia sentences 77-year-old Crimean activist to 18 years over alleged plot against Moscow's proxy",
-       "url": "https://kyivindependent.com/russia-sentences-77-year-old-crimean-activist-to-18-years-over-alleged-plot-to-kill-moscows-proxy/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-10-22 16:45"
-      },
-      {
-       "title": "EU responds to Trump diesel deal with new Russia energy sanctions",
-       "url": "https://kyivindependent.com/eu-responds-to-trump-diesel-deal-with-new-russia-energy-sanctions/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-10-22 16:13"
-      },
-      {
-       "title": "What Russians are told — and not told — about Ukrainian strikes",
-       "url": "https://kyivindependent.com/what-russians-are-told-and-not-told-about-ukrainian-strikes/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-10-22 16:09"
-      }
-     ]
-    },
-    {
-     "label": "Russian",
-     "articles": [
       {
        "title": "Stephen Hubbard's son: 'It’s tragic when family members are torn apart' by Russian captivity",
        "url": "https://kyivindependent.com/stephen-hubbards-son-its-tragic-when-family-members-are-torn-apart-by-russian-captivity/",
@@ -595,6 +555,34 @@
        "url": "https://kyivindependent.com/ukraine-strikes-russian-electronic-warfare-station-general-staff-says/",
        "source": "Kyiv Independent",
        "published_at": "2026-10-22 16:54"
+      }
+     ]
+    },
+    {
+     "label": "Russia",
+     "articles": [
+      {
+       "title": "Ukraine hit by strikes after Russia agrees to new peace talks",
+       "url": "https://www.bbc.co.uk/news/videos/c9146p1vx888o?at_medium=RSS&at_campaign=rss",
+       "source": "BBC World",
+       "published_at": "2026-10-22 17:49"
+      },
+      {
+       "title": "Russia sentences 77-year-old Crimean activist to 18 years over alleged plot against Moscow's proxy",
+       "url": "https://kyivindependent.com/russia-sentences-77-year-old-crimean-activist-to-18-years-over-alleged-plot-to-kill-moscows-proxy/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-10-22 16:45"
+      }
+     ]
+    },
+    {
+     "label": "More headlines",
+     "articles": [
+      {
+       "title": "Surveillance and 'constant paranoia': Western diplomats tell BBC of life in war-time Moscow",
+       "url": "https://www.bbc.co.uk/news/articles/cj75p1xr7p7vo?at_medium=RSS&at_campaign=rss",
+       "source": "BBC World",
+       "published_at": "2026-10-22 23:16"
       }
      ]
     }
