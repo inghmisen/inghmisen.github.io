@@ -1,8 +1,8 @@
 {
  "date": "Friday 23 October 2026",
- "generated_at": "21:13 UTC",
- "error": "All feeds failed for UTwente (UToday): UToday (HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:utoday.nl&hl=nl&gl=NL&ceid=NL:nl&scoring=n)",
- "total_stories": 63,
+ "generated_at": "23:56 UTC",
+ "error": null,
+ "total_stories": 73,
  "fx": {
   "pair": "EUR/MAD",
   "rate": 10.999,
@@ -41,12 +41,6 @@
        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdktmz/strata_now_supports_qwen_36_35b/",
        "source": "r/LocalLLaMA",
        "published_at": "2026-10-23 17:44"
-      },
-      {
-       "title": "Qwen 3.8 Flash Next Gyro Coder is out!",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdhj4z/qwen_38_flash_next_gyro_coder_is_out/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-10-23 15:41"
       }
      ]
     },
@@ -54,16 +48,39 @@
      "label": "Flash · Deepseek",
      "articles": [
       {
-       "title": "dealignai/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8 · 295 ♥",
+       "title": "dealignai/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8 · 296 ♥",
        "url": "https://huggingface.co/dealignai/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8",
        "source": "HF new models",
        "published_at": "2026-10-18 04:11"
       },
       {
-       "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017 · 2564 ♥",
+       "title": "MiniMaxAI/MiniMax-M3.1-Flash · 257 ♥",
+       "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3.1-Flash",
+       "source": "HF new models",
+       "published_at": "2026-10-17 06:37"
+      },
+      {
+       "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017 · 2581 ♥",
        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
        "source": "HF new models",
        "published_at": "2026-10-17 02:40"
+      }
+     ]
+    },
+    {
+     "label": "Model",
+     "articles": [
+      {
+       "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+       "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
+       "source": "Verge AI",
+       "published_at": "2026-10-23 19:32"
+      },
+      {
+       "title": "Dessa: the most authentic full-duplex speech model ever built",
+       "url": "https://block.xyz/dessa",
+       "source": "Hacker News",
+       "published_at": "2026-10-23 19:09"
       }
      ]
     },
@@ -85,23 +102,6 @@
      ]
     },
     {
-     "label": "Image · Comfy",
-     "articles": [
-      {
-       "title": "Comfy-Org/MOSS-Image · 391 ♥",
-       "url": "https://huggingface.co/Comfy-Org/MOSS-Image",
-       "source": "HF new models",
-       "published_at": "2026-10-16 12:42"
-      },
-      {
-       "title": "black-forest-labs/flux-3-image-klein-comfy · 1397 ♥",
-       "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
-       "source": "HF new models",
-       "published_at": "2026-10-14 12:00"
-      }
-     ]
-    },
-    {
      "label": "More headlines",
      "articles": [
       {
@@ -117,12 +117,6 @@
        "published_at": "2026-10-23 20:04"
       },
       {
-       "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
-       "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
-       "source": "Verge AI",
-       "published_at": "2026-10-23 19:32"
-      },
-      {
        "title": "Here's where the last RTX 5090 cards are going: Massive AI conversion factory exposed in China, Founders Edition included",
        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdlj42/heres_where_the_last_rtx_5090_cards_are_going/",
        "source": "r/LocalLLaMA",
@@ -135,16 +129,22 @@
        "published_at": "2026-10-23 15:59"
       },
       {
-       "title": "RecursiveSI/flint · 672 ♥",
+       "title": "RecursiveSI/flint · 686 ♥",
        "url": "https://huggingface.co/RecursiveSI/flint",
        "source": "HF new models",
        "published_at": "2026-10-21 14:20"
       },
       {
-       "title": "XHToken/Spark-X2.6-4B · 407 ♥",
+       "title": "XHToken/Spark-X2.6-4B · 410 ♥",
        "url": "https://huggingface.co/XHToken/Spark-X2.6-4B",
        "source": "HF new models",
        "published_at": "2026-10-19 03:19"
+      },
+      {
+       "title": "Comfy-Org/MOSS-Image · 395 ♥",
+       "url": "https://huggingface.co/Comfy-Org/MOSS-Image",
+       "source": "HF new models",
+       "published_at": "2026-10-16 12:42"
       }
      ]
     }
@@ -155,9 +155,75 @@
    "key": "utoday",
    "title": "UTwente (UToday)",
    "icon": "📍",
-   "note": "Feeds unreachable right now.",
-   "clusters": [],
-   "count": 0
+   "note": null,
+   "clusters": [
+    {
+     "label": "",
+     "articles": [
+      {
+       "title": "283 nieuwe Beethovenstudenten krijgen voorrang op campuskamer",
+       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUnlScGZodTlaNVZxTkdmXzJUZ0tSd25Kc1FIa05Ca3JweUJoRDRSRXNpZjU5bFdhelBfbU81M3lQZHJndWY4Umw4MWV5dFB4TnhFODFXWGRocy15TlEySXJ1c1lsdm1YbVFOUlRKR05VcEQ2Tkx1RDM1a1JPbl93M3FveXB0Y0U2dHRfWFRWUnNOZnFjWmZZcQ?oc=5",
+       "source": "UToday",
+       "published_at": "2026-10-23 08:00"
+      },
+      {
+       "title": "Maastricht was bang dat universiteiten afgerekend zouden worden op 7-oktoberfilmpje",
+       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONlNjMWVPZzQ1dGlwaFlMQTR3X1FUX2l0UXRXSjkzUm40NkI0ZzhJc3dULTEyWFE2ZVZnT09WaHhGaVFwdl9TR2hJN1JWQktLMkNKRmdjd3VtelVvQnJxNE5mZTBoZUx5Njlod3JKak56WHJFZXd1aFhwR2tpRW5PdHBuSXFsLTh3VzlZcnVib09JY1FiaWRLeXJfRlZ5aFpwendZMVhtZi1EU2E4Tk9jOTJFeUthd0k?oc=5",
+       "source": "UToday",
+       "published_at": "2026-10-22 11:25"
+      },
+      {
+       "title": "Vidi-beurzen voor drie UT’ers",
+       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5YbFctRXNWV0JoTTNFZ3FBVUNOTHF2WDBJTDlEb09yRlF0bUNwQk5UU1RnNWJ2RDBfVW5xQklRRk80dWMzbnI5NjhjVUkzZ01PMWZfblNPTzR1cjdJdDdpR0dDLXNZYlpPQlU5QkF3?oc=5",
+       "source": "UToday",
+       "published_at": "2026-10-22 08:56"
+      },
+      {
+       "title": "UT en Navitas starten schakeljaar voor Beethoven-student",
+       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaWtySzlYVXBBQUhHeEd2NUdMbzBHSVl0YmJFaEpHTkM3V0lEUHlXdEoyeWJnbFJ4RGowTWRyRmR3OFNhVDZRd2J4dEVjNUh5VVFfOUxfYk1jRlBjU25jY19LcU5aR3FMdzBaYzQ0Q3dsTy1ITlRoQ3d4YkJyTm9XMHl4RFRDVWJzODdpTmFMQjZZSXM?oc=5",
+       "source": "UToday",
+       "published_at": "2026-10-22 06:29"
+      },
+      {
+       "title": "Bouw mee aan de toekomst van Nederland",
+       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNU3cxMTJYcmJ1amdqNjFIay1FdlBlaEM0T3VWTjF3TmRUd1g5Q2NIUm1hS2hSS1lhYkd5aHY3dmE3RVk0dnFrU0doS1BlNmxTYW93V2dXRHdEbEFBNnEyWHVfdmZWd1FUTkNTaW1YenlvZ0hJVjA1Q1BZaXFLQjhURFRjRzM5YWhGSVFURzJ3OA?oc=5",
+       "source": "UToday",
+       "published_at": "2026-10-21 08:59"
+      },
+      {
+       "title": "Mis geen campusnieuws: stel U-Today in als voorkeursbron",
+       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWUV2STVKSGZSdjdpQTdhRVpiMVlDREh1c0pzbjk2NU5LUUEweUtnVk9UX3pCcGtwbF9neTdtRFFSZl9lVDZTSVdhU2ljWU85SUxadXVTcUk5SVJ5dzBqYWFGd0czbmk1S1NTaC1yMFFuWDI2ZXA1M2o4aGMzU0ZzZ1BNY1FRN3hQNUZod0EydEtRZw?oc=5",
+       "source": "UToday",
+       "published_at": "2026-10-14 07:00"
+      },
+      {
+       "title": "Bike-free Boulevard, artwork disappears and Drienerloweg gets a major overhaul",
+       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9SUkxObHl6VHpVblRPa0puU2doaU1QRjFKU0FVZ0trZTBtd3JEWUZIVklyekQ4alVSQ1hRbGZpM2tvaEs0Q1VSbk5UdENxWjg?oc=5",
+       "source": "UToday",
+       "published_at": "2026-10-07 14:31"
+      },
+      {
+       "title": "UT’er kraakt twintig jaar oud wiskundeprobleem",
+       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbVg5WVlNWkxoeWcyZS1xSjdjam9ab0RGR1hWMXpkTnhBNHR0SUQyaXZVN2Jza016N1JvQmtzdTBjMmhlSE13Y01UaUJtOEdRbUtlNWhVTGc1UTJPRy1NTk5YNHBncEFkVjhMRzNtLVkyNVowMnlJUFF1UUhETEhqUTRTQ18?oc=5",
+       "source": "UToday",
+       "published_at": "2026-08-25 07:00"
+      },
+      {
+       "title": "Rouwprofessor Lonneke Lenferink: ‘Ik voelde me nooit heel erg thuis op de universiteit’",
+       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaW9yV1BjbmFhVDVrY21qQ3BsOVlDejlnWHQxYWFyYnBCcDctcVUxWmZaeFh1RXlwWlJKYVhwSFJZeU9Sa2hCU0J1WUlQcktHRDNrb1Y2Q25Yc1VPMDFxTnE4c1pHQjZuX2kza1UwTGsteDg4ZDhEX3FpX3dJaXgyNkwxWG56YS15RlEwSjhJamRnRzM5NTczWF9RRnRvd3F5UDM4YXU0NUpqZU0zUGU1aE03YW1vRHlNbFlOS2hJcw?oc=5",
+       "source": "UToday",
+       "published_at": "2026-07-08 07:00"
+      },
+      {
+       "title": "De Grote U-Today Bestuursfotoverkiezing 2026, de uitslag",
+       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNjU5OVlOSzctN0dKYlZ2ZVdzd2U1UWZCeEY0SXF3bzVfWTg0bXJqZGp0OGs2WUxSaGZlRVZLQjVSU2pZZGZXR1JsclBPZ1hFS1hQTVZmMXNxYTVOQ0w3NEJyS2xjZlhTWTlJQTl2LWV3bGdCaHQ2U1dLZldxeUxVVkpQYjA0LU1xY0VqMi1RU1RIM2RJVzdYdFd6UQ?oc=5",
+       "source": "UToday",
+       "published_at": "2026-06-25 07:00"
+      }
+     ]
+    }
+   ],
+   "count": 10
   },
   {
    "key": "morocco",
@@ -189,25 +255,67 @@
      ]
     },
     {
-     "label": "مليار",
+     "label": "مليارات",
      "articles": [
+      {
+       "title": "الحكومة الجديدة تعتني بالسيادة.. وتُفرد 6 مليارات درهم لتأهيل الشباب",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d8%a9-%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d8%aa%d8%b1%d8%a7%d9%87%d9%86-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%af%d8%a9-%d9%88%d8%aa%d9%8f-1828030.html",
+       "source": "Hespress",
+       "published_at": "2026-10-23 23:00"
+      },
       {
        "title": "\"حكومة المنصوري\" تراهن على 2300 مليار سنتيم من استهلاك السجائر والخمور",
        "url": "https://www.hespress.com/%d8%ad%d9%83%d9%88%d9%85%d8%a9-%d8%a7%d9%84%d9%85%d9%86%d8%b5%d9%88%d8%b1%d9%8a-%d8%aa%d8%b1%d8%a7%d9%87%d9%86-%d8%b9%d9%84%d9%89-2300-%d9%85%d9%84%d9%8a%d8%a7%d8%b1-%d8%b3%d9%86%d8%aa%d9%8a%d9%85-1827766.html",
        "source": "Hespress",
        "published_at": "2026-10-23 21:00"
-      },
-      {
-       "title": "19 مليار درهم لدعم السكر والدقيق والبوتان.. والحكومة تعوض عن فقدان الشغل",
-       "url": "https://www.hespress.com/19-%d9%85%d9%84%d9%8a%d8%a7%d8%b1-%d8%af%d8%b1%d9%87%d9%85-%d9%84%d8%af%d8%b9%d9%85-%d8%a7%d9%84%d8%b3%d9%83%d8%b1-%d9%88%d8%a7%d9%84%d8%af%d9%82%d9%8a%d9%82-%d9%88%d8%a7%d9%84%d8%a8%d9%88%d8%aa%d8%a7-1827898.html",
-       "source": "Hespress",
-       "published_at": "2026-10-23 19:00"
       }
      ]
     },
     {
      "label": "More headlines",
      "articles": [
+      {
+       "title": "احتجاجات مرتقبة السبت في مدن إيطالية",
+       "url": "https://www.hespress.com/%d8%a7%d8%ad%d8%aa%d8%ac%d8%a7%d8%ac%d8%a7%d8%aa-%d9%85%d8%b1%d8%aa%d9%82%d8%a8%d8%a9-%d8%a7%d9%84%d8%b3%d8%a8%d8%aa-%d9%81%d9%8a-%d9%85%d8%af%d9%86-%d8%a5%d9%8a%d8%b7%d8%a7%d9%84%d9%8a%d8%a9-1828054.html",
+       "source": "Hespress",
+       "published_at": "2026-10-23 23:32"
+      },
+      {
+       "title": "النائب بنجلون يُغضب \"أكراو\" الأمازيغية",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%86%d8%a7%d8%a6%d8%a8-%d8%a8%d9%86%d8%ac%d9%84%d9%88%d9%86-%d9%8a%d9%8f%d8%ba%d8%b6%d8%a8-%d8%a3%d9%83%d8%b1%d8%a7%d9%88-%d8%a7%d9%84%d8%a3%d9%85%d8%a7%d8%b2%d9%8a%d8%ba%d9%8a%d8%a9-1827727.html",
+       "source": "Hespress",
+       "published_at": "2026-10-23 23:21"
+      },
+      {
+       "title": "كينيا تسجل الوفاة الثانية بفيروس إيبولا",
+       "url": "https://www.hespress.com/%d9%83%d9%8a%d9%86%d9%8a%d8%a7-%d8%aa%d8%b3%d8%ac%d9%84-%d8%a7%d9%84%d9%88%d9%81%d8%a7%d8%a9-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d8%a9-%d8%a8%d9%81%d9%8a%d8%b1%d9%88%d8%b3-%d8%a5%d9%8a%d8%a8%d9%88-1828022.html",
+       "source": "Hespress",
+       "published_at": "2026-10-23 22:21"
+      },
+      {
+       "title": "الرجاء يهزم إل كانيمي ويبلغ دور المجموعات بكأس الكونفدرالية الإفريقية",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%b1%d8%ac%d8%a7%d8%a1-%d9%8a%d9%87%d8%b2%d9%85-%d8%a5%d9%84-%d9%83%d8%a7%d9%86%d9%8a%d9%85%d9%8a-%d9%88%d9%8a%d8%a8%d9%84%d8%ba-%d8%af%d9%88%d8%b1-%d8%a7%d9%84%d9%85%d8%ac%d9%85%d9%88-1828019.html",
+       "source": "Hespress",
+       "published_at": "2026-10-23 22:08"
+      },
+      {
+       "title": "تعميق البحث في ملف \"حقنة 20 غشت\"",
+       "url": "https://www.hespress.com/%d8%aa%d8%b9%d9%85%d9%8a%d9%82-%d8%a7%d9%84%d8%a8%d8%ad%d8%ab-%d9%81%d9%8a-%d9%85%d9%84%d9%81-%d8%ad%d9%82%d9%86%d8%a9-20-%d8%ba%d8%b4%d8%aa-1827944.html",
+       "source": "Hespress",
+       "published_at": "2026-10-23 22:02"
+      },
+      {
+       "title": "إلغاء رحلات السفن السياحية يفاقم الخسائر المالية لميناء سبتة المحتلة",
+       "url": "https://www.hespress.com/%d8%a3%d8%b2%d9%85%d8%a9-%d8%a7%d9%84%d9%87%d8%ac%d8%b1%d8%a9-%d8%aa%d8%b6%d8%ba%d8%b7-%d8%b9%d9%84%d9%89-%d9%85%d9%8a%d9%86%d8%a7%d8%a1-%d8%b3%d8%a8%d8%aa%d8%a9-%d8%a7%d9%84%d9%85%d8%ad%d8%aa%d9%84-1827652.html",
+       "source": "Hespress",
+       "published_at": "2026-10-23 22:00"
+      },
+      {
+       "title": "المغرب يعول على تنويع عرض السياحة",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d9%8a%d8%b9%d9%88%d9%84-%d8%b9%d9%84%d9%89-%d8%aa%d9%86%d9%88%d9%8a%d8%b9-%d8%b9%d8%b1%d8%b6-%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%ad%d8%a9-1827884.html",
+       "source": "Hespress",
+       "published_at": "2026-10-23 21:28"
+      },
       {
        "title": "مقترحات قوانين \"بيجيدي\" ضد الفساد",
        "url": "https://www.hespress.com/%d9%85%d9%82%d8%aa%d8%b1%d8%ad%d8%a7%d8%aa-%d9%82%d9%88%d8%a7%d9%86%d9%8a%d9%86-%d8%a8%d9%8a%d8%ac%d9%8a%d8%af%d9%8a-%d8%b6%d8%af-%d8%a7%d9%84%d9%81%d8%b3%d8%a7%d8%af-1827978.html",
@@ -225,48 +333,6 @@
        "url": "https://www.hespress.com/%d9%86%d8%aa%d9%86%d9%8a%d8%a7%d9%87%d9%88-%d9%8a%d9%87%d8%af%d8%af-%d8%a8%d8%aa%d8%af%d9%85%d9%8a%d8%b1-%d8%a7%d9%84%d8%b6%d9%81%d8%a9-%d8%a7%d9%84%d8%ba%d8%b1%d8%a8%d9%8a%d8%a9-1827977.html",
        "source": "Hespress",
        "published_at": "2026-10-23 20:44"
-      },
-      {
-       "title": "عبقري يكشف رؤية جديدة للشباب",
-       "url": "https://www.hespress.com/%d8%b9%d8%a8%d9%82%d8%b1%d9%8a-%d9%8a%d9%83%d8%b4%d9%81-%d8%b1%d8%a4%d9%8a%d8%a9-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d9%84%d9%84%d8%b4%d8%a8%d8%a7%d8%a8-1827933.html",
-       "source": "Hespress",
-       "published_at": "2026-10-23 20:30"
-      },
-      {
-       "title": "ميسي يتسلّم أرفع جائزة رياضية بإسبانيا",
-       "url": "https://www.hespress.com/%d9%85%d9%8a%d8%b3%d9%8a-%d9%8a%d8%aa%d8%b3%d9%84%d9%91%d9%85-%d8%a3%d8%b1%d9%81%d8%b9-%d8%ac%d8%a7%d8%a6%d8%b2%d8%a9-%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a%d8%a9-%d8%a8%d8%a5%d8%b3%d8%a8%d8%a7%d9%86%d9%8a-1827946.html",
-       "source": "Hespress",
-       "published_at": "2026-10-23 20:07"
-      },
-      {
-       "title": "\"اللبؤات\" ينهزمن أمام الأرجنتين.. وبصيص أمل في بلوغ ثمن \"المونديال\"",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%84%d8%a8%d8%a4%d8%a7%d8%aa-%d9%8a%d9%86%d9%87%d8%b2%d9%85%d9%86-%d8%a3%d9%85%d8%a7%d9%85-%d8%a7%d9%84%d8%a3%d8%b1%d8%ac%d9%86%d8%aa%d9%8a%d9%86-%d9%88%d8%a8%d8%b5%d9%8a%d8%b5-1827925.html",
-       "source": "Hespress",
-       "published_at": "2026-10-23 19:59"
-      },
-      {
-       "title": "نداءات استغاثة لإنقاذ الشاعر الصايل",
-       "url": "https://www.hespress.com/%d9%86%d8%af%d8%a7%d8%a1%d8%a7%d8%aa-%d8%a7%d8%b3%d8%aa%d8%ba%d8%a7%d8%ab%d8%a9-%d9%84%d8%a5%d9%86%d9%82%d8%a7%d8%b0-%d8%a7%d9%84%d8%b4%d8%a7%d8%b9%d8%b1-%d8%a7%d9%84%d8%b5%d8%a7%d9%8a%d9%84-1827909.html",
-       "source": "Hespress",
-       "published_at": "2026-10-23 19:26"
-      },
-      {
-       "title": "نواب أوروبيون يلوحون بحظر المنصات",
-       "url": "https://www.hespress.com/%d9%86%d9%88%d8%a7%d8%a8-%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d9%8a%d9%88%d9%86-%d9%8a%d9%84%d9%88%d8%ad%d9%88%d9%86-%d8%a8%d8%ad%d8%b8%d8%b1-%d8%a7%d9%84%d9%85%d9%86%d8%b5%d8%a7%d8%aa-1827887.html",
-       "source": "Hespress",
-       "published_at": "2026-10-23 19:02"
-      },
-      {
-       "title": "بيدرو سانشيز: إسبانيا تحتاج إلى المغرب",
-       "url": "https://www.hespress.com/%d8%a8%d9%8a%d8%af%d8%b1%d9%88-%d8%b3%d8%a7%d9%86%d8%b4%d9%8a%d8%b2-%d8%a5%d8%b3%d8%a8%d8%a7%d9%86%d9%8a%d8%a7-%d8%aa%d8%ad%d8%aa%d8%a7%d8%ac-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-1827706.html",
-       "source": "Hespress",
-       "published_at": "2026-10-23 18:33"
-      },
-      {
-       "title": "الأغلبية والمعارضة تناقشان عرض لقجع",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%a3%d8%ba%d9%84%d8%a8%d9%8a%d8%a9-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d8%a7%d8%b1%d8%b6%d8%a9-%d8%aa%d9%86%d8%a7%d9%82%d8%b4%d8%a7%d9%86-%d8%b9%d8%b1%d8%b6-%d9%84%d9%82%d8%ac%d8%b9-1827888.html",
-       "source": "Hespress",
-       "published_at": "2026-10-23 18:32"
       },
       {
        "title": "Médicaments importés : douane et AMMPS, alliance aux frontières",
@@ -333,6 +399,12 @@
      "label": "Israel · Down",
      "articles": [
       {
+       "title": "Why is Israel increasing its presence in the Balkans?",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/why-is-israel-increasing-its-presence-in-the-balkans?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-10-23 22:01"
+      },
+      {
        "title": "Israel locks down occupied West Bank after Hebron shooting",
        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/israel-locks-down-occupied-west-bank-after-hebron-shooting?traffic_source=rss",
        "source": "Al Jazeera",
@@ -359,7 +431,7 @@
      ]
     },
     {
-     "label": "Amid · Deepening",
+     "label": "Amid · Crisis",
      "articles": [
       {
        "title": "Time ‘running out’ to reach Yemen’s Taiz amid deepening crisis, UN says",
@@ -402,27 +474,16 @@
      "label": "Israeli",
      "articles": [
       {
-       "title": "Israeli roadblocks disrupt schools and medical care in West Bank village",
-       "url": "https://www.aljazeera.com/news/2026/10/23/israeli-roadblocks-disrupt-schools-and-medical-care-in-west-bank-village?traffic_source=rss",
+       "title": "‘Generation Right’: Israeli youth show strong support for the right",
+       "url": "https://www.aljazeera.com/news/2026/10/23/generation-right-israeli-youth-show-strong-support-for-the-right?traffic_source=rss",
        "source": "Al Jazeera",
-       "published_at": "2026-10-23 16:37"
+       "published_at": "2026-10-23 20:52"
       },
       {
        "title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
        "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
        "source": "BBC World",
        "published_at": "2026-10-23 15:37"
-      }
-     ]
-    },
-    {
-     "label": "More headlines",
-     "articles": [
-      {
-       "title": "European, Middle East ministers urge US-Iran diplomacy, not new attacks",
-       "url": "https://www.aljazeera.com/news/2026/10/23/european-middle-east-ministers-urge-us-iran-diplomacy-not-new-attacks?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-10-23 16:29"
       }
      ]
     }
@@ -438,6 +499,12 @@
     {
      "label": "Russian · Ukrainian",
      "articles": [
+      {
+       "title": "Kremlin-seized German company Metro AG transfers 1 billion rubles to Russian military without approval",
+       "url": "https://kyivindependent.com/kremlin-seized-german-company-metro-ag-transfers-1-billion-rubles-to-russian-military-without-approval/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-10-23 21:39"
+      },
       {
        "title": "Freed US citizen was tortured in Russian jail, former Ukrainian prisoners say",
        "url": "https://www.bbc.co.uk/news/articles/cx7vpmn6qzmlo?at_medium=RSS&at_campaign=rss",
@@ -461,12 +528,6 @@
        "url": "https://kyivindependent.com/how-austria-became-a-refuge-for-corruption-fugitives-and-a-risk-for-investigative-journalists/",
        "source": "Kyiv Independent",
        "published_at": "2026-10-23 18:01"
-      },
-      {
-       "title": "Ukraine war latest: Ukraine, Russia agree to local ceasefire for Russian-occupied Oleshky, mediated by Melania Trump",
-       "url": "https://kyivindependent.com/ukraine-war-latest-ukraine-russia-agree-to-local-ceasefire-for-russian-occupied-oleshky-mediated-by-melania-trump/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-10-23 17:53"
       }
      ]
     },
@@ -490,6 +551,12 @@
        "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
        "source": "BBC World",
        "published_at": "2026-10-23 18:52"
+      },
+      {
+       "title": "Ukraine war latest: Ukraine, Russia agree to local ceasefire for Russian-occupied Oleshky, mediated by Melania Trump",
+       "url": "https://kyivindependent.com/ukraine-war-latest-ukraine-russia-agree-to-local-ceasefire-for-russian-occupied-oleshky-mediated-by-melania-trump/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-10-23 17:53"
       }
      ]
     },
@@ -514,16 +581,10 @@
      "label": "More headlines",
      "articles": [
       {
-       "title": "Ukraine to end automatic 100% mobilization exemptions for critical industries, Prime Minister says",
-       "url": "https://kyivindependent.com/ukraine-to-end-automatic-100-mobilization-exemptions-for-critical-industries-prime-minister-says/",
+       "title": "US lawmakers demand answers from Elon Musk over Ukraine Starlink restrictions",
+       "url": "https://kyivindependent.com/us-lawmakers-demand-answers-from-elon-musk-over-ukraine-starlink-restrictions/",
        "source": "Kyiv Independent",
-       "published_at": "2026-10-23 17:16"
-      },
-      {
-       "title": "Moldova expels Russian diplomat after Russian Geran drone falls near family homes",
-       "url": "https://kyivindependent.com/moldova-expels-russian-diplomat-after-russian-geran-drone-falls-near-family-homes/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-10-23 16:51"
+       "published_at": "2026-10-23 23:25"
       }
      ]
     }
