@@ -1,8 +1,8 @@
 {
  "date": "Sunday 25 October 2026",
- "generated_at": "00:28 UTC",
+ "generated_at": "05:10 UTC",
  "error": null,
- "total_stories": 71,
+ "total_stories": 72,
  "fx": {
   "pair": "EUR/MAD",
   "rate": 10.998,
@@ -16,34 +16,51 @@
    "note": null,
    "clusters": [
     {
-     "label": "Flash · Deepseek",
+     "label": "Flash · Model",
      "articles": [
+      {
+       "title": "[Benchmark] Strata/Basalt runs Qwen3.8 Flash Next IQ3_S with 16GB VRAM and 55GB RAM with up to 250 tok/s generation and 5,600 tok/s prompt processing (5080, Concurrency 1)",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xesda1/benchmark_stratabasalt_runs_qwen38_flash_next_iq3/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-10-25 03:59"
+      },
+      {
+       "title": "Too good to be true? ISTA's GSQ-RCO 2-bit DeepSeek-V4.1-Flash scoring the same as the base model",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xes5x0/too_good_to_be_true_istas_gsqrco_2bit/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-10-25 03:48"
+      },
+      {
+       "title": "Artificial Analysis Index is non-representative of real-world performance. Tested Kimi 3.1 Pro through OpenRouter, the number 4 model in AAI, it's not even close to MiMo 2.6 or DeepSeek 4.1 Flash",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xercio/artificial_analysis_index_is_nonrepresentative_of/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-10-25 03:04"
+      },
+      {
+       "title": "model: DSV4.1 flash by am17an · Pull Request #31086 · ggml-org/llama.cpp",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xeqf7k/model_dsv41_flash_by_am17an_pull_request_31086/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-10-25 02:16"
+      },
       {
        "title": "Is it just me or Kimi K3.1 Pro don’t look much better than DeepSeek 4.1 Flash?",
        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xemxoq/is_it_just_me_or_kimi_k31_pro_dont_look_much/",
        "source": "r/LocalLLaMA",
        "published_at": "2026-10-24 23:24"
-      },
+      }
+     ]
+    },
+    {
+     "label": "Deepseek · Flash",
+     "articles": [
       {
-       "title": "Day 1 MiniMax-M3.1-Flash support in TensorSharp: GGUF, vision, tool calling, DSpark, and 8× A40 benchmarks",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xejzuo/day_1_minimaxm31flash_support_in_tensorsharp_gguf/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-10-24 21:10"
-      },
-      {
-       "title": "dealignai/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8 · 340 ♥",
+       "title": "dealignai/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8 · 346 ♥",
        "url": "https://huggingface.co/dealignai/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8",
        "source": "HF new models",
        "published_at": "2026-10-18 04:11"
       },
       {
-       "title": "MiniMaxAI/MiniMax-M3.1-Flash · 315 ♥",
-       "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3.1-Flash",
-       "source": "HF new models",
-       "published_at": "2026-10-17 06:37"
-      },
-      {
-       "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017 · 2780 ♥",
+       "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017 · 2825 ♥",
        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
        "source": "HF new models",
        "published_at": "2026-10-17 02:40"
@@ -51,7 +68,7 @@
      ]
     },
     {
-     "label": "Gpus",
+     "label": "Tool",
      "articles": [
       {
        "title": "CMP170HX inspiration unlocks 30x/40x also, up to 2X Prefill speedup --> NVIDIA RTX 30 & RTX 40 GPUs Get Impressively Fast In AI LLMs As Compute Doubles With New Unlock Tool But Prices Surge Too",
@@ -60,50 +77,34 @@
        "published_at": "2026-10-24 22:16"
       },
       {
-       "title": "High-Performance llama.cpp fork for Legacy GPUs: Kepler Support, CUDA Graphs & Windows NCCL!",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xeicw2/highperformance_llamacpp_fork_for_legacy_gpus/",
+       "title": "Day 1 MiniMax-M3.1-Flash support in TensorSharp: GGUF, vision, tool calling, DSpark, and 8× A40 benchmarks",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xejzuo/day_1_minimaxm31flash_support_in_tensorsharp_gguf/",
        "source": "r/LocalLLaMA",
-       "published_at": "2026-10-24 20:01"
-      }
-     ]
-    },
-    {
-     "label": "Can · Run",
-     "articles": [
-      {
-       "title": "M6 Mac Mini owners (32GB): now you can run Qwen3.8-27B in high quality on the Apple Neural Engine",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xejv61/m6_mac_mini_owners_32gb_now_you_can_run_qwen3827b/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-10-24 21:05"
-      },
-      {
-       "title": "Small model good for reverse engineering that can run on a 3090 and 32GB RAM.",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xeipmm/small_model_good_for_reverse_engineering_that_can/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-10-24 20:16"
-      }
-     ]
-    },
-    {
-     "label": "Flint",
-     "articles": [
-      {
-       "title": "Raon is better than Flint.",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xehs52/raon_is_better_than_flint/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-10-24 19:38"
-      },
-      {
-       "title": "RecursiveSI/flint · 779 ♥",
-       "url": "https://huggingface.co/RecursiveSI/flint",
-       "source": "HF new models",
-       "published_at": "2026-10-21 14:20"
+       "published_at": "2026-10-24 21:10"
       }
      ]
     },
     {
      "label": "More headlines",
      "articles": [
+      {
+       "title": "GPT-X3-150M takes #1 on the Open SLM Leaderboard, dethroning HuggingFace's SmolLM2-135M with a GDN2/GQA hybrid - Check it out!",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xerxtr/gptx3150m_takes_1_on_the_open_slm_leaderboard/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-10-25 03:36"
+      },
+      {
+       "title": "OpenAI and Anthropic blocked the reverse engineering of smart TVs spying on us",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xer30z/openai_and_anthropic_blocked_the_reverse/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-10-25 02:51"
+      },
+      {
+       "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+       "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+       "source": "Hacker News",
+       "published_at": "2026-10-24 23:11"
+      },
       {
        "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xem3kc/uk_to_invest_100m_in_world_first_ai_biosecurity/",
@@ -117,34 +118,28 @@
        "published_at": "2026-10-24 21:29"
       },
       {
-       "title": "KLD is misunderstood",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xeim3m/kld_is_misunderstood/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-10-24 20:12"
+       "title": "RecursiveSI/flint · 782 ♥",
+       "url": "https://huggingface.co/RecursiveSI/flint",
+       "source": "HF new models",
+       "published_at": "2026-10-21 14:20"
       },
       {
-       "title": "Made a rhythm game where 4 small neural nets listen to your song right in the browser tab (open source)",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xeia9o/made_a_rhythm_game_where_4_small_neural_nets/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-10-24 19:59"
-      },
-      {
-       "title": "No signs of AI payoff outside the tech sector",
-       "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-       "source": "Hacker News",
-       "published_at": "2026-10-24 19:47"
-      },
-      {
-       "title": "XHToken/Spark-X2.6-4B · 453 ♥",
+       "title": "XHToken/Spark-X2.6-4B · 457 ♥",
        "url": "https://huggingface.co/XHToken/Spark-X2.6-4B",
        "source": "HF new models",
        "published_at": "2026-10-19 03:19"
       },
       {
-       "title": "Comfy-Org/MOSS-Image · 433 ♥",
-       "url": "https://huggingface.co/Comfy-Org/MOSS-Image",
+       "title": "MiniMaxAI/MiniMax-M3.1-Flash · 321 ♥",
+       "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3.1-Flash",
        "source": "HF new models",
-       "published_at": "2026-10-16 12:42"
+       "published_at": "2026-10-17 06:37"
+      },
+      {
+       "title": "InternScience/Sage-A1.5 · 277 ♥",
+       "url": "https://huggingface.co/InternScience/Sage-A1.5",
+       "source": "HF new models",
+       "published_at": "2026-10-15 08:34"
       }
      ]
     }
@@ -237,29 +232,6 @@
    "note": null,
    "clusters": [
     {
-     "label": "إلى",
-     "articles": [
-      {
-       "title": "القرار الأممي المرتقب وقضية الصحراء.. من إدارة النزاع إلى هندسة التسوية",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%82%d8%b1%d8%a7%d8%b1-%d8%a7%d9%84%d8%a3%d9%85%d9%85%d9%8a-%d8%a7%d9%84%d9%85%d8%b1%d8%aa%d9%82%d8%a8-%d9%88%d9%82%d8%b6%d9%8a%d8%a9-%d8%a7%d9%84%d8%b5%d8%ad%d8%b1%d8%a7%d8%a1-%d9%85-1828382.html",
-       "source": "Hespress",
-       "published_at": "2026-10-25 00:00"
-      },
-      {
-       "title": "رسميا.. \"اللبؤات\" إلى ثمن \"المونديال\"",
-       "url": "https://www.hespress.com/%d8%b1%d8%b3%d9%85%d9%8a%d8%a7-%d8%a7%d9%84%d9%84%d8%a8%d8%a4%d8%a7%d8%aa-%d8%a5%d9%84%d9%89-%d8%ab%d9%85%d9%86-%d8%a7%d9%84%d9%85%d9%88%d9%86%d8%af%d9%8a%d8%a7%d9%84-1828442.html",
-       "source": "Hespress",
-       "published_at": "2026-10-24 21:50"
-      },
-      {
-       "title": "بركان يحسم التأهل إلى دور المجموعات في دوري الأبطال بانتصار جديد",
-       "url": "https://www.hespress.com/%d8%a8%d8%b1%d9%83%d8%a7%d9%86-%d9%8a%d8%ad%d8%b3%d9%85-%d8%a7%d9%84%d8%aa%d8%a3%d9%87%d9%84-%d8%a5%d9%84%d9%89-%d8%af%d9%88%d8%b1-%d8%a7%d9%84%d9%85%d8%ac%d9%85%d9%88%d8%b9%d8%a7%d8%aa-%d9%81%d9%8a-1828429.html",
-       "source": "Hespress",
-       "published_at": "2026-10-24 21:00"
-      }
-     ]
-    },
-    {
      "label": "Plf",
      "articles": [
       {
@@ -283,61 +255,84 @@
      ]
     },
     {
+     "label": "إلى",
+     "articles": [
+      {
+       "title": "روسيا تستعد لإيفاد 330 طبيبا إلى إفريقيا",
+       "url": "https://www.hespress.com/%d8%b1%d9%88%d8%b3%d9%8a%d8%a7-%d8%aa%d8%b3%d8%aa%d8%b9%d8%af-%d9%84%d8%a5%d9%8a%d9%81%d8%a7%d8%af-330-%d8%b7%d8%a8%d9%8a%d8%a8%d8%a7-%d8%a5%d9%84%d9%89-%d8%a5%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7-1828296.html",
+       "source": "Hespress",
+       "published_at": "2026-10-25 04:33"
+      },
+      {
+       "title": "القرار الأممي المرتقب وقضية الصحراء.. من إدارة النزاع إلى هندسة التسوية",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%82%d8%b1%d8%a7%d8%b1-%d8%a7%d9%84%d8%a3%d9%85%d9%85%d9%8a-%d8%a7%d9%84%d9%85%d8%b1%d8%aa%d9%82%d8%a8-%d9%88%d9%82%d8%b6%d9%8a%d8%a9-%d8%a7%d9%84%d8%b5%d8%ad%d8%b1%d8%a7%d8%a1-%d9%85-1828382.html",
+       "source": "Hespress",
+       "published_at": "2026-10-25 00:00"
+      }
+     ]
+    },
+    {
      "label": "More headlines",
      "articles": [
+      {
+       "title": "الحكومة تراهن على الحفاظ على الحقوق المكتسبة في إصلاح التقاعد",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d8%a9-%d8%aa%d8%b1%d8%a7%d9%87%d9%86-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d8%ad%d9%81%d8%a7%d8%b8-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d8%ad%d9%82%d9%88%d9%82-%d8%a7%d9%84-1827893.html",
+       "source": "Hespress",
+       "published_at": "2026-10-25 05:00"
+      },
+      {
+       "title": "غلاء المحروقات وملفات اجتماعية تنتظر المزواري في قطاع الصيد البحري",
+       "url": "https://www.hespress.com/%d8%ba%d9%84%d8%a7%d8%a1-%d8%a7%d9%84%d9%85%d8%ad%d8%b1%d9%88%d9%82%d8%a7%d8%aa-%d9%88%d9%85%d9%84%d9%81%d8%a7%d8%aa-%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a%d8%a9-%d8%aa%d9%86%d8%aa%d8%b8%d8%b1-1827211.html",
+       "source": "Hespress",
+       "published_at": "2026-10-25 04:00"
+      },
+      {
+       "title": "الرئيس النيجيري يبحث عن ولاية ثانية",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%b1%d8%a6%d9%8a%d8%b3-%d8%a7%d9%84%d9%86%d9%8a%d8%ac%d9%8a%d8%b1%d9%8a-%d9%8a%d8%a8%d8%ad%d8%ab-%d8%b9%d9%86-%d9%88%d9%84%d8%a7%d9%8a%d8%a9-%d8%ab%d8%a7%d9%86%d9%8a%d8%a9-1828415.html",
+       "source": "Hespress",
+       "published_at": "2026-10-25 03:01"
+      },
+      {
+       "title": "\"مالية 2027\" تحمل إجراءات جديدة لدعم القدرة الشرائية والتشغيل والسكن",
+       "url": "https://www.hespress.com/%d9%85%d8%a7%d9%84%d9%8a%d8%a9-2027-%d8%aa%d8%ad%d9%85%d9%84-%d8%a5%d8%ac%d8%b1%d8%a7%d8%a1%d8%a7%d8%aa-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d9%84%d8%af%d8%b9%d9%85-%d8%a7%d9%84%d9%82%d8%af%d8%b1%d8%a9-1827824.html",
+       "source": "Hespress",
+       "published_at": "2026-10-25 03:00"
+      },
+      {
+       "title": "مسلحون يقتلون 20 شخصًا في بنيجيريا",
+       "url": "https://www.hespress.com/%d9%85%d8%b3%d9%84%d8%ad%d9%88%d9%86-%d9%8a%d9%82%d8%aa%d9%84%d9%88%d9%86-20-%d8%b4%d8%ae%d8%b5%d9%8b%d8%a7-%d9%81%d9%8a-%d8%a8%d9%86%d9%8a%d8%ac%d9%8a%d8%b1%d9%8a%d8%a7-1828450.html",
+       "source": "Hespress",
+       "published_at": "2026-10-25 02:33"
+      },
+      {
+       "title": "الأوقاف تُلزم ببناء قاعات صلاة للنساء بـ30% من مساحة المساجد الجديدة",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%a3%d9%88%d9%82%d8%a7%d9%81-%d8%aa%d9%8f%d9%84%d8%b2%d9%85-%d8%a8%d8%a8%d9%86%d8%a7%d8%a1-%d9%82%d8%a7%d8%b9%d8%a7%d8%aa-%d8%b5%d9%84%d8%a7%d8%a9-%d9%84%d9%84%d9%86%d8%b3%d8%a7%d8%a1-1828400.html",
+       "source": "Hespress",
+       "published_at": "2026-10-25 02:00"
+      },
+      {
+       "title": "صفقات تحرج مسؤولي مؤسسات عمومية",
+       "url": "https://www.hespress.com/%d8%b5%d9%81%d9%82%d8%a7%d8%aa-%d8%aa%d8%ad%d8%b1%d8%ac-%d9%85%d8%b3%d8%a4%d9%88%d9%84%d9%8a-%d9%85%d8%a4%d8%b3%d8%b3%d8%a7%d8%aa-%d8%b9%d9%85%d9%88%d9%85%d9%8a%d8%a9-1827689.html",
+       "source": "Hespress",
+       "published_at": "2026-10-25 01:31"
+      },
+      {
+       "title": "النفط الأفريقي يدخل حسابات الطاقة العالمية .. ومحدودية الإنتاج تقيد البدائل",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%86%d9%81%d8%b7-%d8%a7%d9%84%d8%a3%d9%81%d8%b1%d9%8a%d9%82%d9%8a-%d9%8a%d8%af%d8%ae%d9%84-%d8%ad%d8%b3%d8%a7%d8%a8%d8%a7%d8%aa-%d8%a7%d9%84%d8%b7%d8%a7%d9%82%d8%a9-%d8%a7%d9%84%d8%b9-1828198.html",
+       "source": "Hespress",
+       "published_at": "2026-10-25 01:00"
+      },
+      {
+       "title": "الأوكرانيون يتصدرون طلبات اللجوء بروسيا",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%a3%d9%88%d9%83%d8%b1%d8%a7%d9%86%d9%8a%d9%88%d9%86-%d9%8a%d8%aa%d8%b5%d8%af%d8%b1%d9%88%d9%86-%d8%b7%d9%84%d8%a8%d8%a7%d8%aa-%d8%a7%d9%84%d9%84%d8%ac%d9%88%d8%a1-%d8%a8%d8%b1%d9%88-1828299.html",
+       "source": "Hespress",
+       "published_at": "2026-10-25 00:36"
+      },
       {
        "title": "ترامب يصوّت مبكرًا ويهاجم الديمقراطيين",
        "url": "https://www.hespress.com/%d8%aa%d8%b1%d8%a7%d9%85%d8%a8-%d9%8a%d8%b5%d9%88%d9%91%d8%aa-%d9%85%d8%a8%d9%83%d8%b1%d9%8b%d8%a7-%d9%88%d9%8a%d9%87%d8%a7%d8%ac%d9%85-%d8%a7%d9%84%d8%af%d9%8a%d9%85%d9%82%d8%b1%d8%a7%d8%b7%d9%8a-1828452.html",
        "source": "Hespress",
        "published_at": "2026-10-25 00:02"
-      },
-      {
-       "title": "الأحزاب العربية تراهن على إزاحة نتنياهو",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%a3%d8%ad%d8%b2%d8%a7%d8%a8-%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d8%a9-%d8%aa%d8%b1%d8%a7%d9%87%d9%86-%d8%b9%d9%84%d9%89-%d8%a5%d8%b2%d8%a7%d8%ad%d8%a9-%d9%86%d8%aa%d9%86%d9%8a%d8%a7-1828292.html",
-       "source": "Hespress",
-       "published_at": "2026-10-24 23:34"
-      },
-      {
-       "title": "ميلونشون يوجه تحذيرا للرئيس ماكرون",
-       "url": "https://www.hespress.com/%d9%85%d9%8a%d9%84%d9%88%d9%86%d8%b4%d9%88%d9%86-%d9%8a%d9%88%d8%ac%d9%87-%d8%aa%d8%ad%d8%b0%d9%8a%d8%b1%d8%a7-%d9%84%d9%84%d8%b1%d8%a6%d9%8a%d8%b3-%d9%85%d8%a7%d9%83%d8%b1%d9%88%d9%86-1828311.html",
-       "source": "Hespress",
-       "published_at": "2026-10-24 23:03"
-      },
-      {
-       "title": "نسرين الراضي: السينما حلم الطفولة والاعتراف الأجنبي أنصفني بعد الظلم",
-       "url": "https://www.hespress.com/%d9%86%d8%b3%d8%b1%d9%8a%d9%86-%d8%a7%d9%84%d8%b1%d8%a7%d8%b6%d9%8a-%d8%a7%d9%84%d8%b3%d9%8a%d9%86%d9%85%d8%a7-%d8%ad%d9%84%d9%85-%d8%a7%d9%84%d8%b7%d9%81%d9%88%d9%84%d8%a9-%d9%88%d8%a7%d9%84%d8%a7-1828377.html",
-       "source": "Hespress",
-       "published_at": "2026-10-24 23:00"
-      },
-      {
-       "title": "بيزشكيان: الحرب تُهدد غذاء الإيرانيين",
-       "url": "https://www.hespress.com/%d8%a8%d9%8a%d8%b2%d8%b4%d9%83%d9%8a%d8%a7%d9%86-%d8%a7%d9%84%d8%ad%d8%b1%d8%a8-%d8%aa%d9%8f%d9%87%d8%af%d8%af-%d8%ba%d8%b0%d8%a7%d8%a1-%d8%a7%d9%84%d8%a5%d9%8a%d8%b1%d8%a7%d9%86%d9%8a%d9%8a%d9%86-1828345.html",
-       "source": "Hespress",
-       "published_at": "2026-10-24 22:30"
-      },
-      {
-       "title": "المغرب التطواني ينهار أمام وداد تمارة",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d8%a7%d9%84%d8%aa%d8%b7%d9%88%d8%a7%d9%86%d9%8a-%d9%8a%d9%86%d9%87%d8%a7%d8%b1-%d8%a3%d9%85%d8%a7%d9%85-%d9%88%d8%af%d8%a7%d8%af-%d8%aa%d9%85%d8%a7%d8%b1%d8%a9-1828444.html",
-       "source": "Hespress",
-       "published_at": "2026-10-24 22:05"
-      },
-      {
-       "title": "رصيف الصحافة: كلفة تعويضات المنتخبين الجماعيين تثير نقاشا بشأن المردودية",
-       "url": "https://www.hespress.com/%d8%b1%d8%b5%d9%8a%d9%81-%d8%a7%d9%84%d8%b5%d8%ad%d8%a7%d9%81%d8%a9-%d9%83%d9%84%d9%81%d8%a9-%d8%aa%d8%b9%d9%88%d9%8a%d8%b6%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d9%86%d8%aa%d8%ae%d8%a8%d9%8a%d9%86-%d8%a7-1828276.html",
-       "source": "Hespress",
-       "published_at": "2026-10-24 22:00"
-      },
-      {
-       "title": "ثنائية مغربية تقود كامبور لفوز ساحق",
-       "url": "https://www.hespress.com/%d8%aa%d8%a3%d9%84%d9%82-%d9%85%d8%ba%d8%b1%d8%a8%d9%8a-%d9%81%d9%8a-%d9%87%d8%b2%d9%85-%d9%83%d8%a7%d9%85%d8%a8%d9%88%d8%b1-%d9%84%d8%aa%d9%8a%d9%84%d8%a8%d9%88%d8%b1%d8%ba-1828424.html",
-       "source": "Hespress",
-       "published_at": "2026-10-24 21:33"
-      },
-      {
-       "title": "مطار الرياض يستأنف الرحلات غدا الأحد",
-       "url": "https://www.hespress.com/%d9%85%d8%b7%d8%a7%d8%b1-%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6-%d9%8a%d8%b3%d8%aa%d8%a3%d9%86%d9%81-%d8%a7%d9%84%d8%b1%d8%ad%d9%84%d8%a7%d8%aa-%d8%ba%d8%af%d8%a7-%d8%a7%d9%84%d8%a3%d8%ad%d8%af-1828419.html",
-       "source": "Hespress",
-       "published_at": "2026-10-24 21:05"
       },
       {
        "title": "Médicaments importés : douane et AMMPS, alliance aux frontières",
@@ -369,8 +364,14 @@
    "note": null,
    "clusters": [
     {
-     "label": "",
+     "label": "Wil",
      "articles": [
+      {
+       "title": "Explainer | Zoon Bolsonaro wil bij winst Braziliaanse verkiezingen vader bevrijden",
+       "url": "https://www.nu.nl/331607/video/zoon-bolsonaro-wil-bij-winst-braziliaanse-verkiezingen-vader-bevrijden.html",
+       "source": "NU.nl",
+       "published_at": "2026-10-25 05:02"
+      },
       {
        "title": "Kabinet wil na intern topoverleg komende dagen onderhandelen met oppositie over begroting",
        "url": "https://www.telegraaf.nl/politiek/kabinet-wil-na-intern-topoverleg-komende-dagen-onderhandelen-met-oppositie-over-begroting/163566865.html",
@@ -380,7 +381,7 @@
      ]
     }
    ],
-   "count": 1
+   "count": 2
   },
   {
    "key": "mideast",
@@ -388,6 +389,46 @@
    "icon": "🌍",
    "note": null,
    "clusters": [
+    {
+     "label": "Israeli · Families",
+     "articles": [
+      {
+       "title": "Mass rally against Netanyahu ahead of pivotal Israeli election",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/mass-rally-against-netanyahu-ahead-of-pivotal-israeli-election?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-10-25 02:07"
+      },
+      {
+       "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
+       "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
+       "source": "BBC World",
+       "published_at": "2026-10-24 23:02"
+      },
+      {
+       "title": "Israeli soldiers raze neighbourhood in Hebron, driving families from homes",
+       "url": "https://www.theguardian.com/world/2026/oct/24/israel-soldiers-raze-west-bank-neighbourhood-hebron-families-from-homes",
+       "source": "Guardian World",
+       "published_at": "2026-10-24 13:17"
+      }
+     ]
+    },
+    {
+     "label": "Israel · Election",
+     "articles": [
+      {
+       "title": "Could Israel’s military crackdown influence Tuesday’s election?",
+       "url": "https://www.aljazeera.com/video/inside-story/2026/10/24/could-israels-military-crackdown-influence-tuesdays-election?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-10-24 20:37"
+      },
+      {
+       "title": "Thousands of Israelis rally against Netanyahu gov’t days before election",
+       "url": "https://www.aljazeera.com/news/2026/10/24/thousands-of-israelis-rally-against-netanyahu-govt-days-before-election?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-10-24 19:11"
+      }
+     ]
+    },
     {
      "label": "Deal · Trump",
      "articles": [
@@ -412,48 +453,19 @@
      ]
     },
     {
-     "label": "Israeli · Hebron",
+     "label": "British · Dies",
      "articles": [
       {
-       "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
-       "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
+       "title": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
+       "url": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
        "source": "BBC World",
-       "published_at": "2026-10-24 23:02"
+       "published_at": "2026-10-24 17:11"
       },
       {
-       "title": "Why Israeli tourists and investors are unsettling Cypriots",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/aje-onl-nf_why-israeli-investors-are-unsettling-cypriots-241026?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-10-24 14:56"
-      },
-      {
-       "title": "Israeli soldiers raze neighbourhood in Hebron, driving families from homes",
-       "url": "https://www.theguardian.com/world/2026/oct/24/israel-soldiers-raze-west-bank-neighbourhood-hebron-families-from-homes",
+       "title": "British woman dies trying to save sons on Bahamas snorkelling trip",
+       "url": "https://www.theguardian.com/world/2026/oct/24/british-woman-dies-trying-to-save-sons-on-bahamas-snorkelling-trip",
        "source": "Guardian World",
-       "published_at": "2026-10-24 13:17"
-      }
-     ]
-    },
-    {
-     "label": "Israel · Election",
-     "articles": [
-      {
-       "title": "Could Israel’s military crackdown influence Tuesday’s election?",
-       "url": "https://www.aljazeera.com/video/inside-story/2026/10/24/could-israels-military-crackdown-influence-tuesdays-election?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-10-24 20:37"
-      },
-      {
-       "title": "Thousands of Israelis rally against Netanyahu gov’t days before election",
-       "url": "https://www.aljazeera.com/news/2026/10/24/thousands-of-israelis-rally-against-netanyahu-govt-days-before-election?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-10-24 19:11"
-      },
-      {
-       "title": "More than 2,000 forced from homes in Hebron amid Israel’s West Bank raids",
-       "url": "https://www.aljazeera.com/news/2026/10/24/more-than-2000-forced-from-homes-in-hebron-amid-israels-west-bank-raids?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-10-24 15:50"
+       "published_at": "2026-10-24 09:43"
       }
      ]
     },
@@ -471,12 +483,6 @@
        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/severe-hunger-stalks-people-in-gaza-as-bakeries-close-down?traffic_source=rss",
        "source": "Al Jazeera",
        "published_at": "2026-10-24 20:52"
-      },
-      {
-       "title": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
-       "url": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
-       "source": "BBC World",
-       "published_at": "2026-10-24 17:11"
       }
      ]
     }
@@ -490,8 +496,20 @@
    "note": null,
    "clusters": [
     {
-     "label": "Ukraine · Stable",
+     "label": "Ukraine · Russian",
      "articles": [
+      {
+       "title": "Almost 283,000 Russian soldiers killed in Ukraine identified by media investigation",
+       "url": "https://kyivindependent.com/almost-283-000-russian-soldiers-killed-in-ukraine-identified-by-media-investigation-2/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-10-25 03:58"
+      },
+      {
+       "title": "Bulgarians vote for president in shadow of Russia’s war in Ukraine",
+       "url": "https://www.aljazeera.com/news/2026/10/25/bulgarians-vote-for-president-in-shadow-of-russias-war-in-ukraine?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-10-25 02:45"
+      },
       {
        "title": "Trump lauds Melania over Russia-Ukraine localised ceasefire deal",
        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/trump-lauds-melania-over-russia-ukraine-localised-ceasefire-deal?traffic_source=rss",
@@ -509,47 +527,18 @@
        "url": "https://kyivindependent.com/ukraine-sanctions-russian-arms-suppliers-as-moscow-ramps-up-attacks/",
        "source": "Kyiv Independent",
        "published_at": "2026-10-24 12:12"
-      },
-      {
-       "title": "Ukraine says Starlink connection 'now stable' after network limits",
-       "url": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
-       "source": "BBC World",
-       "published_at": "2026-10-24 12:12"
-      },
-      {
-       "title": "Russian attacks kill 4, injure 78 across Ukraine over past day, as drone strikes Kyiv residential building in the morning",
-       "url": "https://kyivindependent.com/russian-attacks-kill-4-injure-78-across-ukraine-over-past-day-as-drone-strikes-kyiv-residential-building-in-the-morning/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-10-24 09:43"
       }
      ]
     },
     {
-     "label": "Russia",
+     "label": "Russian · Targets",
      "articles": [
       {
-       "title": "Massive Ukrainian drone attack hits shopping center in Russia's Belgorod Oblast, locals say",
-       "url": "https://kyivindependent.com/massive-ukrainian-drone-attack-hits-shopping-center-in-russias-belgorod-oblast-locals-say/",
+       "title": "Sanctioned Russian energy giant secretly funded US gas project, NYT reports",
+       "url": "https://kyivindependent.com/sanctioned-russian-energy-giant-secretly-funded-us-gas-project-nyt-reports/",
        "source": "Kyiv Independent",
-       "published_at": "2026-10-24 23:27"
+       "published_at": "2026-10-25 00:29"
       },
-      {
-       "title": "Ukraine strikes factory in Russia's Tolyatti, airfield in Krasnodar Krai, General Staff says",
-       "url": "https://kyivindependent.com/ukraine-strikes-factory-in-russias-tolyatti-airfield-in-krasnodar-krai-general-staff-says/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-10-24 08:33"
-      },
-      {
-       "title": "The trouble with loving Russia: Evan Gershkovich's memoir seeks sentimentality in a lost country",
-       "url": "https://kyivindependent.com/the-trouble-with-loving-russia-evan-gershkovichs-memoir-seeks-sentimentality-in-a-lost-country-2/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-10-24 08:03"
-      }
-     ]
-    },
-    {
-     "label": "Russian · Strike",
-     "articles": [
       {
        "title": "Deadly Russian drone strike targets apartment in Dnipropetrovsk Oblast, killing 3, injuring 12",
        "url": "https://kyivindependent.com/deadly-russian-drone-strike-targets-apartment-in-dnipropetrovsk-oblast-killing-3-injuring-12/",
@@ -561,6 +550,29 @@
        "url": "https://kyivindependent.com/ukrainian-forces-reportedly-strike-russian-targets-2-500-kilometers-from-border/",
        "source": "Kyiv Independent",
        "published_at": "2026-10-24 16:48"
+      },
+      {
+       "title": "Russian attacks kill 4, injure 78 across Ukraine over past day, as drone strikes Kyiv residential building in the morning",
+       "url": "https://kyivindependent.com/russian-attacks-kill-4-injure-78-across-ukraine-over-past-day-as-drone-strikes-kyiv-residential-building-in-the-morning/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-10-24 09:43"
+      }
+     ]
+    },
+    {
+     "label": "Ukrainian",
+     "articles": [
+      {
+       "title": "Massive Ukrainian drone attack hits shopping center in Russia's Belgorod Oblast, locals say",
+       "url": "https://kyivindependent.com/massive-ukrainian-drone-attack-hits-shopping-center-in-russias-belgorod-oblast-locals-say/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-10-24 23:27"
+      },
+      {
+       "title": "Germany in talks to buy Ukrainian jet-powered drones",
+       "url": "https://kyivindependent.com/germany-in-talks-to-buy-ukrainian-jet-powered-drones/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-10-24 13:14"
       }
      ]
     },
@@ -568,16 +580,10 @@
      "label": "More headlines",
      "articles": [
       {
-       "title": "Germany in talks to buy Ukrainian jet-powered drones",
-       "url": "https://kyivindependent.com/germany-in-talks-to-buy-ukrainian-jet-powered-drones/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-10-24 13:14"
-      },
-      {
-       "title": "Starshield operations restored to normal speed, Zelensky confirms as Elon Musk claims Ukraine violated Starlink terms",
-       "url": "https://kyivindependent.com/starshield-operations-restored-above-400-km-h-ukraines-defense-ministry-says/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-10-24 07:57"
+       "title": "Ukraine says Starlink connection 'now stable' after network limits",
+       "url": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
+       "source": "BBC World",
+       "published_at": "2026-10-24 12:12"
       }
      ]
     }
