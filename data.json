@@ -1,12 +1,12 @@
 {
  "date": "Wednesday 28 October 2026",
- "generated_at": "00:20 UTC",
+ "generated_at": "06:07 UTC",
  "error": null,
- "total_stories": 71,
+ "total_stories": 78,
  "fx": {
   "pair": "EUR/MAD",
-  "rate": 11.005,
-  "change_pct": 0.0
+  "rate": 10.98,
+  "change_pct": -0.23
  },
  "lanes": [
   {
@@ -16,48 +16,42 @@
    "note": null,
    "clusters": [
     {
-     "label": "Lfm",
+     "label": "Flash · Deepseek",
      "articles": [
       {
-       "title": "New audio model: LFM3-Audio-2B",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xh50at/new_audio_model_lfm3audio2b/",
+       "title": "DeepSeek-V4.1-Flash-1017 at 41 tok/s on one 3090",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xh9yf7/deepseekv41flash1017_at_41_toks_on_one_3090/",
        "source": "r/LocalLLaMA",
-       "published_at": "2026-10-27 21:14"
+       "published_at": "2026-10-28 00:39"
       },
       {
-       "title": "LiquidAI/LFM3-Omni-2B-GGUF",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xh1rwn/liquidailfm3omni2bgguf/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-10-27 19:12"
-      },
-      {
-       "title": "Real-time video captioning with LFM3-VL-2B running locally in-browser on WebGPU",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xh0otf/realtime_video_captioning_with_lfm3vl2b_running/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-10-27 18:33"
-      },
-      {
-       "title": "Build specialized multimodal models with LFM3",
-       "url": "https://huggingface.co/blog/LiquidAI/lfm3",
-       "source": "HuggingFace",
-       "published_at": "2026-10-27 17:16"
-      }
-     ]
-    },
-    {
-     "label": "Gguf",
-     "articles": [
-      {
-       "title": "ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF · 392 ♥",
+       "title": "ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF · 407 ♥",
        "url": "https://huggingface.co/ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
        "source": "HF new models",
        "published_at": "2026-10-23 09:43"
       },
       {
-       "title": "unsloth/flint-GGUF · 289 ♥",
-       "url": "https://huggingface.co/unsloth/flint-GGUF",
+       "title": "MiniMaxAI/MiniMax-M3.1-Flash · 427 ♥",
+       "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3.1-Flash",
        "source": "HF new models",
-       "published_at": "2026-10-20 03:26"
+       "published_at": "2026-10-17 06:37"
+      }
+     ]
+    },
+    {
+     "label": "Major",
+     "articles": [
+      {
+       "title": "Artificial Analysis Intelligence Index v5 (major update)",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhdmlk/artificial_analysis_intelligence_index_v5_major/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-10-28 03:36"
+      },
+      {
+       "title": "OpenAI's major results over the last 3 months came from scaling test-time compute with agent swarms. I've been building an open-source equivalent for the past year, and I'd love for you guys to try it.",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xh4bnd/openais_major_results_over_the_last_3_months_came/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-10-27 20:47"
       }
      ]
     },
@@ -79,13 +73,42 @@
      ]
     },
     {
+     "label": "Model",
+     "articles": [
+      {
+       "title": "New audio model: LFM3-Audio-2B",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xh50at/new_audio_model_lfm3audio2b/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-10-27 21:14"
+      },
+      {
+       "title": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
+       "url": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/",
+       "source": "Hacker News",
+       "published_at": "2026-10-27 20:48"
+      }
+     ]
+    },
+    {
      "label": "More headlines",
      "articles": [
       {
-       "title": "OpenAI's major results over the last 3 months came from scaling test-time compute with agent swarms. I've been building an open-source equivalent for the past year, and I'd love for you guys to try it.",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xh4bnd/openais_major_results_over_the_last_3_months_came/",
+       "title": "Dirt cheap GPUs coming next year",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhep6w/dirt_cheap_gpus_coming_next_year/",
        "source": "r/LocalLLaMA",
-       "published_at": "2026-10-27 20:47"
+       "published_at": "2026-10-28 04:34"
+      },
+      {
+       "title": "SK Hynix expects demand to outpace supply through 2030",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xh9qj4/sk_hynix_expects_demand_to_outpace_supply_through/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-10-28 00:29"
+      },
+      {
+       "title": "Early progress on accelerating drug development with Claude",
+       "url": "https://www.anthropic.com/research/early-progress-drug-development",
+       "source": "Hacker News",
+       "published_at": "2026-10-27 20:50"
       },
       {
        "title": "The reason why 5090's are $10k now...",
@@ -100,46 +123,28 @@
        "published_at": "2026-10-27 19:55"
       },
       {
-       "title": "Statistically Lossless Qwen3.8 27B GGUFs",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xh17tk/statistically_lossless_qwen38_27b_ggufs/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-10-27 18:52"
-      },
-      {
-       "title": "VisionQuest is what happens when AI really goes rogue",
-       "url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
-       "source": "Verge AI",
-       "published_at": "2026-10-27 17:30"
-      },
-      {
-       "title": "OpenBMB released a 1.3B OCR model and a separate 2B model to check its work",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgyqbb/openbmb_released_a_13b_ocr_model_and_a_separate/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-10-27 17:21"
-      },
-      {
-       "title": "Nanbeige/Nanbeige4.3-33B · 667 ♥",
+       "title": "Nanbeige/Nanbeige4.3-33B · 682 ♥",
        "url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B",
        "source": "HF new models",
        "published_at": "2026-10-24 02:49"
       },
       {
-       "title": "RecursiveSI/flint · 972 ♥",
+       "title": "RecursiveSI/flint · 1050 ♥",
        "url": "https://huggingface.co/RecursiveSI/flint",
        "source": "HF new models",
        "published_at": "2026-10-21 14:20"
       },
       {
-       "title": "XHToken/Spark-X2.6-4B · 782 ♥",
+       "title": "unsloth/flint-GGUF · 299 ♥",
+       "url": "https://huggingface.co/unsloth/flint-GGUF",
+       "source": "HF new models",
+       "published_at": "2026-10-20 03:26"
+      },
+      {
+       "title": "XHToken/Spark-X2.6-4B · 813 ♥",
        "url": "https://huggingface.co/XHToken/Spark-X2.6-4B",
        "source": "HF new models",
        "published_at": "2026-10-19 03:19"
-      },
-      {
-       "title": "MiniMaxAI/MiniMax-M3.1-Flash · 413 ♥",
-       "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3.1-Flash",
-       "source": "HF new models",
-       "published_at": "2026-10-17 06:37"
       }
      ]
     }
@@ -232,36 +237,82 @@
    "note": null,
    "clusters": [
     {
-     "label": "المغرب",
+     "label": "على",
      "articles": [
       {
-       "title": "شحتان يطرح إمكانية إقرار تراخيص لمزاولة النشاط الإعلامي في المغرب",
-       "url": "https://www.hespress.com/%d8%b4%d8%ad%d8%aa%d8%a7%d9%86-%d9%8a%d8%b7%d8%b1%d8%ad-%d8%a5%d9%85%d9%83%d8%a7%d9%86%d9%8a%d8%a9-%d8%a5%d9%82%d8%b1%d8%a7%d8%b1-%d8%aa%d8%b1%d8%ae%d9%8a%d8%b5-%d9%84%d9%85%d8%b2%d8%a7%d9%88%d9%84-1830151.html",
+       "title": "المالك: العالم ينفق 2.9 تريليون دولار على التسلح بدل الاستثمار في التعليم",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%83-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85-%d9%8a%d9%86%d9%81%d9%82-2-9-%d8%aa%d8%b1%d9%8a%d9%84%d9%8a%d9%88%d9%86-%d8%af%d9%88%d9%84%d8%a7%d8%b1-%d8%b9%d9%84%d9%89-1829899.html",
        "source": "Hespress",
-       "published_at": "2026-10-27 23:15"
+       "published_at": "2026-10-28 05:00"
       },
       {
-       "title": "المغرب يراهن على الاستقرار والدبلوماسية لتمثيل إفريقيا في مجلس الأمن",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d9%8a%d8%b1%d8%a7%d9%87%d9%86-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d9%82%d8%b1%d8%a7%d8%b1-%d9%88%d8%a7%d9%84%d8%af%d8%a8%d9%84%d9%88%d9%85%d8%a7-1829870.html",
+       "title": "انتخابات تضع شعبية ترامب على المحك",
+       "url": "https://www.hespress.com/%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-%d8%aa%d8%b6%d8%b9-%d8%b4%d8%b9%d8%a8%d9%8a%d8%a9-%d8%aa%d8%b1%d8%a7%d9%85%d8%a8-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d9%85%d8%ad%d9%83-1829534.html",
        "source": "Hespress",
-       "published_at": "2026-10-27 22:45"
+       "published_at": "2026-10-28 04:17"
+      },
+      {
+       "title": "النقابات تنتظر إجراءات الحكومة الجديدة لاستكمال العمل على إصلاح التقاعد",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%86%d9%82%d8%a7%d8%a8%d8%a7%d8%aa-%d8%aa%d9%86%d8%aa%d8%b8%d8%b1-%d8%a5%d8%ac%d8%b1%d8%a7%d8%a1%d8%a7%d8%aa-%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d8%a9-%d8%a7%d9%84%d8%ac%d8%af%d9%8a-1830044.html",
+       "source": "Hespress",
+       "published_at": "2026-10-28 04:00"
+      },
+      {
+       "title": "تحديات مناخية واقتصادية تخيم على موسم الزراعات العلفية في المغرب",
+       "url": "https://www.hespress.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%a7%d8%aa-%d9%85%d9%86%d8%a7%d8%ae%d9%8a%d8%a9-%d9%88%d8%a7%d9%82%d8%aa%d8%b5%d8%a7%d8%af%d9%8a%d8%a9-%d8%aa%d8%ae%d9%8a%d9%85-%d8%b9%d9%84%d9%89-%d9%85%d9%88%d8%b3%d9%85-1829952.html",
+       "source": "Hespress",
+       "published_at": "2026-10-28 02:00"
       }
      ]
     },
     {
-     "label": "متهمين · محاكمة",
+     "label": "الدوحة · مهرجان",
      "articles": [
       {
-       "title": "تأجيل محاكمة متهمين بسرقة 600 هاتف",
-       "url": "https://www.hespress.com/%d8%aa%d8%a3%d8%ac%d9%8a%d9%84-%d9%85%d8%ad%d8%a7%d9%83%d9%85%d8%a9-%d9%85%d8%aa%d9%87%d9%85%d9%8a%d9%86-%d8%a8%d8%b3%d8%b1%d9%82%d8%a9-600-%d9%87%d8%a7%d8%aa%d9%81-1830106.html",
+       "title": "مهرجان الدوحة يطلق أول برنامج اعتماد",
+       "url": "https://www.hespress.com/%d9%85%d9%87%d8%b1%d8%ac%d8%a7%d9%86-%d8%a7%d9%84%d8%af%d9%88%d8%ad%d8%a9-%d9%8a%d8%b7%d9%84%d9%82-%d8%a3%d9%88%d9%84-%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac-%d8%a7%d8%b9%d8%aa%d9%85%d8%a7%d8%af-1830175.html",
        "source": "Hespress",
-       "published_at": "2026-10-27 23:07"
+       "published_at": "2026-10-28 05:29"
       },
       {
-       "title": "رصيف الصحافة: محاكمة متهمين باستغلال نزلاء خيرية بفاس في الدعارة",
-       "url": "https://www.hespress.com/%d8%b1%d8%b5%d9%8a%d9%81-%d8%a7%d9%84%d8%b5%d8%ad%d8%a7%d9%81%d8%a9-%d9%85%d8%ad%d8%a7%d9%83%d9%85%d8%a9-%d9%85%d8%aa%d9%87%d9%85%d9%8a%d9%86-%d8%a8%d8%a7%d8%b3%d8%aa%d8%ba%d9%84%d8%a7%d9%84-%d9%86-1830137.html",
+       "title": "كواسي تقود لجنة تحكيم مهرجان الدوحة",
+       "url": "https://www.hespress.com/%d9%83%d9%88%d8%a7%d8%b3%d9%8a-%d8%aa%d9%82%d9%88%d8%af-%d9%84%d8%ac%d9%86%d8%a9-%d8%aa%d8%ad%d9%83%d9%8a%d9%85-%d9%85%d9%87%d8%b1%d8%ac%d8%a7%d9%86-%d8%a7%d9%84%d8%af%d9%88%d8%ad%d8%a9-1830156.html",
        "source": "Hespress",
-       "published_at": "2026-10-27 22:00"
+       "published_at": "2026-10-28 02:33"
+      }
+     ]
+    },
+    {
+     "label": "إلى",
+     "articles": [
+      {
+       "title": "وزان يعود إلى دائرة اهتمام ريال مدريد",
+       "url": "https://www.hespress.com/%d9%88%d8%b2%d8%a7%d9%86-%d9%8a%d8%b9%d9%88%d8%af-%d8%a5%d9%84%d9%89-%d8%af%d8%a7%d8%a6%d8%b1%d8%a9-%d8%a7%d9%87%d8%aa%d9%85%d8%a7%d9%85-%d8%b1%d9%8a%d8%a7%d9%84-%d9%85%d8%af%d8%b1%d9%8a%d8%af-1830131.html",
+       "source": "Hespress",
+       "published_at": "2026-10-28 04:37"
+      },
+      {
+       "title": "البلعمشي يدعو إلى \"الدبلوماسية الحضارية\" لاستباق التوترات الدولية",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%a8%d9%84%d8%b9%d9%85%d8%b4%d9%8a-%d9%8a%d8%af%d8%b9%d9%88-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d8%af%d8%a8%d9%84%d9%88%d9%85%d8%a7%d8%b3%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%b6%d8%a7%d8%b1-1830118.html",
+       "source": "Hespress",
+       "published_at": "2026-10-28 03:00"
+      }
+     ]
+    },
+    {
+     "label": "Après",
+     "articles": [
+      {
+       "title": "Parlement : Azzeddine El Midaoui suscite un tollé après avoir parlé de “mariage mongolien”",
+       "url": "https://telquel.ma/instant-t/2026/10/27/parlement-azzeddine-el-midaoui-suscite-un-tolle-apres-avoir-parle-de-mariage-mongolien_2015209/",
+       "source": "TelQuel",
+       "published_at": "2026-10-27 18:01"
+      },
+      {
+       "title": "Après une vidéo sur Akhannouch, la cour d’appel alourdit la peine du rappeur T-Flow",
+       "url": "https://telquel.ma/instant-t/2026/10/27/apres-une-video-sur-akhannouch-la-cour-dappel-alourdit-la-peine-du-rappeur-t-flow_2015184/",
+       "source": "TelQuel",
+       "published_at": "2026-10-27 16:36"
       }
      ]
     },
@@ -269,57 +320,57 @@
      "label": "More headlines",
      "articles": [
       {
-       "title": "فريق من الدرجة الرابعة يقصي أرسنال",
-       "url": "https://www.hespress.com/%d9%81%d8%b1%d9%8a%d9%82-%d9%85%d9%86-%d8%a7%d9%84%d8%af%d8%b1%d8%ac%d8%a9-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9%d8%a9-%d9%8a%d9%82%d8%b5%d9%8a-%d8%a3%d8%b1%d8%b3%d9%86%d8%a7%d9%84-1829918.html",
+       "title": "مغربي بهولندا يورد الخشب السورينامي",
+       "url": "https://www.hespress.com/%d9%85%d8%ba%d8%b1%d8%a8%d9%8a-%d8%a8%d9%87%d9%88%d9%84%d9%86%d8%af%d8%a7-%d9%8a%d9%88%d8%b1%d8%af-%d8%a7%d9%84%d8%ae%d8%b4%d8%a8-%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a%d9%86%d8%a7%d9%85%d9%8a-1829931.html",
        "source": "Hespress",
-       "published_at": "2026-10-28 00:08"
+       "published_at": "2026-10-28 05:49"
       },
       {
-       "title": "الأحزاب العربية تحقق نتائج لافتة وتدخل حسابات تشكيل الحكومة الإسرائيلية",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%a3%d8%ad%d8%b2%d8%a7%d8%a8-%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d8%a9-%d8%aa%d8%ad%d9%82%d9%82-%d9%86%d8%aa%d8%a7%d8%a6%d8%ac-%d9%84%d8%a7%d9%81%d8%aa%d8%a9-%d9%88%d8%aa%d8%af%d8%ae-1830160.html",
+       "title": "إشادة دنماركية بأداء المغربي تارغالين",
+       "url": "https://www.hespress.com/%d8%a5%d8%b4%d8%a7%d8%af%d8%a9-%d8%af%d9%86%d9%85%d8%a7%d8%b1%d9%83%d9%8a%d8%a9-%d8%a8%d8%a3%d8%af%d8%a7%d8%a1-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8%d9%8a-%d8%aa%d8%a7%d8%b1%d8%ba%d8%a7%d9%84%d9%8a-1830047.html",
        "source": "Hespress",
-       "published_at": "2026-10-27 23:55"
+       "published_at": "2026-10-28 03:47"
       },
       {
-       "title": "\"البام\" و\"الأحرار\" يتنافسان في البيضاء",
-       "url": "https://www.hespress.com/%d9%85%d9%88%d8%a7%d8%ac%d9%87%d8%a9-%d8%a8%d9%8a%d9%86-%d8%a7%d9%84%d8%a8%d8%a7%d9%85-%d9%88%d8%a7%d9%84%d8%a3%d8%ad%d8%b1%d8%a7%d8%b1-%d9%84%d8%b1%d8%a6%d8%a7%d8%b3%d8%a9-%d9%85%d8%ac%d9%85-1829731.html",
+       "title": "رابطة المكفوفين تراسل رئيسة الحكومة",
+       "url": "https://www.hespress.com/%d8%b1%d8%a7%d8%a8%d8%b7%d8%a9-%d8%a7%d9%84%d9%85%d9%83%d9%81%d9%88%d9%81%d9%8a%d9%86-%d8%aa%d8%b1%d8%a7%d8%b3%d9%84-%d8%b1%d8%a6%d9%8a%d8%b3%d8%a9-%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d8%a9-1829915.html",
        "source": "Hespress",
-       "published_at": "2026-10-27 23:39"
+       "published_at": "2026-10-28 03:19"
       },
       {
-       "title": "كَارْل مَارْكس",
-       "url": "https://www.hespress.com/%d9%83%d9%8e%d8%a7%d8%b1%d9%92%d9%84-%d9%85%d9%8e%d8%a7%d8%b1%d9%92%d9%83%d8%b3-1824123.html",
+       "title": "اتفاقية تعزز الصناعات الجلدية الإفريقية",
+       "url": "https://www.hespress.com/%d8%a7%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a9-%d8%aa%d8%b9%d8%b2%d8%b2-%d8%a7%d9%84%d8%b5%d9%86%d8%a7%d8%b9%d8%a7%d8%aa-%d8%a7%d9%84%d8%ac%d9%84%d8%af%d9%8a%d8%a9-%d8%a7%d9%84%d8%a5%d9%81%d8%b1%d9%8a-1830182.html",
        "source": "Hespress",
-       "published_at": "2026-10-27 22:49"
+       "published_at": "2026-10-28 02:56"
       },
       {
-       "title": "يامال بعد الكرة الذهبية: \"سيأتي دوري\"",
-       "url": "https://www.hespress.com/%d9%8a%d8%a7%d9%85%d8%a7%d9%84-%d8%a8%d8%b9%d8%af-%d8%a7%d9%84%d9%83%d8%b1%d8%a9-%d8%a7%d9%84%d8%b0%d9%87%d8%a8%d9%8a%d8%a9-%d8%b3%d9%8a%d8%a3%d8%aa%d9%8a-%d8%af%d9%88%d8%b1%d9%8a-1830103.html",
-       "source": "Hespress",
-       "published_at": "2026-10-27 22:33"
+       "title": "Justice : amélioration des indicateurs de performance des tribunaux en 2025",
+       "url": "https://telquel.ma/instant-t/2026/10/27/justice-amelioration-des-indicateurs-de-performance-des-tribunaux-en-2025_2015211/",
+       "source": "TelQuel",
+       "published_at": "2026-10-27 17:31"
       },
       {
-       "title": "معرض يلاقي فنانين مغاربة وصينيين",
-       "url": "https://www.hespress.com/%d9%85%d8%b9%d8%b1%d8%b6-%d9%8a%d9%84%d8%a7%d9%82%d9%8a-%d9%81%d9%86%d8%a7%d9%86%d9%8a%d9%86-%d9%85%d8%ba%d8%a7%d8%b1%d8%a8%d8%a9-%d9%88%d8%b5%d9%8a%d9%86%d9%8a%d9%8a%d9%86-1829845.html",
-       "source": "Hespress",
-       "published_at": "2026-10-27 22:14"
+       "title": "PLF 2027 : une zone de gaming à 460 MDH et un programme de soutien aux studios de jeux vidéo",
+       "url": "https://telquel.ma/instant-t/2026/10/27/plf-2027-ce-que-le-maroc-prevoit-pour-lindustrie-du-gaming_2015190/",
+       "source": "TelQuel",
+       "published_at": "2026-10-27 17:06"
       },
       {
-       "title": "كيف غيّر طلبة صربيا المشهد السياسي؟",
-       "url": "https://www.hespress.com/%d9%83%d9%8a%d9%81-%d8%ba%d9%8a%d9%91%d8%b1-%d8%b7%d9%84%d8%a8%d8%a9-%d8%b5%d8%b1%d8%a8%d9%8a%d8%a7-%d8%a7%d9%84%d9%85%d8%b4%d9%87%d8%af-%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3%d9%8a%d8%9f-1830124.html",
-       "source": "Hespress",
-       "published_at": "2026-10-27 22:11"
+       "title": "Aéroport de Rabat-Salé : hausse de 18,6% du trafic passagers à fin septembre",
+       "url": "https://telquel.ma/instant-t/2026/10/27/aeroport-de-rabat-sale-hausse-de-186-du-trafic-passagers-a-fin-septembre_2015192/",
+       "source": "TelQuel",
+       "published_at": "2026-10-27 17:00"
       },
       {
-       "title": "\"رايان إير\" تعلن توسعا قياسيا بالمغرب",
-       "url": "https://www.hespress.com/%d8%b1%d8%a7%d9%8a%d8%a7%d9%86-%d8%a5%d9%8a%d8%b1-%d8%aa%d8%b9%d9%84%d9%86-%d8%aa%d9%88%d8%b3%d8%b9%d8%a7-%d9%82%d9%8a%d8%a7%d8%b3%d9%8a%d8%a7-%d8%a8%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-1830029.html",
-       "source": "Hespress",
-       "published_at": "2026-10-27 21:48"
+       "title": "Le Maroc progresse dans le classement africain de l’attractivité des investissements",
+       "url": "https://telquel.ma/instant-t/2026/10/27/le-maroc-progresse-dans-le-classement-africain-de-lattractivite-des-investissements_2015162/",
+       "source": "TelQuel",
+       "published_at": "2026-10-27 16:07"
       }
      ]
     }
    ],
-   "count": 12
+   "count": 18
   },
   {
    "key": "netherlands",
@@ -345,47 +396,48 @@
      ]
     },
     {
-     "label": "Bezoek · Leersum",
-     "articles": [
-      {
-       "title": "Koning brengt ’pr-bezoek’ aan azc Leersum: ’Het kan soms ook wel heel goed gaan’",
-       "url": "https://www.telegraaf.nl/binnenland/koning-brengt-pr-bezoek-aan-azc-leersum-het-kan-soms-ook-wel-heel-goed-gaan/163686046.html",
-       "source": "de Telegraaf",
-       "published_at": "2026-10-27 18:08"
-      },
-      {
-       "title": "Video | Koning toegezongen bij bezoek aan klas van azc in Leersum",
-       "url": "https://www.nu.nl/331698/video/koning-toegezongen-bij-bezoek-aan-klas-van-azc-in-leersum.html",
-       "source": "NU.nl",
-       "published_at": "2026-10-27 18:05"
-      }
-     ]
-    },
-    {
      "label": "More headlines",
      "articles": [
+      {
+       "title": "Lezers: ’Plannen kernenergie lopen vast in de praktijk’",
+       "url": "https://www.telegraaf.nl/wat-u-zegt/lezersbrieven/lezers-plannen-kernenergie-lopen-vast-in-de-praktijk/163673657.html",
+       "source": "de Telegraaf",
+       "published_at": "2026-10-28 06:00"
+      },
+      {
+       "title": "CBS: steeds meer sociale huurwoningen naar statushouders",
+       "url": "https://www.telegraaf.nl/financieel/cbs-steeds-meer-sociale-huurwoningen-naar-statushouders/163676953.html",
+       "source": "de Telegraaf",
+       "published_at": "2026-10-28 05:30"
+      },
+      {
+       "title": "Hoofdredactie: verhogen verkeersboetes verkapte belastingverhoging",
+       "url": "https://www.telegraaf.nl/opinie/hoofdredactie-verhogen-verkeersboetes-verkapte-belastingverhoging/163696674.html",
+       "source": "de Telegraaf",
+       "published_at": "2026-10-28 05:00"
+      },
+      {
+       "title": "Particuliere verhuurders zitten klem en bieden huurders ’oprotpremie’: ’Bod van 100.000 euro aan huurder om woning te verlaten’",
+       "url": "https://www.telegraaf.nl/financieel/particuliere-verhuurders-zitten-klem-en-bieden-huurders-oprotpremie-bod-van-100.000-euro-aan-huurder-om-woning-te-verlaten/163693170.html",
+       "source": "de Telegraaf",
+       "published_at": "2026-10-28 05:00"
+      },
+      {
+       "title": "Kabinet riskeert gat van miljarden bij afschieten belastingplan: ’Europees strafbankje dreigt’",
+       "url": "https://www.telegraaf.nl/financieel/kabinet-riskeert-gat-van-miljarden-bij-afschieten-belastingplan-europees-strafbankje-dreigt/163667348.html",
+       "source": "de Telegraaf",
+       "published_at": "2026-10-28 04:00"
+      },
       {
        "title": "Verslaggever Yteke de Jong beleefde een trieste dag op Schiphol: ’Luchtvaart letterlijk in het verdomhoekje’",
        "url": "https://www.telegraaf.nl/binnenland/verslaggever-yteke-de-jong-beleefde-een-trieste-dag-op-schiphol-luchtvaart-letterlijk-in-het-verdomhoekje/163621567.html",
        "source": "de Telegraaf",
        "published_at": "2026-10-27 19:00"
-      },
-      {
-       "title": "Bolsonaro junior ontvlucht Brazilië na verkiezingsnederlaag en is op weg naar VS",
-       "url": "https://www.nu.nl/buitenland/6414602/bolsonaro-junior-ontvlucht-brazilie-na-verkiezingsnederlaag-en-is-op-weg-naar-vs.html",
-       "source": "NU.nl",
-       "published_at": "2026-10-27 17:39"
-      },
-      {
-       "title": "Explainer | Premier blijft stoelen neerzetten, demonstranten steken ze in brand",
-       "url": "https://www.nu.nl/331690/video/premier-blijft-stoelen-neerzetten-demonstranten-steken-ze-in-brand.html",
-       "source": "NU.nl",
-       "published_at": "2026-10-27 16:45"
       }
      ]
     }
    ],
-   "count": 7
+   "count": 8
   },
   {
    "key": "mideast",
@@ -394,37 +446,37 @@
    "note": null,
    "clusters": [
     {
-     "label": "Israel · Election",
+     "label": "Israel · Eisenkot",
      "articles": [
       {
-       "title": "Israel election live: Netanyahu and Eisenkot opposition blocs tied in latest exit polls",
-       "url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
+       "title": "Israel election results live: vote count underway as exit polls point to tie between Netanyahu and Eisenkot blocs",
+       "url": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
        "source": "Guardian World",
-       "published_at": "2026-10-28 00:11"
+       "published_at": "2026-10-28 05:34"
       },
       {
-       "title": "Rise of Palestinian parties in Knesset will redraw Israel’s political landscape",
-       "url": "https://www.theguardian.com/world/2026/oct/27/palestinian-parties-knesset-election-exit-polls-redraw-israel-political-landscape",
-       "source": "Guardian World",
-       "published_at": "2026-10-27 23:57"
-      },
-      {
-       "title": "No clear mandate projected in Israel election: What’s next?",
-       "url": "https://www.aljazeera.com/news/2026/10/27/no-clear-mandate-projected-in-israel-election-whats-next?traffic_source=rss",
+       "title": "Five key takeaways from Israel’s parliamentary elections",
+       "url": "https://www.aljazeera.com/news/2026/10/28/five-key-takeaways-from-israels-parliamentary-elections?traffic_source=rss",
        "source": "Al Jazeera",
-       "published_at": "2026-10-27 23:06"
+       "published_at": "2026-10-28 02:53"
       },
       {
-       "title": "Smotrich dances in Israel despite far-right decline",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/smotrich-dances-in-israel-despite-far-right-decline?traffic_source=rss",
+       "title": "Arab parties on track to win record seats in Israel election, polls show",
+       "url": "https://www.aljazeera.com/news/2026/10/28/arab-parties-could-win-18-seats-in-israeli-elections-exit-polls-suggest?traffic_source=rss",
        "source": "Al Jazeera",
-       "published_at": "2026-10-27 23:03"
+       "published_at": "2026-10-28 00:43"
       },
       {
-       "title": "Arab towns in Israel celebrate historic Knesset gains with fireworks",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/arab-towns-in-israel-celebrate-historic-knesset-gains-with-fireworks?traffic_source=rss",
+       "title": "Netanyahu, Eisenkot camps clash over Israel election projections",
+       "url": "https://www.aljazeera.com/news/2026/10/28/exit-polls-trigger-heated-debate-across-israeli-political-divide?traffic_source=rss",
        "source": "Al Jazeera",
-       "published_at": "2026-10-27 22:56"
+       "published_at": "2026-10-28 00:43"
+      },
+      {
+       "title": "Israel’s Eisenkot says country voted for change",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/israels-eisenkot-says-country-voted-for-change?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-10-28 00:30"
       }
      ]
     },
@@ -435,30 +487,30 @@
        "title": "Watch: What happens now after close vote in Israeli election?",
        "url": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss",
        "source": "BBC World",
-       "published_at": "2026-10-28 00:04"
+       "published_at": "2026-10-28 04:22"
       },
       {
-       "title": "‘Go home, Ben-Gvir’; Arab Bloc celebrates record turnout in Israel election",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/go-home-ben-gvir-arab-bloc-celebrates-record-turnout-in-israel-election?traffic_source=rss",
+       "title": "Israel election results: No clear winner projected, what’s next?",
+       "url": "https://www.aljazeera.com/news/2026/10/27/no-clear-mandate-projected-in-israel-election-whats-next?traffic_source=rss",
        "source": "Al Jazeera",
-       "published_at": "2026-10-27 22:31"
+       "published_at": "2026-10-27 23:06"
       }
      ]
     },
     {
-     "label": "Iran · War",
+     "label": "Parties",
      "articles": [
       {
-       "title": "Trump, campaigning in Texas for Republicans, touts Iran war and ‘51st state’ Venezuela: ‘I knew that oil would go up’ – live",
-       "url": "https://www.theguardian.com/us-news/live/2026/oct/27/comey-trump-rubio-texas-vance-israel-midterms-politics-latest-news-updates",
-       "source": "Guardian World",
-       "published_at": "2026-10-27 23:38"
+       "title": "Netanyahu: Coalition with Arab parties would be ‘shameful’",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/netanyahu-coalition-with-arab-parties-would-be?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-10-28 02:26"
       },
       {
-       "title": "Iran war live: Pezeshkian says Middle East can solve own issues without US",
-       "url": "https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-pezeshkian-says-middle-east-can-solve-own-issues-without-us?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-10-27 22:29"
+       "title": "Rise of Palestinian parties in Knesset will redraw Israel’s political landscape",
+       "url": "https://www.theguardian.com/world/2026/oct/27/palestinian-parties-knesset-election-exit-polls-redraw-israel-political-landscape",
+       "source": "Guardian World",
+       "published_at": "2026-10-27 23:57"
       }
      ]
     },
@@ -466,22 +518,22 @@
      "label": "More headlines",
      "articles": [
       {
+       "title": "Gulf states working on multipart peace deal to avert renewal of US-Iran war",
+       "url": "https://www.theguardian.com/world/2026/oct/28/gulf-states-multipart-peace-deal-avert-renewal-us-iran-war",
+       "source": "Guardian World",
+       "published_at": "2026-10-28 05:00"
+      },
+      {
+       "title": "Major Israeli TV networks revise polling projections – as it happened",
+       "url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
+       "source": "Guardian World",
+       "published_at": "2026-10-28 04:08"
+      },
+      {
        "title": "Gaza’s women filmmakers turn pain into cinema as new academy launches",
        "url": "https://www.aljazeera.com/news/2026/10/27/gazas-women-filmmakers-turn-pain-into-cinema-as-new-academy-launches?traffic_source=rss",
        "source": "Al Jazeera",
        "published_at": "2026-10-27 23:35"
-      },
-      {
-       "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
-       "url": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
-       "source": "BBC World",
-       "published_at": "2026-10-27 22:11"
-      },
-      {
-       "title": "Dream postponed: Hebron groom caught in Israeli military lockdown",
-       "url": "https://www.aljazeera.com/news/2026/10/27/dream-postponed-hebron-groom-caught-in-israeli-military-lockdown?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-10-27 21:12"
       }
      ]
     }
@@ -497,6 +549,12 @@
     {
      "label": "Ukraine · Russia",
      "articles": [
+      {
+       "title": "Ukraine reportedly strikes chemical, metallurgical plants in Russia",
+       "url": "https://kyivindependent.com/fires-burn-in-russian-city-of-lipetsk-after-reported-ukrainian-attack/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-10-27 23:29"
+      },
       {
        "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
        "url": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
@@ -520,12 +578,23 @@
        "url": "https://kyivindependent.com/ukraine-intercepting-more-russian-geran-4-jet-powered-drones-general-staff-says/",
        "source": "Kyiv Independent",
        "published_at": "2026-10-27 18:43"
+      }
+     ]
+    },
+    {
+     "label": "Against · Russia",
+     "articles": [
+      {
+       "title": "Russia launched over 100 ballistic missiles against Kyiv in past two weeks",
+       "url": "https://kyivindependent.com/russia-launched-over-100-ballistic-missiles-against-kyiv-in-past-two-weeks/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-10-28 02:50"
       },
       {
-       "title": "Russia jails IT worker for 13 years for donating money to Ukraine",
-       "url": "https://www.aljazeera.com/news/2026/10/27/russia-jails-it-worker-for-13-years-for-donating-money-to-ukraine?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-10-27 18:42"
+       "title": "Trump reportedly considering lifting sanctions against Russia's investment fund",
+       "url": "https://kyivindependent.com/trump-reportedly-considering-lifting-sanctions-against-russias-investment-fund/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-10-27 21:01"
       }
      ]
     },
@@ -533,10 +602,10 @@
      "label": "Russian",
      "articles": [
       {
-       "title": "Fires burn in Russian city of Lipetsk after reported Ukrainian attack",
-       "url": "https://kyivindependent.com/fires-burn-in-russian-city-of-lipetsk-after-reported-ukrainian-attack/",
+       "title": "Putin lectured Nordic leaders on Russian history during latest call, FT reports",
+       "url": "https://kyivindependent.com/putin-lectured-nordic-leaders-on-russian-history-during-latest-call-ft-reports/",
        "source": "Kyiv Independent",
-       "published_at": "2026-10-27 23:29"
+       "published_at": "2026-10-28 04:28"
       },
       {
        "title": "Ukraine's 'Veles' pipeline operation near Kupiansk 'eliminates' over 100 Russian troops, Zelensky says",
@@ -547,42 +616,25 @@
      ]
     },
     {
-     "label": "Call · Putin",
-     "articles": [
-      {
-       "title": "Qatar’s Emir and Putin call for diplomacy amid US-Iran conflict",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/qatars-emir-and-putin-call-for-diplomacy-amid-us-iran-conflict?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-10-27 19:36"
-      },
-      {
-       "title": "Norway and Finland leaders hold rare call with Putin",
-       "url": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
-       "source": "BBC World",
-       "published_at": "2026-10-27 18:28"
-      },
-      {
-       "title": "Oleshky truce appears to hold as two European leaders have ‘frank’ call with Putin",
-       "url": "https://www.theguardian.com/world/2026/oct/27/oleshky-truce-ukraine-russia-putin",
-       "source": "Guardian World",
-       "published_at": "2026-10-27 17:43"
-      }
-     ]
-    },
-    {
      "label": "More headlines",
      "articles": [
       {
-       "title": "Trump reportedly considering lifting sanctions against Russia's investment fund",
-       "url": "https://kyivindependent.com/trump-reportedly-considering-lifting-sanctions-against-russias-investment-fund/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-10-27 21:01"
+       "title": "Bolsonaro ally denies knowledge of senator’s plan to flee Brazil",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/bolsonaro-ally-denies-knowledge-of-senators-plan-to-flee-brazil?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-10-28 03:49"
       },
       {
        "title": "Export hurdles and visa waits for Ukrainian companies force Pentagon to slow its drone contest",
        "url": "https://kyivindependent.com/export-hurdles-and-visa-waits-for-ukrainian-companies-force-pentagon-to-slow-its-drone-contest/",
        "source": "Kyiv Independent",
        "published_at": "2026-10-27 20:01"
+      },
+      {
+       "title": "Norway and Finland leaders hold rare call with Putin",
+       "url": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
+       "source": "BBC World",
+       "published_at": "2026-10-27 18:28"
       }
      ]
     }
