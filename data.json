@@ -1,8 +1,8 @@
 {
  "date": "Saturday 31 October 2026",
- "generated_at": "20:12 UTC",
+ "generated_at": "23:35 UTC",
  "error": null,
- "total_stories": 71,
+ "total_stories": 69,
  "fx": {
   "pair": "EUR/MAD",
   "rate": 10.979,
@@ -16,8 +16,43 @@
    "note": null,
    "clusters": [
     {
-     "label": "Qwen",
+     "label": "Models · Anything",
      "articles": [
+      {
+       "title": "Jiahao Shao on X: \"Shame on @DarioAmodei / Anthropic. I never distilled Claude—rollouts came from a strong open-source model; Claude just helped submit jobs and run analysis. Still got tagged for \"training a competitor,\" and now anything touching RFT, SFT, or training larger models gets me blocked",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkm5gz/jiahao_shao_on_x_shame_on_darioamodei_anthropic_i/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-10-31 21:40"
+      },
+      {
+       "title": "How do I make search with local models feel like ChatGPT / Codex?",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkm2yb/how_do_i_make_search_with_local_models_feel_like/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-10-31 21:37"
+      },
+      {
+       "title": "What exciting architectural moves are we looking to see next in AI models?",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkklyp/what_exciting_architectural_moves_are_we_looking/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-10-31 20:31"
+      },
+      {
+       "title": "Anthropic blocks users for anything touching training larger models",
+       "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+       "source": "Hacker News",
+       "published_at": "2026-10-31 19:39"
+      }
+     ]
+    },
+    {
+     "label": "Qwen · Made",
+     "articles": [
+      {
+       "title": "Please tell me Qwen3.8-Flash-Next can be made to be better than this",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkjrdl/please_tell_me_qwen38flashnext_can_be_made_to_be/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-10-31 19:56"
+      },
       {
        "title": "An LLM inside an LLM - Same guy who put a RISK-V CPU inside Qwen has now made Karpathy's stories260k run on an NPU compiled inside Qwen 3.5-4B's weights",
        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkiuut/an_llm_inside_an_llm_same_guy_who_put_a_riskv_cpu/",
@@ -31,7 +66,7 @@
        "published_at": "2026-10-31 18:06"
       },
       {
-       "title": "ccore/Qwen3.5-4B-3D-Coder · 383 ♥",
+       "title": "ccore/Qwen3.5-4B-3D-Coder · 391 ♥",
        "url": "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder",
        "source": "HF new models",
        "published_at": "2026-10-25 05:43"
@@ -39,25 +74,14 @@
      ]
     },
     {
-     "label": "Gemma",
-     "articles": [
-      {
-       "title": "\"Spent a lot on my rig but I can only run Gemma 4\"",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkcyn6/spent_a_lot_on_my_rig_but_i_can_only_run_gemma_4/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-10-31 15:22"
-      },
-      {
-       "title": "NVIDIA Nemotron 3.5 Bolt E4B 4GB (post-trained Gemma 4 E4B)",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkcdlz/nvidia_nemotron_35_bolt_e4b_4gb_posttrained_gemma/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-10-31 14:58"
-      }
-     ]
-    },
-    {
      "label": "More headlines",
      "articles": [
+      {
+       "title": "Well, my local AI addiction officially got out of hand tonight.",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xklq96/well_my_local_ai_addiction_officially_got_out_of/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-10-31 21:21"
+      },
       {
        "title": "CrowdGPT v2.6 - The collaborative LLM",
        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkibxw/crowdgpt_v26_the_collaborative_llm/",
@@ -83,55 +107,31 @@
        "published_at": "2026-10-31 16:05"
       },
       {
-       "title": "[Guide] Ternary Bonsai 2 is finally 100% working on ik_llama.cpp (Native CUDA offload + Fast CPU -rtr)",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkcg2y/guide_ternary_bonsai_2_is_finally_100_working_on/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-10-31 15:01"
-      },
-      {
-       "title": "Malware uses LLMs to rank victims by how much they're worth",
-       "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
-       "source": "Hacker News",
-       "published_at": "2026-10-31 14:29"
-      },
-      {
-       "title": "Reddit will discontinue RSS feed on 13th November",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkbl2h/reddit_will_discontinue_rss_feed_on_13th_november/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-10-31 14:25"
-      },
-      {
-       "title": "Is your engine lobotomizing your model? Kinda, and I measured it",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkbbqi/is_your_engine_lobotomizing_your_model_kinda_and/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-10-31 14:14"
-      },
-      {
-       "title": "baidu/Unlimited-OCR-2 · 471 ♥",
+       "title": "baidu/Unlimited-OCR-2 · 473 ♥",
        "url": "https://huggingface.co/baidu/Unlimited-OCR-2",
        "source": "HF new models",
        "published_at": "2026-10-26 03:57"
       },
       {
-       "title": "Nanbeige/Nanbeige4.3-33B · 855 ♥",
+       "title": "Nanbeige/Nanbeige4.3-33B · 867 ♥",
        "url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B",
        "source": "HF new models",
        "published_at": "2026-10-24 02:49"
       },
       {
-       "title": "LiquidAI/LFM3-1.7B · 624 ♥",
+       "title": "LiquidAI/LFM3-1.7B · 630 ♥",
        "url": "https://huggingface.co/LiquidAI/LFM3-1.7B",
        "source": "HF new models",
        "published_at": "2026-10-23 21:35"
       },
       {
-       "title": "ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF · 514 ♥",
+       "title": "ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF · 517 ♥",
        "url": "https://huggingface.co/ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
        "source": "HF new models",
        "published_at": "2026-10-23 09:43"
       },
       {
-       "title": "RecursiveSI/flint · 1274 ♥",
+       "title": "RecursiveSI/flint · 1275 ♥",
        "url": "https://huggingface.co/RecursiveSI/flint",
        "source": "HF new models",
        "published_at": "2026-10-21 14:20"
@@ -148,36 +148,53 @@
    "note": null,
    "clusters": [
     {
-     "label": "Nieuwe",
+     "label": "Ultimatum · Twente",
      "articles": [
       {
-       "title": "Nieuwe AI-assistent helpt bij eenvoudige IT-vragen",
-       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxON1JITW1TUVFONkduQmRvR1NMUUZ3VmtQcEdzM3EwWTdvVEhjZjVRUlVfNmFGVlI0TXdKd25pSzFpZm84ajdqNy13V0tKZE1oN0dtb0sxa0pwZkVtNTZjeEJQUlJ4UUEwcE5mSzBoNFVZR0RsUmRzU3ktQ3k4alJ4YVRyb3QyVEZGRjZF?oc=5",
+       "title": "Esports Team Twente reorganises after ultimatum",
+       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVGtjV2d2bVZMNnlRQUZveXdzZWpOOHVQcUE0bzJjWjlIRDVqZ0xfbi1lMS0wLWdWZko1S0dYUnpKTVZEUUFlUy1uQ2otQ01vTlUyMlBWeWlfNEFFclFZcTIzYV9fMUNfd01ObXpMMUVaR1Jjc3ZMRWdrRTZQRk1WVXhyOUlpa0U?oc=5",
        "source": "UToday",
-       "published_at": "2026-10-30 09:20"
+       "published_at": "2026-10-30 13:49"
       },
       {
-       "title": "Robbert Dijkgraaf is het nieuwe gezicht van de internationale wetenschap",
-       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZGFFWEJxRjE0VzlLMThBdUFXYWNjRzVFRi15WGNYdnktVmF5Q2xPQ0RjYlVqZF9SRkYyenBiaHo3Y1FQc29fQVNWY3pFem1tNmY5ekt0cnBmbTdPemYwel9xbU96cjk1NlFiTnFPWjdkN24xNXJvUXFjMEt1U0FjYnoxQmwyeUpxUVNoc2pJVHdjWXdYSnJacU9HYzVuLWtUNWpUT0p1U0o?oc=5",
+       "title": "Reorganisatie Esports Team Twente na ultimatum",
+       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQa1JPR1l4aGliN19mXzgzclV0SmhBalZ5SG03VmhLTVIzcnRZdHpoMnVZbEIzWWNqUTJCVHhnQnNOZkNxd3hIaFZqLWQ2R2lKV00wR0htYnA4VVFwUEtNU2ItelBqMHBPZ1JkNS1XOG5xVWdreHl0cjZ0bzRqSWEwT1hhUjZyUQ?oc=5",
        "source": "UToday",
-       "published_at": "2026-10-28 08:38"
+       "published_at": "2026-10-30 13:45"
       }
      ]
     },
     {
-     "label": "Student",
+     "label": "Begroting · Ocw",
      "articles": [
       {
-       "title": "‘Actief zijn als student is voor mij een hobby’",
-       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUUd5NFp1V0tsbHRmNDhtbEljVnhraHNMcExJOEFLcEVpSFBrTU9UTV9EX3VVLTJ5b3FBcGVXWHJCUE9DZmFXdjh4b2QyQTRqN1RseWt3UTVpMVVSRkVCNm1Ia3lhb2luZmxUSzA3OFZ3Vk9TSjVIRjcwUmdNSlZXZ2dzYzM?oc=5",
+       "title": "Eind van liedje: OCW-begroting krijgt genoeg steun",
+       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOazdOaVpmemRoM3JjeTJ5c0RUUFZVWl83REJwUm1pNXhMejdLUlZiaDR0R3dlYUhKSDZlUHFNNV9xdG1fWWtkX0wzYWhZemNNYmpxeUJodEp0WURUTEQ1YnNuREZHLTMtZlFPRjZINmVPNHQzcy1OZS1MV28xRFZjNjhacmpSU28xaHc?oc=5",
        "source": "UToday",
-       "published_at": "2026-10-27 10:33"
+       "published_at": "2026-10-30 09:46"
       },
       {
-       "title": "UT en Navitas starten schakeljaar voor Beethoven-student",
-       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaWtySzlYVXBBQUhHeEd2NUdMbzBHSVl0YmJFaEpHTkM3V0lEUHlXdEoyeWJnbFJ4RGowTWRyRmR3OFNhVDZRd2J4dEVjNUh5VVFfOUxfYk1jRlBjU25jY19LcU5aR3FMdzBaYzQ0Q3dsTy1ITlRoQ3d4YkJyTm9XMHl4RFRDVWJzODdpTmFMQjZZSXM?oc=5",
+       "title": "Vooruitblik: vooral D66 moet op eieren lopen in het debat over de OCW-begroting",
+       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQanN1V2hkajBiMFRMenFBU01NR2R1b3N2aFA5S29zUnZObDlmRERqdWEtem5zMVk4cGxTOXV1aTZ2V3VnT0VhODNwNU5TZ0JIUnBWeUp0M016VTcxMFV0aXpDZmR3ZHpkb3lJdVNKMm1hcTM5TjRwdGI0RlYtUnRtZXJCWG0yLVBXdVN1eGI5WGx1Q1NlQnh2NG1wdERfYmluMVFHNGw5bkdwa0VxamNOOQ?oc=5",
        "source": "UToday",
-       "published_at": "2026-10-22 06:29"
+       "published_at": "2026-10-26 12:47"
+      }
+     ]
+    },
+    {
+     "label": "Minister · Renteplafond",
+     "articles": [
+      {
+       "title": "Renteplafond geschrapt: minister van Financiën zette Letschert met rug tegen de muur",
+       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT29KcDJ1b3RjS3NQOTRvcXNqb2N5eW5jc1VOeWNnR1oxMlB5cDRSMWlQWm1acFE1OU11ZkZVMzV1eDdaY0FxWnFiMTVXb2xNVXhkcThNaFExZ0hmdy10OHpkYUVCT29WOHJ4V3Fkd190SU5SM1VJUElHaEJianlLbXgzR0JMa0ZsVlA2R296UGNXN3VQTTNKMWprTmxDUWtyZHl1UWJub19IUzBYeTJNM0RDNHZBVkE?oc=5",
+       "source": "UToday",
+       "published_at": "2026-10-29 15:13"
+      },
+      {
+       "title": "Linkse oppositie kritisch over schrappen renteplafond, maar D66 steunt minister",
+       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUHNRazF0eDNxZ2E4WnBqZEVUMGlRMlZPS0g4cmM0T0dBTWV0UGpWVjJmM0ljQUwzWnV2SlkyTVZMdkpWRWU2YjVoaTNIV3FXaWpfS1JFSEZva0sxR1h5Sm9uNDdyemxCWnlmZGlkVGhFRm9Cb2h3QzBrLUVhRExoV2s2RjFVcnVZLVgxbkF5eXAya2hVWHVZYnNnSEJGSVFSeXpqZFRrS284aXpleDB1dQ?oc=5",
+       "source": "UToday",
+       "published_at": "2026-10-28 13:08"
       }
      ]
     },
@@ -185,40 +202,28 @@
      "label": "More headlines",
      "articles": [
       {
+       "title": "Van trick or treat tot 'Friendsgiving': Amerikaanse feestdagen in Enschede",
+       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOS2dQSHl6dmFOS1JRNWd4WTJZNFZyb3d2eWtucWxUSThlTW5ZVTdPYjBNSEVHLWV1Wi15YzBnREVPa3I5TDFSNHRKYi1LQVkxYzVtNFRRbWFQbTRlLXZpUXA2TnlESk5vMWUzUHR2S0l2c2xiWnNUVF9ENXU5c2ZtNGdzT0V2VnRDYURBbzJCek5kWVdTVmpfTlJZVFVJSF8wU2k1M1N0R285SjRnQXNqSQ?oc=5",
+       "source": "UToday",
+       "published_at": "2026-10-30 10:24"
+      },
+      {
+       "title": "Nieuwe AI-assistent helpt bij eenvoudige IT-vragen",
+       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxON1JITW1TUVFONkduQmRvR1NMUUZ3VmtQcEdzM3EwWTdvVEhjZjVRUlVfNmFGVlI0TXdKd25pSzFpZm84ajdqNy13V0tKZE1oN0dtb0sxa0pwZkVtNTZjeEJQUlJ4UUEwcE5mSzBoNFVZR0RsUmRzU3ktQ3k4alJ4YVRyb3QyVEZGRjZF?oc=5",
+       "source": "UToday",
+       "published_at": "2026-10-30 09:20"
+      },
+      {
        "title": "News",
        "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE5DZjZmWEpidW1jRkVsZXoyMDc0R05HT1Rqd1dSVk5OTFUyWXowWFg0YVkxUDlQX1k5WHVGWlAwVQ?oc=5",
        "source": "UToday",
-       "published_at": "2026-10-28 13:08"
+       "published_at": "2026-10-29 09:11"
       },
       {
-       "title": "Bestuurskunde viert vijftigjarig jubileum: ‘We vinden onszelf opnieuw uit’",
-       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMzJOU09MS3M0LVR3dThacFRIa3FMX3k4R1NPRUpnREdmbklDUE5NRkx0cXd2UVluancwVml2dVo2eEwzaVV1UHFTLWZTd0s1M3UwZVRXdGo3ZXVlV2RPeHQ2cW5RMUNfN1lIZklwM285R3dPNVJEY0hJUU5RTFF0V3BjWUlERm9UZmNDMWxpTk5CRmMtc19vWlhodmx3RFFJbzF1a2Rvdw?oc=5",
+       "title": "Studentenbeweging wint verkiezingen in Servië: waarom deden ze mee?",
+       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeGo2X0pMd2JYeDV3U0V6YTNvR05BcWxaejBtaTFRaFZwR2NHOHl6T3lFdmFZRUw3TzFYQXc3UE1ZeEEzems4TkoyRUwweWxLelBDMU9WbURBbXg3TjJTdnhxNVh1ZTdEOU9mME5BdTRMdWJONnpSVUlueG5wMzZhXzJDUXNrMWRMR1RZTXI2cWtOS0Q3emM4WVN3Q3JLVW8?oc=5",
        "source": "UToday",
-       "published_at": "2026-10-28 09:02"
-      },
-      {
-       "title": "Van theezakje tot toga; over hoe de UT haar geschiedenis bewaart",
-       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQM2hOTVozTjU3Zk91cHZfNHFTRkYzbGZCamJoeEF4aFlYVktZeTAzQmVqN1JzMXF1Wng5VXYwTklKbU1nZXVta3NmUTFtVERORUljQkhLUnNSZmtxMFh5X0w1NGRUeUhwNEFZajl5eVQ2TnFyUDlRcG4xQ3BhTGR6Q1BtZ1pKVkU4bFlrc0JicWRjTHpaZExHS0JiNS0?oc=5",
-       "source": "UToday",
-       "published_at": "2026-10-27 13:47"
-      },
-      {
-       "title": "Mis geen campusnieuws: stel U-Today in als voorkeursbron",
-       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWUV2STVKSGZSdjdpQTdhRVpiMVlDREh1c0pzbjk2NU5LUUEweUtnVk9UX3pCcGtwbF9neTdtRFFSZl9lVDZTSVdhU2ljWU85SUxadXVTcUk5SVJ5dzBqYWFGd0czbmk1S1NTaC1yMFFuWDI2ZXA1M2o4aGMzU0ZzZ1BNY1FRN3hQNUZod0EydEtRZw?oc=5",
-       "source": "UToday",
-       "published_at": "2026-10-14 07:00"
-      },
-      {
-       "title": "Postume promotie voor Sakshi Kannan: ‘Laten zien wat voor sterke vrouw ze was’",
-       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYjVxTVBBRmlTYlQ3NjlwNkFwOEROd0c3MGQ5QnAtZFkta0cxa1VfQnV6RXRmajc2Tngzb3REcEpDVHhmck9NLXBlNnRHYlRRUGJpbHZTNENtYlMxa2NfX3l0cEdCMEg3QWdRb2xNeFBwbmhIUkJmU2pGeXJuRWZoV1ZDQ2VVUzg3SGgwLVZaeEFoVm5MX0ZxUDMzSkUyMjU4dmJPWHlYNGJRUDNWM3VNUkFfRQ?oc=5",
-       "source": "UToday",
-       "published_at": "2026-10-07 07:00"
-      },
-      {
-       "title": "Zes Nederlandse universiteiten betalen nog steeds tonnen voor instituut in Rusland",
-       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaHNwWmpjMHZGdkFMcldBRGo1TFZ3ODgtS3RGNmwtbW1PYzRiQjhmVGNPbG1Yd2lSdVJsWGNjbDc5NjNldVBORjJuYXhzWGlRUVUwT0pIaEtKd3c5RnlXSDhZT3NqVE56aEpNOTlCR2RDOXVzd0gyUi11d0pLSVlkdGktcmI2V3ZrdHJRSXBhYlRtNDlsb0RhNTAtbVNnOWllU0pFSDRLX05QU1hMWjJ5cU1fNEpWUQ?oc=5",
-       "source": "UToday",
-       "published_at": "2026-10-02 07:00"
+       "published_at": "2026-10-26 15:08"
       }
      ]
     }
@@ -261,53 +266,53 @@
      ]
     },
     {
-     "label": "الجزائر",
+     "label": "إلى",
      "articles": [
       {
-       "title": "ويلسون يُصعد ضد الجزائر والجبهة",
-       "url": "https://www.hespress.com/%d9%88%d9%8a%d9%84%d8%b3%d9%88%d9%86-%d9%8a%d9%8f%d8%b5%d8%b9%d8%af-%d8%b6%d8%af-%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1-%d9%88%d8%a7%d9%84%d8%a8%d9%88%d9%84%d9%8a%d8%b3%d8%a7%d8%b1%d9%8a%d9%88-1832470.html",
+       "title": "من موسكو إلى الصحراء.. العالم يستعد للحرب والمغرب يتحسب لكل الاحتمالات",
+       "url": "https://www.hespress.com/%d9%85%d9%86-%d9%85%d9%88%d8%b3%d9%83%d9%88-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d8%b5%d8%ad%d8%b1%d8%a7%d8%a1-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85-%d9%8a%d8%b3%d8%aa%d8%b9%d8%af-%d9%84%d9%84%d8%ad%d8%b1-1832609.html",
        "source": "Hespress",
-       "published_at": "2026-10-31 19:05"
+       "published_at": "2026-10-31 23:00"
       },
       {
-       "title": "بن زهرة: جلسة الصحراء في مجلس الأمن تكشف ارتباك دبلوماسية الجزائر",
-       "url": "https://www.hespress.com/%d8%a8%d9%86-%d8%b2%d9%87%d8%b1%d8%a9-%d8%ac%d9%84%d8%b3%d8%a9-%d8%a7%d9%84%d8%b5%d8%ad%d8%b1%d8%a7%d8%a1-%d9%81%d9%8a-%d9%85%d8%ac%d9%84%d8%b3-%d8%a7%d9%84%d8%a3%d9%85%d9%86-%d8%aa%d9%83%d8%b4%d9%81-1832431.html",
+       "title": "الاتحاد المغربي للشغل يدعو إلى التعبئة",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8%d9%8a-%d9%84%d9%84%d8%b4%d8%ba%d9%84-%d9%8a%d8%af%d8%b9%d9%88-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d8%aa%d8%b9%d8%a8%d8%a6-1832514.html",
        "source": "Hespress",
-       "published_at": "2026-10-31 19:00"
+       "published_at": "2026-10-31 21:05"
       }
      ]
     },
     {
-     "label": "يتراجع",
+     "label": "أكادير",
      "articles": [
       {
-       "title": "\"الغازوال\" يرتفع بدرهم والبنزين يتراجع وسط تفاوتات بين شركات التوزيع",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%ba%d8%a7%d8%b2%d9%88%d8%a7%d9%84-%d9%8a%d8%b1%d8%aa%d9%81%d8%b9-%d8%a8%d8%af%d8%b1%d9%87%d9%85-%d9%88%d8%a7%d9%84%d8%a8%d9%86%d8%b2%d9%8a%d9%86-%d9%8a%d8%aa%d8%b1%d8%a7%d8%ac-1832477.html",
+       "title": "الفتح يهزم حسنية أكادير بهدف نظيف",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%81%d8%aa%d8%ad-%d9%8a%d9%87%d8%b2%d9%85-%d8%ad%d8%b3%d9%86%d9%8a%d8%a9-%d8%a3%d9%83%d8%a7%d8%af%d9%8a%d8%b1-%d8%a8%d9%87%d8%af%d9%81-%d9%86%d8%b8%d9%8a%d9%81-1832597.html",
        "source": "Hespress",
-       "published_at": "2026-10-31 18:15"
+       "published_at": "2026-10-31 22:44"
       },
       {
-       "title": "\"مازي\" يتراجع بنسبة 3,03 في المائة",
-       "url": "https://www.hespress.com/%d9%85%d8%a7%d8%b2%d9%8a-%d9%8a%d8%aa%d8%b1%d8%a7%d8%ac%d8%b9-%d8%a8%d9%86%d8%b3%d8%a8%d8%a9-303-%d9%81%d9%8a-%d8%a7%d9%84%d9%85%d8%a7%d8%a6%d8%a9-1832295.html",
+       "title": "تفاصيل حادث مميت بـ\"أطوروت أكادير\"",
+       "url": "https://www.hespress.com/%d8%aa%d9%81%d8%a7%d8%b5%d9%8a%d9%84-%d8%ad%d8%a7%d8%af%d8%ab-%d9%85%d9%85%d9%8a%d8%aa-%d8%a8%d8%a3%d8%b7%d9%88%d8%b1%d9%88%d8%aa-%d8%a7%d9%84%d8%a8%d9%8a%d8%b6%d8%a7%d8%a1-%d8%a3%d9%83%d8%a7%d8%af-1832544.html",
        "source": "Hespress",
-       "published_at": "2026-10-31 17:08"
+       "published_at": "2026-10-31 21:16"
       }
      ]
     },
     {
-     "label": "الوحدة",
+     "label": "على",
      "articles": [
       {
-       "title": "في ذكرى \"عيد الوحدة\" الأولى .. قضية الصحراء تتطلع إلى تحولات مفصلية",
-       "url": "https://www.hespress.com/%d9%81%d9%8a-%d8%b0%d9%83%d8%b1%d9%89-%d8%b9%d9%8a%d8%af-%d8%a7%d9%84%d9%88%d8%ad%d8%af%d8%a9-%d8%a7%d9%84%d8%a3%d9%88%d9%84%d9%89-%d9%82%d8%b6%d9%8a%d8%a9-%d8%a7%d9%84%d8%b5%d8%ad%d8%b1%d8%a7-1832405.html",
+       "title": "الوداد يحقق فوزا صعبا على تطوان",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%88%d8%af%d8%a7%d8%af-%d9%8a%d8%ad%d9%82%d9%82-%d9%81%d9%88%d8%b2%d8%a7-%d8%b5%d8%b9%d8%a8%d8%a7-%d8%b9%d9%84%d9%89-%d8%aa%d8%b7%d9%88%d8%a7%d9%86-1832522.html",
        "source": "Hespress",
-       "published_at": "2026-10-31 18:00"
+       "published_at": "2026-10-31 20:17"
       },
       {
-       "title": "قنصلية المغرب بلييج تحتفل بـ\"الوحدة\"",
-       "url": "https://www.hespress.com/%d9%82%d9%86%d8%b5%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d8%a8%d9%84%d9%8a%d9%8a%d8%ac-%d8%aa%d8%ad%d8%aa%d9%81%d9%84-%d8%a8%d9%80%d8%a7%d9%84%d9%88%d8%ad%d8%af%d8%a9-1832456.html",
+       "title": "إصابة تُجبر الصيباري على ترك الملعب",
+       "url": "https://www.hespress.com/%d8%a5%d8%b5%d8%a7%d8%a8%d8%a9-%d8%aa%d9%8f%d8%ac%d8%a8%d8%b1-%d8%a7%d9%84%d8%b5%d9%8a%d8%a8%d8%a7%d8%b1%d9%8a-%d8%b9%d9%84%d9%89-%d8%aa%d8%b1%d9%83-%d8%a7%d9%84%d9%85%d9%84%d8%b9%d8%a8-1832502.html",
        "source": "Hespress",
-       "published_at": "2026-10-31 17:35"
+       "published_at": "2026-10-31 20:04"
       }
      ]
     },
@@ -315,28 +320,40 @@
      "label": "More headlines",
      "articles": [
       {
-       "title": "توقيف أكثر من 290 شخصا في فرنسا",
-       "url": "https://www.hespress.com/%d8%aa%d9%88%d9%82%d9%8a%d9%81-%d8%a3%d9%83%d8%ab%d8%b1-%d9%85%d9%86-290-%d8%b4%d8%ae%d8%b5%d8%a7-%d9%81%d9%8a-%d9%81%d8%b1%d9%86%d8%b3%d8%a7-1832472.html",
+       "title": "بنسعيد يمثل الملك في أولمبياد دكار",
+       "url": "https://www.hespress.com/%d8%a8%d9%86%d8%b3%d8%b9%d9%8a%d8%af-%d9%8a%d9%85%d8%ab%d9%84-%d8%a7%d9%84%d9%85%d9%84%d9%83-%d9%81%d9%8a-%d8%a3%d9%88%d9%84%d9%85%d8%a8%d9%8a%d8%a7%d8%af-%d8%af%d9%83%d8%a7%d8%b1-1832600.html",
        "source": "Hespress",
-       "published_at": "2026-10-31 19:23"
+       "published_at": "2026-10-31 23:04"
       },
       {
-       "title": "منتخب قصار القامة يستعد للمونديال",
-       "url": "https://www.hespress.com/%d9%85%d9%86%d8%aa%d8%ae%d8%a8-%d9%82%d8%b5%d8%a7%d8%b1-%d8%a7%d9%84%d9%82%d8%a7%d9%85%d8%a9-%d9%8a%d8%b3%d8%aa%d8%b9%d8%af-%d9%84%d9%84%d9%85%d9%88%d9%86%d8%af%d9%8a%d8%a7%d9%84-1832495.html",
+       "title": "بنجلون: \"مُركب الناظور\" قاطرة للتنمية",
+       "url": "https://www.hespress.com/%d8%a8%d9%86%d8%ac%d9%84%d9%88%d9%86-%d9%85%d9%8f%d8%b1%d9%83%d8%a8-%d8%a7%d9%84%d9%86%d8%a7%d8%b8%d9%88%d8%b1-%d9%82%d8%a7%d8%b7%d8%b1%d8%a9-%d9%84%d9%84%d8%aa%d9%86%d9%85%d9%8a%d8%a9-1832526.html",
        "source": "Hespress",
-       "published_at": "2026-10-31 18:37"
+       "published_at": "2026-10-31 22:25"
       },
       {
-       "title": "\"الفيتو\" يقبر \"المينورسو\"",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%81%d9%8a%d8%aa%d9%88-%d9%8a%d9%82%d8%a8%d8%b1-%d8%a7%d9%84%d9%85%d9%8a%d9%86%d9%88%d8%b1%d8%b3%d9%88-1832100.html",
+       "title": "\"حمد الله\" يقترب من رقم قياسي كبير",
+       "url": "https://www.hespress.com/%d8%ad%d9%85%d8%af-%d8%a7%d9%84%d9%84%d9%87-%d9%8a%d9%82%d8%aa%d8%b1%d8%a8-%d9%85%d9%86-%d8%b1%d9%82%d9%85-%d9%82%d9%8a%d8%a7%d8%b3%d9%8a-%d9%83%d8%a8%d9%8a%d8%b1-1832564.html",
        "source": "Hespress",
-       "published_at": "2026-10-31 18:36"
+       "published_at": "2026-10-31 22:08"
       },
       {
-       "title": "الكوكب يهزم تزنيت ويتصدر البطولة",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%83%d9%88%d9%83%d8%a8-%d9%8a%d9%87%d8%b2%d9%85-%d8%aa%d8%b2%d9%86%d9%8a%d8%aa-%d9%88%d9%8a%d8%aa%d8%b5%d8%af%d8%b1-%d8%a7%d9%84%d8%a8%d8%b7%d9%88%d9%84%d8%a9-1832484.html",
+       "title": "موقف الصومال في مجلس الأمن .. تناقضات بلد يعاني من عدوى الانفصال",
+       "url": "https://www.hespress.com/%d9%85%d9%88%d9%82%d9%81-%d8%a7%d9%84%d8%b5%d9%88%d9%85%d8%a7%d9%84-%d9%81%d9%8a-%d9%85%d8%ac%d9%84%d8%b3-%d8%a7%d9%84%d8%a3%d9%85%d9%86-%d8%aa%d9%86%d8%a7%d9%82%d8%b6%d8%a7%d8%aa-%d8%a8%d9%84-1832558.html",
        "source": "Hespress",
-       "published_at": "2026-10-31 18:24"
+       "published_at": "2026-10-31 22:00"
+      },
+      {
+       "title": "أبعاد استراتيجية | موعد الحسم",
+       "url": "https://www.hespress.com/%d8%a3%d8%a8%d8%b9%d8%a7%d8%af-%d8%a7%d8%b3%d8%aa%d8%b1%d8%a7%d8%aa%d9%8a%d8%ac%d9%8a%d8%a9-%d9%85%d9%88%d8%b9%d8%af-%d8%a7%d9%84%d8%ad%d8%b3%d9%85-1832566.html",
+       "source": "Hespress",
+       "published_at": "2026-10-31 22:00"
+      },
+      {
+       "title": "منتخبو وشيوخ قبائل الصحراء: الديوان الملكي يقطع الطريق أمام التأويلات",
+       "url": "https://www.hespress.com/%d9%85%d9%86%d8%aa%d8%ae%d8%a8%d9%88-%d9%88%d8%b4%d9%8a%d9%88%d8%ae-%d9%82%d8%a8%d8%a7%d8%a6%d9%84-%d8%a7%d9%84%d8%b5%d8%ad%d8%b1%d8%a7%d8%a1-%d8%a7%d9%84%d8%af%d9%8a%d9%88%d8%a7%d9%86-%d8%a7%d9%84-1832512.html",
+       "source": "Hespress",
+       "published_at": "2026-10-31 21:00"
       },
       {
        "title": "Bourse de Casablanca : report de la révision annuelle des facteurs flottants",
@@ -345,22 +362,10 @@
        "published_at": "2026-10-31 18:15"
       },
       {
-       "title": "حملة \"جائزة خليفة\" تخطف الأضواء",
-       "url": "https://www.hespress.com/%d8%ad%d9%85%d9%84%d8%a9-%d8%ac%d8%a7%d8%a6%d8%b2%d8%a9-%d8%ae%d9%84%d9%8a%d9%81%d8%a9-%d8%aa%d8%ae%d8%b7%d9%81-%d8%a7%d9%84%d8%a3%d8%b6%d9%88%d8%a7%d8%a1-1832322.html",
-       "source": "Hespress",
-       "published_at": "2026-10-31 18:05"
-      },
-      {
        "title": "Le prince héritier Moulay El Hassan lance les opérations du premier terminal à conteneurs du port Nador West Med",
        "url": "https://telquel.ma/instant-t/2026/10/31/le-prince-heritier-moulay-el-hassan-lance-les-operations-du-premier-terminal-a-conteneurs-du-port-nador-west-med_2016092/",
        "source": "TelQuel",
        "published_at": "2026-10-31 17:44"
-      },
-      {
-       "title": "ولي العهد يدشن عمليات أول محطة للحاويات بميناء الناظور غرب المتوسط",
-       "url": "https://www.hespress.com/%d9%88%d9%84%d9%8a-%d8%a7%d9%84%d8%b9%d9%87%d8%af-%d9%8a%d8%af%d8%b4%d9%86-%d9%85%d8%ad%d8%b7%d8%a9-%d8%ad%d8%a7%d9%88%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d9%86%d8%a7%d8%b8%d9%88%d8%b1-1832447.html",
-       "source": "Hespress",
-       "published_at": "2026-10-31 17:16"
       }
      ]
     }
@@ -374,19 +379,19 @@
    "note": null,
    "clusters": [
     {
-     "label": "Wil · Politieke",
+     "label": "Premier",
      "articles": [
       {
-       "title": "Klaver (PRO): 'Politieke wil bij kabinet om met ons samen te werken ontbreekt'",
-       "url": "https://www.nu.nl/politiek/6415056/klaver-pro-politieke-wil-bij-kabinet-om-met-ons-samen-te-werken-ontbreekt.html",
+       "title": "Premier Ethiopië laat ministers militaire training volgen: 'Fysiek fit, moreel sterk'",
+       "url": "https://www.nu.nl/buitenland/6415083/premier-ethiopie-laat-ministers-militaire-training-volgen-fysiek-fit-moreel-sterk.html",
        "source": "NU.nl",
-       "published_at": "2026-10-31 16:52"
+       "published_at": "2026-10-31 22:36"
       },
       {
-       "title": "Uiterst stroef Catshuisoverleg tussen oppositie en kabinet over belastingplannen: ’De politieke wil is er niet’",
-       "url": "https://www.telegraaf.nl/politiek/uiterst-stroef-catshuisoverleg-tussen-oppositie-en-kabinet-over-belastingplannen-de-politieke-wil-is-er-niet/163901533.html",
+       "title": "'Premier speelt hiermee Geert Wilders in de kaart'",
+       "url": "https://www.telegraaf.nl/video/premier-speelt-hiermee-geert-wilders-in-de-kaart/163895052.html",
        "source": "de Telegraaf",
-       "published_at": "2026-10-31 16:50"
+       "published_at": "2026-10-31 21:04"
       }
      ]
     },
@@ -414,16 +419,16 @@
      "label": "Israel",
      "articles": [
       {
+       "title": "Israel’s allegations of Qatari election interference rejected",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/israels-allegations-of-qatari-election-interference-rejected?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-10-31 20:24"
+      },
+      {
        "title": "Jerusalem Daily: Who will form Israel’s next government?",
        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/jerusalem-daily-who-will-form-israels-next-government?traffic_source=rss",
        "source": "Al Jazeera",
        "published_at": "2026-10-31 17:29"
-      },
-      {
-       "title": "Israel voted for Israel: Why Gaza wasn’t on the ballot",
-       "url": "https://www.aljazeera.com/news/2026/10/31/israel-voted-for-israel-why-gaza-wasnt-on-the-ballot?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-10-31 13:35"
       },
       {
        "title": "Friday briefing: Israel has a dilemma - can its opposition govern with Palestinian parties?",
@@ -436,12 +441,6 @@
     {
      "label": "Iran",
      "articles": [
-      {
-       "title": "Iran FM says US outreach a ‘positive step’ as delegation in Qatar for talks",
-       "url": "https://www.aljazeera.com/news/2026/10/31/iran-fm-says-us-outreach-a-positive-step-as-delegation-in-qatar-for-talks?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-10-31 14:31"
-      },
       {
        "title": "Gulf states must rethink trillion-dollar defence in light of US-Iran war, says report",
        "url": "https://www.theguardian.com/world/2026/oct/30/gulf-states-rethink-trillion-dollar-defence-us-iran-war-iiss-report",
@@ -466,12 +465,6 @@
        "published_at": "2026-10-31 17:49"
       },
       {
-       "title": "How has the ceasefire in Russian-occupied Oleshky been unfolding?",
-       "url": "https://www.bbc.co.uk/news/videos/cmp3gp2vg078o?at_medium=RSS&at_campaign=rss",
-       "source": "BBC World",
-       "published_at": "2026-10-30 23:19"
-      },
-      {
        "title": "Houthis sending Taiz ‘back to the stone age’, governor of besieged Yemen city says",
        "url": "https://www.theguardian.com/world/2026/oct/30/houthis-taiz-stone-age-yemen-city-siege",
        "source": "Guardian World",
@@ -486,7 +479,7 @@
      ]
     }
    ],
-   "count": 10
+   "count": 8
   },
   {
    "key": "ukraine",
@@ -495,10 +488,22 @@
    "note": null,
    "clusters": [
     {
-     "label": "Russia · Occupied",
+     "label": "Russia · Ukraine",
      "articles": [
       {
-       "title": "'We came back from hell', say Ukrainians after years in Russia-occupied frontline city",
+       "title": "Russia has killed 120 members of the clergy, Zelensky says",
+       "url": "https://kyivindependent.com/russia-has-killed-about-120-members-of-the-clergy-zelensky-says/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-10-31 21:32"
+      },
+      {
+       "title": "Turkiye’s Erdogan urges Russia and Ukraine to stop Black Sea attacks",
+       "url": "https://www.aljazeera.com/news/2026/10/31/turkiyes-erdogan-urges-russia-and-ukraine-to-stop-black-sea-attacks?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-10-31 20:09"
+      },
+      {
+       "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
        "url": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
        "source": "BBC World",
        "published_at": "2026-10-31 19:22"
@@ -514,29 +519,23 @@
        "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
        "source": "BBC World",
        "published_at": "2026-10-31 17:53"
-      },
-      {
-       "title": "US warns Russia of 'mass-casualty event' threat at historic palace outside Moscow",
-       "url": "https://kyivindependent.com/us-warns-russia-of-mass-casualty-event-threat-at-historic-palace-outside-moscow/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-10-31 15:58"
-      },
-      {
-       "title": "On the Norway-Russia border, the Sámi people face a growing divide",
-       "url": "https://www.aljazeera.com/features/longform/2026/10/31/on-the-norway-russia-border-the-sami-people-face-a-growing-divide?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-10-31 12:58"
       }
      ]
     },
     {
-     "label": "Ukraine · Russian",
+     "label": "Russian · Occupation",
      "articles": [
       {
-       "title": "Oleshky evacuees reunite with families after truce allows crossing back into Ukraine",
-       "url": "https://www.theguardian.com/world/2026/oct/31/oleshky-evacuees-reunite-with-families-after-truce-allows-crossing-into-ukraine",
-       "source": "Guardian World",
-       "published_at": "2026-10-31 19:17"
+       "title": "Russian airstrike destroys Kramatorsk city council building that survived 2014 occupation",
+       "url": "https://kyivindependent.com/russian-airstrike-destroys-kramatorsk-city-council-building-that-survived-2014-occupation/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-10-31 23:28"
+      },
+      {
+       "title": "Evacuees of Russian-occupied Oleshky reunited with families",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/aje-onl-nf_evacuees-from-oleshky-reunite-w-families-in-ukraine-311026?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-10-31 18:32"
       },
       {
        "title": "Ukraine never agreed to pause strikes on Russian refineries, sources confirm",
@@ -551,24 +550,7 @@
        "published_at": "2026-10-31 15:11"
       },
       {
-       "title": "Russian attacks kill 5, injure at least 46 as Ukraine faces 'difficult' energy situation",
-       "url": "https://kyivindependent.com/russian-attacks-kill-5-injure-at-least-46-as-ukraine-faces-difficult-energy-situation/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-10-31 11:07"
-      }
-     ]
-    },
-    {
-     "label": "Oleshky · Russian",
-     "articles": [
-      {
-       "title": "Evacuees of Russian-occupied Oleshky reunited with families",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/aje-onl-nf_evacuees-from-oleshky-reunite-w-families-in-ukraine-311026?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-10-31 18:32"
-      },
-      {
-       "title": "Oleshky residents reach Ukrainian-controlled territory after escaping Russian occupation",
+       "title": "'It's a miracle' — Oleshky residents reach Ukrainian-controlled territory after escaping Russian occupation",
        "url": "https://kyivindependent.com/oleshky-residents-reach-ukrainian-controlled-territory-after-escaping-russian-occupation/",
        "source": "Kyiv Independent",
        "published_at": "2026-10-31 13:04"
@@ -579,10 +561,16 @@
      "label": "More headlines",
      "articles": [
       {
-       "title": "Erdogan calls Black Sea ship attacks unacceptable after 'substantive' Zelensky talks",
-       "url": "https://kyivindependent.com/zelensky-arrives-in-istanbul-for-important-talks-with-turkeys-erdogan/",
+       "title": "Oleshky evacuees reunite with families after truce allows crossing back into Ukraine",
+       "url": "https://www.theguardian.com/world/2026/oct/31/oleshky-evacuees-reunite-with-families-after-truce-allows-crossing-into-ukraine",
+       "source": "Guardian World",
+       "published_at": "2026-10-31 19:17"
+      },
+      {
+       "title": "US warns Russia of 'mass-casualty event' threat at historic palace outside Moscow",
+       "url": "https://kyivindependent.com/us-warns-russia-of-mass-casualty-event-threat-at-historic-palace-outside-moscow/",
        "source": "Kyiv Independent",
-       "published_at": "2026-10-31 12:42"
+       "published_at": "2026-10-31 15:58"
       }
      ]
     }
