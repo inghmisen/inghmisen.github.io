@@ -1,8 +1,8 @@
 {
  "date": "Sunday 1 November 2026",
- "generated_at": "17:53 UTC",
+ "generated_at": "21:53 UTC",
  "error": null,
- "total_stories": 71,
+ "total_stories": 77,
  "fx": {
   "pair": "EUR/MAD",
   "rate": 10.978,
@@ -16,59 +16,19 @@
    "note": null,
    "clusters": [
     {
-     "label": "Open · Local",
+     "label": "Models",
      "articles": [
       {
-       "title": "Good open weights diffusion models?",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xl8bwv/good_open_weights_diffusion_models/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-11-01 17:05"
+       "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+       "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+       "source": "Hacker News",
+       "published_at": "2026-10-31 22:46"
       },
       {
-       "title": "I built Frontier UI to give local LLMs ChatGPT-style visual responses in Open WebUI (maps, photos, interactive charts, Office exports, etc.)",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xl7jr0/i_built_frontier_ui_to_give_local_llms/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-11-01 16:34"
-      },
-      {
-       "title": "[Release] Drex Max v1: Open-weight 27B multimodal decision model, 262K context, local inference on Apple Silicon",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xl5yfs/release_drex_max_v1_openweight_27b_multimodal/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-11-01 15:31"
-      }
-     ]
-    },
-    {
-     "label": "Model",
-     "articles": [
-      {
-       "title": "Heretic 2.0 released: Model modification for everyone",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xl2tcm/heretic_20_released_model_modification_for/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-11-01 13:16"
-      },
-      {
-       "title": "new research: A tiny 109M-parameter model outperforms models up to 72B parameters at image-text alignment, using 42× less training data",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkzony/new_research_a_tiny_109mparameter_model/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-11-01 10:24"
-      }
-     ]
-    },
-    {
-     "label": "Lfm",
-     "articles": [
-      {
-       "title": "LFM3-1.7b seems impressive",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xl64ho/lfm317b_seems_impressive/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-11-01 15:38"
-      },
-      {
-       "title": "LiquidAI/LFM3-1.7B · 671 ♥",
-       "url": "https://huggingface.co/LiquidAI/LFM3-1.7B",
-       "source": "HF new models",
-       "published_at": "2026-10-23 21:35"
+       "title": "Granite Switch 4.1.1 — Update models like you update software",
+       "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+       "source": "HuggingFace",
+       "published_at": "2026-10-29 13:37"
       }
      ]
     },
@@ -76,70 +36,100 @@
      "label": "More headlines",
      "articles": [
       {
-       "title": "7900xtx got speedup",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xl65xy/7900xtx_got_speedup/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-11-01 15:39"
+       "title": "The AI cost of JavaScript frameworks",
+       "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+       "source": "Hacker News",
+       "published_at": "2026-11-01 06:06"
       },
       {
-       "title": "Infernix - New Release!",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xl4pf6/infernix_new_release/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-11-01 14:40"
+       "title": "I built an AI Tamagotchi before Meta could",
+       "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+       "source": "Verge AI",
+       "published_at": "2026-10-31 16:05"
       },
       {
-       "title": "Don't people pay attention anymore when buying hardware for AI?",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xl4ckr/dont_people_pay_attention_anymore_when_buying/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-11-01 14:24"
+       "title": "The biggest names in AI are backing a new way to opt out of scraping",
+       "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+       "source": "Verge AI",
+       "published_at": "2026-10-30 20:26"
       },
       {
-       "title": "Switching to EPYC: what I had to fix, and before/after numbers",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xl3cnv/switching_to_epyc_what_i_had_to_fix_and/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-11-01 13:41"
+       "title": "Google’s satellite AI server transmits its first response to Earth",
+       "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+       "source": "Verge AI",
+       "published_at": "2026-10-30 18:21"
       },
       {
-       "title": "DeepSeek: Exploring Super-agent Design: Towards a More Autonomous Agent System",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xl1zn3/deepseek_exploring_superagent_design_towards_a/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-11-01 12:36"
+       "title": "nemotron-halloween",
+       "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+       "source": "HuggingFace",
+       "published_at": "2026-10-30 17:57"
       },
       {
-       "title": "Are bespoke inference engines overhyped? My Strata experience on 2× R9700",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xl0oqz/are_bespoke_inference_engines_overhyped_my_strata/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-11-01 11:24"
+       "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
+       "url": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
+       "source": "Verge AI",
+       "published_at": "2026-10-30 17:38"
       },
       {
-       "title": "Pika-Labs/Pika-H3-Flex · 296 ♥",
+       "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
+       "url": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
+       "source": "Verge AI",
+       "published_at": "2026-10-30 14:58"
+      },
+      {
+       "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
+       "url": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
+       "source": "Verge AI",
+       "published_at": "2026-10-30 13:01"
+      },
+      {
+       "title": "Pika-Labs/Pika-H3-Flex · 308 ♥",
        "url": "https://huggingface.co/Pika-Labs/Pika-H3-Flex",
        "source": "HF new models",
        "published_at": "2026-10-29 17:08"
       },
       {
-       "title": "baidu/Unlimited-OCR-2 · 506 ♥",
+       "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+       "url": "https://huggingface.co/blog/announcing-project-protostar",
+       "source": "HuggingFace",
+       "published_at": "2026-10-29 00:00"
+      },
+      {
+       "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+       "url": "https://huggingface.co/blog/mistral-large4",
+       "source": "HuggingFace",
+       "published_at": "2026-10-29 00:00"
+      },
+      {
+       "title": "speridlabs/idol · 290 ♥",
+       "url": "https://huggingface.co/speridlabs/idol",
+       "source": "HF new models",
+       "published_at": "2026-10-28 15:55"
+      },
+      {
+       "title": "baidu/Unlimited-OCR-2 · 512 ♥",
        "url": "https://huggingface.co/baidu/Unlimited-OCR-2",
        "source": "HF new models",
        "published_at": "2026-10-26 03:57"
       },
       {
-       "title": "ccore/Qwen3.5-4B-3D-Coder · 456 ♥",
+       "title": "ccore/Qwen3.5-4B-3D-Coder · 472 ♥",
        "url": "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder",
        "source": "HF new models",
        "published_at": "2026-10-25 05:43"
       },
       {
-       "title": "Nanbeige/Nanbeige4.3-33B · 964 ♥",
+       "title": "Nanbeige/Nanbeige4.3-33B · 967 ♥",
        "url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B",
        "source": "HF new models",
        "published_at": "2026-10-24 02:49"
       },
       {
-       "title": "RecursiveSI/flint · 1287 ♥",
-       "url": "https://huggingface.co/RecursiveSI/flint",
+       "title": "LiquidAI/LFM3-1.7B · 687 ♥",
+       "url": "https://huggingface.co/LiquidAI/LFM3-1.7B",
        "source": "HF new models",
-       "published_at": "2026-10-21 14:20"
+       "published_at": "2026-10-23 21:35"
       }
      ]
     }
@@ -237,35 +227,6 @@
    "note": null,
    "clusters": [
     {
-     "label": "المغرب · إلى",
-     "articles": [
-      {
-       "title": "جمعية الناشرين: مصلحة المغرب أولا",
-       "url": "https://www.hespress.com/%d8%ac%d9%85%d8%b9%d9%8a%d8%a9-%d8%a7%d9%84%d9%86%d8%a7%d8%b4%d8%b1%d9%8a%d9%86-%d8%aa%d8%af%d8%b9%d9%88-%d9%84%d9%84%d8%aa%d8%b9%d8%a8%d8%a6%d8%a9-%d8%a7%d9%84%d8%a5%d8%b9%d9%84%d8%a7%d9%85%d9%8a-1832759.html",
-       "source": "Hespress",
-       "published_at": "2026-11-01 17:29"
-      },
-      {
-       "title": "من التدبير إلى إعادة التقييم .. المغرب يطور المقاربة في قضية الصحراء",
-       "url": "https://www.hespress.com/%d9%85%d9%86-%d8%a7%d9%84%d8%aa%d8%af%d8%a8%d9%8a%d8%b1-%d8%a5%d9%84%d9%89-%d8%a5%d8%b9%d8%a7%d8%af%d8%a9-%d8%a7%d9%84%d8%aa%d9%82%d9%8a%d9%8a%d9%85-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d9%8a-1832779.html",
-       "source": "Hespress",
-       "published_at": "2026-11-01 17:00"
-      },
-      {
-       "title": "حصيلة إنتاج الحوامض تتراجع إلى أقل من مليوني طن في المغرب",
-       "url": "https://www.hespress.com/%d8%ad%d8%b5%d9%8a%d9%84%d8%a9-%d8%a5%d9%86%d8%aa%d8%a7%d8%ac-%d8%a7%d9%84%d8%ad%d9%88%d8%a7%d9%85%d8%b6-%d8%aa%d8%aa%d8%b1%d8%a7%d8%ac%d8%b9-%d8%a5%d9%84%d9%89-%d8%a3%d9%82%d9%84-%d9%85%d9%86-%d9%85-1832770.html",
-       "source": "Hespress",
-       "published_at": "2026-11-01 16:00"
-      },
-      {
-       "title": "المغرب أمام إثيوبيا في \"تصفيات U23\"",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d8%a3%d9%85%d8%a7%d9%85-%d8%a5%d8%ab%d9%8a%d9%88%d8%a8%d9%8a%d8%a7-%d9%81%d9%8a-%d8%aa%d8%b5%d9%81%d9%8a%d8%a7%d8%aa-u23-1832825.html",
-       "source": "Hespress",
-       "published_at": "2026-11-01 15:44"
-      }
-     ]
-    },
-    {
      "label": "Minurso",
      "articles": [
       {
@@ -289,55 +250,84 @@
      ]
     },
     {
+     "label": "المينورسو",
+     "articles": [
+      {
+       "title": "موت \"المينورسو\"",
+       "url": "https://www.hespress.com/%d9%85%d9%88%d8%aa-%d8%a7%d9%84%d9%85%d9%8a%d9%86%d9%88%d8%b1%d8%b3%d9%88-1833020.html",
+       "source": "Hespress",
+       "published_at": "2026-11-01 21:25"
+      },
+      {
+       "title": "المينورسو والفراغ القانوني",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%85%d9%8a%d9%86%d9%88%d8%b1%d8%b3%d9%88-%d9%88%d8%a7%d9%84%d9%81%d8%b1%d8%a7%d8%ba-%d8%a7%d9%84%d9%82%d8%a7%d9%86%d9%88%d9%86%d9%8a-1833000.html",
+       "source": "Hespress",
+       "published_at": "2026-11-01 21:19"
+      }
+     ]
+    },
+    {
      "label": "More headlines",
      "articles": [
       {
-       "title": "روسيا تأسف لتطورات ملف الصحراء",
-       "url": "https://www.hespress.com/%d8%b1%d9%88%d8%b3%d9%8a%d8%a7-%d8%aa%d8%a3%d8%b3%d9%81-%d9%84%d8%aa%d8%b7%d9%88%d8%b1%d8%a7%d8%aa-%d9%85%d9%84%d9%81-%d8%a7%d9%84%d8%b5%d8%ad%d8%b1%d8%a7%d8%a1-1832874.html",
+       "title": "الأمازيغية ملك للمغاربة",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%a3%d9%85%d8%a7%d8%b2%d9%8a%d8%ba%d9%8a%d8%a9-%d9%85%d9%84%d9%83-%d9%84%d9%83%d9%84-%d8%a7%d9%84%d9%85%d8%ba%d8%a7%d8%b1%d8%a8%d8%a9-1833052.html",
        "source": "Hespress",
-       "published_at": "2026-11-01 17:18"
+       "published_at": "2026-11-01 21:34"
       },
       {
-       "title": "الوكيل العام يكشف تفاصيل متابعة المتهمين في دهس شرطي بأكادير",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%88%d9%83%d9%8a%d9%84-%d8%a7%d9%84%d8%b9%d8%a7%d9%85-%d9%8a%d9%83%d8%b4%d9%81-%d8%aa%d9%81%d8%a7%d8%b5%d9%8a%d9%84-%d9%85%d8%aa%d8%a7%d8%a8%d8%b9%d8%a9-%d8%a7%d9%84%d9%85%d8%aa%d9%87-1832880.html",
+       "title": "تسعة قتلى في تحطم طائرة بفلوريدا",
+       "url": "https://www.hespress.com/%d8%aa%d8%b3%d8%b9%d8%a9-%d9%82%d8%aa%d9%84%d9%89-%d9%81%d9%8a-%d8%aa%d8%ad%d8%b7%d9%85-%d8%b7%d8%a7%d8%a6%d8%b1%d8%a9-%d8%a8%d9%81%d9%84%d9%88%d8%b1%d9%8a%d8%af%d8%a7-1833086.html",
        "source": "Hespress",
-       "published_at": "2026-11-01 17:14"
+       "published_at": "2026-11-01 21:34"
       },
       {
-       "title": "جسيم يتألق بهدفين وتمريرة حاسمة",
-       "url": "https://www.hespress.com/%d8%ac%d8%b3%d9%8a%d9%85-%d9%8a%d8%aa%d8%a3%d9%84%d9%82-%d8%a8%d9%87%d8%af%d9%81%d9%8a%d9%86-%d9%88%d8%aa%d9%85%d8%b1%d9%8a%d8%b1%d8%a9-%d8%ad%d8%a7%d8%b3%d9%85%d8%a9-1832859.html",
+       "title": "حين يُدهس القانون",
+       "url": "https://www.hespress.com/%d8%ad%d9%8a%d9%86-%d9%8a%d9%8f%d8%af%d9%87%d8%b3-%d8%a7%d9%84%d9%82%d8%a7%d9%86%d9%88%d9%86-1833034.html",
        "source": "Hespress",
-       "published_at": "2026-11-01 16:45"
+       "published_at": "2026-11-01 21:22"
       },
       {
-       "title": "الأمن الفيدرالي الروسي يشكر أمريكا",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%a3%d9%85%d9%86-%d8%a7%d9%84%d9%81%d9%8a%d8%af%d8%b1%d8%a7%d9%84%d9%8a-%d8%a7%d9%84%d8%b1%d9%88%d8%b3%d9%8a-%d9%8a%d8%b4%d9%83%d8%b1-%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d8%a7-1832833.html",
+       "title": "هدية روسية",
+       "url": "https://www.hespress.com/%d9%87%d8%af%d9%8a%d8%a9-%d8%b1%d9%88%d8%b3%d9%8a%d8%a9-1833018.html",
        "source": "Hespress",
-       "published_at": "2026-11-01 16:02"
+       "published_at": "2026-11-01 21:19"
       },
       {
-       "title": "وقفة ضد \"رسوم الجامعة\"",
-       "url": "https://www.hespress.com/%d9%88%d9%82%d9%81%d8%a9-%d8%b6%d8%af-%d8%b1%d8%b3%d9%88%d9%85-%d8%a7%d9%84%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-1832821.html",
+       "title": "تغيير قواعد اللعب",
+       "url": "https://www.hespress.com/%d9%82%d8%b6%d9%8a%d8%a9-%d8%a7%d9%84%d8%b5%d8%ad%d8%b1%d8%a7%d8%a1-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8%d9%8a%d8%a9-1833039.html",
        "source": "Hespress",
-       "published_at": "2026-11-01 15:34"
+       "published_at": "2026-11-01 21:15"
       },
       {
-       "title": "ميداوي يلتقي بموظفي التعليم العالي",
-       "url": "https://www.hespress.com/%d9%85%d9%8a%d8%af%d8%a7%d9%88%d9%8a-%d9%8a%d9%84%d8%aa%d9%82%d9%8a-%d8%a8%d9%85%d9%88%d8%b8%d9%81%d9%8a-%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%8a-1832695.html",
+       "title": "إحصاء ساكنة تندوف يعود إلى الواجهة",
+       "url": "https://www.hespress.com/%d8%a5%d8%ad%d8%b5%d8%a7%d8%a1-%d8%b3%d8%a7%d9%83%d9%86%d8%a9-%d8%aa%d9%86%d8%af%d9%88%d9%81-%d9%8a%d8%b9%d9%88%d8%af-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d9%88%d8%a7%d8%ac%d9%87%d8%a9-1833047.html",
        "source": "Hespress",
-       "published_at": "2026-11-01 15:25"
+       "published_at": "2026-11-01 21:02"
       },
       {
-       "title": "رئيس بعثة \"المينورسو\" يدعو إلى اجتماع طارئ لمناقشة ترتيبات التصفية",
-       "url": "https://www.hespress.com/%d8%b1%d8%a6%d9%8a%d8%b3-%d8%a8%d8%b9%d8%ab%d8%a9-%d8%a7%d9%84%d9%85%d9%8a%d9%86%d9%88%d8%b1%d8%b3%d9%88-%d9%8a%d8%af%d8%b9%d9%88-%d8%a5%d9%84%d9%89-%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9-%d8%b7-1832808.html",
+       "title": "حكايات ما تقالتش | السيناريست بشرى ملاك",
+       "url": "https://www.hespress.com/%d8%ad%d9%83%d8%a7%d9%8a%d8%a7%d8%aa-%d9%85%d8%a7-%d8%aa%d9%82%d8%a7%d9%84%d8%aa%d8%b4-%d8%a7%d9%84%d8%b3%d9%8a%d9%86%d8%a7%d8%b1%d9%8a%d8%b3%d8%aa-%d8%a8%d8%b4%d8%b1%d9%89-%d9%85%d9%84%d8%a7%d9%83-1832900.html",
        "source": "Hespress",
-       "published_at": "2026-11-01 15:00"
+       "published_at": "2026-11-01 21:00"
       },
       {
-       "title": "فرنسا توقف المئات خلال الاحتجاجات",
-       "url": "https://www.hespress.com/%d9%81%d8%b1%d9%86%d8%b3%d8%a7-%d8%aa%d9%88%d9%82%d9%81-%d8%a7%d9%84%d9%85%d8%a6%d8%a7%d8%aa-%d8%ae%d9%84%d8%a7%d9%84-%d8%a7%d9%84%d8%a7%d8%ad%d8%aa%d8%ac%d8%a7%d8%ac%d8%a7%d8%aa-1832789.html",
+       "title": "قرصنة \"بينانس\" تطرح تحديات جديدة أمام إطلاق الدرهم الرقمي بالمغرب",
+       "url": "https://www.hespress.com/%d9%82%d8%b1%d8%b5%d9%86%d8%a9-%d8%a8%d9%8a%d9%86%d8%a7%d9%86%d8%b3-%d8%aa%d8%b7%d8%b1%d8%ad-%d8%aa%d8%ad%d8%af%d9%8a%d8%a7%d8%aa-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d8%a3%d9%85%d8%a7%d9%85-%d8%a5-1832740.html",
        "source": "Hespress",
-       "published_at": "2026-11-01 14:46"
+       "published_at": "2026-11-01 21:00"
+      },
+      {
+       "title": "الحوثي والبوليساريو",
+       "url": "https://www.hespress.com/%d8%a5%d8%b3%d9%82%d8%a7%d8%b7-%d9%86%d9%85%d9%88%d8%b0%d8%ac-%d8%a7%d9%84%d8%ad%d9%88%d8%ab%d9%8a-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d8%a8%d9%88%d9%84%d9%8a%d8%b2%d8%a7%d8%b1%d9%8a%d9%88-1832985.html",
+       "source": "Hespress",
+       "published_at": "2026-11-01 20:37"
+      },
+      {
+       "title": "الفيتو يسقط حارسه",
+       "url": "https://www.hespress.com/%d8%ad%d9%8a%d9%86-%d8%a3%d8%b3%d9%82%d8%b7-%d8%a7%d9%84%d9%81%d9%8a%d8%aa%d9%88-%d8%ad%d8%a7%d8%b1%d8%b3%d9%87-1833023.html",
+       "source": "Hespress",
+       "published_at": "2026-11-01 20:35"
       },
       {
        "title": "Don de sang : l’AMSD cartographie l’offre et les besoins du pays",
@@ -369,18 +359,59 @@
    "note": null,
    "clusters": [
     {
-     "label": "",
+     "label": "Arsenal · League",
      "articles": [
       {
-       "title": "Live Premier League | Premier League | Liverpool jaagt met Van Dijk en Gakpo op gelijkmaker tegen Arsenal",
-       "url": "https://www.nu.nl/voetbal/6415145/premier-league-liverpool-jaagt-met-van-dijk-en-gakpo-op-gelijkmaker-tegen-arsenal.html",
+       "title": "Arsenal pakt koppositie in Premier League met langverwachte zege bij Liverpool",
+       "url": "https://www.nu.nl/voetbal/6415160/arsenal-pakt-koppositie-in-premier-league-met-langverwachte-zege-bij-liverpool.html",
+       "source": "NU.nl",
+       "published_at": "2026-11-01 18:28"
+      },
+      {
+       "title": "LIVE Buitenlands voetbal | Arsenal grote winnaar Premier League-weekend, simpele zege Real Madrid",
+       "url": "https://www.telegraaf.nl/sport/voetbal/live-buitenlands-voetbal-arsenal-grote-winnaar-premier-league-weekend-simpele-zege-real-madrid/163894737.html",
+       "source": "de Telegraaf",
+       "published_at": "2026-11-01 18:20"
+      },
+      {
+       "title": "Live Premier League | Premier League | Lees hier alles terug van de kraker Liverpool-Arsenal",
+       "url": "https://www.nu.nl/voetbal/6415145/premier-league-lees-hier-alles-terug-van-de-kraker-liverpool-arsenal.html",
        "source": "NU.nl",
        "published_at": "2026-11-01 16:04"
       }
      ]
+    },
+    {
+     "label": "More headlines",
+     "articles": [
+      {
+       "title": "Virgil van Dijk kraakt VAR na actie Jurriën Timber: 'Er staan vijftig camera's'",
+       "url": "https://www.nu.nl/voetbal/6415165/virgil-van-dijk-kraakt-var-na-actie-jurrien-timber-er-staan-vijftig-cameras.html",
+       "source": "NU.nl",
+       "published_at": "2026-11-01 19:41"
+      },
+      {
+       "title": "Pro-Russische interim-president leidt in exitpolls Bulgaarse presidentsverkiezing",
+       "url": "https://www.nu.nl/buitenland/6415167/pro-russische-interim-president-leidt-in-exitpolls-bulgaarse-presidentsverkiezing.html",
+       "source": "NU.nl",
+       "published_at": "2026-11-01 19:26"
+      },
+      {
+       "title": "Wat moet een boot met vluchtelingen ineens in Nederland? ’Door wind of stroming afgedwaald’",
+       "url": "https://www.telegraaf.nl/binnenland/wat-moet-een-boot-met-vluchtelingen-ineens-in-nederland-door-wind-of-stroming-afgedwaald/163899836.html",
+       "source": "de Telegraaf",
+       "published_at": "2026-11-01 18:45"
+      },
+      {
+       "title": "’Dat is de doodsteek geweest voor kabinet Schoof’",
+       "url": "https://www.telegraaf.nl/video/dat-is-de-doodsteek-geweest-voor-kabinet-schoof/163873010.html",
+       "source": "de Telegraaf",
+       "published_at": "2026-11-01 17:52"
+      }
+     ]
     }
    ],
-   "count": 1
+   "count": 7
   },
   {
    "key": "mideast",
@@ -389,42 +420,31 @@
    "note": null,
    "clusters": [
     {
-     "label": "Gaza · Israeli",
+     "label": "Israel · Hebron",
      "articles": [
       {
-       "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
-       "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
-       "source": "BBC World",
-       "published_at": "2026-11-01 17:06"
+       "title": "Thousands displaced from Hebron as Israel carries on siege",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/thousands-displaced-from-hebron-as-israel-carries-on-siege?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-11-01 21:28"
       },
       {
-       "title": "Israeli attacks on Gaza kill at least nine people",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/israeli-attacks-on-gaza-kill-at-least-nine-people?traffic_source=rss",
+       "title": "Israel’s first ambassador to Somaliland presents credentials in Hargeisa",
+       "url": "https://www.aljazeera.com/news/2026/11/1/israels-first-ambassador-to-somaliland-presents-credentials-in-hargeisa?traffic_source=rss",
        "source": "Al Jazeera",
-       "published_at": "2026-11-01 14:10"
+       "published_at": "2026-11-01 18:23"
       },
       {
-       "title": "At least eight Palestinians killed in Israeli attacks across Gaza",
-       "url": "https://www.aljazeera.com/news/2026/11/1/at-least-eight-palestinians-killed-in-israeli-attacks-across-gaza?traffic_source=rss",
+       "title": "Hebron siege continues for 10th day as Israel threatens wider offensive",
+       "url": "https://www.aljazeera.com/news/2026/11/1/hebron-siege-continues-for-10th-day-as-israel-threatens-wider-offensive?traffic_source=rss",
        "source": "Al Jazeera",
-       "published_at": "2026-11-01 13:36"
-      }
-     ]
-    },
-    {
-     "label": "Israel",
-     "articles": [
+       "published_at": "2026-11-01 17:30"
+      },
       {
        "title": "JERUSALEM DAILY: Israel continues siege and arrests in Hebron",
        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/jerusalem-daily-israel-continues-siege-and-arrests-in-hebron?traffic_source=rss",
        "source": "Al Jazeera",
        "published_at": "2026-11-01 15:38"
-      },
-      {
-       "title": "Israel election: When will government be formed, who will lead it?",
-       "url": "https://www.aljazeera.com/news/2026/11/1/israel-election-when-will-government-be-formed-who-will-lead-it?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-11-01 14:16"
       },
       {
        "title": "Friday briefing: Israel has a dilemma - can its opposition govern with Palestinian parties?",
@@ -435,19 +455,42 @@
      ]
     },
     {
-     "label": "War · Iran",
+     "label": "Iran · War",
      "articles": [
       {
-       "title": "Iran and US explore diplomacy amid rising threats of war",
-       "url": "https://www.aljazeera.com/news/2026/11/1/iran-and-us-explore-diplomacy-amid-rising-threats-of-war?traffic_source=rss",
+       "title": "How will the Iran war shape the outcome of the US midterm vote?",
+       "url": "https://www.aljazeera.com/video/inside-story/2026/11/1/how-will-the-iran-war-shape-the-outcome-of-the-u-s-midterm-vote?traffic_source=rss",
        "source": "Al Jazeera",
-       "published_at": "2026-11-01 13:02"
+       "published_at": "2026-11-01 19:00"
+      },
+      {
+       "title": "Negotiators ‘braced for worst’ over US-Iran talks to reopen strait of Hormuz",
+       "url": "https://www.theguardian.com/world/2026/nov/01/negotiators-braced-for-worst-over-us-iran-talks-to-reopen-strait-of-hormuz",
+       "source": "Guardian World",
+       "published_at": "2026-11-01 17:49"
       },
       {
        "title": "Gulf states must rethink trillion-dollar defence in light of US-Iran war, says report",
        "url": "https://www.theguardian.com/world/2026/oct/30/gulf-states-rethink-trillion-dollar-defence-us-iran-war-iiss-report",
        "source": "Guardian World",
        "published_at": "2026-10-30 12:49"
+      }
+     ]
+    },
+    {
+     "label": "Strikes",
+     "articles": [
+      {
+       "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
+       "url": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
+       "source": "BBC World",
+       "published_at": "2026-11-01 21:01"
+      },
+      {
+       "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
+       "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
+       "source": "BBC World",
+       "published_at": "2026-11-01 17:06"
       }
      ]
     },
@@ -461,22 +504,10 @@
        "published_at": "2026-11-01 16:59"
       },
       {
-       "title": "Palestinians in Lebanon suffering worsened by high energy prices, inflation",
-       "url": "https://www.aljazeera.com/features/2026/11/1/palestinians-in-lebanon-suffering-worsened-by-high-energy-prices-inflation?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-11-01 13:25"
-      },
-      {
        "title": "Houthis sending Taiz ‘back to the stone age’, governor of besieged Yemen city says",
        "url": "https://www.theguardian.com/world/2026/oct/30/houthis-taiz-stone-age-yemen-city-siege",
        "source": "Guardian World",
        "published_at": "2026-10-30 09:00"
-      },
-      {
-       "title": "Netanyahu accused of smearing Arab voters to hold on to power",
-       "url": "https://www.theguardian.com/world/2026/oct/29/israeli-leader-netanyahu-accused-of-using-ugly-smear-tactics-to-cling-to-power",
-       "source": "Guardian World",
-       "published_at": "2026-10-29 23:14"
       }
      ]
     }
@@ -492,6 +523,18 @@
     {
      "label": "Russian · Ukraine",
      "articles": [
+      {
+       "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
+       "url": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
+       "source": "BBC World",
+       "published_at": "2026-11-01 21:01"
+      },
+      {
+       "title": "Russian drone strike near school dormitory housing displaced people kills 13-year-old in Vinnytsia Oblast, injures more children",
+       "url": "https://kyivindependent.com/russian-drone-strike-near-school-dormitory-kills-13-year-old-in-vinnytsia-oblast-injures-more-children/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-11-01 19:02"
+      },
       {
        "title": "Ukraine defies Trump to resume attacks on Russian oil refineries",
        "url": "https://www.theguardian.com/world/2026/nov/01/ukraine-defies-trump-resumes-attacks-russian-oil",
@@ -509,46 +552,28 @@
        "url": "https://kyivindependent.com/foreign-minister-sybiha-calls-for-russian-athlete-travel-ban-as-moscows-ice-hockey-return-risks-forcing-ukraine-out/",
        "source": "Kyiv Independent",
        "published_at": "2026-11-01 15:50"
-      },
-      {
-       "title": "Zelensky confirms attack on Russian rocket fuel factory, missile launcher system",
-       "url": "https://kyivindependent.com/zelensky-confirms-attack-on-russian-rocket-fuel-factory-missile-launcher-system/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-11-01 14:07"
-      },
-      {
-       "title": "'Life simply returned' – Oleshky ceasefire gives Kherson short respite amid years of Russian terror",
-       "url": "https://kyivindependent.com/life-simply-returned-oleshky-ceasefire-gives-kherson-short-respite-amid-years-of-russian-terror/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-11-01 13:50"
       }
      ]
     },
     {
-     "label": "Ukraine · Russia",
+     "label": "Ukraine",
      "articles": [
+      {
+       "title": "Ukraine's air raid alert system hacked, Air Force says as false nuclear, chemical warnings sound",
+       "url": "https://kyivindependent.com/ukraines-air-raid-alert-system-hacked-air-force-says-as-false-nuclear-chemical-warnings-sound/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-11-01 21:29"
+      },
       {
        "title": "Tears and joy as Oleshky residents reunite with relatives in Ukraine",
        "url": "https://kyivindependent.com/tears-and-joy-as-oleshky-residents-reunite-with-relatives-in-ukraine/",
        "source": "Kyiv Independent",
        "published_at": "2026-11-01 17:24"
-      },
-      {
-       "title": "Russia suffers record troop losses in October, its worst month since full-scale invasion, Ukraine says",
-       "url": "https://kyivindependent.com/russia-suffers-record-troop-losses-in-october-its-worst-month-since-full-scale-invasion-ukraine-says/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-11-01 09:30"
-      },
-      {
-       "title": "General Staff: Russia has lost 1,590,270 troops in Ukraine since Feb. 24, 2022",
-       "url": "https://kyivindependent.com/general-staff-russia-has-lost-1-590-270-troops-in-ukraine-since-feb-24-2022/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-11-01 08:01"
       }
      ]
     },
     {
-     "label": "More headlines",
+     "label": "Attack",
      "articles": [
       {
        "title": "Russia detains minor over alleged Moscow attack plot after US warning",
@@ -557,22 +582,33 @@
        "published_at": "2026-11-01 16:24"
       },
       {
-       "title": "Republican senator Dan Sullivan says he will accept Alaska election results",
-       "url": "https://www.theguardian.com/us-news/2026/nov/01/alaska-senate-race-republican-dan-sullivan",
+       "title": "Zelensky confirms attack on Russian rocket fuel factory, missile launcher system",
+       "url": "https://kyivindependent.com/zelensky-confirms-attack-on-russian-rocket-fuel-factory-missile-launcher-system/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-11-01 14:07"
+      }
+     ]
+    },
+    {
+     "label": "More headlines",
+     "articles": [
+      {
+       "title": "Connecticut senator Chris Murphy hospitalized after stroke",
+       "url": "https://www.theguardian.com/us-news/2026/nov/01/chris-murphy-stroke-hospitalized",
        "source": "Guardian World",
-       "published_at": "2026-11-01 15:39"
+       "published_at": "2026-11-01 19:27"
+      },
+      {
+       "title": "'Life simply returned' – Oleshky ceasefire gives Kherson short respite amid years of Russian terror",
+       "url": "https://kyivindependent.com/life-simply-returned-oleshky-ceasefire-gives-kherson-short-respite-amid-years-of-russian-terror/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-11-01 13:50"
       },
       {
        "title": "Russian attacks kill 1, injure 47 over past day, leaving hundreds of thousands without electricity",
        "url": "https://kyivindependent.com/russian-attacks-kill-1-injure-47-over-past-day-leaving-hundreds-of-thousands-without-electricity/",
        "source": "Kyiv Independent",
        "published_at": "2026-11-01 11:44"
-      },
-      {
-       "title": "Russian oil refinery in Kstovo ablaze after reported overnight drone strike",
-       "url": "https://kyivindependent.com/russian-oil-refinery-in-kstovo-ablaze-after-reported-overnight-drone-strike/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-11-01 03:25"
       }
      ]
     }
