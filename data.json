@@ -1,12 +1,12 @@
 {
- "date": "Thursday 5 November 2026",
- "generated_at": "21:50 UTC",
+ "date": "Friday 6 November 2026",
+ "generated_at": "02:06 UTC",
  "error": null,
- "total_stories": 77,
+ "total_stories": 74,
  "fx": {
   "pair": "EUR/MAD",
-  "rate": 10.987,
-  "change_pct": 0.0
+  "rate": 10.96,
+  "change_pct": -0.25
  },
  "lanes": [
   {
@@ -16,82 +16,53 @@
    "note": null,
    "clusters": [
     {
-     "label": "Models",
+     "label": "Small · Inkling",
      "articles": [
+      {
+       "title": "Inkling 2 Small (594B-A17B) Announcement; Open Weights Releasing Next Week",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoz0w4/inkling_2_small_594ba17b_announcement_open/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-11-06 00:30"
+      },
+      {
+       "title": "Inkling 2 Small released",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoz01k/inkling_2_small_released/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-11-06 00:28"
+      }
+     ]
+    },
+    {
+     "label": "Code",
+     "articles": [
+      {
+       "title": "Claude Code sends your email address to websites",
+       "url": "https://github.com/anthropics/claude-code/issues/107757",
+       "source": "Hacker News",
+       "published_at": "2026-11-05 22:17"
+      },
+      {
+       "title": "Lawyer with too many GPUs, part 4: DeepSeek-V4.1-Flash on eight V100s from 2018. 200+ tok/s on code, ~110 on legal writing, 2,200 tok/s prefill at 128K, 524K context, every weight in VRAM",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoubyo/lawyer_with_too_many_gpus_part_4_deepseekv41flash/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-11-05 21:07"
+      }
+     ]
+    },
+    {
+     "label": "All",
+     "articles": [
+      {
+       "title": "Maybe we'll get cheap RAM for Christmas after all!",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xovnaa/maybe_well_get_cheap_ram_for_christmas_after_all/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-11-05 22:00"
+      },
       {
        "title": "Strata for all Qwen models from little to big",
        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xottw2/strata_for_all_qwen_models_from_little_to_big/",
        "source": "r/LocalLLaMA",
        "published_at": "2026-11-05 20:47"
-      },
-      {
-       "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-       "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
-       "source": "HuggingFace",
-       "published_at": "2026-11-05 19:35"
-      },
-      {
-       "title": "The Ultimate MoE Training Handbook: training Mixture-of-Experts models with Megatron-LM, setting by setting.",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xor5nr/the_ultimate_moe_training_handbook_training/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-11-05 19:01"
-      }
-     ]
-    },
-    {
-     "label": "Deepseek · Flash",
-     "articles": [
-      {
-       "title": "Deepseek fixed my HDMI display show case",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoql51/deepseek_fixed_my_hdmi_display_show_case/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-11-05 18:40"
-      },
-      {
-       "title": "DeepSeek-V4.1-Flash-1017 on one RTX 3090: Big updates to the Delta Inference Engine v0.93. Same 41 tok/s at 192GB/IQ2 at better quality, usable from 64 GB RAM, first token ~40% sooner, new Unsloth quants at full speed, EXL3, basic multi-GPU, public CI and more",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoq4vq/deepseekv41flash1017_on_one_rtx_3090_big_updates/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-11-05 18:23"
-      },
-      {
-       "title": "AtomicChat/DeepSeek-V4.1-Flash-1017-Uncensored-GSQ-RCO-GGUF · 318 ♥",
-       "url": "https://huggingface.co/AtomicChat/DeepSeek-V4.1-Flash-1017-Uncensored-GSQ-RCO-GGUF",
-       "source": "HF new models",
-       "published_at": "2026-10-28 04:48"
-      }
-     ]
-    },
-    {
-     "label": "Nano",
-     "articles": [
-      {
-       "title": "Appreciation post for OrcaCyber-Nano-1.0",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xosw1w/appreciation_post_for_orcacybernano10/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-11-05 20:09"
-      },
-      {
-       "title": "Nemotron 3.5 Bolt E4B on Jetson Orin Nano Super at 27.7 tok/s!",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoogj8/nemotron_35_bolt_e4b_on_jetson_orin_nano_super_at/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-11-05 17:20"
-      }
-     ]
-    },
-    {
-     "label": "Your",
-     "articles": [
-      {
-       "title": "Claude AI can plug directly into your bank account",
-       "url": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
-       "source": "Verge AI",
-       "published_at": "2026-11-05 18:00"
-      },
-      {
-       "title": "I added local TTS and STT to apple-llm using what's already on your Mac. 30 minutes of narration renders in under 20 seconds on an M4 Air",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoowb4/i_added_local_tts_and_stt_to_applellm_using_whats/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-11-05 17:37"
       }
      ]
     },
@@ -99,52 +70,76 @@
      "label": "More headlines",
      "articles": [
       {
-       "title": "Z.ai chief scientist Jie Tang just revealed the training pipeline behind the upcoming GLM-5.5 (32B, 122B, and 256B)",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xossr5/zai_chief_scientist_jie_tang_just_revealed_the/",
+       "title": "CCORE GLB-3D-Coder dataset is here: 3,918 rendered and tested examples across 40 domains",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xozbe6/ccore_glb3dcoder_dataset_is_here_3918_rendered/",
        "source": "r/LocalLLaMA",
-       "published_at": "2026-11-05 20:06"
+       "published_at": "2026-11-06 00:43"
       },
       {
-       "title": "Add support for the xing4_0 by shuxiaoqiong · Pull Request #31589 · ggml-org/llama.cpp",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoqc59/add_support_for_the_xing4_0_by_shuxiaoqiong_pull/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-11-05 18:30"
-      },
-      {
-       "title": "‘Total repudiation’: The blue wave is about to hit AI",
-       "url": "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai",
+       "title": "OpenAI is stepping back from NDAs for data center projects",
+       "url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
        "source": "Verge AI",
-       "published_at": "2026-11-05 17:51"
+       "published_at": "2026-11-06 00:37"
       },
       {
-       "title": "moonshotai/Kimi-K3.1-Pro · 894 ♥",
+       "title": "Airbnb is working on an AI travel agent",
+       "url": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
+       "source": "Verge AI",
+       "published_at": "2026-11-06 00:06"
+      },
+      {
+       "title": "Perplexity launches its own take on AI agents for work",
+       "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+       "source": "Verge AI",
+       "published_at": "2026-11-05 22:26"
+      },
+      {
+       "title": "I fixed my tiny TTS by editing the weights directly, no retraining",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xou096/i_fixed_my_tiny_tts_by_editing_the_weights/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-11-05 20:54"
+      },
+      {
+       "title": "Appreciation post for OrcaCyber-Nano-1.0",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xosw1w/appreciation_post_for_orcacybernano10/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-11-05 20:09"
+      },
+      {
+       "title": "ricursiveAI/Ripple-65B-Preview · 271 ♥",
+       "url": "https://huggingface.co/ricursiveAI/Ripple-65B-Preview",
+       "source": "HF new models",
+       "published_at": "2026-11-04 02:41"
+      },
+      {
+       "title": "moonshotai/Kimi-K3.1-Pro · 935 ♥",
        "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
        "source": "HF new models",
        "published_at": "2026-11-02 04:13"
       },
       {
-       "title": "FusionCow/Sulphur-3 · 378 ♥",
+       "title": "FusionCow/Sulphur-3 · 381 ♥",
        "url": "https://huggingface.co/FusionCow/Sulphur-3",
        "source": "HF new models",
        "published_at": "2026-10-31 20:31"
       },
       {
-       "title": "Pika-Labs/Pika-H3-Flex · 466 ♥",
+       "title": "Pika-Labs/Pika-H3-Flex · 474 ♥",
        "url": "https://huggingface.co/Pika-Labs/Pika-H3-Flex",
        "source": "HF new models",
        "published_at": "2026-10-29 17:08"
       },
       {
-       "title": "speridlabs/idol · 754 ♥",
+       "title": "speridlabs/idol · 778 ♥",
        "url": "https://huggingface.co/speridlabs/idol",
        "source": "HF new models",
        "published_at": "2026-10-28 15:55"
       },
       {
-       "title": "ccore/Qwen3.5-4B-3D-Coder · 694 ♥",
-       "url": "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder",
+       "title": "AtomicChat/DeepSeek-V4.1-Flash-1017-Uncensored-GSQ-RCO-GGUF · 321 ♥",
+       "url": "https://huggingface.co/AtomicChat/DeepSeek-V4.1-Flash-1017-Uncensored-GSQ-RCO-GGUF",
        "source": "HF new models",
-       "published_at": "2026-10-25 05:43"
+       "published_at": "2026-10-28 04:48"
       }
      ]
     }
@@ -242,7 +237,7 @@
    "note": null,
    "clusters": [
     {
-     "label": "Morocco · History",
+     "label": "Morocco · Episode",
      "articles": [
       {
        "title": "Green hydrogen: Where does Morocco really stand?",
@@ -261,23 +256,47 @@
        "url": "https://telquel.ma/2026/11/05/history-series-episode-8-morocco-algeria-terrorist-attack-on-the-atlas-asni-hotel-in-marrakesh_2014446",
        "source": "TelQuel",
        "published_at": "2026-11-05 17:06"
+      },
+      {
+       "title": "[History series, episode 7] Morocco-Algeria: a war on many fronts",
+       "url": "https://telquel.ma/2026/11/05/history-series-episode-7-morocco-algeria-a-war-on-many-fronts_2014430",
+       "source": "TelQuel",
+       "published_at": "2026-11-05 17:05"
+      },
+      {
+       "title": "[History series, episode 5] Morocco-Algeria: commitments and ill intentions",
+       "url": "https://telquel.ma/2026/11/05/history-series-episode-5-morocco-algeria-commitments-and-ill-intentions_2014413",
+       "source": "TelQuel",
+       "published_at": "2026-11-05 17:04"
       }
      ]
     },
     {
-     "label": "وزير",
+     "label": "Series · History",
      "articles": [
       {
-       "title": "وزير الصحة يراهن على إنهاء أزمة الثقة بين المغاربة والمستشفيات العمومية",
-       "url": "https://www.hespress.com/%d9%88%d8%b2%d9%8a%d8%b1-%d8%a7%d9%84%d8%b5%d8%ad%d8%a9-%d9%8a%d8%b1%d8%a7%d9%87%d9%86-%d8%b9%d9%84%d9%89-%d8%a5%d9%86%d9%87%d8%a7%d8%a1-%d8%a3%d8%b2%d9%85%d8%a9-%d8%a7%d9%84%d8%ab%d9%82%d8%a9-%d8%a8-1835229.html",
-       "source": "Hespress",
-       "published_at": "2026-11-05 20:00"
+       "title": "[History series, episode 6] The day Boumediene lost control",
+       "url": "https://telquel.ma/2026/11/05/history-series-episode-6-the-day-boumediene-lost-control_2014417",
+       "source": "TelQuel",
+       "published_at": "2026-11-05 17:05"
       },
       {
-       "title": "وزير الأوقاف: تسديد التبليغ ثورة فكرية",
-       "url": "https://www.hespress.com/%d9%88%d8%b2%d9%8a%d8%b1-%d8%a7%d9%84%d8%a3%d9%88%d9%82%d8%a7%d9%81-%d8%aa%d8%b3%d8%af%d9%8a%d8%af-%d8%a7%d9%84%d8%aa%d8%a8%d9%84%d9%8a%d8%ba-%d8%ab%d9%88%d8%b1%d8%a9-%d9%81%d9%83%d8%b1%d9%8a%d8%a9-1835215.html",
-       "source": "Hespress",
-       "published_at": "2026-11-05 19:30"
+       "title": "[History series, episode 4] Morocco-Algeria: plans to overthrow the Moroccan monarchy",
+       "url": "https://telquel.ma/2026/11/05/history-series-episode-4-morocco-algeria-plans-to-overthrow-the-moroccan-monarchy_2014408",
+       "source": "TelQuel",
+       "published_at": "2026-11-05 17:04"
+      },
+      {
+       "title": "[History series, episode 3] Morocco-Algeria: the truth about the Sand War",
+       "url": "https://telquel.ma/2026/11/05/history-series-episode-3-morocco-algeria-the-truth-about-the-sand-war_2014392",
+       "source": "TelQuel",
+       "published_at": "2026-11-05 17:03"
+      },
+      {
+       "title": "[History series, episodes 1 and 2] Morocco-Algeria: the original betrayal",
+       "url": "https://telquel.ma/2026/11/05/history-series-episodes-1-and-2-morocco-algeria-the-original-betrayal_2014376",
+       "source": "TelQuel",
+       "published_at": "2026-11-05 17:03"
       }
      ]
     },
@@ -285,64 +304,10 @@
      "label": "More headlines",
      "articles": [
       {
-       "title": "نقاش هسبريس | قضية الصحراء المغربية",
-       "url": "https://www.hespress.com/%d9%86%d9%82%d8%a7%d8%b4-%d9%87%d8%b3%d8%a8%d8%b1%d9%8a%d8%b3-%d9%82%d8%b6%d9%8a%d8%a9-%d8%a7%d9%84%d8%b5%d8%ad%d8%b1%d8%a7%d8%a1-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8%d9%8a%d8%a9-1835309.html",
-       "source": "Hespress",
-       "published_at": "2026-11-05 21:40"
-      },
-      {
-       "title": "الرباط تحتفي بالإبداع الشبابي في مسابقة المسيرة الخضراء لصناع الصورة",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%b1%d8%a8%d8%a7%d8%b7-%d8%aa%d8%ad%d8%aa%d9%81%d9%8a-%d8%a8%d8%a7%d9%84%d8%a5%d8%a8%d8%af%d8%a7%d8%b9-%d8%a7%d9%84%d8%b4%d8%a8%d8%a7%d8%a8%d9%8a-%d9%81%d9%8a-%d9%85%d8%b3%d8%a7%d8%a8-1835286.html",
-       "source": "Hespress",
-       "published_at": "2026-11-05 21:30"
-      },
-      {
-       "title": "\"غوغل\" تواجه دعوى قضائية بسبب محادثات انتحارية مع \"جيميناي\"",
-       "url": "https://www.hespress.com/%d8%ba%d9%88%d8%ba%d9%84-%d8%aa%d9%88%d8%a7%d8%ac%d9%87-%d8%af%d8%b9%d9%88%d9%89-%d9%82%d8%b6%d8%a7%d8%a6%d9%8a%d8%a9-%d8%a8%d8%b3%d8%a8%d8%a8-%d9%85%d8%ad%d8%a7%d8%af%d8%ab%d8%a7%d8%aa-%d8%a7-1835298.html",
-       "source": "Hespress",
-       "published_at": "2026-11-05 21:17"
-      },
-      {
-       "title": "الشرطة الفرنسية تعتقل 448 متظاهرا",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%b4%d8%b1%d8%b7%d8%a9-%d8%a7%d9%84%d9%81%d8%b1%d9%86%d8%b3%d9%8a%d8%a9-%d8%aa%d8%b9%d8%aa%d9%82%d9%84-448-%d9%85%d8%aa%d8%b8%d8%a7%d9%87%d8%b1%d8%a7-1835295.html",
-       "source": "Hespress",
-       "published_at": "2026-11-05 21:12"
-      },
-      {
-       "title": "انتصار الديمقراطيين في الانتخابات الأمريكية.. هل تتغير موازين القوى؟",
-       "url": "https://www.hespress.com/%d8%a7%d9%86%d8%aa%d8%b5%d8%a7%d8%b1-%d8%a7%d9%84%d8%af%d9%8a%d9%85%d9%82%d8%b1%d8%a7%d8%b7%d9%8a%d9%8a%d9%86-%d9%81%d9%8a-%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-%d8%a7%d9%84-1835244.html",
-       "source": "Hespress",
-       "published_at": "2026-11-05 21:00"
-      },
-      {
-       "title": "25 مليون يورو تحسم مستقبل العيناوي",
-       "url": "https://www.hespress.com/25-%d9%85%d9%84%d9%8a%d9%88%d9%86-%d9%8a%d9%88%d8%b1%d9%88-%d8%aa%d8%ad%d8%b3%d9%85-%d9%85%d8%b3%d8%aa%d9%82%d8%a8%d9%84-%d8%a7%d9%84%d8%b9%d9%8a%d9%86%d8%a7%d9%88%d9%8a-1835272.html",
-       "source": "Hespress",
-       "published_at": "2026-11-05 20:41"
-      },
-      {
-       "title": "شركة كندية تتوسع في منجم \"بومادين\"",
-       "url": "https://www.hespress.com/%d8%b4%d8%b1%d9%83%d8%a9-%d9%83%d9%86%d8%af%d9%8a%d8%a9-%d8%aa%d8%aa%d9%88%d8%b3%d8%b9-%d9%81%d9%8a-%d9%85%d9%86%d8%ac%d9%85-%d8%a8%d9%88%d9%85%d8%a7%d8%af%d9%8a%d9%86-1835091.html",
-       "source": "Hespress",
-       "published_at": "2026-11-05 20:12"
-      },
-      {
-       "title": "هجمات دامية تخلف 8 قتلى في تركيا",
-       "url": "https://www.hespress.com/%d9%87%d8%ac%d9%85%d8%a7%d8%aa-%d8%af%d8%a7%d9%85%d9%8a%d8%a9-%d8%aa%d8%ae%d9%84%d9%81-8-%d9%82%d8%aa%d9%84%d9%89-%d9%81%d9%8a-%d8%aa%d8%b1%d9%83%d9%8a%d8%a7-1835204.html",
-       "source": "Hespress",
-       "published_at": "2026-11-05 19:03"
-      },
-      {
-       "title": "حسن طارق: الخوارزميات تزاحم التشريع.. وإنتاج القوانين يحتاج إلى مراجعة",
-       "url": "https://www.hespress.com/%d8%ad%d8%b3%d9%86-%d8%b7%d8%a7%d8%b1%d9%82-%d8%a7%d9%84%d8%ae%d9%88%d8%a7%d8%b1%d8%b2%d9%85%d9%8a%d8%a7%d8%aa-%d8%aa%d8%b2%d8%a7%d8%ad%d9%85-%d8%a7%d9%84%d8%aa%d8%b4%d8%b1%d9%8a%d8%b9-%d9%88%d8%a5-1835227.html",
-       "source": "Hespress",
-       "published_at": "2026-11-05 19:00"
-      },
-      {
-       "title": "التعليم الخاص يطالب بتأجيل مباريات",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85-%d8%a7%d9%84%d8%ae%d8%a7%d8%b5-%d9%8a%d8%b7%d8%a7%d9%84%d8%a8-%d8%a8%d8%aa%d8%a3%d8%ac%d9%8a%d9%84-%d9%85%d8%a8%d8%a7%d8%b1%d9%8a%d8%a7%d8%aa-1834977.html",
-       "source": "Hespress",
-       "published_at": "2026-11-05 18:28"
+       "title": "Réforme de santé : T4H passe les résultats au crible",
+       "url": "https://telquel.ma/2026/11/05/reforme-de-sante-t4h-passe-les-resultats-au-crible_2016768",
+       "source": "TelQuel",
+       "published_at": "2026-11-05 19:04"
       },
       {
        "title": "Soutien exceptionnel de 400 MDH aux professionnels du secteur de transport",
@@ -361,6 +326,36 @@
        "url": "https://telquel.ma/instant-t/2026/11/05/la-cour-constitutionnelle-confirme-le-maintien-de-madiha-khayr-a-la-chambre-des-representants_2017055/",
        "source": "TelQuel",
        "published_at": "2026-11-05 17:09"
+      },
+      {
+       "title": "The day Michael Jackson landed in Casablanca",
+       "url": "https://telquel.ma/2026/11/05/the-day-michael-jackson-landed-in-casablanca_2014846",
+       "source": "TelQuel",
+       "published_at": "2026-11-05 17:02"
+      },
+      {
+       "title": "GenZ212, GenZ33... same struggle?",
+       "url": "https://telquel.ma/2026/11/05/genz212-genz33-same-struggle_2013908",
+       "source": "TelQuel",
+       "published_at": "2026-11-05 17:01"
+      },
+      {
+       "title": "El Mansouri Administration: Ahmed Rahhou’s 12 Priority Areas",
+       "url": "https://telquel.ma/2026/11/05/el-mansouri-administration-ahmed-rahhous-12-priority-areas_2015767",
+       "source": "TelQuel",
+       "published_at": "2026-11-05 17:00"
+      },
+      {
+       "title": "[Op-Ed] Mental health: AI listens, but who provides care?",
+       "url": "https://telquel.ma/2026/11/05/op-ed-mental-health-ai-listens-but-who-provides-care_2014818",
+       "source": "TelQuel",
+       "published_at": "2026-11-05 16:59"
+      },
+      {
+       "title": "Income tax exemption at 10,000 DH: Why are the numbers not adding up",
+       "url": "https://telquel.ma/2026/11/05/income-tax-exemption-at-10000-dh-why-are-the-numbers-not-adding-up_2015473",
+       "source": "TelQuel",
+       "published_at": "2026-11-05 16:58"
       }
      ]
     }
@@ -399,29 +394,11 @@
        "url": "https://www.telegraaf.nl/politiek/kabinet-geeft-werkende-statushouders-tot-drie-jaar-extra-voor-inburgering/164155986.html",
        "source": "de Telegraaf",
        "published_at": "2026-11-05 16:53"
-      },
-      {
-       "title": "Mediabedrijven zeggen dat IPTV-kastjes zorgen voor malware en fraude. Klopt dat?",
-       "url": "https://www.nu.nl/tweakers/6415339/mediabedrijven-zeggen-dat-iptv-kastjes-zorgen-voor-malware-en-fraude-klopt-dat.html",
-       "source": "NU.nl",
-       "published_at": "2026-11-05 16:36"
-      },
-      {
-       "title": "Europa spreekt niet met één stem bij vredesgesprekken over Oekraïne, Italiaanse premier Giorgia Meloni waarschuwt: ’We dreigen irrelevant te worden’",
-       "url": "https://www.telegraaf.nl/buitenland/europa-spreekt-niet-met-een-stem-bij-vredesgesprekken-over-oekrane-italiaanse-premier-giorgia-meloni-waarschuwt-we-dreigen-irrelevant-te-worden/164147101.html",
-       "source": "de Telegraaf",
-       "published_at": "2026-11-05 16:30"
-      },
-      {
-       "title": "Marianne Zwagerman: in de Kamer op kosten van de belastingbetaler je afkeer van Shell uitventen",
-       "url": "https://www.telegraaf.nl/opinie/marianne-zwagerman-in-de-kamer-op-kosten-van-de-belastingbetaler-je-afkeer-van-shell-uitventen/164132233.html",
-       "source": "de Telegraaf",
-       "published_at": "2026-11-05 16:22"
       }
      ]
     }
    ],
-   "count": 7
+   "count": 4
   },
   {
    "key": "mideast",
@@ -430,7 +407,7 @@
    "note": null,
    "clusters": [
     {
-     "label": "Israel",
+     "label": "Israel · Form",
      "articles": [
       {
        "title": "The blame game: How the US midterm shock is shaping Israel’s race for PM",
@@ -445,16 +422,22 @@
        "published_at": "2026-11-05 18:30"
       },
       {
+       "title": "Israel’s Herzog yet to decide on who should form government as Eisenkot secures significant backing",
+       "url": "https://www.theguardian.com/world/2026/nov/05/herzog-netanyahu-eisenkot-israel-election-decision",
+       "source": "Guardian World",
+       "published_at": "2026-11-05 18:13"
+      },
+      {
+       "title": "Food grown in illegal West Bank settlements being sold in Australia as ‘produce of Israel’",
+       "url": "https://www.theguardian.com/australia-news/2026/nov/04/food-grown-in-settlements-west-bank-sold-in-australia-produce-of-israel-ntwnfb",
+       "source": "Guardian World",
+       "published_at": "2026-11-04 20:00"
+      },
+      {
        "title": "The midterms were a thumping rebuke of the US-Israel relationship",
        "url": "https://www.theguardian.com/us-news/2026/nov/04/israel-relationship-midterm-elections",
        "source": "Guardian World",
        "published_at": "2026-11-04 19:22"
-      },
-      {
-       "title": "Israel’s election commission rejects Netanyahu claims of voting fraud",
-       "url": "https://www.theguardian.com/world/2026/nov/04/israel-election-commission-rejects-netanyahu-claims-voting-fraud",
-       "source": "Guardian World",
-       "published_at": "2026-11-04 12:19"
       }
      ]
     },
@@ -462,28 +445,39 @@
      "label": "Iran · Trump",
      "articles": [
       {
+       "title": "Iran war live: Trump warns US may have to ‘destroy’ rest of Iran",
+       "url": "https://www.aljazeera.com/news/liveblog/2026/11/6/iran-war-live-trump-warns-us-may-have-to-destroy-rest-of-iran?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-11-06 00:00"
+      },
+      {
        "title": "Iran says tankers struck in Hormuz amid fears of new US attack",
        "url": "https://www.aljazeera.com/news/2026/11/5/iran-says-tankers-struck-in-hormuz-amid-fears-of-new-us-attack?traffic_source=rss",
        "source": "Al Jazeera",
        "published_at": "2026-11-05 18:47"
       },
       {
-       "title": "Can Iran’s new supreme leader make peace from behind the scenes?",
-       "url": "https://www.aljazeera.com/opinions/2026/11/5/can-irans-new-supreme-leader-make-peace-from-behind-the-scenes?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-11-05 14:45"
-      },
-      {
        "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
        "url": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
        "source": "BBC World",
        "published_at": "2026-11-05 03:47"
+      }
+     ]
+    },
+    {
+     "label": "Israeli",
+     "articles": [
+      {
+       "title": "Israeli settlers set fire to Palestinian olive grove near Ramallah",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/israeli-settlers-set-fire-to-palestinian-olive-grove-near-ramallah?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-11-06 00:19"
       },
       {
-       "title": "Iran unveils ‘We will kill Trump’ banner – but US president may now be tempted to resume bombing",
-       "url": "https://www.theguardian.com/us-news/2026/nov/04/joy-iran-trump-defeat-us-midterm-elections-war",
-       "source": "Guardian World",
-       "published_at": "2026-11-04 14:07"
+       "title": "Israeli demolitions displace more than 100 Palestinians in Biddu",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/aje-onl-nf_israeli-demolitions-displace-palestinians-in-biddu-051126?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-11-05 21:33"
       }
      ]
     },
@@ -495,18 +489,6 @@
        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/melania-trump-hosts-russia-ukraine-meeting-after-oleshky-ceasefire?traffic_source=rss",
        "source": "Al Jazeera",
        "published_at": "2026-11-05 20:43"
-      },
-      {
-       "title": "Herzog to meet Israeli election rivals as decision nears on path to power",
-       "url": "https://www.theguardian.com/world/2026/nov/05/herzog-netanyahu-eisenkot-israel-election-decision",
-       "source": "Guardian World",
-       "published_at": "2026-11-05 18:13"
-      },
-      {
-       "title": "Gaza holds final of tournament honouring more than 1,000 slain athletes",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/gaza-holds-final-of-tournament-honouring-more-than-1000-slain-athletes?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-11-05 16:46"
       },
       {
        "title": "Yemen’s president sacks ministers and officers in attempt to turn tide of war",
@@ -526,8 +508,20 @@
    "note": null,
    "clusters": [
     {
-     "label": "Ukraine · Trump",
+     "label": "Ukraine · Zelensky",
      "articles": [
+      {
+       "title": "Ukraine needs to consolidate 'bipartisan support' in US following midterm elections, Zelensky says",
+       "url": "https://kyivindependent.com/ukraine-needs-to-consolidate-bipartisan-support-in-us-following-midterm-elections-zelensky-says/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-11-06 00:15"
+      },
+      {
+       "title": "Spain to provide Ukraine $490 million in military aid, Zelensky says",
+       "url": "https://kyivindependent.com/spain-to-provide-ukraine-490-million-in-military-aid-zelensky-says/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-11-05 22:21"
+      },
       {
        "title": "Canadian service member faces court-martial for sharing sensitive information with Ukraine",
        "url": "https://kyivindependent.com/canadian-service-member-to-face-court-martial-for-sharing-sensitive-information-with-ukraine/",
@@ -545,6 +539,17 @@
        "url": "https://www.aljazeera.com/news/2026/11/5/melania-trump-calls-for-peace-at-meeting-with-russia-ukraine-officials?traffic_source=rss",
        "source": "Al Jazeera",
        "published_at": "2026-11-05 19:31"
+      }
+     ]
+    },
+    {
+     "label": "Russian · Melania",
+     "articles": [
+      {
+       "title": "Trump met Russian envoy after he appeared with Melania Trump and Ukrainians",
+       "url": "https://www.aljazeera.com/news/2026/11/6/trump-met-russian-envoy-after-he-appeared-with-melania-trump-and-ukrainians?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-11-06 00:06"
       },
       {
        "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
@@ -557,29 +562,7 @@
        "url": "https://kyivindependent.com/ukraine-war-latest-kyiv-water-supply-disrupted-after-power-fluctuations-due-to-russian-attacks/",
        "source": "Kyiv Independent",
        "published_at": "2026-11-05 19:07"
-      }
-     ]
-    },
-    {
-     "label": "Trump · Ukraine",
-     "articles": [
-      {
-       "title": "Ukraine, Russia share stage at Melania Trump's event, only Kyiv calls for more Oleshky-style missions",
-       "url": "https://kyivindependent.com/ukraine-russia-share-stage-at-melania-trumps-event-only-kyiv-calls-for-more-oleshky-style-missions/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-11-05 18:05"
       },
-      {
-       "title": "Inside Republican watch parties, some blame midterm failure on Trump's unkept promises — including Ukraine",
-       "url": "https://kyivindependent.com/inside-washington-watch-parties-republicans-blame-midterm-losses-on-trumps-unkept-promises-including-ukraine/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-11-05 14:49"
-      }
-     ]
-    },
-    {
-     "label": "Russian",
-     "articles": [
       {
        "title": "Pro-Russian Latvian moves to Russia, gets forcibly conscripted into the Russian army",
        "url": "https://kyivindependent.com/pro-russian-latvian-moves-to-russia-gets-forcibly-conscripted-into-the-russian-army/",
@@ -604,16 +587,10 @@
        "published_at": "2026-11-05 18:42"
       },
       {
-       "title": "Senior Ukrainian law enforcement officials charged in sprawling scam call centers case",
-       "url": "https://kyivindependent.com/senior-ukrainian-law-enforcement-officials-charged-in-sprawling-scam-call-center-case/",
+       "title": "Ukraine, Russia share stage at Melania Trump's event, only Kyiv calls for more Oleshky-style missions",
+       "url": "https://kyivindependent.com/ukraine-russia-share-stage-at-melania-trumps-event-only-kyiv-calls-for-more-oleshky-style-missions/",
        "source": "Kyiv Independent",
-       "published_at": "2026-11-05 17:30"
-      },
-      {
-       "title": "Police, SBU identify 130 people potentially involved in clashes near National Guard facility in Kyiv Oblast",
-       "url": "https://kyivindependent.com/police-sbu-identify-130-people-potentially-involved-in-clashes-near-national-guard-facility-in-kyiv-oblast/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-11-05 15:34"
+       "published_at": "2026-11-05 18:05"
       }
      ]
     }
