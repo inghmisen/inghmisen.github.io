@@ -1,12 +1,12 @@
 {
- "date": "Saturday 14 November 2026",
- "generated_at": "20:36 UTC",
+ "date": "Sunday 15 November 2026",
+ "generated_at": "00:54 UTC",
  "error": null,
- "total_stories": 74,
+ "total_stories": 72,
  "fx": {
   "pair": "EUR/MAD",
-  "rate": 10.959,
-  "change_pct": 0.0
+  "rate": 10.954,
+  "change_pct": -0.05
  },
  "lanes": [
   {
@@ -16,13 +16,30 @@
    "note": null,
    "clusters": [
     {
-     "label": "Open",
+     "label": "Finally",
      "articles": [
       {
-       "title": "tiny-voca: a fully open 4.5M-parameter TTS (code, weights, dataset). Runs 70x real time on a CPU",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xw7zrg/tinyvoca_a_fully_open_45mparameter_tts_code/",
+       "title": "Finally clicked for me: local AI is the future, not cloud AI",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwf8bb/finally_clicked_for_me_local_ai_is_the_future_not/",
        "source": "r/LocalLLaMA",
-       "published_at": "2026-11-14 17:26"
+       "published_at": "2026-11-14 22:32"
+      },
+      {
+       "title": "Ai Rig finally done and stable, perfect winter heater",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwc3m7/ai_rig_finally_done_and_stable_perfect_winter/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-11-14 20:13"
+      }
+     ]
+    },
+    {
+     "label": "Models",
+     "articles": [
+      {
+       "title": "Hot take: frontier models haven’t actually become much smarter",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwegdi/hot_take_frontier_models_havent_actually_become/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-11-14 21:57"
       },
       {
        "title": "Why don’t we have national open AI models?",
@@ -33,53 +50,19 @@
      ]
     },
     {
-     "label": "Who",
+     "label": "Deepseek",
      "articles": [
       {
-       "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
-       "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
-       "source": "Verge AI",
-       "published_at": "2026-11-14 15:00"
+       "title": "Update: tandem.cpp — DeepSeek-V4.1 on a 64 GB PC with a 16 GB card, and AMD (ROCm) support",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwan2j/update_tandemcpp_deepseekv41_on_a_64_gb_pc_with_a/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-11-14 19:12"
       },
       {
-       "title": "The lawyer who posts here about his V100s got his story picked up by Tom’s Hardware",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xw2ogq/the_lawyer_who_posts_here_about_his_v100s_got_his/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-11-14 13:41"
-      }
-     ]
-    },
-    {
-     "label": "Dgx",
-     "articles": [
-      {
-       "title": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
-       "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
+       "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+       "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
        "source": "Hacker News",
-       "published_at": "2026-11-14 14:09"
-      },
-      {
-       "title": "I know it’s very expensive but is anyone using a dgx station b300 ? Is it that good for local llms ?",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xw2ter/i_know_its_very_expensive_but_is_anyone_using_a/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-11-14 13:47"
-      }
-     ]
-    },
-    {
-     "label": "Qwen",
-     "articles": [
-      {
-       "title": "Qwen4 Flash wishlist",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xw36op/qwen4_flash_wishlist/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-11-14 14:04"
-      },
-      {
-       "title": "tencent/Qwen3.8-27B-DSpine-b16 · 271 ♥",
-       "url": "https://huggingface.co/tencent/Qwen3.8-27B-DSpine-b16",
-       "source": "HF new models",
-       "published_at": "2026-11-07 14:20"
+       "published_at": "2026-11-14 15:04"
       }
      ]
     },
@@ -87,16 +70,10 @@
      "label": "More headlines",
      "articles": [
       {
-       "title": "Ai Rig finally done and stable, perfect winter heater",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwc3m7/ai_rig_finally_done_and_stable_perfect_winter/",
+       "title": "LFM2.5-24B-A2B + Hermes is awesome!",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwgiow/lfm2524ba2b_hermes_is_awesome/",
        "source": "r/LocalLLaMA",
-       "published_at": "2026-11-14 20:13"
-      },
-      {
-       "title": "Update: tandem.cpp — DeepSeek-V4.1 on a 64 GB PC with a 16 GB card, and AMD (ROCm) support",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwan2j/update_tandemcpp_deepseekv41_on_a_64_gb_pc_with_a/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-11-14 19:12"
+       "published_at": "2026-11-14 23:31"
       },
       {
        "title": "nex-agi/Nex-N2.6 · Hugging Face",
@@ -105,10 +82,10 @@
        "published_at": "2026-11-14 18:31"
       },
       {
-       "title": "Jensen thought he saved the world, 3 weeks later he resigned",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xw9fsu/jensen_thought_he_saved_the_world_3_weeks_later/",
+       "title": "tiny-voca: a fully open 4.5M-parameter TTS (code, weights, dataset). Runs 70x real time on a CPU",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xw7zrg/tinyvoca_a_fully_open_45mparameter_tts_code/",
        "source": "r/LocalLLaMA",
-       "published_at": "2026-11-14 18:24"
+       "published_at": "2026-11-14 17:26"
       },
       {
        "title": "After medusa halo we get siren halo",
@@ -117,31 +94,49 @@
        "published_at": "2026-11-14 17:02"
       },
       {
-       "title": "Zyphra/ZONOS3-Mini · 338 ♥",
+       "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+       "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+       "source": "Verge AI",
+       "published_at": "2026-11-14 15:00"
+      },
+      {
+       "title": "Qwen4 Flash wishlist",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xw36op/qwen4_flash_wishlist/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-11-14 14:04"
+      },
+      {
+       "title": "Edge0/Edge0-145B-NVFP4 · 259 ♥",
+       "url": "https://huggingface.co/Edge0/Edge0-145B-NVFP4",
+       "source": "HF new models",
+       "published_at": "2026-11-11 05:22"
+      },
+      {
+       "title": "Zyphra/ZONOS3-Mini · 345 ♥",
        "url": "https://huggingface.co/Zyphra/ZONOS3-Mini",
        "source": "HF new models",
        "published_at": "2026-11-09 05:03"
       },
       {
-       "title": "Comfy-Org/MiniMax-H3-Image · 381 ♥",
+       "title": "Comfy-Org/MiniMax-H3-Image · 385 ♥",
        "url": "https://huggingface.co/Comfy-Org/MiniMax-H3-Image",
        "source": "HF new models",
        "published_at": "2026-11-08 20:37"
       },
       {
-       "title": "mradermacher/gemma-4-31B-it-ARA-heretic-GGUF · 286 ♥",
+       "title": "mradermacher/gemma-4-31B-it-ARA-heretic-GGUF · 288 ♥",
        "url": "https://huggingface.co/mradermacher/gemma-4-31B-it-ARA-heretic-GGUF",
        "source": "HF new models",
        "published_at": "2026-11-07 05:50"
       },
       {
-       "title": "NousResearch/Arete-27B · 588 ♥",
+       "title": "NousResearch/Arete-27B · 592 ♥",
        "url": "https://huggingface.co/NousResearch/Arete-27B",
        "source": "HF new models",
        "published_at": "2026-11-06 19:31"
       },
       {
-       "title": "thinkingmachines/Inkling-2-Small · 309 ♥",
+       "title": "thinkingmachines/Inkling-2-Small · 317 ♥",
        "url": "https://huggingface.co/thinkingmachines/Inkling-2-Small",
        "source": "HF new models",
        "published_at": "2026-11-04 19:51"
@@ -232,19 +227,42 @@
    "note": null,
    "clusters": [
     {
-     "label": "المغاربة",
+     "label": "على",
      "articles": [
       {
-       "title": "رصيف الصحافة: غلاء الأسعار يستنزف جيوب المغاربة ويثير أسئلة المراقبة",
-       "url": "https://www.hespress.com/%d8%b1%d8%b5%d9%8a%d9%81-%d8%a7%d9%84%d8%b5%d8%ad%d8%a7%d9%81%d8%a9-%d8%ba%d9%84%d8%a7%d8%a1-%d8%a7%d9%84%d8%a3%d8%b3%d8%b9%d8%a7%d8%b1-%d9%8a%d8%b3%d8%aa%d9%86%d8%b2%d9%81-%d8%ac%d9%8a%d9%88%d8%a8-1839770.html",
+       "title": "الوزير شهيد يرد على وصف \"الكولخوزات\": الجشع الحقيقي عند \"الشناقة\"",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%88%d8%b2%d9%8a%d8%b1-%d8%b4%d9%87%d9%8a%d8%af-%d9%8a%d8%b1%d8%af-%d8%b9%d9%84%d9%89-%d9%88%d8%b5%d9%81-%d8%a7%d9%84%d9%83%d9%88%d9%84%d8%ae%d9%88%d8%b2%d8%a7%d8%aa-%d8%a7%d9%84-1840093.html",
        "source": "Hespress",
-       "published_at": "2026-11-14 19:00"
+       "published_at": "2026-11-14 23:57"
       },
       {
-       "title": "\"فوكس\": تجنيس المغاربة \"احتيال\" .. وضريبة تنتظر تحويلات المهاجرين",
-       "url": "https://www.hespress.com/%d9%81%d9%88%d9%83%d8%b3-%d8%aa%d8%ac%d9%86%d9%8a%d8%b3-%d8%a7%d9%84%d9%85%d8%ba%d8%a7%d8%b1%d8%a8%d8%a9-%d8%a7%d8%ad%d8%aa%d9%8a%d8%a7%d9%84-%d9%88%d8%b6%d8%b1%d9%8a%d8%a8%d8%a9-%d8%aa-1839708.html",
+       "title": "الصين تراهن على \"القهوة الناعمة\" لإغراء المستهلك الأمريكي",
+       "url": "https://www.hespress.com/%d8%b3%d9%84%d8%a7%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d9%82%d8%a7%d9%87%d9%8a-%d8%a7%d9%84%d8%b5%d9%8a%d9%86%d9%8a%d8%a9-%d8%aa%d8%aa%d9%88%d8%b3%d8%b9-%d8%a8%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d8%a7-1839865.html",
        "source": "Hespress",
-       "published_at": "2026-11-14 17:59"
+       "published_at": "2026-11-14 23:23"
+      },
+      {
+       "title": "مجلس النواب يصادق بالأغلبية على مشروع قانون المالية لسنة 2027",
+       "url": "https://www.hespress.com/%d9%85%d8%ac%d9%84%d8%b3-%d8%a7%d9%84%d9%86%d9%88%d8%a7%d8%a8-%d9%8a%d8%b5%d8%a7%d8%af%d9%82-%d8%a8%d8%a7%d9%84%d8%a3%d8%ba%d9%84%d8%a8%d9%8a%d8%a9-%d8%b9%d9%84%d9%89-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-5-1840061.html",
+       "source": "Hespress",
+       "published_at": "2026-11-14 22:13"
+      }
+     ]
+    },
+    {
+     "label": "إلى",
+     "articles": [
+      {
+       "title": "هبوط حاد يضرب سعر \"بيتكوين\" ويعيد القلق إلى أسواق العملات المشفرة",
+       "url": "https://www.hespress.com/%d9%87%d8%a8%d9%88%d8%b7-%d8%ad%d8%a7%d8%af-%d9%8a%d8%b6%d8%b1%d8%a8-%d8%b3%d8%b9%d8%b1-%d8%a8%d9%8a%d8%aa%d9%83%d9%88%d9%8a%d9%86-%d9%88%d9%8a%d8%b9%d9%8a%d8%af-%d8%a7%d9%84%d9%82%d9%84%d9%82-1840074.html",
+       "source": "Hespress",
+       "published_at": "2026-11-14 23:00"
+      },
+      {
+       "title": "إصغاء إلى نبض المحاريب",
+       "url": "https://www.hespress.com/%d8%a5%d8%b5%d8%ba%d8%a7%d8%a1-%d8%a5%d9%84%d9%89-%d9%86%d8%a8%d8%b6-%d8%a7%d9%84%d9%85%d8%ad%d8%a7%d8%b1%d9%8a%d8%a8-1839964.html",
+       "source": "Hespress",
+       "published_at": "2026-11-14 22:14"
       }
      ]
     },
@@ -252,64 +270,46 @@
      "label": "More headlines",
      "articles": [
       {
-       "title": "جبهة القوى تطالب بحماية القدرة الشرائية",
-       "url": "https://www.hespress.com/%d8%ac%d8%a8%d9%87%d8%a9-%d8%a7%d9%84%d9%82%d9%88%d9%89-%d8%aa%d8%b7%d8%a7%d9%84%d8%a8-%d8%a8%d8%ad%d9%85%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84%d9%82%d8%af%d8%b1%d8%a9-%d8%a7%d9%84%d8%b4%d8%b1%d8%a7%d8%a6-1839915.html",
+       "title": "البرازيل تسجل أول وفاة بفيروس \"مبوكس\"",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%a8%d8%b1%d8%a7%d8%b2%d9%8a%d9%84-%d8%aa%d8%b3%d8%ac%d9%84-%d8%a3%d9%88%d9%84-%d9%88%d9%81%d8%a7%d8%a9-%d8%a8%d9%81%d9%8a%d8%b1%d9%88%d8%b3-%d9%85%d8%a8%d9%88%d9%83%d8%b3-1840070.html",
        "source": "Hespress",
-       "published_at": "2026-11-14 20:13"
+       "published_at": "2026-11-15 00:23"
       },
       {
-       "title": "رسمة \"أطفال الحروب\" تتوج بوعلي بجائزة مهرجان الكاريكاتير في أكادير",
-       "url": "https://www.hespress.com/%d8%b1%d8%b3%d9%85%d8%a9-%d8%a3%d8%b7%d9%81%d8%a7%d9%84-%d8%a7%d9%84%d8%ad%d8%b1%d9%88%d8%a8-%d8%aa%d8%aa%d9%88%d8%ac-%d8%a8%d9%88%d8%b9%d9%84%d9%8a-%d8%a8%d8%ac%d8%a7%d8%a6%d8%b2%d8%a9-%d9%85-1839884.html",
+       "title": "أكادير تحتضن قمة خريجي البرامج الأمريكية",
+       "url": "https://www.hespress.com/%d8%a3%d9%83%d8%a7%d8%af%d9%8a%d8%b1-%d8%aa%d8%ad%d8%aa%d8%b6%d9%86-%d9%82%d9%85%d8%a9-%d8%ae%d8%b1%d9%8a%d8%ac%d9%8a-%d8%a7%d9%84%d8%a8%d8%b1%d8%a7%d9%85%d8%ac-%d8%a7%d9%84%d8%a3%d9%85%d8%b1%d9%8a-1840134.html",
        "source": "Hespress",
-       "published_at": "2026-11-14 20:00"
+       "published_at": "2026-11-15 00:03"
       },
       {
-       "title": "براء جروندي يقود الطاقم التقني للتطواني",
-       "url": "https://www.hespress.com/%d8%a8%d8%b1%d8%a7%d8%a1-%d8%ac%d8%b1%d9%88%d9%86%d8%af%d9%8a-%d9%8a%d9%82%d9%88%d8%af-%d8%a7%d9%84%d8%b7%d8%a7%d9%82%d9%85-%d8%a7%d9%84%d8%aa%d9%82%d9%86%d9%8a-%d9%84%d9%84%d8%aa%d8%b7%d9%88%d8%a7-1839896.html",
+       "title": "حفل بطنجة يتوج \"القصاصين الشباب\"",
+       "url": "https://www.hespress.com/%d8%ad%d9%81%d9%84-%d8%a8%d8%b7%d9%86%d8%ac%d8%a9-%d9%8a%d8%aa%d9%88%d8%ac-%d8%a7%d9%84%d9%82%d8%b5%d8%a7%d8%b5%d9%8a%d9%86-%d8%a7%d9%84%d8%b4%d8%a8%d8%a7%d8%a8-1840098.html",
        "source": "Hespress",
-       "published_at": "2026-11-14 19:22"
+       "published_at": "2026-11-14 23:21"
       },
       {
-       "title": "الأمن يوضح ملابسات فيديو الخميسات",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%a3%d9%85%d9%86-%d9%8a%d9%88%d8%b6%d8%ad-%d9%85%d9%84%d8%a7%d8%a8%d8%b3%d8%a7%d8%aa-%d9%81%d9%8a%d8%af%d9%8a%d9%88-%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3%d8%a7%d8%aa-1839889.html",
+       "title": "شجاعة بناء الوطن",
+       "url": "https://www.hespress.com/%d8%b4%d8%ac%d8%a7%d8%b9%d8%a9-%d8%a8%d9%86%d8%a7%d8%a1-%d8%a7%d9%84%d9%88%d8%b7%d9%86-1839946.html",
        "source": "Hespress",
-       "published_at": "2026-11-14 19:07"
+       "published_at": "2026-11-14 23:12"
       },
       {
-       "title": "مصرع شخص إثر خلاف قبلي بطرفاية",
-       "url": "https://www.hespress.com/%d9%85%d8%b5%d8%b1%d8%b9-%d8%b4%d8%ae%d8%b5-%d8%a5%d8%ab%d8%b1-%d8%ae%d9%84%d8%a7%d9%81-%d9%82%d8%a8%d9%84%d9%8a-%d8%a8%d8%b7%d8%b1%d9%81%d8%a7%d9%8a%d8%a9-1839881.html",
+       "title": "طاميم وأخواتها",
+       "url": "https://www.hespress.com/%d8%b7%d8%a7%d9%85%d9%8a%d9%85-%d9%88%d8%a3%d8%ae%d9%88%d8%a7%d8%aa%d9%87%d8%a7-1839957.html",
        "source": "Hespress",
-       "published_at": "2026-11-14 18:52"
+       "published_at": "2026-11-14 23:04"
       },
       {
-       "title": "بونو في نادي المائة",
-       "url": "https://www.hespress.com/%d8%a8%d9%88%d9%86%d9%88-%d9%81%d9%8a-%d9%86%d8%a7%d8%af%d9%8a-%d8%a7%d9%84%d9%85%d8%a7%d8%a6%d8%a9-1839728.html",
+       "title": "تصنيف \"الفيفا\" يضع المغرب خامسا",
+       "url": "https://www.hespress.com/%d8%aa%d8%b5%d9%86%d9%8a%d9%81-%d8%a7%d9%84%d9%81%d9%8a%d9%81%d8%a7-%d9%8a%d8%b6%d8%b9-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d8%ae%d8%a7%d9%85%d8%b3%d8%a7-1840084.html",
        "source": "Hespress",
-       "published_at": "2026-11-14 18:32"
+       "published_at": "2026-11-14 23:03"
       },
       {
-       "title": "إيطاليا تغرم \"ميتا\" 805 ملايين يورو",
-       "url": "https://www.hespress.com/%d8%a5%d9%8a%d8%b7%d8%a7%d9%84%d9%8a%d8%a7-%d8%aa%d8%ba%d8%b1%d9%85-%d9%85%d9%8a%d8%aa%d8%a7-805-%d9%85%d9%84%d8%a7%d9%8a%d9%8a%d9%86-%d9%8a%d9%88%d8%b1%d9%88-1839874.html",
+       "title": "مقتل قيادي بـ\"حماس\" في غارة إسرائيلية",
+       "url": "https://www.hespress.com/%d9%85%d9%82%d8%aa%d9%84-%d9%82%d9%8a%d8%a7%d8%af%d9%8a-%d8%a8%d9%80%d8%ad%d9%85%d8%a7%d8%b3-%d9%81%d9%8a-%d8%ba%d8%a7%d8%b1%d8%a9-%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84%d9%8a%d8%a9-1840077.html",
        "source": "Hespress",
-       "published_at": "2026-11-14 18:18"
-      },
-      {
-       "title": "زخم احتجاجات فرنسا يتراجع للأسبوع الثاني",
-       "url": "https://www.hespress.com/%d8%a7%d8%ad%d8%aa%d8%ac%d8%a7%d8%ac%d8%a7%d8%aa-%d9%81%d8%b1%d9%86%d8%b3%d8%a7-%d8%aa%d8%aa%d8%b1%d8%a7%d8%ac%d8%b9-%d9%84%d9%84%d8%a3%d8%b3%d8%a8%d9%88%d8%b9-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-1839835.html",
-       "source": "Hespress",
-       "published_at": "2026-11-14 17:37"
-      },
-      {
-       "title": "لقجع وأسعار المحروقات",
-       "url": "https://www.hespress.com/%d9%84%d9%82%d8%ac%d8%b9-%d9%88%d8%a3%d8%b3%d8%b9%d8%a7%d8%b1-%d8%a7%d9%84%d9%85%d8%ad%d8%b1%d9%88%d9%82%d8%a7%d8%aa-1839845.html",
-       "source": "Hespress",
-       "published_at": "2026-11-14 17:11"
-      },
-      {
-       "title": "إلغاء أكثر من 16 ألف رحلة جوية بأمريكا",
-       "url": "https://www.hespress.com/%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d8%a7-%d8%aa%d8%b3%d8%ac%d9%84-%d8%a5%d9%84%d8%ba%d8%a7%d8%a1-16-%d8%a3%d9%84%d9%81-%d8%b1%d8%ad%d9%84%d8%a9-%d8%ac%d9%88%d9%8a%d8%a9-1839824.html",
-       "source": "Hespress",
-       "published_at": "2026-11-14 17:01"
+       "published_at": "2026-11-14 22:39"
       },
       {
        "title": "Akdital Hospitals Makkah : mise en service sous la bannière de Rochdi Talib",
@@ -359,7 +359,7 @@
    "note": null,
    "clusters": [
     {
-     "label": "Verder · Coalitie",
+     "label": "Top · Coalitie",
      "articles": [
       {
        "title": "Top coalitie praat zondag verder op landgoed over kabinetscrisis",
@@ -389,23 +389,11 @@
        "url": "https://www.telegraaf.nl/politiek/schone-schijn-premier-rob-jetten-vecht-beschadigd-voor-voortbestaan-kabinet/164534390.html",
        "source": "de Telegraaf",
        "published_at": "2026-11-14 14:50"
-      },
-      {
-       "title": "Extra uitzending Pauw & de Wit vanwege coalitiecrisis",
-       "url": "https://www.telegraaf.nl/entertainment/media/extra-uitzending-pauw-de-wit-vanwege-coalitiecrisis/164556363.html",
-       "source": "de Telegraaf",
-       "published_at": "2026-11-14 13:44"
-      },
-      {
-       "title": "Duitse productie van zonne-energie bereikt recordniveau",
-       "url": "https://www.nu.nl/klimaat/6416579/duitse-productie-van-zonne-energie-bereikt-recordniveau.html",
-       "source": "NU.nl",
-       "published_at": "2026-11-14 12:26"
       }
      ]
     }
    ],
-   "count": 6
+   "count": 4
   },
   {
    "key": "mideast",
@@ -414,14 +402,54 @@
    "note": null,
    "clusters": [
     {
-     "label": "Iran",
+     "label": "Israel · Gaza",
      "articles": [
       {
-       "title": "How does Iran view shift in US approach after JD Vance ordered away?",
-       "url": "https://www.aljazeera.com/news/2026/11/14/how-does-iran-view-shift-in-us-approach-after-vance-ordered-away?traffic_source=rss",
+       "title": "Iran war live: Israel vows Gaza ‘offensive policy’ despite caretaker status",
+       "url": "https://www.aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status?traffic_source=rss",
        "source": "Al Jazeera",
-       "published_at": "2026-11-14 13:24"
+       "published_at": "2026-11-15 00:00"
       },
+      {
+       "title": "Netanyahu says only a unity government can guarantee Israel’s security",
+       "url": "https://www.aljazeera.com/news/2026/11/14/netanyahu-says-only-a-unity-government-can-guarantee-israels-security?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-11-14 23:01"
+      },
+      {
+       "title": "Eisenkot condemns Netanyahu’s ‘racist’ campaign against Israel’s Arab citizens",
+       "url": "https://www.theguardian.com/world/2026/nov/13/eisenkot-accuses-netanyahu-of-racist-campaign-against-israels-arab-minority",
+       "source": "Guardian World",
+       "published_at": "2026-11-14 11:11"
+      },
+      {
+       "title": "Lewis Hamilton says ‘Israel’s genocide in Gaza is appalling’ after Rafah visit",
+       "url": "https://www.theguardian.com/sport/2026/nov/12/lewis-hamilton-gaza-visit-rafah-israel",
+       "source": "Guardian World",
+       "published_at": "2026-11-12 18:00"
+      }
+     ]
+    },
+    {
+     "label": "Gaza",
+     "articles": [
+      {
+       "title": "EU calls for immediate humanitarian access to Gaza",
+       "url": "https://www.aljazeera.com/news/2026/11/14/eu-calls-for-immediate-humanitarian-access-to-gaza?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-11-14 15:57"
+      },
+      {
+       "title": "Lewis Hamilton visits Egypt’s Rafah crossing and Gaza aid facilities",
+       "url": "https://www.theguardian.com/world/2026/nov/10/lewis-hamilton-egypt-rafah-crossing-gaza-aid-facilities",
+       "source": "Guardian World",
+       "published_at": "2026-11-10 15:39"
+      }
+     ]
+    },
+    {
+     "label": "Iran",
+     "articles": [
       {
        "title": "Iran says it targeted US military radar in Bahrain in retaliatory strike",
        "url": "https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz",
@@ -443,48 +471,13 @@
      ]
     },
     {
-     "label": "Gaza · Lewis",
-     "articles": [
-      {
-       "title": "EU calls for immediate humanitarian access to Gaza",
-       "url": "https://www.aljazeera.com/news/2026/11/14/eu-calls-for-immediate-humanitarian-access-to-gaza?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-11-14 15:57"
-      },
-      {
-       "title": "Lewis Hamilton says ‘Israel’s genocide in Gaza is appalling’ after Rafah visit",
-       "url": "https://www.theguardian.com/sport/2026/nov/12/lewis-hamilton-gaza-visit-rafah-israel",
-       "source": "Guardian World",
-       "published_at": "2026-11-12 18:00"
-      },
-      {
-       "title": "Lewis Hamilton visits Egypt’s Rafah crossing and Gaza aid facilities",
-       "url": "https://www.theguardian.com/world/2026/nov/10/lewis-hamilton-egypt-rafah-crossing-gaza-aid-facilities",
-       "source": "Guardian World",
-       "published_at": "2026-11-10 15:39"
-      }
-     ]
-    },
-    {
      "label": "More headlines",
      "articles": [
-      {
-       "title": "Jerusalem Daily: Israeli forces occupy Palestinian-American’s home",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/jerusalem-daily-israeli-forces-occupy-palestinian-americans-home?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-11-14 15:36"
-      },
       {
        "title": "How a US extradition bid over Hamas allegations put a wealthy activist before a Spanish court",
        "url": "https://www.theguardian.com/us-news/2026/nov/14/activist-extradition-gaza-hamas-spanish-court",
        "source": "Guardian World",
        "published_at": "2026-11-14 15:00"
-      },
-      {
-       "title": "Eisenkot condemns Netanyahu’s ‘racist’ campaign against Israel’s Arab citizens",
-       "url": "https://www.theguardian.com/world/2026/nov/13/eisenkot-accuses-netanyahu-of-racist-campaign-against-israels-arab-minority",
-       "source": "Guardian World",
-       "published_at": "2026-11-14 11:11"
       }
      ]
     }
@@ -498,13 +491,25 @@
    "note": null,
    "clusters": [
     {
-     "label": "Ukraine · Donbas",
+     "label": "Ukraine · Russia",
      "articles": [
       {
        "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
        "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
        "source": "BBC World",
-       "published_at": "2026-11-14 19:21"
+       "published_at": "2026-11-14 22:37"
+      },
+      {
+       "title": "US now focused on 'facilitating direct engagement' between Russia, Europe, Kushner says after Ukraine peace talks",
+       "url": "https://kyivindependent.com/us-now-focused-on-facilitating-direct-engagement-between-russia-europe-kushner-says-after-ukraine-peace-talks/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-11-14 21:58"
+      },
+      {
+       "title": "US envoy Kushner says he aims to broker Europe-Russia talks on Ukraine",
+       "url": "https://www.aljazeera.com/news/2026/11/14/us-envoy-kushner-says-he-aims-to-broker-europe-russia-talks-on-ukraine?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-11-14 21:10"
       },
       {
        "title": "US suggested Ukraine cede parts of Donbas to Russia to become part of NATO",
@@ -517,18 +522,6 @@
        "url": "https://kyivindependent.com/ukraine-hits-key-russian-oil-hub-military-airbase-in-latest-long-range-strikes/",
        "source": "Kyiv Independent",
        "published_at": "2026-11-14 13:29"
-      },
-      {
-       "title": "Russian casualties ‘reach 450,000’: What that means for the Ukraine war",
-       "url": "https://www.aljazeera.com/news/2026/11/14/russian-casualties-reach-450000-what-that-means-for-the-ukraine-war?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-11-14 12:57"
-      },
-      {
-       "title": "US floats NATO membership for Ukraine in exchange for Donbas withdrawal, Zelensky says",
-       "url": "https://kyivindependent.com/us-floats-nato-membership-for-ukraine-in-exchange-for-donbas-withdrawal-zelensky-says/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-11-14 11:11"
       }
      ]
     },
@@ -552,6 +545,12 @@
        "url": "https://kyivindependent.com/zelensky-says-starshield-restrictions-give-russia-more-room-to-attack-accuses-spacex-of-treating-occupied-territories-as-not-ours/",
        "source": "Kyiv Independent",
        "published_at": "2026-11-14 12:30"
+      },
+      {
+       "title": "US floats NATO membership for Ukraine in exchange for Donbas withdrawal, Zelensky says",
+       "url": "https://kyivindependent.com/us-floats-nato-membership-for-ukraine-in-exchange-for-donbas-withdrawal-zelensky-says/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-11-14 11:11"
       }
      ]
     },
@@ -559,7 +558,13 @@
      "label": "More headlines",
      "articles": [
       {
-       "title": "Art ‘must not be sacrificed on the altar of corporate profit’ Liberal senator says as AI policy debate rages",
+       "title": "Tsikhanouskaya ally condemns Belarusian athlete for insulting Ukrainian opponent, complacency in Russia's war",
+       "url": "https://kyivindependent.com/tsikhanouskaya-ally-condemns-belarusian-athlete-for-insulting-ukrainian-opponent-complacency-in-russias-war/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-11-14 20:56"
+      },
+      {
+       "title": "Art ‘must not be sacrificed on the altar of corporate profit’, Liberal senator says as AI policy debate rages",
        "url": "https://www.theguardian.com/australia-news/2026/nov/15/art-over-profit-ai-policy-debate-andrew-mclachlan",
        "source": "Guardian World",
        "published_at": "2026-11-14 19:00"
@@ -569,18 +574,6 @@
        "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
        "source": "BBC World",
        "published_at": "2026-11-14 15:53"
-      },
-      {
-       "title": "At least 7 killed, 80 injured in Russian attacks across Ukraine; Zaporizhzhia among worst hit",
-       "url": "https://kyivindependent.com/at-least-7-killed-80-injured-in-russian-attacks-across-ukraine-zaporizhzhia-among-worst-hit/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-11-14 10:43"
-      },
-      {
-       "title": "General Staff: Russia has lost 1,620,630 troops in Ukraine since Feb. 24, 2022",
-       "url": "https://kyivindependent.com/general-staff-russia-has-lost-1-620-630-troops-in-ukraine-since-feb-24-2022/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-11-14 07:42"
       }
      ]
     }
