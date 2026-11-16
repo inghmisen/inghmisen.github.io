@@ -1,12 +1,12 @@
 {
  "date": "Monday 16 November 2026",
- "generated_at": "00:52 UTC",
+ "generated_at": "07:46 UTC",
  "error": null,
  "total_stories": 78,
  "fx": {
   "pair": "EUR/MAD",
   "rate": 10.955,
-  "change_pct": 0.01
+  "change_pct": 0.0
  },
  "lanes": [
   {
@@ -15,6 +15,46 @@
    "icon": "🤖",
    "note": null,
    "clusters": [
+    {
+     "label": "Qwen",
+     "articles": [
+      {
+       "title": "New AA ranking Qwen3.8-FN better than GLM-5.3-Flash?",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xxibeh/new_aa_ranking_qwen38fn_better_than_glm53flash/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-11-16 06:32"
+      },
+      {
+       "title": "[Release] Qwen3.8-27B-Perplexing-Pegasus-Heretic: Unified vision + typed decider + abliterated weights for local agent stacks (GGUF, AutoRound, NVFP4)",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xxg12n/release_qwen3827bperplexingpegasusheretic_unified/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-11-16 04:22"
+      },
+      {
+       "title": "Qwen4-Max",
+       "url": "https://qwen.ai/blog?id=qwen4-max",
+       "source": "Hacker News",
+       "published_at": "2026-11-16 02:14"
+      }
+     ]
+    },
+    {
+     "label": "Llm",
+     "articles": [
+      {
+       "title": "I'm starting to think a specialized 4B is enough for most of the tasks I'd use an LLM for",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xxfv69/im_starting_to_think_a_specialized_4b_is_enough/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-11-16 04:13"
+      },
+      {
+       "title": "I have created a tool to observe what happens inside an LLM. Also allows for the comparison of two quantizations of the same model to see at what point they diverge, token by token",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xx7qbf/i_have_created_a_tool_to_observe_what_happens/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-11-15 21:46"
+      }
+     ]
+    },
     {
      "label": "Models",
      "articles": [
@@ -33,30 +73,13 @@
      ]
     },
     {
-     "label": "Model",
-     "articles": [
-      {
-       "title": "I have created a tool to observe what happens inside an LLM. Also allows for the comparison of two quantizations of the same model to see at what point they diverge, token by token",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xx7qbf/i_have_created_a_tool_to_observe_what_happens/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-11-15 21:46"
-      },
-      {
-       "title": "BigMoeOnEdge outperforms Strata and colibri on 8-16 GB cards and Mac and you can run any model",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xx5fng/bigmoeonedge_outperforms_strata_and_colibri_on/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-11-15 20:11"
-      }
-     ]
-    },
-    {
      "label": "More headlines",
      "articles": [
       {
-       "title": "Big labs keep using ideas from r/LocalLLaMA and promoting them as their own",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xxao34/big_labs_keep_using_ideas_from_rlocalllama_and/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-11-15 23:57"
+       "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
+       "url": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+       "source": "Verge AI",
+       "published_at": "2026-11-16 01:26"
       },
       {
        "title": "Someone should do an analysis on the rate of Self-promo here.",
@@ -71,67 +94,49 @@
        "published_at": "2026-11-15 20:50"
       },
       {
+       "title": "BigMoeOnEdge outperforms Strata and colibri on 8-16 GB cards and Mac and you can run any model",
+       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xx5fng/bigmoeonedge_outperforms_strata_and_colibri_on/",
+       "source": "r/LocalLLaMA",
+       "published_at": "2026-11-15 20:11"
+      },
+      {
        "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
        "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
        "source": "Verge AI",
        "published_at": "2026-11-15 19:15"
       },
       {
-       "title": "[audio.cpp] SoulX-FlashHead + LFM3-Audio + OWSM v4 = Real-Time Local Avatar Chat",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xx2vi0/audiocpp_soulxflashhead_lfm3audio_owsm_v4/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-11-15 18:29"
-      },
-      {
-       "title": "1Cat-vLLM vs Strata",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xx1u9y/1catvllm_vs_strata/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-11-15 17:49"
-      },
-      {
-       "title": "Villanova2 - a VillanovaAI Collection",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xx1rbk/villanova2_a_villanovaai_collection/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-11-15 17:46"
-      },
-      {
-       "title": "MoE offload on a 3090: prefill 345 -> 466 t/s by tuning cudaMemcpy (Qwen3.6 35B-A3B)",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xx1owx/moe_offload_on_a_3090_prefill_345_466_ts_by/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-11-15 17:43"
-      },
-      {
-       "title": "higurashi-ai/Haru-4B · 307 ♥",
+       "title": "higurashi-ai/Haru-4B · 333 ♥",
        "url": "https://huggingface.co/higurashi-ai/Haru-4B",
        "source": "HF new models",
        "published_at": "2026-11-12 11:05"
       },
       {
-       "title": "Edge0/Edge0-145B-NVFP4 · 288 ♥",
+       "title": "Edge0/Edge0-145B-NVFP4 · 314 ♥",
        "url": "https://huggingface.co/Edge0/Edge0-145B-NVFP4",
        "source": "HF new models",
        "published_at": "2026-11-11 05:22"
       },
       {
-       "title": "Zyphra/ZONOS3-Mini · 394 ♥",
+       "title": "Zyphra/ZONOS3-Mini · 415 ♥",
        "url": "https://huggingface.co/Zyphra/ZONOS3-Mini",
        "source": "HF new models",
        "published_at": "2026-11-09 05:03"
       },
       {
-       "title": "Comfy-Org/MiniMax-H3-Image · 411 ♥",
+       "title": "Comfy-Org/MiniMax-H3-Image · 424 ♥",
        "url": "https://huggingface.co/Comfy-Org/MiniMax-H3-Image",
        "source": "HF new models",
        "published_at": "2026-11-08 20:37"
       },
       {
-       "title": "NousResearch/Arete-27B · 612 ♥",
+       "title": "NousResearch/Arete-27B · 617 ♥",
        "url": "https://huggingface.co/NousResearch/Arete-27B",
        "source": "HF new models",
        "published_at": "2026-11-06 19:31"
       },
       {
-       "title": "thinkingmachines/Inkling-2-Small · 343 ♥",
+       "title": "thinkingmachines/Inkling-2-Small · 352 ♥",
        "url": "https://huggingface.co/thinkingmachines/Inkling-2-Small",
        "source": "HF new models",
        "published_at": "2026-11-04 19:51"
@@ -148,19 +153,30 @@
    "note": null,
    "clusters": [
     {
-     "label": "",
+     "label": "Nieuwe",
+     "articles": [
+      {
+       "title": "Nieuwe cao: lonen met 3,1 procent omhoog",
+       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRDJFdnFacXJ4RzBKUm5vUkFxVmZYQmpCTGgxRGlVaTNEd3lFY3BwczIxUDBjUTJQdVNOWFNwandGbWU2ZzFqYU4xUGlqSjBzeHRPbkpXVFN5clJjekFua2lvN3AtT1NzOXlMUVlaNWtUR1lEbTczS25fbVkwdnlTYlBaNDc1SmkwelRxQVVNZndUdDNXVi1KeHBVajV6bFNncGh0M2Rtd05QQUdMR1B2Y181WFNRTGt4d2JsYlJpY01fMURwNkE?oc=5",
+       "source": "UToday",
+       "published_at": "2026-06-24 07:00"
+      },
+      {
+       "title": "Nieuwe hulpwijzer sociale veiligheid online",
+       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUks5UG5DX2FNZkFqZ0dvaWxfM3UzempKbkVKOTVELTZMX3liM24xWTdzYnRMV3JQajlTTjVlc0JuMTc0NzIyUzNqVTFXaTJvcEUzVlB4YzR5bHBmWW1RbUxaWk1vd25JeHgxWXd2QTJVRXFoWXgxLUpFR3B0LUtlNlZ3?oc=5",
+       "source": "UToday",
+       "published_at": "2026-05-28 07:00"
+      }
+     ]
+    },
+    {
+     "label": "More headlines",
      "articles": [
       {
        "title": "News",
        "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE5DZjZmWEpidW1jRkVsZXoyMDc0R05HT1Rqd1dSVk5OTFUyWXowWFg0YVkxUDlQX1k5WHVGWlAwVQ?oc=5",
        "source": "UToday",
        "published_at": "2026-11-12 14:55"
-      },
-      {
-       "title": "Als het kabinet valt, wat gebeurt er dan met het hoger onderwijs?",
-       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRjNCRWFheVhiaC1QamdoZzJRLWdpZnlJeG5QTEFhT2kxOWo1dzQ0NHE1dlFrcWNGQnJ4V0p3WWJiaHN4Z0pGQmRzaVFZSlFwRENsaW1rY1hxY3NCR3hiY3prcWZjRmp2dXUzT1gwZEg4dU1wRXlpWV9rNXViZ2xnV0cwVWtZLWhjZkVCWkdxd0d2UnhxWnZ2MmYxNEY?oc=5",
-       "source": "UToday",
-       "published_at": "2026-11-12 14:11"
       },
       {
        "title": "UT-gamewetenschapper over GTA 6: ‘Argusogen bij verdienmodel’",
@@ -193,12 +209,6 @@
        "published_at": "2026-06-25 07:00"
       },
       {
-       "title": "Nieuwe cao: lonen met 3,1 procent omhoog",
-       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRDJFdnFacXJ4RzBKUm5vUkFxVmZYQmpCTGgxRGlVaTNEd3lFY3BwczIxUDBjUTJQdVNOWFNwandGbWU2ZzFqYU4xUGlqSjBzeHRPbkpXVFN5clJjekFua2lvN3AtT1NzOXlMUVlaNWtUR1lEbTczS25fbVkwdnlTYlBaNDc1SmkwelRxQVVNZndUdDNXVi1KeHBVajV6bFNncGh0M2Rtd05QQUdMR1B2Y181WFNRTGt4d2JsYlJpY01fMURwNkE?oc=5",
-       "source": "UToday",
-       "published_at": "2026-06-24 07:00"
-      },
-      {
        "title": "‘Ik leer de geheime zender op vrijdag steeds meer waarderen’",
        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObTUzYnpnSjNzTnlMVU1MSnJuOHduVGRuVUxDWldtaHdHZDR5M0VJOHQyMzhJVFpwekhfVVd0SGtfYXN2NWpfSGhFMk85UTNMZ201SzdxVGhCdExMdUJMYWVJU0hJMC1TTDdzb3V1eS1qbDY1b1FvTGktajRiejJvUnNXR1dWVXZRMEM2S0dGaWUwSDM2cmNSUzVwUF9iMk0?oc=5",
        "source": "UToday",
@@ -222,36 +232,31 @@
    "note": null,
    "clusters": [
     {
-     "label": "الميزانيات",
+     "label": "إلى",
      "articles": [
       {
-       "title": "دعوات لإشراك المواطنين في الميزانيات",
-       "url": "https://www.hespress.com/%d8%af%d8%b9%d9%88%d8%a7%d8%aa-%d9%84%d8%a5%d8%b4%d8%b1%d8%a7%d9%83-%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%b7%d9%86%d9%8a%d9%86-%d9%81%d9%8a-%d8%a7%d9%84%d9%85%d9%8a%d8%b2%d8%a7%d9%86%d9%8a%d8%a7%d8%aa-1840398.html",
+       "title": "البطاطس تتطلع إلى الدعم في العرائش",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%a8%d8%b7%d8%a7%d8%b7%d8%b3-%d8%aa%d8%aa%d8%b7%d9%84%d8%b9-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d8%af%d8%b9%d9%85-%d9%81%d9%8a-%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d8%a6%d8%b4-1840316.html",
        "source": "Hespress",
-       "published_at": "2026-11-16 00:10"
+       "published_at": "2026-11-16 06:45"
       },
       {
-       "title": "رصيف الصحافة: غياب نواب الأغلبية عن مناقشة الميزانيات يغضب الوزراء",
-       "url": "https://www.hespress.com/%d8%b1%d8%b5%d9%8a%d9%81-%d8%a7%d9%84%d8%b5%d8%ad%d8%a7%d9%81%d8%a9-%d8%ba%d9%8a%d8%a7%d8%a8-%d9%86%d9%88%d8%a7%d8%a8-%d8%a7%d9%84%d8%a3%d8%ba%d9%84%d8%a8%d9%8a%d8%a9-%d8%b9%d9%86-%d9%85%d9%86%d8%a7-1840486.html",
+       "title": "تقاعد مفتشي الشغل يدفع الوزارة الوصية إلى محاولة تعزيز الموارد البشرية",
+       "url": "https://www.hespress.com/%d8%aa%d9%82%d8%a7%d8%b9%d8%af-%d9%85%d9%81%d8%aa%d8%b4%d9%8a-%d8%a7%d9%84%d8%b4%d8%ba%d9%84-%d9%8a%d8%af%d9%81%d8%b9-%d8%a7%d9%84%d9%88%d8%b2%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d9%88%d8%b5%d9%8a%d8%a9-1840275.html",
        "source": "Hespress",
-       "published_at": "2026-11-15 22:00"
-      }
-     ]
-    },
-    {
-     "label": "يطالب · برحيل",
-     "articles": [
-      {
-       "title": "آيزنكوت يطالب برحيل نتانياهو \"فورا\"",
-       "url": "https://www.hespress.com/%d8%a2%d9%8a%d8%b2%d9%86%d9%83%d9%88%d8%aa-%d9%8a%d8%b7%d8%a7%d9%84%d8%a8-%d8%a8%d8%b1%d8%ad%d9%8a%d9%84-%d9%86%d8%aa%d8%a7%d9%86%d9%8a%d8%a7%d9%87%d9%88-%d9%81%d9%88%d8%b1%d8%a7-1840484.html",
-       "source": "Hespress",
-       "published_at": "2026-11-15 22:01"
+       "published_at": "2026-11-16 06:00"
       },
       {
-       "title": "كلوب يطالب برحيل إنفانتينو عن \"فيفا\"",
-       "url": "https://www.hespress.com/%d9%83%d9%84%d9%88%d8%a8-%d9%8a%d8%b7%d8%a7%d9%84%d8%a8-%d8%a8%d8%b1%d8%ad%d9%8a%d9%84-%d8%a5%d9%86%d9%81%d8%a7%d9%86%d8%aa%d9%8a%d9%86%d9%88-%d8%b9%d9%86-%d9%81%d9%8a%d9%81%d8%a7-1840468.html",
+       "title": "\"أنا لست ضحية\".. كتاب جديد يوثق رحلة حرزني من الاعتقال إلى المصالحة",
+       "url": "https://www.hespress.com/%d8%a3%d9%86%d8%a7-%d9%84%d8%b3%d8%aa-%d8%b6%d8%ad%d9%8a%d8%a9-%d9%83%d8%aa%d8%a7%d8%a8-%d8%ac%d8%af%d9%8a%d8%af-%d9%8a%d9%88%d8%ab%d9%82-%d8%b1%d8%ad%d9%84%d8%a9-%d8%ad%d8%b1%d8%b2%d9%86%d9%8a-1839841.html",
        "source": "Hespress",
-       "published_at": "2026-11-15 21:31"
+       "published_at": "2026-11-16 03:00"
+      },
+      {
+       "title": "زيارة مفاجئة للأمير هاري إلى أوكرانيا",
+       "url": "https://www.hespress.com/%d8%b2%d9%8a%d8%a7%d8%b1%d8%a9-%d9%85%d9%81%d8%a7%d8%ac%d8%a6%d8%a9-%d9%84%d9%84%d8%a3%d9%85%d9%8a%d8%b1-%d9%87%d8%a7%d8%b1%d9%8a-%d8%a5%d9%84%d9%89-%d8%a3%d9%88%d9%83%d8%b1%d8%a7%d9%86%d9%8a%d8%a7-1840525.html",
+       "source": "Hespress",
+       "published_at": "2026-11-16 02:33"
       }
      ]
     },
@@ -259,52 +264,52 @@
      "label": "More headlines",
      "articles": [
       {
-       "title": "وفاة مؤسس إمبراطورية المخدرات المكسيكية ومفجّر أزمة مع واشنطن",
-       "url": "https://www.hespress.com/%d9%88%d9%81%d8%a7%d8%a9-%d9%85%d8%a4%d8%b3%d8%b3-%d8%a5%d9%85%d8%a8%d8%b1%d8%a7%d8%b7%d9%88%d8%b1%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d8%ae%d8%af%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d9%83%d8%b3%d9%8a-1840539.html",
+       "title": "توقعات الطقس ودرجات الحرارة بالمغرب",
+       "url": "https://www.hespress.com/%d8%aa%d9%88%d9%82%d8%b9%d8%a7%d8%aa-%d8%a7%d9%84%d8%b7%d9%82%d8%b3-%d9%88%d8%af%d8%b1%d8%ac%d8%a7%d8%aa-%d8%a7%d9%84%d8%ad%d8%b1%d8%a7%d8%b1%d8%a9-%d8%a8%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-1840448.html",
        "source": "Hespress",
-       "published_at": "2026-11-16 00:04"
+       "published_at": "2026-11-16 07:35"
       },
       {
-       "title": "الفيتو الروسي والموت الرحيم للمينورسو .. قراءة في تحولات ملف الصحراء",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%81%d9%8a%d8%aa%d9%88-%d8%a7%d9%84%d8%b1%d9%88%d8%b3%d9%8a-%d9%88%d8%a7%d9%84%d9%85%d9%88%d8%aa-%d8%a7%d9%84%d8%b1%d8%ad%d9%8a%d9%85-%d9%84%d9%84%d9%85%d9%8a%d9%86%d9%88%d8%b1%d8%b3-1840382.html",
+       "title": "جمعويون يحذرون من تنامي السلوكات العدوانية لدى تلاميذ في طنجة",
+       "url": "https://www.hespress.com/%d8%ac%d9%85%d8%b9%d9%88%d9%8a%d9%88%d9%86-%d9%8a%d8%ad%d8%b0%d8%b1%d9%88%d9%86-%d9%85%d9%86-%d8%aa%d9%86%d8%a7%d9%85%d9%8a-%d8%a7%d9%84%d8%b3%d9%84%d9%88%d9%83%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d8%af-1838989.html",
        "source": "Hespress",
-       "published_at": "2026-11-16 00:00"
+       "published_at": "2026-11-16 07:00"
       },
       {
-       "title": "رونالدينيو يعود إلى الملاعب بعد 11 عاما",
-       "url": "https://www.hespress.com/%d8%b1%d9%88%d9%86%d8%a7%d9%84%d8%af%d9%8a%d9%86%d9%8a%d9%88-%d9%8a%d8%b9%d9%88%d8%af-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d9%85%d9%84%d8%a7%d8%b9%d8%a8-%d8%a8%d8%b9%d8%af-11-%d8%b9%d8%a7%d9%85%d8%a7-1840471.html",
+       "title": "محمد نبيل يعرض \"لكل قبره\" ببرلين",
+       "url": "https://www.hespress.com/%d9%85%d8%ad%d9%85%d8%af-%d9%86%d8%a8%d9%8a%d9%84-%d9%8a%d8%b9%d8%b1%d8%b6-%d9%84%d9%83%d9%84-%d9%82%d8%a8%d8%b1%d9%87-%d8%a8%d8%a8%d8%b1%d9%84%d9%8a%d9%86-1840441.html",
        "source": "Hespress",
-       "published_at": "2026-11-15 23:33"
+       "published_at": "2026-11-16 05:33"
       },
       {
-       "title": "مشاهير التكنولوجيا يطلبون إعادة هوانغ",
-       "url": "https://www.hespress.com/%d9%85%d8%b4%d8%a7%d9%87%d9%8a%d8%b1-%d8%a7%d9%84%d8%aa%d9%83%d9%86%d9%88%d9%84%d9%88%d8%ac%d9%8a%d8%a7-%d9%8a%d8%b7%d9%84%d8%a8%d9%88%d9%86-%d8%a5%d8%b9%d8%a7%d8%af%d8%a9-%d9%87%d9%88%d8%a7%d9%86-1840475.html",
+       "title": "لبنى أبيضار تطوي صفحة \"الزين اللي فيك\" وتعلن المصالحة مع الجمهور",
+       "url": "https://www.hespress.com/%d9%84%d8%a8%d9%86%d9%89-%d8%a3%d8%a8%d9%8a%d8%b6%d8%a7%d8%b1-%d8%aa%d8%b7%d9%88%d9%8a-%d8%b5%d9%81%d8%ad%d8%a9-%d8%a7%d9%84%d8%b2%d9%8a%d9%86-%d8%a7%d9%84%d9%84%d9%8a-%d9%81%d9%8a%d9%83-%d9%88-1839808.html",
        "source": "Hespress",
-       "published_at": "2026-11-15 23:04"
+       "published_at": "2026-11-16 05:00"
       },
       {
-       "title": "السلطات الأمريكية تحذر المسافرين من استمرار اضطراب حركة الطيران",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%b3%d9%84%d8%b7%d8%a7%d8%aa-%d8%a7%d9%84%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d9%8a%d8%a9-%d8%aa%d8%ad%d8%b0%d8%b1-%d8%a7%d9%84%d9%85%d8%b3%d8%a7%d9%81%d8%b1%d9%8a%d9%86-%d9%85%d9%86-%d8%a7-1840494.html",
+       "title": "أطروحة تناقش تشفير البيانات الصحية",
+       "url": "https://www.hespress.com/%d8%a3%d8%b7%d8%b1%d9%88%d8%ad%d8%a9-%d8%aa%d9%86%d8%a7%d9%82%d8%b4-%d8%aa%d8%b4%d9%81%d9%8a%d8%b1-%d8%a7%d9%84%d8%a8%d9%8a%d8%a7%d9%86%d8%a7%d8%aa-%d8%a7%d9%84%d8%b5%d8%ad%d9%8a%d8%a9-1840202.html",
        "source": "Hespress",
-       "published_at": "2026-11-15 23:00"
+       "published_at": "2026-11-16 04:55"
       },
       {
-       "title": "باريس تحظر الاحتجاجات قرب المدارس",
-       "url": "https://www.hespress.com/%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3-%d8%aa%d8%ad%d8%b8%d8%b1-%d8%a7%d9%84%d8%a7%d8%ad%d8%aa%d8%ac%d8%a7%d8%ac%d8%a7%d8%aa-%d9%82%d8%b1%d8%a8-%d8%a7%d9%84%d9%85%d8%af%d8%a7%d8%b1%d8%b3-1840371.html",
+       "title": "آفاق الشغل تعيد رسم خريطة الإقبال على الفلسفة بالجامعات المغربية",
+       "url": "https://www.hespress.com/%d8%a2%d9%81%d8%a7%d9%82-%d8%a7%d9%84%d8%b4%d8%ba%d9%84-%d8%aa%d8%b9%d9%8a%d8%af-%d8%b1%d8%b3%d9%85-%d8%ae%d8%b1%d9%8a%d8%b7%d8%a9-%d8%a7%d9%84%d8%a5%d9%82%d8%a8%d8%a7%d9%84-%d8%b9%d9%84%d9%89-%d8%a7-1838813.html",
        "source": "Hespress",
-       "published_at": "2026-11-15 22:42"
+       "published_at": "2026-11-16 04:00"
       },
       {
-       "title": "إنجلترا توقف قطار انتصارات إسبانيا",
-       "url": "https://www.hespress.com/%d8%a5%d9%86%d8%ac%d9%84%d8%aa%d8%b1%d8%a7-%d8%aa%d9%88%d9%82%d9%81-%d9%82%d8%b7%d8%a7%d8%b1-%d8%a7%d9%86%d8%aa%d8%b5%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a5%d8%b3%d8%a8%d8%a7%d9%86%d9%8a%d8%a7-1840498.html",
+       "title": "البابا يدافع عن سكان الأمازون في البيرو",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%a8%d8%a7%d8%a8%d8%a7-%d9%8a%d8%af%d8%a7%d9%81%d8%b9-%d8%b9%d9%86-%d8%b3%d9%83%d8%a7%d9%86-%d8%a7%d9%84%d8%a3%d9%85%d8%a7%d8%b2%d9%88%d9%86-%d9%81%d9%8a-%d8%a7%d9%84%d8%a8%d9%8a%d8%b1-1840520.html",
        "source": "Hespress",
-       "published_at": "2026-11-15 22:18"
+       "published_at": "2026-11-16 03:22"
       },
       {
-       "title": "الشرطة الفرنسية تشيد بتعاون الأمن المغربي في توقيف مطلوبين دوليا",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%b4%d8%b1%d8%b7%d8%a9-%d8%a7%d9%84%d9%81%d8%b1%d9%86%d8%b3%d9%8a%d8%a9-%d8%aa%d8%b4%d9%8a%d8%af-%d8%a8%d8%aa%d8%b9%d8%a7%d9%88%d9%86-%d8%a7%d9%84%d8%a3%d9%85%d9%86-%d8%a7%d9%84%d9%85-1840489.html",
+       "title": "الوداد يكشف تفاصيل إصابة العلالي",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%88%d8%af%d8%a7%d8%af-%d9%8a%d9%83%d8%b4%d9%81-%d8%aa%d9%81%d8%a7%d8%b5%d9%8a%d9%84-%d8%a5%d8%b5%d8%a7%d8%a8%d8%a9-%d8%a7%d9%84%d8%b9%d9%84%d8%a7%d9%84%d9%8a-1840503.html",
        "source": "Hespress",
-       "published_at": "2026-11-15 22:10"
+       "published_at": "2026-11-16 02:03"
       },
       {
        "title": "Akdital Hospitals Makkah : mise en service sous la bannière de Rochdi Talib",
@@ -357,6 +362,12 @@
      "label": "Dijk · Virgil",
      "articles": [
       {
+       "title": "Valentijn Driessen: wordt Virgil van Dijk het kind van de rekening bij het Nederlands elftal?",
+       "url": "https://www.telegraaf.nl/sport/voetbal/valentijn-driessen-wordt-virgil-van-dijk-het-kind-van-de-rekening-bij-het-nederlands-elftal/164577065.html",
+       "source": "de Telegraaf",
+       "published_at": "2026-11-16 04:45"
+      },
+      {
        "title": "Cody Gakpo over Virgil van Dijk: ‘Bekijk zijn Instagram maar!’",
        "url": "https://www.telegraaf.nl/video/cody-gakpo-over-virgil-van-dijk-bekijk-zijn-instagram-maar/164594890.html",
        "source": "de Telegraaf",
@@ -377,37 +388,36 @@
      ]
     },
     {
-     "label": "More headlines",
+     "label": "Coalitie",
      "articles": [
       {
-       "title": "LIVE | Prins Harry brengt verrassingsbezoek aan Oekraïne: ’Jullie gaan de oorlog winnen’",
-       "url": "https://www.telegraaf.nl/buitenland/live-prins-harry-brengt-verrassingsbezoek-aan-oekrane-jullie-gaan-de-oorlog-winnen/164560391.html",
+       "title": "Crisisberaad top coalitie vandaag hervat in het Catshuis",
+       "url": "https://www.telegraaf.nl/politiek/crisisberaad-top-coalitie-vandaag-hervat-in-het-catshuis/164596658.html",
        "source": "de Telegraaf",
-       "published_at": "2026-11-15 22:40"
+       "published_at": "2026-11-16 05:10"
       },
       {
        "title": "Crisis na dagen praten niet afgewend: coalitie praat maandag verder",
        "url": "https://www.nu.nl/politiek/6416652/crisis-na-dagen-praten-niet-afgewend-coalitie-praat-maandag-verder.html",
        "source": "NU.nl",
        "published_at": "2026-11-15 19:55"
-      },
+      }
+     ]
+    },
+    {
+     "label": "More headlines",
+     "articles": [
       {
-       "title": "Annemarie van Gaal: Jesse Klaver doet net alsof miljonairs geen belasting betalen",
-       "url": "https://www.telegraaf.nl/opinie/annemarie-van-gaal-jesse-klaver-doet-net-alsof-miljonairs-geen-belasting-betalen/164559044.html",
+       "title": "Schiphol zet Bruna buitenspel: overlevingsstrijd bereikt kookpunt",
+       "url": "https://www.telegraaf.nl/financieel/schiphol-zet-bruna-buitenspel-overlevingsstrijd-bereikt-kookpunt/164571962.html",
        "source": "de Telegraaf",
-       "published_at": "2026-11-15 17:30"
+       "published_at": "2026-11-16 07:03"
       },
       {
-       "title": "Nog altijd radiostilte over crisisoverleg van coalitiepartijen dat al uren duurt",
-       "url": "https://www.nu.nl/politiek/6416661/nog-altijd-radiostilte-over-crisisoverleg-van-coalitiepartijen-dat-al-uren-duurt.html",
-       "source": "NU.nl",
-       "published_at": "2026-11-15 17:12"
-      },
-      {
-       "title": "Maandenlang gebruikten drugscriminelen een loods in Middenbeemster als ’keuken’, tot het pand in brand vloog en de huurder uit Volendam werd ontvoerd",
-       "url": "https://www.telegraaf.nl/binnenland/maandenlang-gebruikten-drugscriminelen-een-loods-in-middenbeemster-als-keuken-tot-het-pand-in-brand-vloog-en-de-huurder-uit-volendam-werd-ontvoerd/164579902.html",
+       "title": "LIVE | Prins Harry brengt verrassingsbezoek aan Oekraïne: ’Jullie gaan de oorlog winnen’",
+       "url": "https://www.telegraaf.nl/buitenland/live-prins-harry-brengt-verrassingsbezoek-aan-oekrane-jullie-gaan-de-oorlog-winnen/164560391.html",
        "source": "de Telegraaf",
-       "published_at": "2026-11-15 15:17"
+       "published_at": "2026-11-15 22:40"
       }
      ]
     }
@@ -421,39 +431,16 @@
    "note": null,
    "clusters": [
     {
-     "label": "Israel · Gaza",
+     "label": "Iran · Military",
      "articles": [
       {
-       "title": "Eisenkot says Netanyahu can’t remain Israel PM amid alleged vote meddling",
-       "url": "https://www.aljazeera.com/news/2026/11/16/eisenkot-says-netanyahu-cant-remain-israel-pm-amid-alleged-vote-meddling?traffic_source=rss",
+       "title": "How Russia is preparing Iran for the next escalation",
+       "url": "https://www.aljazeera.com/opinions/2026/11/16/how-russia-is-preparing-iran-for-the-next-escalation?traffic_source=rss",
        "source": "Al Jazeera",
-       "published_at": "2026-11-16 00:01"
+       "published_at": "2026-11-16 06:57"
       },
       {
-       "title": "Australia, UK, Canada and Italy urge Israel to allow critical aid to Gaza ahead of winter",
-       "url": "https://www.theguardian.com/australia-news/2026/nov/16/australia-uk-canada-italy-urge-israel-critical-aid-gaza-winter-ntwnfb",
-       "source": "Guardian World",
-       "published_at": "2026-11-15 22:28"
-      },
-      {
-       "title": "Australia, Canada, Italy and the UK urge Israel to allow aid into Gaza",
-       "url": "https://www.aljazeera.com/news/2026/11/15/australia-canada-italy-and-the-uk-urge-israel-to-allow-aid-into-gaza?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-11-15 22:06"
-      },
-      {
-       "title": "Who can force Israel to implement Gaza ceasefire deal?",
-       "url": "https://www.aljazeera.com/video/inside-story/2026/11/15/who-can-force-israel-to-implement-gaza-ceasefire-deal?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-11-15 20:37"
-      }
-     ]
-    },
-    {
-     "label": "Iran · Attack",
-     "articles": [
-      {
-       "title": "Iran war live: Tehran warns it may strike first before another US attack",
+       "title": "Iran war live: Third US carrier arrives, Iran says oil tankers hit mines",
        "url": "https://www.aljazeera.com/news/liveblog/2026/11/16/iran-war-live-tehran-warns-it-may-strike-first-before-another-us-attack?traffic_source=rss",
        "source": "Al Jazeera",
        "published_at": "2026-11-16 00:00"
@@ -465,10 +452,56 @@
        "published_at": "2026-11-15 18:03"
       },
       {
-       "title": "Iran targets US military base in Bahrain with drone attack",
-       "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
+       "title": "Iran says it targeted US military radar in Bahrain in retaliatory strike",
+       "url": "https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz",
+       "source": "Guardian World",
+       "published_at": "2026-11-13 13:52"
+      }
+     ]
+    },
+    {
+     "label": "Houthis · Forces",
+     "articles": [
+      {
+       "title": "Yemeni forces' retreat leaves Houthis in control of key Red Sea waterway",
+       "url": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
        "source": "BBC World",
-       "published_at": "2026-11-15 13:42"
+       "published_at": "2026-11-16 07:23"
+      },
+      {
+       "title": "Houthis advance in Yemen as government forces move to defend Aden",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/houthis-advance-in-yemen-as-government-forces-move-to-defend-aden?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-11-16 02:22"
+      },
+      {
+       "title": "Yemen’s Houthis unilaterally release 600 war detainees",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/yemens-houthis-unilaterally-release-600-war-detainees?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-11-15 21:19"
+      }
+     ]
+    },
+    {
+     "label": "Israel · Netanyahu",
+     "articles": [
+      {
+       "title": "Eisenkot says Netanyahu can’t remain Israel PM amid alleged vote meddling",
+       "url": "https://www.aljazeera.com/news/2026/11/16/eisenkot-says-netanyahu-cant-remain-israel-pm-amid-alleged-vote-meddling?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-11-16 00:01"
+      },
+      {
+       "title": "Australia, Canada, Italy and the UK urge Israel to allow aid into Gaza",
+       "url": "https://www.aljazeera.com/news/2026/11/15/australia-canada-italy-and-the-uk-urge-israel-to-allow-aid-into-gaza?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-11-15 22:06"
+      },
+      {
+       "title": "Eisenkot condemns Netanyahu’s ‘racist’ campaign against Israel’s Arab citizens",
+       "url": "https://www.theguardian.com/world/2026/nov/13/eisenkot-accuses-netanyahu-of-racist-campaign-against-israels-arab-minority",
+       "source": "Guardian World",
+       "published_at": "2026-11-14 11:11"
       }
      ]
     },
@@ -476,28 +509,10 @@
      "label": "More headlines",
      "articles": [
       {
-       "title": "Yemen’s Houthis unilaterally release 600 war detainees",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/yemens-houthis-unilaterally-release-600-war-detainees?traffic_source=rss",
+       "title": "The Red Sea cannot be secured without restoring the Yemeni state",
+       "url": "https://www.aljazeera.com/opinions/2026/11/16/the-red-sea-cannot-be-secured-without-restoring-the-yemeni-state?traffic_source=rss",
        "source": "Al Jazeera",
-       "published_at": "2026-11-15 21:19"
-      },
-      {
-       "title": "Palestinians reclaim Gaza’s shores with a swim for hope",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/palestinians-reclaim-gazas-shores-with-a-swim-for-hope?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-11-15 20:50"
-      },
-      {
-       "title": "Israeli drone filmed flying low outside homes in southern Lebanon",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/israeli-drone-filmed-flying-low-outside-homes-in-southern-lebanon?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-11-15 19:02"
-      },
-      {
-       "title": "Yemeni government forces redeploy from Bab al-Mandeb to defend Aden",
-       "url": "https://www.aljazeera.com/news/2026/11/15/yemeni-government-forces-redeploy-from-bab-al-mandeb-to-defend-aden?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-11-15 17:33"
+       "published_at": "2026-11-16 07:06"
       },
       {
        "title": "Saudi Arabia, Qatar, Jordan, Egypt condemn Iranian attack on Bahrain - as it happened",
@@ -517,19 +532,71 @@
    "note": null,
    "clusters": [
     {
-     "label": "Russia · Drone",
+     "label": "Russia · Ukraine",
      "articles": [
       {
-       "title": "Russia's mega-rich are already imagining a future after Putin",
-       "url": "https://www.bbc.co.uk/news/articles/c60733mxm0x0o?at_medium=RSS&at_campaign=rss",
-       "source": "BBC World",
-       "published_at": "2026-11-16 00:13"
+       "title": "Russia’s Andreeva defeats Ukraine’s Svitolina 7-5, 6-3 to win WTA Finals",
+       "url": "https://www.aljazeera.com/sports/2026/11/16/russias-andreeva-defeats-ukraines-svitolina-7-5-6-3-to-win-wta-finals?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-11-16 07:13"
+      },
+      {
+       "title": "General Staff: Russia has lost 1,625,420 troops in Ukraine since Feb. 24, 2022",
+       "url": "https://kyivindependent.com/general-staff-russia-has-lost-1-625-420-troops-in-ukraine-since-feb-24-2022/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-11-16 07:09"
+      },
+      {
+       "title": "How Russia is preparing Iran for the next escalation",
+       "url": "https://www.aljazeera.com/opinions/2026/11/16/how-russia-is-preparing-iran-for-the-next-escalation?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-11-16 06:57"
+      },
+      {
+       "title": "Fuel depot in Azov, Russia reportedly in flames following Ukrainian drone attacks",
+       "url": "https://kyivindependent.com/fuel-depot-in-azov-russia-reportedly-in-flames-following-ukrainian-drone-attacks/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-11-16 04:48"
+      },
+      {
+       "title": "Europe will 'closely engage' in peace negotiations between Russia, Ukraine, von der Leyen says",
+       "url": "https://kyivindependent.com/europe-will-closely-engage-in-peace-negotiations-between-russia-ukraine-von-der-leyen-says/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-11-16 01:12"
+      }
+     ]
+    },
+    {
+     "label": "Ukrainian",
+     "articles": [
+      {
+       "title": "Growing up abroad, Ukrainian child refugees redefine the meaning of home",
+       "url": "https://kyivindependent.com/growing-up-abroad-ukrainian-child-refugees-redefine-meaning-of-home/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-11-16 06:27"
       },
       {
        "title": "Ukrainian drone attacks 'neutralized' 55% of Russia's oil refining capacity, Zelensky says",
        "url": "https://kyivindependent.com/ukrainian-drone-attacks-neutralized-55-of-russias-oil-refining-capacity-zelensky-says/",
        "source": "Kyiv Independent",
        "published_at": "2026-11-15 23:30"
+      }
+     ]
+    },
+    {
+     "label": "More headlines",
+     "articles": [
+      {
+       "title": "Pro-Russian, autonomous Moldovan region to hold runoff elections",
+       "url": "https://kyivindependent.com/pro-russian-autonomous-moldovan-region-to-hold-runoff-elections/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-11-16 03:32"
+      },
+      {
+       "title": "Russia's mega-rich are already imagining a future after Putin",
+       "url": "https://www.bbc.co.uk/news/articles/c60733mxm0x0o?at_medium=RSS&at_campaign=rss",
+       "source": "BBC World",
+       "published_at": "2026-11-16 00:13"
       },
       {
        "title": "Estonia to close all border crossings with Russia after attack on drone maker",
@@ -538,68 +605,16 @@
        "published_at": "2026-11-15 22:17"
       },
       {
-       "title": "Estonia to close border crossings with Russia after alleged arson attack",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/estonia-to-close-border-crossings-with-russia-after-alleged-arson-attack?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-11-15 20:31"
-      },
-      {
-       "title": "Estonia to close border with Russia after Moscow-linked sabotage attempt on drone maker",
-       "url": "https://kyivindependent.com/estonia-to-close-border-with-russia-after-moscow-linked-sabotage-attempt-on-drone-maker/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-11-15 20:13"
-      }
-     ]
-    },
-    {
-     "label": "Harry · Prince",
-     "articles": [
-      {
-       "title": "Prince Harry tells Ukrainians they are ‘going to win war’ on surprise trip to Lviv",
-       "url": "https://www.theguardian.com/uk-news/2026/nov/15/prince-harry-ukraine-war-surprise-trip-invictus-games",
-       "source": "Guardian World",
-       "published_at": "2026-11-15 22:00"
-      },
-      {
-       "title": "Prince Harry in Ukraine meeting Invictus 2027 hopefuls",
-       "url": "https://www.aljazeera.com/news/2026/11/15/prince-harry-in-ukraine-meeting-invictus-2027-hopefuls?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-11-15 18:31"
-      }
-     ]
-    },
-    {
-     "label": "More headlines",
-     "articles": [
-      {
-       "title": "Ukraine, EU agree on reform steps to advance accession talks in 2027",
-       "url": "https://kyivindependent.com/ukraine-eu-agree-on-reform-steps-to-advance-accession-talks-in-2027/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-11-15 21:38"
-      },
-      {
-       "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
-       "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
+       "title": "Canada bars Russia from Junior World Championships",
+       "url": "https://www.bbc.co.uk/sport/ice-hockey/articles/cqkgm0jgv4mdo?at_medium=RSS&at_campaign=rss",
        "source": "BBC World",
-       "published_at": "2026-11-15 19:32"
+       "published_at": "2026-11-15 22:01"
       },
       {
-       "title": "IIHF confirms Russia out of 2027 World Juniors, Canada to remain host",
-       "url": "https://kyivindependent.com/iihf-confirms-russia-out-of-2027-world-juniors-canada-to-remain-host/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-11-15 19:10"
-      },
-      {
-       "title": "Senator-elect Scott Colom vows to ensure Trump follows through on his promises",
-       "url": "https://www.theguardian.com/us-news/2026/nov/15/scott-colom-mississippi-senate-trump",
-       "source": "Guardian World",
-       "published_at": "2026-11-15 18:48"
-      },
-      {
-       "title": "Estonia to close border crossings with Russia after attack on drone maker",
-       "url": "https://www.aljazeera.com/news/2026/11/15/estonia-to-close-border-crossings-with-russia-after-attack-on-drone-maker?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-11-15 18:07"
+       "title": "Prince Harry praises war veterans on surprise visit to Ukraine",
+       "url": "https://www.bbc.co.uk/news/articles/c60evn992jq8o?at_medium=RSS&at_campaign=rss",
+       "source": "BBC World",
+       "published_at": "2026-11-15 22:00"
       }
      ]
     }
