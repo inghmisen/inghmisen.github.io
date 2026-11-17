@@ -1,6 +1,6 @@
 {
  "date": "Tuesday 17 November 2026",
- "generated_at": "10:31 UTC",
+ "generated_at": "19:41 UTC",
  "error": null,
  "total_stories": 78,
  "fx": {
@@ -16,61 +16,25 @@
    "note": null,
    "clusters": [
     {
-     "label": "Model · Hugging",
+     "label": "Agent",
      "articles": [
       {
-       "title": "maxwell-model/Maxwell-V1-Flash · Hugging Face",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xyamk6/maxwellmodelmaxwellv1flash_hugging_face/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-11-17 04:04"
+       "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
+       "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
+       "source": "Verge AI",
+       "published_at": "2026-11-17 18:58"
       },
       {
-       "title": "Hugging Face switched its language model inference routing to OpenRouter",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xy9o6j/hugging_face_switched_its_language_model/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-11-17 03:16"
-      },
-      {
-       "title": "whisper base and an 11M param BERT i distilled from a 2B model, both running in the browser to caption videos",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xy25lw/whisper_base_and_an_11m_param_bert_i_distilled/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-11-16 21:40"
+       "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+       "url": "https://huggingface.co/blog/qvac/botpsy",
+       "source": "HuggingFace",
+       "published_at": "2026-11-11 05:01"
       }
      ]
     },
     {
-     "label": "More headlines",
+     "label": "Openai",
      "articles": [
-      {
-       "title": "DSpine - Updates on PR & GGUFs",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xycsm1/dspine_updates_on_pr_ggufs/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-11-17 06:03"
-      },
-      {
-       "title": "Clover 2: dense 27.8B base + 7 LoRA experts routed per token, not a static merge, weights public",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xyb7jw/clover_2_dense_278b_base_7_lora_experts_routed/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-11-17 04:35"
-      },
-      {
-       "title": "Thinking Machines 4-bit replication: I trained a GPT end to end with a 4-bit forward pass on one B200",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xyawzz/thinking_machines_4bit_replication_i_trained_a/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-11-17 04:19"
-      },
-      {
-       "title": "Your daily dose of Qwopium:",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xy4xsx/your_daily_dose_of_qwopium/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-11-16 23:36"
-      },
-      {
-       "title": "Windows 11 is collecting data on which coding agents and developer tools you use",
-       "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
-       "source": "Hacker News",
-       "published_at": "2026-11-16 22:58"
-      },
       {
        "title": "California sues OpenAI over rogue AI hacking incidents",
        "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
@@ -78,58 +42,104 @@
        "published_at": "2026-11-16 20:46"
       },
       {
-       "title": "Best MoE engine?",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xy0d5o/best_moe_engine/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-11-16 20:31"
+       "title": "OpenAI wants to stop deepfakes from overwhelming child abuse tiplines",
+       "url": "https://www.theverge.com/policy/1034527/openai-csam-classifier",
+       "source": "Verge AI",
+       "published_at": "2026-11-16 19:23"
+      }
+     ]
+    },
+    {
+     "label": "Models",
+     "articles": [
+      {
+       "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+       "url": "https://huggingface.co/blog/openrouter",
+       "source": "HuggingFace",
+       "published_at": "2026-11-16 00:00"
       },
       {
-       "title": "I am sick of doomposting about demise of local AI",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xxzk23/i_am_sick_of_doomposting_about_demise_of_local_ai/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-11-16 20:01"
+       "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+       "url": "https://huggingface.co/blog/3d-lora-finetuning",
+       "source": "HuggingFace",
+       "published_at": "2026-11-12 00:00"
+      }
+     ]
+    },
+    {
+     "label": "More headlines",
+     "articles": [
+      {
+       "title": "GPT‑6.2 Astra and Sol",
+       "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+       "source": "Hacker News",
+       "published_at": "2026-11-17 17:46"
       },
       {
-       "title": "I don't get all the Strata hates around here",
-       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xxz46x/i_dont_get_all_the_strata_hates_around_here/",
-       "source": "r/LocalLLaMA",
-       "published_at": "2026-11-16 19:45"
+       "title": "What is the best harness for each model?",
+       "url": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/",
+       "source": "Hacker News",
+       "published_at": "2026-11-17 14:53"
       },
       {
-       "title": "higurashi-ai/Haru-4B · 460 ♥",
+       "title": "How the Claude Code team thinks about verification",
+       "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
+       "source": "Hacker News",
+       "published_at": "2026-11-17 10:20"
+      },
+      {
+       "title": "sensenova/SenseNova-Loop-9B · 134 ♥",
+       "url": "https://huggingface.co/sensenova/SenseNova-Loop-9B",
+       "source": "HF new models",
+       "published_at": "2026-11-17 10:16"
+      },
+      {
+       "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
+       "url": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
+       "source": "Verge AI",
+       "published_at": "2026-11-16 19:24"
+      },
+      {
+       "title": "n4ze3m/tiny-voca · 225 ♥",
+       "url": "https://huggingface.co/n4ze3m/tiny-voca",
+       "source": "HF new models",
+       "published_at": "2026-11-14 15:46"
+      },
+      {
+       "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+       "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+       "source": "HuggingFace",
+       "published_at": "2026-11-13 14:05"
+      },
+      {
+       "title": "meituan-longcat/LongCat-Video-Avatar-1.6 · 192 ♥",
+       "url": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.6",
+       "source": "HF new models",
+       "published_at": "2026-11-13 02:45"
+      },
+      {
+       "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+       "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+       "source": "HuggingFace",
+       "published_at": "2026-11-12 19:07"
+      },
+      {
+       "title": "higurashi-ai/Haru-4B · 485 ♥",
        "url": "https://huggingface.co/higurashi-ai/Haru-4B",
        "source": "HF new models",
        "published_at": "2026-11-12 11:05"
       },
       {
-       "title": "Zyphra/ZONOS3-Mini · 498 ♥",
+       "title": "Zyphra/ZONOS3-Mini · 506 ♥",
        "url": "https://huggingface.co/Zyphra/ZONOS3-Mini",
        "source": "HF new models",
        "published_at": "2026-11-09 05:03"
       },
       {
-       "title": "Comfy-Org/MiniMax-H3-Image · 505 ♥",
+       "title": "Comfy-Org/MiniMax-H3-Image · 516 ♥",
        "url": "https://huggingface.co/Comfy-Org/MiniMax-H3-Image",
        "source": "HF new models",
        "published_at": "2026-11-08 20:37"
-      },
-      {
-       "title": "NousResearch/Arete-27B · 676 ♥",
-       "url": "https://huggingface.co/NousResearch/Arete-27B",
-       "source": "HF new models",
-       "published_at": "2026-11-06 19:31"
-      },
-      {
-       "title": "Cactus-Compute/mirage · 403 ♥",
-       "url": "https://huggingface.co/Cactus-Compute/mirage",
-       "source": "HF new models",
-       "published_at": "2026-11-05 19:01"
-      },
-      {
-       "title": "thinkingmachines/Inkling-2-Small · 430 ♥",
-       "url": "https://huggingface.co/thinkingmachines/Inkling-2-Small",
-       "source": "HF new models",
-       "published_at": "2026-11-04 19:51"
       }
      ]
     }
@@ -143,36 +153,19 @@
    "note": null,
    "clusters": [
     {
-     "label": "Studenten",
+     "label": "Naar",
      "articles": [
       {
-       "title": "Opnieuw forse daling internationale studenten in de VS",
-       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNT0lhZmFoU1Y2bDZaSFFuLW1vYk5xM3NuXzR6Q2F5MHhHbC1nVXVheEQ4M1hmdGNSZkdwWXFhV0huWTJPZ2EwaVgyUFFJbElpUkdBT3ptcjZBajRMOXFud3hZekpZdXpIS192aXhXQUg2QVZMd2xtT1pRVUxBSTh1SWZielNIYkNoYW1iLV9tUEU?oc=5",
+       "title": "UT’ers kunnen overstap maken naar Linux",
+       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ycXJNb0xiZ0V2UW9OeGw2eVpWUW9kSXZRUV92azBOVzFNTkRkYTVrQktRLUlVOGNBcjBQTHVjSmlWbnh5OEtya0JTcEhnYkk2d1kzYjI3ZldMb21PMmFUQ2RUYUxnbkFOaEFMUEM2R2dyVDNxUGhvT040OA?oc=5",
        "source": "UToday",
-       "published_at": "2026-11-16 14:23"
+       "published_at": "2026-11-17 12:53"
       },
       {
-       "title": "Studenten organiseren benefietconcert voor KiKa",
-       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObHVfSnd5SWhaQlhKQlBZOFNpbXc3MWZTSFBwRWpWZjZncXNvWXVGeWU3ZnpNbFc0R0ZTYXFPV2JhNUhKQUtaWFJjWG83dDZGeHpNWGU4bUFRa0cxY1BWaF9QMDJsd0J4cmNjcEZOZFRvVHFyUmJJWG1tRE9iN3F4VU9SMEtjSkk?oc=5",
+       "title": "Weinig Caribische studenten komen met Koninkrijksbeurs naar Europees Nederland",
+       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOR1E0Y0E0RG5PTDVIZVlEQlZTS3Y5RElNV1pOYjFqWnZIdHJPcC1nNmlFRU9aTDdWQ2hIMjdZLWVtRkNpUDFRWjdVWFdvbmtkYmhWcGp0eF9GdXhrbVhqQW9YU0VOUUZWdmstRTUxMDV5dVJQcWlVekR4M3N3NlQta0FBY3FRTjdCX01pNnI2ZWlkTTE0dG9DekhubUVLS1E2c19ObjVjSFpTZklwalkwRw?oc=5",
        "source": "UToday",
-       "published_at": "2026-11-16 09:09"
-      }
-     ]
-    },
-    {
-     "label": "Kabinet",
-     "articles": [
-      {
-       "title": "Verhoging van basisbeurs mag niet in de zak van ouders verdwijnen, vindt kabinet",
-       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPY1dkbFA1YW9tY21aOWlPdlZoOG5RTlFoMEh0RDFZcDRYbFhENHVJU3g3ODlSR3JmajFFOUtSRmx4ZmFFUVZtU2FyV1gzc3FMRk5UNi02c3E3MWx3QlhyNG5JZVlWbjZYUXJCWTNjZ0txUG0zSDZTaEhQWkZjXzU1bU9uaEVFMWN5UzZpZnRoXzBKb2o5X3dJSUdYeHpORXdVdlFaT3VVWGdLb0lQd2VrZ2FB?oc=5",
-       "source": "UToday",
-       "published_at": "2026-11-13 11:14"
-      },
-      {
-       "title": "Als het kabinet valt, wat gebeurt er dan met het hoger onderwijs?",
-       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRjNCRWFheVhiaC1QamdoZzJRLWdpZnlJeG5QTEFhT2kxOWo1dzQ0NHE1dlFrcWNGQnJ4V0p3WWJiaHN4Z0pGQmRzaVFZSlFwRENsaW1rY1hxY3NCR3hiY3prcWZjRmp2dXUzT1gwZEg4dU1wRXlpWV9rNXViZ2xnV0cwVWtZLWhjZkVCWkdxd0d2UnhxWnZ2MmYxNEY?oc=5",
-       "source": "UToday",
-       "published_at": "2026-11-12 14:11"
+       "published_at": "2026-11-17 10:53"
       }
      ]
     },
@@ -180,10 +173,16 @@
      "label": "More headlines",
      "articles": [
       {
-       "title": "Ready to COMMIT?",
-       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FX3pNUVRsMjRBM1NKM0ZJYVZ4S3hEcFJaVUZoQTNvRGxCeVMtVG1VV1A4ZzIteVUyZHNDNXVYTGd0SkJmU3BTdmdDVXoxbVltMmUtajVtQ2p4VkdaUi13eGdMaHlmLU9WYkQxcDBVSUs?oc=5",
+       "title": "Vrouwen presteren beter in het onderwijs, maar krijgen minder vaak vwo-advies",
+       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSW41aUl0c2EzdTVYaEQ4NDBDUW9PcWRXeExYaHA5YmwyQTVCZUNqUEk2VkZMVVhIUnNBVEpUVUdEUm9JdzZIblBaLTdzOHBRMmd2MEE1aVhycUNRRmtDU0I0TmVjdGdBZ1NncVlodklzeW9Zcl9UZHozNUlTQ0hIMEo3eXZyUVo3MWNWbTNxM2cyTG44U0RnUHRZTVdvaS13cDBZelF0T2pqUXNFSFE?oc=5",
        "source": "UToday",
-       "published_at": "2026-11-17 09:49"
+       "published_at": "2026-11-17 10:44"
+      },
+      {
+       "title": "'Je krijgt hier alle ruimte om je eigen specialisme te ontwikkelen'",
+       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN1V3Y0VGRGZSY1JzR3BvOXVPOEVFdjN2d1AwaEV5MGthWUt3YWRGVWVTMlY3aUtpQk5Dang4aWZhcm5uS1hZcGFnSHNkamVFZDd5ZERRbGdScUZPRTlJc1hwUDlPVV9xWE05SjdjTkt2RGtxaXQxNm1YU0pJZV9lal90eEFtOTUxTzF6Rktpc2E3aUJpX0t6LU5yV3JMSHI1UUlCR3MzT2lHS251aHpFVGNfcw?oc=5",
+       "source": "UToday",
+       "published_at": "2026-11-17 10:35"
       },
       {
        "title": "De wetenschap achter toezicht",
@@ -192,22 +191,28 @@
        "published_at": "2026-11-17 09:20"
       },
       {
-       "title": "‘Het voelt alsof ik nog maar net ben begonnen’",
+       "title": "Molly Stevens: ‘Het voelt alsof ik nog maar net ben begonnen’",
        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbEFEazBCYzBtMEZEZFhIXzdZdVZMOTYxTVB4aWZYSjd1UWd3S2hmVkl6V1FfRVpHTlVHX3BjQmFwLXFVNkNBaU5nUWdsQ3U0cG5uMlVVQ3lJMzdnUWYzREhDRlNUX1N6WHBBTGNIS2QtTnRrczhtWWlHT24yRlppS0JRaWlMSDUzRmpEbG1nbTAwLUhWTkZz?oc=5",
        "source": "UToday",
        "published_at": "2026-11-17 09:00"
       },
       {
-       "title": "Brandbrief ET-medewerkers over rookbeleid: ‘UT moet regels handhaven’",
+       "title": "ET staff urge stricter enforcement of smoking policy",
+       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNFR5Y1dIZi14VC1jSUU5VVBtbjlMQkg5ZHpKcXNIUS1oMDdJd0dXSTE3U2tuTFE0b05HejctdWlJbTVVZlcwNWhsdFQzQVYwQTFPMml5RDd5b0lUUmVBNkRzVGwzTzhoSThIcnpqWV84c3hOMkRaZmJwQlhLUDdsWEc1bDdmNkpqM3kyd21SM0g3TFhFQjF5WHRBdW5VSk5naFI1NXR3Y1N3Q1YzMEFBQzR5dmdXUQ?oc=5",
+       "source": "UToday",
+       "published_at": "2026-11-17 08:27"
+      },
+      {
+       "title": "ET-medewerkers over rookbeleid: ‘UT moet regels handhaven’",
        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNM0xvbDFMcm93aXYtbTc4M2JxYUd6VVhVZngyNENGZWE2VzNmZGFxdkhjUnJSMTdfZGdxSFBNZDVQbUg3eHU1aFBpS2RVYmtJUUNSRFAtaExybVpjNGpfTEYxYVdaM2ZESkRKcWNET2Jvc21CRTJEdDE2YldmOHVtaFlKdWpGUXVHNkItbE9SSnVsTWc5YVVLUDZJYW9GY0ZM?oc=5",
        "source": "UToday",
        "published_at": "2026-11-17 08:27"
       },
       {
-       "title": "Valse bescheidenheid",
-       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jdEtadmZGa3BoVmdSU0hmM2Vva09tUmRhWW9BQTd1c0MyaHNXa3dMQ2c2c3ZLd2hiZkRnbWtwbU14NUhRVFNfQnpwbDRuam9QRE42RERxdGkza1RuajJwZTVVNDNITEk?oc=5",
+       "title": "Opnieuw forse daling internationale studenten in de VS",
+       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNT0lhZmFoU1Y2bDZaSFFuLW1vYk5xM3NuXzR6Q2F5MHhHbC1nVXVheEQ4M1hmdGNSZkdwWXFhV0huWTJPZ2EwaVgyUFFJbElpUkdBT3ptcjZBajRMOXFud3hZekpZdXpIS192aXhXQUg2QVZMd2xtT1pRVUxBSTh1SWZielNIYkNoYW1iLV9tUEU?oc=5",
        "source": "UToday",
-       "published_at": "2026-11-16 08:34"
+       "published_at": "2026-11-16 14:23"
       },
       {
        "title": "News",
@@ -227,25 +232,42 @@
    "note": null,
    "clusters": [
     {
-     "label": "Maroc",
+     "label": "المغرب",
      "articles": [
       {
-       "title": "Hausse de 15% des échanges commerciaux entre le Maroc et la Mauritanie en 2025, selon Ahmed Hejira",
-       "url": "https://telquel.ma/instant-t/2026/11/17/hausse-de-15-des-echanges-commerciaux-entre-le-maroc-et-la-mauritanie-en-2025-selon-ahmed-hejira_2018534/",
-       "source": "TelQuel",
-       "published_at": "2026-11-17 10:30"
+       "title": "المغرب وأمريكا يعززان التنسيق المشترك",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d9%88%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d8%a7-%d9%8a%d8%b9%d8%b2%d8%b2%d8%a7%d9%86-%d8%a7%d9%84%d8%aa%d9%86%d8%b3%d9%8a%d9%82-%d8%a7%d9%84%d9%85%d8%b4%d8%aa%d8%b1-1841445.html",
+       "source": "Hespress",
+       "published_at": "2026-11-17 18:21"
       },
       {
-       "title": "Cybersécurité : maCERT, le bouclier qui alerte et coordonne quand le Maroc est attaqué en ligne",
-       "url": "https://telquel.ma/2026/11/16/cybersecurite-macert-le-bouclier-qui-alerte-et-coordonne-quand-le-maroc-est-attaque-en-ligne_2018518",
-       "source": "TelQuel",
-       "published_at": "2026-11-16 18:52"
+       "title": "المغرب يسرع مشاريع الربط المائي ويستعد لإنجاز محطات تحلية جديدة",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d9%8a%d8%b3%d8%b1%d8%b9-%d9%85%d8%b4%d8%a7%d8%b1%d9%8a%d8%b9-%d8%a7%d9%84%d8%b1%d8%a8%d8%b7-%d8%a7%d9%84%d9%85%d8%a7%d8%a6%d9%8a-%d9%88%d9%8a%d8%b3%d8%aa%d8%b9-1841425.html",
+       "source": "Hespress",
+       "published_at": "2026-11-17 18:08"
       },
       {
-       "title": "Publicité au Maroc : l’UACC lance une étude pour structurer et dynamiser le marché",
-       "url": "https://telquel.ma/instant-t/2026/11/16/publicite-au-maroc-luacc-lance-une-etude-pour-structurer-et-dynamiser-le-marche_2018472/",
-       "source": "TelQuel",
-       "published_at": "2026-11-16 17:45"
+       "title": "المغرب وموريتانيا يحيّنان اتفاقا تجاريا",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d9%88%d9%85%d9%88%d8%b1%d9%8a%d8%aa%d8%a7%d9%86%d9%8a%d8%a7-%d9%8a%d8%ad%d9%8a%d9%91%d9%86%d8%a7%d9%86-%d8%a7%d8%aa%d9%81%d8%a7%d9%82%d8%a7-%d8%aa%d8%ac%d8%a7-1841415.html",
+       "source": "Hespress",
+       "published_at": "2026-11-17 17:23"
+      }
+     ]
+    },
+    {
+     "label": "منتخب",
+     "articles": [
+      {
+       "title": "تشكيلة \"الأسود\" لمواجهة منتخب النيجر",
+       "url": "https://www.hespress.com/%d8%aa%d8%b4%d9%83%d9%8a%d9%84%d8%a9-%d8%a7%d9%84%d8%a3%d8%b3%d9%88%d8%af-%d9%84%d9%85%d9%88%d8%a7%d8%ac%d9%87%d8%a9-%d9%85%d9%86%d8%aa%d8%ae%d8%a8-%d8%a7%d9%84%d9%86%d9%8a%d8%ac%d8%b1-2-1841485.html",
+       "source": "Hespress",
+       "published_at": "2026-11-17 19:14"
+      },
+      {
+       "title": "منتخب الطوغو يسحق الجزائر بثلاثية",
+       "url": "https://www.hespress.com/%d9%85%d9%86%d8%aa%d8%ae%d8%a8-%d8%a7%d9%84%d8%b7%d9%88%d8%ba%d9%88-%d9%8a%d8%b3%d8%ad%d9%82-%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1-%d8%a8%d8%ab%d9%84%d8%a7%d8%ab%d9%8a%d8%a9-1841428.html",
+       "source": "Hespress",
+       "published_at": "2026-11-17 17:58"
       }
      ]
     },
@@ -253,16 +275,33 @@
      "label": "إلى",
      "articles": [
       {
-       "title": "جماعات تتطلع إلى دعم لاقتناء جرافات",
-       "url": "https://www.hespress.com/%d8%ac%d9%85%d8%a7%d8%b9%d8%a7%d8%aa-%d8%aa%d8%aa%d8%b7%d9%84%d8%b9-%d8%a5%d9%84%d9%89-%d8%af%d8%b9%d9%85-%d9%84%d8%a7%d9%82%d8%aa%d9%86%d8%a7%d8%a1-%d8%ac%d8%b1%d8%a7%d9%81%d8%a7%d8%aa-1840715.html",
+       "title": "بوتين يصل إلى الصين للقاء ترامب وشي",
+       "url": "https://www.hespress.com/%d8%a8%d9%88%d8%aa%d9%8a%d9%86-%d9%8a%d8%b5%d9%84-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d8%b5%d9%8a%d9%86-%d9%84%d9%84%d9%82%d8%a7%d8%a1-%d8%aa%d8%b1%d8%a7%d9%85%d8%a8-%d9%88%d8%b4%d9%8a-1841488.html",
        "source": "Hespress",
-       "published_at": "2026-11-17 10:20"
+       "published_at": "2026-11-17 19:05"
       },
       {
-       "title": "اختلالات ضمن \"مخصصات السفر\" تدفع مكتب الصرف إلى التدقيق في ملفات",
-       "url": "https://www.hespress.com/%d8%a7%d8%ae%d8%aa%d9%84%d8%a7%d9%84%d8%a7%d8%aa-%d8%b6%d9%85%d9%86-%d9%85%d8%ae%d8%b5%d8%b5%d8%a7%d8%aa-%d8%a7%d9%84%d8%b3%d9%81%d8%b1-%d8%aa%d8%af%d9%81%d8%b9-%d9%85%d9%83%d8%aa%d8%a8-%d8%a7-1840674.html",
+       "title": "جدل \"مراكش للأغنياء\" يدفع وزير السياحة إلى التراجع وتقديم توضيحات",
+       "url": "https://www.hespress.com/%d8%ac%d8%af%d9%84-%d9%85%d8%b1%d8%a7%d9%83%d8%b4-%d9%84%d9%84%d8%a3%d8%ba%d9%86%d9%8a%d8%a7%d8%a1-%d9%8a%d8%af%d9%81%d8%b9-%d9%88%d8%b2%d9%8a%d8%b1-%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%ad%d8%a9-1841474.html",
        "source": "Hespress",
-       "published_at": "2026-11-17 10:00"
+       "published_at": "2026-11-17 19:00"
+      }
+     ]
+    },
+    {
+     "label": "Sécurité",
+     "articles": [
+      {
+       "title": "Sahara : À Rabat, Mike Waltz maintient le cap sur l’autonomie après le veto au Conseil de sécurité",
+       "url": "https://telquel.ma/instant-t/2026/11/17/sahara-a-rabat-mike-waltz-maintient-le-cap-sur-lautonomie-apres-le-veto-au-conseil-de-securite_2018621/",
+       "source": "TelQuel",
+       "published_at": "2026-11-17 17:14"
+      },
+      {
+       "title": "Sécurité : la DGSN crée deux unités cynotechniques à Meknès et à Taza",
+       "url": "https://telquel.ma/instant-t/2026/11/17/securite-la-dgsn-cree-deux-unites-cynotechniques-a-meknes-et-a-taza_2018635/",
+       "source": "TelQuel",
+       "published_at": "2026-11-17 15:30"
       }
      ]
     },
@@ -270,82 +309,58 @@
      "label": "More headlines",
      "articles": [
       {
-       "title": "Ahmed Rahhou prépare l'élargissement du service du Roaming national sans changement de tarif",
-       "url": "https://telquel.ma/instant-t/2026/11/17/vers-lelargissement-du-service-du-roaming-national-sans-changement-de-tarif-annonce-ahmed-rahhou_2018530/",
+       "title": "مخالفات السير تدر نحو 10 ملايين درهم",
+       "url": "https://www.hespress.com/%d9%85%d8%ae%d8%a7%d9%84%d9%81%d8%a7%d8%aa-%d8%a7%d9%84%d8%b3%d9%8a%d8%b1-%d8%aa%d8%af%d8%b1-%d9%86%d8%ad%d9%88-10-%d9%85%d9%84%d8%a7%d9%8a%d9%8a%d9%86-%d8%af%d8%b1%d9%87%d9%85-1841409.html",
+       "source": "Hespress",
+       "published_at": "2026-11-17 18:46"
+      },
+      {
+       "title": "Inondations : Nizar Baraka annonce un dispositif d’alerte par SMS en préparation",
+       "url": "https://telquel.ma/instant-t/2026/11/17/inondations-nizar-baraka-annonce-un-dispositif-dalerte-par-sms-en-preparation_2018666/",
        "source": "TelQuel",
-       "published_at": "2026-11-17 10:00"
+       "published_at": "2026-11-17 18:30"
       },
       {
-       "title": "تقرير يتوقع \"قفزات\" ببورصة البيضاء",
-       "url": "https://www.hespress.com/%d8%aa%d9%82%d8%b1%d9%8a%d8%b1-%d9%8a%d8%aa%d9%88%d9%82%d8%b9-%d9%82%d9%81%d8%b2%d8%a7%d8%aa-%d9%81%d9%8a-%d8%a8%d9%88%d8%b1%d8%b5%d8%a9-%d8%a7%d9%84%d8%a8%d9%8a%d8%b6%d8%a7%d8%a1-1840392.html",
+       "title": "المنتخب الأولمبي يتجاوز إثيوبيا بخماسية",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%85%d9%86%d8%aa%d8%ae%d8%a8-%d8%a7%d9%84%d8%a3%d9%88%d9%84%d9%85%d8%a8%d9%8a-%d9%8a%d8%aa%d8%ac%d8%a7%d9%88%d8%b2-%d8%a5%d8%ab%d9%8a%d9%88%d8%a8%d9%8a%d8%a7-%d8%a8%d8%ae%d9%85%d8%a7-1841456.html",
        "source": "Hespress",
-       "published_at": "2026-11-17 09:49"
+       "published_at": "2026-11-17 18:14"
       },
       {
-       "title": "اتهامات بالفساد تجبر رئيس منغوليا على التنحي",
-       "url": "https://www.hespress.com/%d8%a7%d8%aa%d9%87%d8%a7%d9%85%d8%a7%d8%aa-%d8%a8%d8%a7%d9%84%d9%81%d8%b3%d8%a7%d8%af-%d8%aa%d8%ac%d8%a8%d8%b1-%d8%b1%d8%a6%d9%8a%d8%b3-%d9%85%d9%86%d8%ba%d9%88%d9%84%d9%8a%d8%a7-%d8%b9%d9%84%d9%89-1841092.html",
-       "source": "Hespress",
-       "published_at": "2026-11-17 09:47"
-      },
-      {
-       "title": "La MINURSO entame son retrait avec le départ d’un premier contingent de Laâyoune",
-       "url": "https://telquel.ma/instant-t/2026/11/17/la-minurso-entame-son-retrait-avec-le-depart-dun-premier-contingent-de-laayoune_2018528/",
+       "title": "Souveraineté alimentaire : Fouzi Lekjaa veut donner la priorité au marché intérieur",
+       "url": "https://telquel.ma/instant-t/2026/11/17/souverainete-alimentaire-fouzi-lekjaa-veut-donner-la-priorite-au-marche-interieur_2018657/",
        "source": "TelQuel",
-       "published_at": "2026-11-17 09:46"
+       "published_at": "2026-11-17 18:00"
       },
       {
-       "title": "الخسارة بـ\"خماسية ألمانيا\" تصدم تشافي",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%ae%d8%b3%d8%a7%d8%b1%d8%a9-%d8%a8%d8%ae%d9%85%d8%a7%d8%b3%d9%8a%d8%a9-%d8%a3%d9%84%d9%85%d8%a7%d9%86%d9%8a%d8%a7-%d8%aa%d8%b5%d8%af%d9%85-%d8%aa%d8%b4%d8%a7%d9%81%d9%8a-1841088.html",
+       "title": "خزان مائي جديد يعزز إمدادات النواصر",
+       "url": "https://www.hespress.com/%d8%ae%d8%b2%d8%a7%d9%86-%d9%85%d8%a7%d8%a6%d9%8a-%d8%ac%d8%af%d9%8a%d8%af-%d9%8a%d8%b9%d8%b2%d8%b2-%d8%a5%d9%85%d8%af%d8%a7%d8%af%d8%a7%d8%aa-%d8%a7%d9%84%d9%86%d9%88%d8%a7%d8%b5%d8%b1-1841419.html",
        "source": "Hespress",
-       "published_at": "2026-11-17 09:29"
+       "published_at": "2026-11-17 17:45"
       },
       {
-       "title": "مزور يبدد مخاوف صناعة السيارات ويؤكد أهمية الشراكة المغربية الأوروبية",
-       "url": "https://www.hespress.com/%d9%85%d8%b2%d9%88%d8%b1-%d9%8a%d8%a8%d8%af%d8%af-%d9%85%d8%ae%d8%a7%d9%88%d9%81-%d8%b5%d9%86%d8%a7%d8%b9%d8%a9-%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b1%d8%a7%d8%aa-%d9%88%d9%8a%d8%a4%d9%83%d8%af-%d8%a3-1840742.html",
+       "title": "طلبة تركيا وقبرص يرفضون الإقصاء",
+       "url": "https://www.hespress.com/%d8%b7%d9%84%d8%a8%d8%a9-%d8%aa%d8%b1%d9%83%d9%8a%d8%a7-%d9%88%d9%82%d8%a8%d8%b1%d8%b5-%d9%8a%d8%b1%d9%81%d8%b6%d9%88%d9%86-%d8%a7%d9%84%d8%a5%d9%82%d8%b5%d8%a7%d8%a1-1841431.html",
        "source": "Hespress",
-       "published_at": "2026-11-17 09:00"
+       "published_at": "2026-11-17 17:21"
       },
       {
-       "title": "\"مرجان الزيتون\" يهدد الموارد المائية",
-       "url": "https://www.hespress.com/%d9%85%d8%b1%d8%ac%d8%a7%d9%86-%d8%a7%d9%84%d8%b2%d9%8a%d8%aa%d9%88%d9%86-%d9%8a%d9%87%d8%af%d8%af-%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%b1%d8%af-%d8%a7%d9%84%d9%85%d8%a7%d8%a6%d9%8a%d8%a9-1840766.html",
+       "title": "الأحمر يطبع إغلاق بورصة الدار البيضاء",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%a3%d8%ad%d9%85%d8%b1-%d9%8a%d8%b7%d8%a8%d8%b9-%d8%a5%d8%ba%d9%84%d8%a7%d9%82-%d8%a8%d9%88%d8%b1%d8%b5%d8%a9-%d8%a7%d9%84%d8%af%d8%a7%d8%b1-%d8%a7%d9%84%d8%a8%d9%8a%d8%b6%d8%a7%d8%a1-1841404.html",
        "source": "Hespress",
-       "published_at": "2026-11-17 08:48"
+       "published_at": "2026-11-17 17:09"
       },
       {
-       "title": "إسرائيل تعرقل مساعدة غزة",
-       "url": "https://www.hespress.com/%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84-%d8%aa%d8%b9%d8%b1%d9%82%d9%84-%d9%85%d8%b3%d8%a7%d8%b9%d8%af%d8%a9-%d8%ba%d8%b2%d8%a9-1840661.html",
-       "source": "Hespress",
-       "published_at": "2026-11-17 08:36"
-      },
-      {
-       "title": "غموض يلف موعد ترامب مع كيم يونغ",
-       "url": "https://www.hespress.com/%d8%ba%d9%85%d9%88%d8%b6-%d9%8a%d9%84%d9%81-%d9%85%d9%88%d8%b9%d8%af-%d8%aa%d8%b1%d8%a7%d9%85%d8%a8-%d9%85%d8%b9-%d9%83%d9%8a%d9%85-%d9%8a%d9%88%d9%86%d8%ba-1841084.html",
-       "source": "Hespress",
-       "published_at": "2026-11-17 08:09"
-      },
-      {
-       "title": "أول دواء مغربي من القنب الهندي ينعش آمال الصناعة الصيدلانية",
-       "url": "https://www.hespress.com/%d8%a3%d9%88%d9%84-%d8%af%d9%88%d8%a7%d8%a1-%d9%85%d8%ba%d8%b1%d8%a8%d9%8a-%d9%85%d9%86-%d8%a7%d9%84%d9%82%d9%86%d8%a8-%d8%a7%d9%84%d9%87%d9%86%d8%af%d9%8a-%d9%8a%d9%86%d8%b9%d8%b4-%d8%a2%d9%85%d8%a7-1840925.html",
-       "source": "Hespress",
-       "published_at": "2026-11-17 08:00"
-      },
-      {
-       "title": "أمطار بالشمال وحرارة مرتفعة بالجنوب",
-       "url": "https://www.hespress.com/%d8%a3%d9%85%d8%b7%d8%a7%d8%b1-%d8%a8%d8%a7%d9%84%d8%b4%d9%85%d8%a7%d9%84-%d9%88%d8%ad%d8%b1%d8%a7%d8%b1%d8%a9-%d9%85%d8%b1%d8%aa%d9%81%d8%b9%d8%a9-%d8%a8%d8%a7%d9%84%d8%ac%d9%86%d9%88%d8%a8-1841046.html",
-       "source": "Hespress",
-       "published_at": "2026-11-17 07:35"
-      },
-      {
-       "title": "\"أصناف زيتون مستوردة\" تختبر الإنتاج والجودة وحقوق المستهلك المغربي",
-       "url": "https://www.hespress.com/%d8%a3%d8%b5%d9%86%d8%a7%d9%81-%d8%b2%d9%8a%d8%aa%d9%88%d9%86-%d9%85%d8%b3%d8%aa%d9%88%d8%b1%d8%af%d8%a9-%d8%aa%d8%ae%d8%aa%d8%a8%d8%b1-%d8%a7%d9%84%d8%a5%d9%86%d8%aa%d8%a7%d8%ac-%d9%88%d8%a7-1840272.html",
-       "source": "Hespress",
-       "published_at": "2026-11-17 07:00"
-      },
-      {
-       "title": "Présidence de la FIFA : l’UEFA cherche un challenger à Giannni Infantino",
-       "url": "https://telquel.ma/instant-t/2026/11/16/presidence-de-la-fifa-luefa-cherche-un-challenger-a-giannni-infantino_2018464/",
+       "title": "Grand Stade Hassan II : l’américain Otis fournira les ascenseurs, escaliers mécaniques et trottoirs roulants",
+       "url": "https://telquel.ma/instant-t/2026/11/17/grand-stade-hassan-ii-lamericain-otis-fournira-les-ascenseurs-escaliers-mecaniques-et-trottoirs-roulants_2018646/",
        "source": "TelQuel",
-       "published_at": "2026-11-16 17:00"
+       "published_at": "2026-11-17 16:30"
+      },
+      {
+       "title": "Santé en bourse : les performances de la semaine du 9 au 13 novembre",
+       "url": "https://telquel.ma/2026/11/17/sante-en-bourse-les-performances-de-la-semaine-du-9-au-13-novembre_2018650",
+       "source": "TelQuel",
+       "published_at": "2026-11-17 16:15"
       }
      ]
     }
@@ -362,39 +377,39 @@
      "label": "Kabinet",
      "articles": [
       {
-       "title": "Coalitie poogt mkb te ontzien bij uitwerking Pro/Volt-taks: ’Ondernemers blij dat kabinet niet gevallen is’",
-       "url": "https://www.telegraaf.nl/politiek/coalitie-poogt-mkb-te-ontzien-bij-uitwerking-provolt-taks-ondernemers-blij-dat-kabinet-niet-gevallen-is/164664124.html",
+       "title": "Ondanks ellende in Syrië houdt kabinet voet bij stuk: asielzoekers niet welkom in Nederland",
+       "url": "https://www.telegraaf.nl/politiek/ondanks-ellende-in-syrie-houdt-kabinet-voet-bij-stuk-asielzoekers-niet-welkom-in-nederland/164706862.html",
        "source": "de Telegraaf",
-       "published_at": "2026-11-17 09:55"
+       "published_at": "2026-11-17 19:02"
       },
       {
-       "title": "Eelco Heinen laat niks los over veiligstelling kabinet: ‘Ik ga eerst naar binnen’",
-       "url": "https://www.telegraaf.nl/video/eelco-heinen-laat-niks-los-over-veiligstelling-kabinet-ik-ga-eerst-naar-binnen/164660091.html",
+       "title": "Jesse Klaver na nieuw vertrouwen kabinet: ‘Blokkades VVD nog niet weg’",
+       "url": "https://www.telegraaf.nl/video/jesse-klaver-na-nieuw-vertrouwen-kabinet-blokkades-vvd-nog-niet-weg/164705407.html",
        "source": "de Telegraaf",
-       "published_at": "2026-11-17 09:28"
+       "published_at": "2026-11-17 18:31"
       },
       {
-       "title": "Stelling: Kabinet had beter kunnen vallen dan zo doorgaan",
-       "url": "https://www.telegraaf.nl/wat-u-zegt/stelling-kabinet-had-beter-kunnen-vallen-dan-zo-doorgaan/164657061.html",
+       "title": "Dagenlang praten om een conflict op te lossen, zoals het kabinet deed, vaak verrassend effectief: ’Dan hoor je soms ineens: hé, dat wist ik helemaal niet’",
+       "url": "https://www.telegraaf.nl/binnenland/dagenlang-praten-om-een-conflict-op-te-lossen-zoals-het-kabinet-deed-vaak-verrassend-effectief-dan-hoor-je-soms-ineens-he-dat-wist-ik-helemaal-niet/164659224.html",
        "source": "de Telegraaf",
-       "published_at": "2026-11-17 09:16"
+       "published_at": "2026-11-17 17:55"
       }
      ]
     },
     {
-     "label": "Jetten",
+     "label": "Wil · Model",
      "articles": [
       {
-       "title": "Video | Jetten over minderheidskabinet: 'Ben te lief en optimistisch geweest'",
-       "url": "https://www.nu.nl/332356/video/jetten-over-minderheidskabinet-ben-te-lief-en-optimistisch-geweest.html",
-       "source": "NU.nl",
-       "published_at": "2026-11-17 09:41"
+       "title": "Premier Jetten wil het ’Scandinavisch model’ verder uitbreiden: vooraf afspraken maken met oppositie, maar werkt dat hier wel?",
+       "url": "https://www.telegraaf.nl/buitenland/premier-jetten-wil-het-scandinavisch-model-verder-uitbreiden-vooraf-afspraken-maken-met-oppositie-maar-werkt-dat-hier-wel/164682365.html",
+       "source": "de Telegraaf",
+       "published_at": "2026-11-17 19:35"
       },
       {
-       "title": "Livestream | Bekijk hier de persconferentie van premier Jetten en de vicepremiers",
-       "url": "https://www.nu.nl/332352/video/bekijk-hier-live-de-persconferentie-van-premier-jetten-en-de-vicepremiers.html",
+       "title": "Amerikaans ministerie wil Nederlands model uitzetten, nog onduidelijk wanneer",
+       "url": "https://www.nu.nl/buitenland/6416902/amerikaans-ministerie-wil-nederlands-model-uitzetten-nog-onduidelijk-wanneer.html",
        "source": "NU.nl",
-       "published_at": "2026-11-17 08:56"
+       "published_at": "2026-11-17 16:33"
       }
      ]
     },
@@ -402,22 +417,22 @@
      "label": "More headlines",
      "articles": [
       {
-       "title": "Verontwaardigde oud-minister van Financiën Onno Ruding (87): ’Ik was óók een nationale tv-intocht-Sinterklaas!’",
-       "url": "https://www.telegraaf.nl/binnenland/verontwaardigde-oud-minister-van-financien-onno-ruding-87-ik-was-ook-een-nationale-tv-intocht-sinterklaas/164661583.html",
-       "source": "de Telegraaf",
-       "published_at": "2026-11-17 10:26"
+       "title": "Asielminister Van den Brink vindt Syrië in nieuwe beoordeling veilig voor terugkeer",
+       "url": "https://www.nu.nl/politiek/6416916/asielminister-van-den-brink-vindt-syrie-in-nieuwe-beoordeling-veilig-voor-terugkeer.html",
+       "source": "NU.nl",
+       "published_at": "2026-11-17 19:25"
       },
       {
-       "title": "Van Ter Apel tot Griekenland: terugkeerhub Rwanda moet cruciaal sluitstuk worden in Europees migratiebeleid",
-       "url": "https://www.telegraaf.nl/buitenland/van-ter-apel-tot-griekenland-terugkeerhub-rwanda-moet-cruciaal-sluitstuk-worden-in-europees-migratiebeleid/164661769.html",
+       "title": "Diamantroof Schiphol gereconstrueerd in docureeks: ’Met een ijskoude blik vertelde hij dat er nog een rekening openstond’",
+       "url": "https://www.telegraaf.nl/entertainment/media/diamantroof-schiphol-gereconstrueerd-in-docureeks-met-een-ijskoude-blik-vertelde-hij-dat-er-nog-een-rekening-openstond/164680974.html",
        "source": "de Telegraaf",
-       "published_at": "2026-11-17 09:55"
+       "published_at": "2026-11-17 19:15"
       },
       {
-       "title": "Sybrand Buma wordt begrotingsformateur: 'Waarom zou dit wel werken?'",
-       "url": "https://www.telegraaf.nl/video/nieuws/sybrand-buma-wordt-begrotingsformateur-waarom-zou-dit-wel-werken/164660696.html",
-       "source": "de Telegraaf",
-       "published_at": "2026-11-17 09:01"
+       "title": "Livestream | Kijk hier het debat in de Tweede Kamer over de ontstane politieke situatie",
+       "url": "https://www.nu.nl/332378/video/kijk-hier-het-debat-in-de-tweede-kamer-over-de-ontstane-politieke-situatie.html",
+       "source": "NU.nl",
+       "published_at": "2026-11-17 16:42"
       }
      ]
     }
@@ -431,25 +446,54 @@
    "note": null,
    "clusters": [
     {
-     "label": "War · Iran",
+     "label": "Israeli · Woman",
      "articles": [
       {
-       "title": "Vance calls out ‘neoconservatives’ over Iran war",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/vance-calls-out-neoconservatives-over-iran-war?traffic_source=rss",
+       "title": "Israeli settler pogrom kills Palestinian woman, wounds 10 people",
+       "url": "https://www.aljazeera.com/news/2026/11/17/israeli-settler-pogrom-kills-palestinian-woman-wounds-10-people?traffic_source=rss",
        "source": "Al Jazeera",
-       "published_at": "2026-11-17 08:25"
+       "published_at": "2026-11-17 18:43"
       },
       {
-       "title": "Hundreds arrested in anti-Trump protests in Philippines amid anger over Iran war and AI pact",
-       "url": "https://www.theguardian.com/world/2026/nov/17/hundreds-arrested-manila-anti-trump-protests-philippines",
+       "title": "UK sanctions firms over Israeli West Bank settlements",
+       "url": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
+       "source": "BBC World",
+       "published_at": "2026-11-17 18:27"
+      },
+      {
+       "title": "Israeli forces invade Syrian village leaving homes damaged",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/israeli-forces-invade-syrian-village-leaving-homes-damaged?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-11-17 17:57"
+      },
+      {
+       "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
+       "url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
+       "source": "BBC World",
+       "published_at": "2026-11-17 15:36"
+      }
+     ]
+    },
+    {
+     "label": "Trump · Washington",
+     "articles": [
+      {
+       "title": "Trump says US taking 'very seriously' any Iranian plot against Washington",
+       "url": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss",
+       "source": "BBC World",
+       "published_at": "2026-11-17 17:37"
+      },
+      {
+       "title": "Trump claims US is ‘looking into’ Iranian bomb plot in Washington despite ‘no credible threats’",
+       "url": "https://www.theguardian.com/world/2026/nov/17/trump-reported-iranian-plot-dirty-bomb-washington",
        "source": "Guardian World",
-       "published_at": "2026-11-17 06:37"
+       "published_at": "2026-11-17 16:03"
       },
       {
-       "title": "Stories of survival and pain: Children amid Israel’s war on south Lebanon",
-       "url": "https://www.aljazeera.com/features/2026/11/17/stories-of-survival-and-pain-children-amid-israels-war-on-south-lebanon?traffic_source=rss",
+       "title": "Trump warns Iran over reported ‘dirty bomb’ threat plans against Washington",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/trump-warns-iran-over-reported-dirty-bomb-threat-plans-against-washington?traffic_source=rss",
        "source": "Al Jazeera",
-       "published_at": "2026-11-17 05:50"
+       "published_at": "2026-11-17 15:13"
       }
      ]
     },
@@ -457,33 +501,16 @@
      "label": "Israel",
      "articles": [
       {
-       "title": "Palestine Weekly: Israel’s political reshuffle as the occupation grinds on",
-       "url": "https://www.aljazeera.com/news/2026/11/17/palestine-weekly-israels-political-reshuffle-as-the-occupation-grinds-on?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-11-17 06:06"
-      },
-      {
-       "title": "Revealed: Israel uploaded millions of photos to Amazon’s facial recognition platform to track Palestinians",
-       "url": "https://www.theguardian.com/world/2026/nov/16/israel-amazon-facial-recognition-palestinians",
+       "title": "Anti-Arab hate speech surged on social media during Israel’s election, report finds",
+       "url": "https://www.theguardian.com/world/2026/nov/17/anti-arab-hate-speech-surged-on-social-media-during-israel-election-report",
        "source": "Guardian World",
-       "published_at": "2026-11-16 11:00"
-      }
-     ]
-    },
-    {
-     "label": "Attack",
-     "articles": [
-      {
-       "title": "Bahrain thwarts drone attack; Iran claims targeting US radar",
-       "url": "https://www.aljazeera.com/news/2026/11/17/bahrain-thwarts-drone-attack-iran-claims-targeting-us-military-radar?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-11-17 07:35"
+       "published_at": "2026-11-17 17:44"
       },
       {
-       "title": "Gunfire erupts in occupied West Bank settler attack",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/gunfire-erupts-in-occupied-west-bank-settler-attack?traffic_source=rss",
+       "title": "Religious ruling revives memories in Israel of Rabin assassination",
+       "url": "https://www.aljazeera.com/news/2026/11/17/religious-ruling-revives-memories-in-israel-of-rabin-assassination?traffic_source=rss",
        "source": "Al Jazeera",
-       "published_at": "2026-11-17 04:00"
+       "published_at": "2026-11-17 17:33"
       }
      ]
     },
@@ -491,34 +518,22 @@
      "label": "More headlines",
      "articles": [
       {
-       "title": "As Knesset readies for new speaker, Israeli opposition holds powerful role",
-       "url": "https://www.aljazeera.com/news/2026/11/17/as-knesset-readies-for-new-speaker-israeli-opposition-holds-powerful-role?traffic_source=rss",
+       "title": "Iraqi PM heads to Lebanon amid push to explore oil routes beyond Hormuz",
+       "url": "https://www.aljazeera.com/economy/2026/11/17/iraq-pm-heads-to-lebanon-amid-push-to-explore-oil-routes-beyond-hormuz?traffic_source=rss",
        "source": "Al Jazeera",
-       "published_at": "2026-11-17 09:29"
+       "published_at": "2026-11-17 17:34"
       },
       {
-       "title": "Will Netanyahu lose this time?",
-       "url": "https://www.aljazeera.com/opinions/2026/11/17/will-netanyahu-finally-lose?traffic_source=rss",
+       "title": "Yemeni parliament approves law designating Houthis as ‘terrorists’",
+       "url": "https://www.aljazeera.com/news/2026/11/17/yemeni-parliament-approves-law-designating-houthis-as-terrorists?traffic_source=rss",
        "source": "Al Jazeera",
-       "published_at": "2026-11-17 06:53"
+       "published_at": "2026-11-17 16:53"
       },
       {
-       "title": "Yemeni army reports 661 attacks on Houthis as group advances towards Aden",
-       "url": "https://www.aljazeera.com/news/2026/11/17/yemen-army-reports-661-attacks-on-houthis-amid-houthi-push-towards-aden?traffic_source=rss",
+       "title": "Houthi advance on Aden may spur resurgence of Yemen’s southern separatists",
+       "url": "https://www.aljazeera.com/news/2026/11/17/houthi-advance-on-aden-sparks-resurgence-of-yemens-southern-separatists?traffic_source=rss",
        "source": "Al Jazeera",
-       "published_at": "2026-11-17 01:38"
-      },
-      {
-       "title": "Third US aircraft carrier brings thousands more troops to Middle East",
-       "url": "https://www.theguardian.com/us-news/2026/nov/16/aircraft-middle-east-trump-military",
-       "source": "Guardian World",
-       "published_at": "2026-11-16 21:13"
-      },
-      {
-       "title": "Saudi Arabia strategy challenged by anti-Houthi forces in Yemen",
-       "url": "https://www.theguardian.com/world/2026/nov/16/saudi-arabia-challenged-yemeni-allies-ceding-ground-houthis",
-       "source": "Guardian World",
-       "published_at": "2026-11-16 19:04"
+       "published_at": "2026-11-17 15:26"
       }
      ]
     }
@@ -532,83 +547,83 @@
    "note": null,
    "clusters": [
     {
-     "label": "Russia · Bridge",
+     "label": "Ukraine · Zelensky",
      "articles": [
       {
-       "title": "Ukraine hails attack on vital Kerch bridge linking Russia and Crimea – Europe live",
-       "url": "https://www.theguardian.com/world/live/2026/nov/17/europe-ukraine-russia-crimea-kerch-bridge-attack-latest-news-updates",
-       "source": "Guardian World",
-       "published_at": "2026-11-17 10:12"
-      },
-      {
-       "title": "Finland's Stubb urges Europe to take Russia talks into its own hands after 'irresponsible' US reliance",
-       "url": "https://kyivindependent.com/finlands-stubb-urges-europe-to-take-russia-talks-into-its-own-hands/",
+       "title": "Ukraine war latest: Entire section of Crimean Bridge collapses after 'seven-phase operation,' Zelensky reveals",
+       "url": "https://kyivindependent.com/ukraine-war-latest-entire-section-of-crimean-bridge-collapses-after-seven-phase-operation-zelensky-reveals/",
        "source": "Kyiv Independent",
-       "published_at": "2026-11-17 09:39"
+       "published_at": "2026-11-17 19:20"
       },
       {
-       "title": "Crimea bridge shut after Ukrainian strike, as Russia hits Kyiv crossings",
+       "title": "7 drones cross into Moldovan airspace during latest Russian attack against Ukraine, 1 spotted over Chisinau",
+       "url": "https://kyivindependent.com/7-drones-cross-into-moldovan-airspace-during-latest-russian-attack-against-ukraine-1-spotted-over-chisinau/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-11-17 18:37"
+      },
+      {
+       "title": "Ukraine has proposed Oleshky-like humanitarian operation in 10 more occupied settlements, Zelensky says",
+       "url": "https://kyivindependent.com/ukraine-has-proposed-oleshky-like-humanitarian-operation-in-10-more-occupied-settlements-zelensky-says/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-11-17 17:49"
+      },
+      {
+       "title": "How Ukraine struck the Kerch bridge, a symbol of Putin’s rule",
+       "url": "https://www.theguardian.com/world/2026/nov/17/how-ukraine-struck-kerch-bridge-symbol-vladimir-putin-rule",
+       "source": "Guardian World",
+       "published_at": "2026-11-17 17:30"
+      },
+      {
+       "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
        "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
        "source": "BBC World",
-       "published_at": "2026-11-17 09:27"
-      },
-      {
-       "title": "Interview: Lithuania's foreign minister says Europe needs to 'just ignore' Russia's demands and stay focused",
-       "url": "https://kyivindependent.com/interview-lithuanias-foreign-minister-says-europe-needs-to-just-ignore-russias-demands-and-stay-focused/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-11-17 08:40"
-      },
-      {
-       "title": "Ukraine drone attack kills two in Crimea as Kyiv targets bridge to Russia",
-       "url": "https://www.aljazeera.com/news/2026/11/17/ukrainian-drone-attack-kills-two-in-crimea-as-kyiv-targets-kerch-bridge?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-11-17 08:12"
+       "published_at": "2026-11-17 16:56"
       }
      ]
     },
     {
-     "label": "Ukraine · Russia",
+     "label": "Bridge · Kyiv",
      "articles": [
       {
-       "title": "Germany pledges $300 million for Ukraine weapons to put Putin 'in his place'",
-       "url": "https://kyivindependent.com/germany-pledges-300-million-for-ukraine-weapons-to-put-putin-in-his-place/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-11-17 10:06"
+       "title": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
+       "url": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&at_campaign=rss",
+       "source": "BBC World",
+       "published_at": "2026-11-17 17:19"
       },
       {
-       "title": "Ukraine critically damages Kerch bridge linking occupied Crimea with Russia",
-       "url": "https://www.theguardian.com/world/2026/nov/17/ukraine-strikes-critical-damage-russia-kerch-bridge-crimea",
+       "title": "Analysis: Why Ukraine's strike on the Crimean Bridge is such a big deal",
+       "url": "https://kyivindependent.com/analysis-why-ukraines-strike-on-the-crimean-bridge-is-such-a-big-deal/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-11-17 16:49"
+      },
+      {
+       "title": "‘They were keeping it for a rainy day’: Ukraine’s Kerch bridge attack is proof Kyiv still has cards to play",
+       "url": "https://www.theguardian.com/world/2026/nov/17/ukraine-kerch-bridge-attack-russia-crimea-analysis",
        "source": "Guardian World",
-       "published_at": "2026-11-17 07:42"
+       "published_at": "2026-11-17 16:40"
       },
       {
-       "title": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
-       "url": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
-       "source": "BBC World",
-       "published_at": "2026-11-17 05:59"
+       "title": "Russian milbloggers are furious about the Crimean Bridge attack",
+       "url": "https://kyivindependent.com/russian-milbloggers-are-furious-about-the-crimean-bridge-attack/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-11-17 16:22"
       }
      ]
     },
     {
-     "label": "Russian · Jets",
+     "label": "Zelenskyy",
      "articles": [
       {
-       "title": "Japan sends up jets after alleged Russian incursion of its airspace",
-       "url": "https://www.bbc.co.uk/news/articles/c60evw20qe47o?at_medium=RSS&at_campaign=rss",
-       "source": "BBC World",
-       "published_at": "2026-11-17 07:44"
+       "title": "Joe Biden criticizes Zelenskyy as ‘moody’ and ‘not as grateful’ in new memoir",
+       "url": "https://www.theguardian.com/us-news/2026/nov/17/biden-memoir-zelenskyy-ukraine",
+       "source": "Guardian World",
+       "published_at": "2026-11-17 18:27"
       },
       {
-       "title": "Fire reported at major Russian petrochemical complex in Bashkortostan amid drone attack",
-       "url": "https://kyivindependent.com/fire-reported-at-major-russian-petrochemical-complex-in-bashkortostan-amid-drone-attack/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-11-17 04:23"
-      },
-      {
-       "title": "South Korea scrambles fighter jets after Russian military aircraft enter air defense zone",
-       "url": "https://kyivindependent.com/south-korea-scrambles-fighter-jets-after-russian-military-aircraft-enter-air-defense-zone/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-11-17 03:26"
+       "title": "Zelenskyy urges allies to send air defence deliveries without delay as Russia intensifies attacks – as it happened",
+       "url": "https://www.theguardian.com/world/live/2026/nov/17/europe-ukraine-russia-crimea-kerch-bridge-attack-latest-news-updates",
+       "source": "Guardian World",
+       "published_at": "2026-11-17 16:40"
       }
      ]
     },
@@ -616,10 +631,10 @@
      "label": "More headlines",
      "articles": [
       {
-       "title": "Ukrainian Sense Bank fires CEO implicated in money laundering scheme",
-       "url": "https://kyivindependent.com/ukrainian-sense-bank-fires-ceo-implicated-in-money-laundering-scheme/",
+       "title": "15 Ukrainians among 46 injured in Prague train collision",
+       "url": "https://kyivindependent.com/15-ukrainians-among-46-injured-in-prague-train-collision-2/",
        "source": "Kyiv Independent",
-       "published_at": "2026-11-17 09:59"
+       "published_at": "2026-11-17 17:35"
       }
      ]
     }
