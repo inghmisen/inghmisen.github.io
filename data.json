@@ -1,12 +1,12 @@
 {
- "date": "Tuesday 17 November 2026",
- "generated_at": "19:41 UTC",
+ "date": "Wednesday 18 November 2026",
+ "generated_at": "02:14 UTC",
  "error": null,
  "total_stories": 78,
  "fx": {
   "pair": "EUR/MAD",
-  "rate": 10.978,
-  "change_pct": 0.0
+  "rate": 10.972,
+  "change_pct": -0.05
  },
  "lanes": [
   {
@@ -33,19 +33,36 @@
      ]
     },
     {
-     "label": "Openai",
+     "label": "Llm",
      "articles": [
       {
-       "title": "California sues OpenAI over rogue AI hacking incidents",
-       "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
-       "source": "Verge AI",
-       "published_at": "2026-11-16 20:46"
+       "title": "Not Everything Needs an LLM",
+       "url": "https://newsletter.posthog.com/p/decision-models",
+       "source": "Hacker News",
+       "published_at": "2026-11-17 18:16"
       },
       {
-       "title": "OpenAI wants to stop deepfakes from overwhelming child abuse tiplines",
-       "url": "https://www.theverge.com/policy/1034527/openai-csam-classifier",
-       "source": "Verge AI",
-       "published_at": "2026-11-16 19:23"
+       "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+       "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+       "source": "HuggingFace",
+       "published_at": "2026-11-12 19:07"
+      }
+     ]
+    },
+    {
+     "label": "Harness",
+     "articles": [
+      {
+       "title": "What is the best harness for each model?",
+       "url": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/",
+       "source": "Hacker News",
+       "published_at": "2026-11-17 14:53"
+      },
+      {
+       "title": "harness-hub/Qwen3.8-27B-pi-adapted · 146 ♥",
+       "url": "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted",
+       "source": "HF new models",
+       "published_at": "2026-11-16 06:52"
       }
      ]
     },
@@ -70,16 +87,16 @@
      "label": "More headlines",
      "articles": [
       {
+       "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
+       "url": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
+       "source": "Verge AI",
+       "published_at": "2026-11-17 21:00"
+      },
+      {
        "title": "GPT‑6.2 Astra and Sol",
        "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
        "source": "Hacker News",
        "published_at": "2026-11-17 17:46"
-      },
-      {
-       "title": "What is the best harness for each model?",
-       "url": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/",
-       "source": "Hacker News",
-       "published_at": "2026-11-17 14:53"
       },
       {
        "title": "How the Claude Code team thinks about verification",
@@ -88,19 +105,19 @@
        "published_at": "2026-11-17 10:20"
       },
       {
-       "title": "sensenova/SenseNova-Loop-9B · 134 ♥",
+       "title": "sensenova/SenseNova-Loop-9B · 195 ♥",
        "url": "https://huggingface.co/sensenova/SenseNova-Loop-9B",
        "source": "HF new models",
        "published_at": "2026-11-17 10:16"
       },
       {
-       "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
-       "url": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
+       "title": "California sues OpenAI over rogue AI hacking incidents",
+       "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
        "source": "Verge AI",
-       "published_at": "2026-11-16 19:24"
+       "published_at": "2026-11-16 20:46"
       },
       {
-       "title": "n4ze3m/tiny-voca · 225 ♥",
+       "title": "n4ze3m/tiny-voca · 232 ♥",
        "url": "https://huggingface.co/n4ze3m/tiny-voca",
        "source": "HF new models",
        "published_at": "2026-11-14 15:46"
@@ -112,34 +129,22 @@
        "published_at": "2026-11-13 14:05"
       },
       {
-       "title": "meituan-longcat/LongCat-Video-Avatar-1.6 · 192 ♥",
+       "title": "meituan-longcat/LongCat-Video-Avatar-1.6 · 203 ♥",
        "url": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.6",
        "source": "HF new models",
        "published_at": "2026-11-13 02:45"
       },
       {
-       "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-       "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
-       "source": "HuggingFace",
-       "published_at": "2026-11-12 19:07"
-      },
-      {
-       "title": "higurashi-ai/Haru-4B · 485 ♥",
+       "title": "higurashi-ai/Haru-4B · 508 ♥",
        "url": "https://huggingface.co/higurashi-ai/Haru-4B",
        "source": "HF new models",
        "published_at": "2026-11-12 11:05"
       },
       {
-       "title": "Zyphra/ZONOS3-Mini · 506 ♥",
+       "title": "Zyphra/ZONOS3-Mini · 510 ♥",
        "url": "https://huggingface.co/Zyphra/ZONOS3-Mini",
        "source": "HF new models",
        "published_at": "2026-11-09 05:03"
-      },
-      {
-       "title": "Comfy-Org/MiniMax-H3-Image · 516 ♥",
-       "url": "https://huggingface.co/Comfy-Org/MiniMax-H3-Image",
-       "source": "HF new models",
-       "published_at": "2026-11-08 20:37"
       }
      ]
     }
@@ -185,6 +190,12 @@
        "published_at": "2026-11-17 10:35"
       },
       {
+       "title": "Ready to COMMIT?",
+       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FX3pNUVRsMjRBM1NKM0ZJYVZ4S3hEcFJaVUZoQTNvRGxCeVMtVG1VV1A4ZzIteVUyZHNDNXVYTGd0SkJmU3BTdmdDVXoxbVltMmUtajVtQ2p4VkdaUi13eGdMaHlmLU9WYkQxcDBVSUs?oc=5",
+       "source": "UToday",
+       "published_at": "2026-11-17 09:49"
+      },
+      {
        "title": "De wetenschap achter toezicht",
        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPY25jUU9oOUZZY0FTU0hRR3RKSVRyaFVGTmZpZi12bWhtc2dSRm5WMTlDYWFKd1FBRTZCTzhOQXV4LUd0OU5EZGNaNGtPWnQzWWZDbUFBWURkWm16NGI2bVpYbFJWVUxsV3pZandJOHpGLVhUb01UYndoYVhpNTE0Ny12cVVULXd2VnRuQ0JIZzZlV3ZBd09jMVh4WUFYU2c?oc=5",
        "source": "UToday",
@@ -213,12 +224,6 @@
        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNT0lhZmFoU1Y2bDZaSFFuLW1vYk5xM3NuXzR6Q2F5MHhHbC1nVXVheEQ4M1hmdGNSZkdwWXFhV0huWTJPZ2EwaVgyUFFJbElpUkdBT3ptcjZBajRMOXFud3hZekpZdXpIS192aXhXQUg2QVZMd2xtT1pRVUxBSTh1SWZielNIYkNoYW1iLV9tUEU?oc=5",
        "source": "UToday",
        "published_at": "2026-11-16 14:23"
-      },
-      {
-       "title": "News",
-       "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE5DZjZmWEpidW1jRkVsZXoyMDc0R05HT1Rqd1dSVk5OTFUyWXowWFg0YVkxUDlQX1k5WHVGWlAwVQ?oc=5",
-       "source": "UToday",
-       "published_at": "2026-11-12 14:55"
       }
      ]
     }
@@ -232,59 +237,25 @@
    "note": null,
    "clusters": [
     {
-     "label": "المغرب",
-     "articles": [
-      {
-       "title": "المغرب وأمريكا يعززان التنسيق المشترك",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d9%88%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d8%a7-%d9%8a%d8%b9%d8%b2%d8%b2%d8%a7%d9%86-%d8%a7%d9%84%d8%aa%d9%86%d8%b3%d9%8a%d9%82-%d8%a7%d9%84%d9%85%d8%b4%d8%aa%d8%b1-1841445.html",
-       "source": "Hespress",
-       "published_at": "2026-11-17 18:21"
-      },
-      {
-       "title": "المغرب يسرع مشاريع الربط المائي ويستعد لإنجاز محطات تحلية جديدة",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d9%8a%d8%b3%d8%b1%d8%b9-%d9%85%d8%b4%d8%a7%d8%b1%d9%8a%d8%b9-%d8%a7%d9%84%d8%b1%d8%a8%d8%b7-%d8%a7%d9%84%d9%85%d8%a7%d8%a6%d9%8a-%d9%88%d9%8a%d8%b3%d8%aa%d8%b9-1841425.html",
-       "source": "Hespress",
-       "published_at": "2026-11-17 18:08"
-      },
-      {
-       "title": "المغرب وموريتانيا يحيّنان اتفاقا تجاريا",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d9%88%d9%85%d9%88%d8%b1%d9%8a%d8%aa%d8%a7%d9%86%d9%8a%d8%a7-%d9%8a%d8%ad%d9%8a%d9%91%d9%86%d8%a7%d9%86-%d8%a7%d8%aa%d9%81%d8%a7%d9%82%d8%a7-%d8%aa%d8%ac%d8%a7-1841415.html",
-       "source": "Hespress",
-       "published_at": "2026-11-17 17:23"
-      }
-     ]
-    },
-    {
-     "label": "منتخب",
-     "articles": [
-      {
-       "title": "تشكيلة \"الأسود\" لمواجهة منتخب النيجر",
-       "url": "https://www.hespress.com/%d8%aa%d8%b4%d9%83%d9%8a%d9%84%d8%a9-%d8%a7%d9%84%d8%a3%d8%b3%d9%88%d8%af-%d9%84%d9%85%d9%88%d8%a7%d8%ac%d9%87%d8%a9-%d9%85%d9%86%d8%aa%d8%ae%d8%a8-%d8%a7%d9%84%d9%86%d9%8a%d8%ac%d8%b1-2-1841485.html",
-       "source": "Hespress",
-       "published_at": "2026-11-17 19:14"
-      },
-      {
-       "title": "منتخب الطوغو يسحق الجزائر بثلاثية",
-       "url": "https://www.hespress.com/%d9%85%d9%86%d8%aa%d8%ae%d8%a8-%d8%a7%d9%84%d8%b7%d9%88%d8%ba%d9%88-%d9%8a%d8%b3%d8%ad%d9%82-%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1-%d8%a8%d8%ab%d9%84%d8%a7%d8%ab%d9%8a%d8%a9-1841428.html",
-       "source": "Hespress",
-       "published_at": "2026-11-17 17:58"
-      }
-     ]
-    },
-    {
      "label": "إلى",
      "articles": [
       {
-       "title": "بوتين يصل إلى الصين للقاء ترامب وشي",
-       "url": "https://www.hespress.com/%d8%a8%d9%88%d8%aa%d9%8a%d9%86-%d9%8a%d8%b5%d9%84-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d8%b5%d9%8a%d9%86-%d9%84%d9%84%d9%82%d8%a7%d8%a1-%d8%aa%d8%b1%d8%a7%d9%85%d8%a8-%d9%88%d8%b4%d9%8a-1841488.html",
+       "title": "وهبي: نطمح إلى التتويج بكأس إفريقيا",
+       "url": "https://www.hespress.com/%d9%88%d9%87%d8%a8%d9%8a-%d9%86%d8%b7%d9%85%d8%ad-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d8%aa%d8%aa%d9%88%d9%8a%d8%ac-%d8%a8%d9%83%d8%a3%d8%b3-%d8%a5%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7-1841650.html",
        "source": "Hespress",
-       "published_at": "2026-11-17 19:05"
+       "published_at": "2026-11-17 23:29"
       },
       {
-       "title": "جدل \"مراكش للأغنياء\" يدفع وزير السياحة إلى التراجع وتقديم توضيحات",
-       "url": "https://www.hespress.com/%d8%ac%d8%af%d9%84-%d9%85%d8%b1%d8%a7%d9%83%d8%b4-%d9%84%d9%84%d8%a3%d8%ba%d9%86%d9%8a%d8%a7%d8%a1-%d9%8a%d8%af%d9%81%d8%b9-%d9%88%d8%b2%d9%8a%d8%b1-%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%ad%d8%a9-1841474.html",
+       "title": "رصيف الصحافة: رفض التجنيد يدفع شباب تندوف إلى الفرار من المخيمات",
+       "url": "https://www.hespress.com/%d8%b1%d8%b5%d9%8a%d9%81-%d8%a7%d9%84%d8%b5%d8%ad%d8%a7%d9%81%d8%a9-%d8%b1%d9%81%d8%b6-%d8%a7%d9%84%d8%aa%d8%ac%d9%86%d9%8a%d8%af-%d9%8a%d8%af%d9%81%d8%b9-%d8%b4%d8%a8%d8%a7%d8%a8-%d8%aa%d9%86%d8%af-1841602.html",
        "source": "Hespress",
-       "published_at": "2026-11-17 19:00"
+       "published_at": "2026-11-17 23:00"
+      },
+      {
+       "title": "كدمات تلميذة تجر أستاذا إلى التحقيق",
+       "url": "https://www.hespress.com/%d9%83%d8%af%d9%85%d8%a7%d8%aa-%d8%aa%d9%84%d9%85%d9%8a%d8%b0%d8%a9-%d8%aa%d8%ac%d8%b1-%d8%a3%d8%b3%d8%aa%d8%a7%d8%b0%d8%a7-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d8%aa%d8%ad%d9%82%d9%8a%d9%82-1841628.html",
+       "source": "Hespress",
+       "published_at": "2026-11-17 22:58"
       }
      ]
     },
@@ -309,10 +280,58 @@
      "label": "More headlines",
      "articles": [
       {
-       "title": "مخالفات السير تدر نحو 10 ملايين درهم",
-       "url": "https://www.hespress.com/%d9%85%d8%ae%d8%a7%d9%84%d9%81%d8%a7%d8%aa-%d8%a7%d9%84%d8%b3%d9%8a%d8%b1-%d8%aa%d8%af%d8%b1-%d9%86%d8%ad%d9%88-10-%d9%85%d9%84%d8%a7%d9%8a%d9%8a%d9%86-%d8%af%d8%b1%d9%87%d9%85-1841409.html",
+       "title": "الحركة الطلابية تدخل برلمان صربيا وتطوي 14 عاما من هيمنة الحزب الحاكم",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%ad%d8%b1%d9%83%d8%a9-%d8%a7%d9%84%d8%b7%d9%84%d8%a7%d8%a8%d9%8a%d8%a9-%d8%aa%d8%af%d8%ae%d9%84-%d8%a8%d8%b1%d9%84%d9%85%d8%a7%d9%86-%d8%b5%d8%b1%d8%a8%d9%8a%d8%a7-%d9%88%d8%aa%d8%b7-1841582.html",
        "source": "Hespress",
-       "published_at": "2026-11-17 18:46"
+       "published_at": "2026-11-18 02:00"
+      },
+      {
+       "title": "الوداد يؤدي 320 مليونا للنادي البوليفي",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%88%d8%af%d8%a7%d8%af-%d9%8a%d8%a4%d8%af%d9%8a-320-%d9%85%d9%84%d9%8a%d9%88%d9%86%d8%a7-%d9%84%d9%84%d9%86%d8%a7%d8%af%d9%8a-%d8%a7%d9%84%d8%a8%d9%88%d9%84%d9%8a%d9%81%d9%8a-1841644.html",
+       "source": "Hespress",
+       "published_at": "2026-11-18 01:33"
+      },
+      {
+       "title": "الحكومة تضخ 600 مليون درهم إضافية لتسريع الاستفادة من دعم السكن",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d8%a9-%d8%aa%d8%b6%d8%ae-600-%d9%85%d9%84%d9%8a%d9%88%d9%86-%d8%af%d8%b1%d9%87%d9%85-%d8%a5%d8%b6%d8%a7%d9%81%d9%8a%d8%a9-%d9%84%d8%aa%d8%b3%d8%b1%d9%8a%d8%b9-1841460.html",
+       "source": "Hespress",
+       "published_at": "2026-11-18 01:00"
+      },
+      {
+       "title": "إيران تنفي التخطيط لهجوم في واشنطن",
+       "url": "https://www.hespress.com/%d8%a5%d9%8a%d8%b1%d8%a7%d9%86-%d8%aa%d9%86%d9%81%d9%8a-%d8%a7%d9%84%d8%aa%d8%ae%d8%b7%d9%8a%d8%b7-%d9%84%d9%87%d8%ac%d9%88%d9%85-%d9%81%d9%8a-%d9%88%d8%a7%d8%b4%d9%86%d8%b7%d9%86-1841510.html",
+       "source": "Hespress",
+       "published_at": "2026-11-18 00:42"
+      },
+      {
+       "title": "إيرادات \"إنفيديا\" تتجاوز 115 مليار دولار",
+       "url": "https://www.hespress.com/%d8%a5%d9%8a%d8%b1%d8%a7%d8%af%d8%a7%d8%aa-%d8%a5%d9%86%d9%81%d9%8a%d8%af%d9%8a%d8%a7-%d8%aa%d8%aa%d8%ac%d8%a7%d9%88%d8%b2-115-%d9%85%d9%84%d9%8a%d8%a7%d8%b1-%d8%af%d9%88%d9%84%d8%a7%d8%b1-1841609.html",
+       "source": "Hespress",
+       "published_at": "2026-11-18 00:01"
+      },
+      {
+       "title": "تصفيات كأس أمم إفريقيا تكشف أول المتأهلين وتشهد تعثرات لافتة",
+       "url": "https://www.hespress.com/9-%d9%85%d9%86%d8%aa%d8%ae%d8%a8%d8%a7%d8%aa-%d8%aa%d8%aa%d8%a3%d9%87%d9%84-%d8%a5%d9%84%d9%89-%d9%83%d8%a3%d8%b3-%d8%a5%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7-2027-1841636.html",
+       "source": "Hespress",
+       "published_at": "2026-11-18 00:00"
+      },
+      {
+       "title": "احتجاجات الأجور تهز المدن الفرنسية",
+       "url": "https://www.hespress.com/%d8%a7%d8%ad%d8%aa%d8%ac%d8%a7%d8%ac%d8%a7%d8%aa-%d8%a7%d9%84%d8%a3%d8%ac%d9%88%d8%b1-%d8%aa%d9%87%d8%b2-%d8%a7%d9%84%d9%85%d8%af%d9%86-%d8%a7%d9%84%d9%81%d8%b1%d9%86%d8%b3%d9%8a%d8%a9-1841578.html",
+       "source": "Hespress",
+       "published_at": "2026-11-17 23:14"
+      },
+      {
+       "title": "ميطا 3 | تحليل \"الأسود\" أمام النيجر",
+       "url": "https://www.hespress.com/%d9%85%d9%8a%d8%b7%d8%a7-3-%d8%aa%d8%ad%d9%84%d9%8a%d9%84-%d9%85%d9%88%d8%a7%d8%ac%d9%87%d8%a9-%d8%a7%d9%84%d8%a3%d8%b3%d9%88%d8%af-%d8%a3%d9%85%d8%a7%d9%85-%d8%a7%d9%84%d9%86%d9%8a%d8%ac%d8%b1-1841594.html",
+       "source": "Hespress",
+       "published_at": "2026-11-17 22:38"
+      },
+      {
+       "title": "انفراج مرتقب في انتقالات مهنيي الصحة",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%b5%d8%ad%d8%a9-%d8%aa%d8%a8%d8%ad%d8%ab-%d8%aa%d8%b3%d9%88%d9%8a%d8%a9-%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d9%82%d8%a7%d9%84%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d8%aa%d8%b9%d9%8a%d9%8a%d9%86-1841532.html",
+       "source": "Hespress",
+       "published_at": "2026-11-17 22:30"
       },
       {
        "title": "Inondations : Nizar Baraka annonce un dispositif d’alerte par SMS en préparation",
@@ -321,34 +340,10 @@
        "published_at": "2026-11-17 18:30"
       },
       {
-       "title": "المنتخب الأولمبي يتجاوز إثيوبيا بخماسية",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%85%d9%86%d8%aa%d8%ae%d8%a8-%d8%a7%d9%84%d8%a3%d9%88%d9%84%d9%85%d8%a8%d9%8a-%d9%8a%d8%aa%d8%ac%d8%a7%d9%88%d8%b2-%d8%a5%d8%ab%d9%8a%d9%88%d8%a8%d9%8a%d8%a7-%d8%a8%d8%ae%d9%85%d8%a7-1841456.html",
-       "source": "Hespress",
-       "published_at": "2026-11-17 18:14"
-      },
-      {
        "title": "Souveraineté alimentaire : Fouzi Lekjaa veut donner la priorité au marché intérieur",
        "url": "https://telquel.ma/instant-t/2026/11/17/souverainete-alimentaire-fouzi-lekjaa-veut-donner-la-priorite-au-marche-interieur_2018657/",
        "source": "TelQuel",
        "published_at": "2026-11-17 18:00"
-      },
-      {
-       "title": "خزان مائي جديد يعزز إمدادات النواصر",
-       "url": "https://www.hespress.com/%d8%ae%d8%b2%d8%a7%d9%86-%d9%85%d8%a7%d8%a6%d9%8a-%d8%ac%d8%af%d9%8a%d8%af-%d9%8a%d8%b9%d8%b2%d8%b2-%d8%a5%d9%85%d8%af%d8%a7%d8%af%d8%a7%d8%aa-%d8%a7%d9%84%d9%86%d9%88%d8%a7%d8%b5%d8%b1-1841419.html",
-       "source": "Hespress",
-       "published_at": "2026-11-17 17:45"
-      },
-      {
-       "title": "طلبة تركيا وقبرص يرفضون الإقصاء",
-       "url": "https://www.hespress.com/%d8%b7%d9%84%d8%a8%d8%a9-%d8%aa%d8%b1%d9%83%d9%8a%d8%a7-%d9%88%d9%82%d8%a8%d8%b1%d8%b5-%d9%8a%d8%b1%d9%81%d8%b6%d9%88%d9%86-%d8%a7%d9%84%d8%a5%d9%82%d8%b5%d8%a7%d8%a1-1841431.html",
-       "source": "Hespress",
-       "published_at": "2026-11-17 17:21"
-      },
-      {
-       "title": "الأحمر يطبع إغلاق بورصة الدار البيضاء",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%a3%d8%ad%d9%85%d8%b1-%d9%8a%d8%b7%d8%a8%d8%b9-%d8%a5%d8%ba%d9%84%d8%a7%d9%82-%d8%a8%d9%88%d8%b1%d8%b5%d8%a9-%d8%a7%d9%84%d8%af%d8%a7%d8%b1-%d8%a7%d9%84%d8%a8%d9%8a%d8%b6%d8%a7%d8%a1-1841404.html",
-       "source": "Hespress",
-       "published_at": "2026-11-17 17:09"
       },
       {
        "title": "Grand Stade Hassan II : l’américain Otis fournira les ascenseurs, escaliers mécaniques et trottoirs roulants",
@@ -377,6 +372,12 @@
      "label": "Kabinet",
      "articles": [
       {
+       "title": "Sybrand Buma moet vastgelopen kabinet redden, maar twijfel over zijn rol en kansen",
+       "url": "https://www.telegraaf.nl/politiek/sybrand-buma-moet-vastgelopen-kabinet-redden-maar-twijfel-over-zijn-rol-en-kansen/164711568.html",
+       "source": "de Telegraaf",
+       "published_at": "2026-11-17 21:25"
+      },
+      {
        "title": "Ondanks ellende in Syrië houdt kabinet voet bij stuk: asielzoekers niet welkom in Nederland",
        "url": "https://www.telegraaf.nl/politiek/ondanks-ellende-in-syrie-houdt-kabinet-voet-bij-stuk-asielzoekers-niet-welkom-in-nederland/164706862.html",
        "source": "de Telegraaf",
@@ -397,19 +398,19 @@
      ]
     },
     {
-     "label": "Wil · Model",
+     "label": "Hier",
      "articles": [
       {
-       "title": "Premier Jetten wil het ’Scandinavisch model’ verder uitbreiden: vooraf afspraken maken met oppositie, maar werkt dat hier wel?",
-       "url": "https://www.telegraaf.nl/buitenland/premier-jetten-wil-het-scandinavisch-model-verder-uitbreiden-vooraf-afspraken-maken-met-oppositie-maar-werkt-dat-hier-wel/164682365.html",
+       "title": "Premier Jetten wil het ’Scandinavische model’ verder uitbreiden: vooraf afspraken maken met oppositie, maar werkt dat hier wel?",
+       "url": "https://www.telegraaf.nl/buitenland/premier-jetten-wil-het-scandinavische-model-verder-uitbreiden-vooraf-afspraken-maken-met-oppositie-maar-werkt-dat-hier-wel/164682365.html",
        "source": "de Telegraaf",
        "published_at": "2026-11-17 19:35"
       },
       {
-       "title": "Amerikaans ministerie wil Nederlands model uitzetten, nog onduidelijk wanneer",
-       "url": "https://www.nu.nl/buitenland/6416902/amerikaans-ministerie-wil-nederlands-model-uitzetten-nog-onduidelijk-wanneer.html",
+       "title": "Livestream | Kijk hier het debat in de Tweede Kamer over de ontstane politieke situatie",
+       "url": "https://www.nu.nl/332378/video/kijk-hier-het-debat-in-de-tweede-kamer-over-de-ontstane-politieke-situatie.html",
        "source": "NU.nl",
-       "published_at": "2026-11-17 16:33"
+       "published_at": "2026-11-17 16:42"
       }
      ]
     },
@@ -417,8 +418,8 @@
      "label": "More headlines",
      "articles": [
       {
-       "title": "Asielminister Van den Brink vindt Syrië in nieuwe beoordeling veilig voor terugkeer",
-       "url": "https://www.nu.nl/politiek/6416916/asielminister-van-den-brink-vindt-syrie-in-nieuwe-beoordeling-veilig-voor-terugkeer.html",
+       "title": "Asielminister Van den Brink vindt Syrië veilig voor terugkeer in nieuwe beoordeling",
+       "url": "https://www.nu.nl/politiek/6416916/asielminister-van-den-brink-vindt-syrie-veilig-voor-terugkeer-in-nieuwe-beoordeling.html",
        "source": "NU.nl",
        "published_at": "2026-11-17 19:25"
       },
@@ -427,12 +428,6 @@
        "url": "https://www.telegraaf.nl/entertainment/media/diamantroof-schiphol-gereconstrueerd-in-docureeks-met-een-ijskoude-blik-vertelde-hij-dat-er-nog-een-rekening-openstond/164680974.html",
        "source": "de Telegraaf",
        "published_at": "2026-11-17 19:15"
-      },
-      {
-       "title": "Livestream | Kijk hier het debat in de Tweede Kamer over de ontstane politieke situatie",
-       "url": "https://www.nu.nl/332378/video/kijk-hier-het-debat-in-de-tweede-kamer-over-de-ontstane-politieke-situatie.html",
-       "source": "NU.nl",
-       "published_at": "2026-11-17 16:42"
       }
      ]
     }
@@ -446,71 +441,60 @@
    "note": null,
    "clusters": [
     {
-     "label": "Israeli · Woman",
+     "label": "Israeli · West",
      "articles": [
       {
-       "title": "Israeli settler pogrom kills Palestinian woman, wounds 10 people",
-       "url": "https://www.aljazeera.com/news/2026/11/17/israeli-settler-pogrom-kills-palestinian-woman-wounds-10-people?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-11-17 18:43"
+       "title": "Israeli parliament elects new speaker backed by Netanyahu’s opponents",
+       "url": "https://www.theguardian.com/world/2026/nov/17/israeli-parliament-elects-new-knesset-speaker-backed-netanyahus-opponents",
+       "source": "Guardian World",
+       "published_at": "2026-11-17 22:30"
       },
       {
-       "title": "UK sanctions firms over Israeli West Bank settlements",
-       "url": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
-       "source": "BBC World",
-       "published_at": "2026-11-17 18:27"
-      },
-      {
-       "title": "Israeli forces invade Syrian village leaving homes damaged",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/israeli-forces-invade-syrian-village-leaving-homes-damaged?traffic_source=rss",
+       "title": "UK sanctions Israeli settlement firms to protect two-state solution",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/aje-onl-nf_uk-sanctions-eight-israeli-settlement-firms-171126?traffic_source=rss",
        "source": "Al Jazeera",
-       "published_at": "2026-11-17 17:57"
+       "published_at": "2026-11-17 21:28"
       },
       {
        "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
        "url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
        "source": "BBC World",
-       "published_at": "2026-11-17 15:36"
+       "published_at": "2026-11-17 20:30"
+      },
+      {
+       "title": "Palestinian woman shot dead by Israeli settlers near Jericho, witnesses say",
+       "url": "https://www.theguardian.com/world/2026/nov/17/palestinian-woman-shot-dead-israeli-settlers-near-jericho-witnesses-say",
+       "source": "Guardian World",
+       "published_at": "2026-11-17 20:21"
+      },
+      {
+       "title": "‘Godmother’ of illegal Israeli West Bank settler project Daniella Weiss among group sanctioned by Australia",
+       "url": "https://www.theguardian.com/world/2026/nov/18/australia-sanctions-construction-company-west-bank-settlement-expansion-ntwnfb",
+       "source": "Guardian World",
+       "published_at": "2026-11-17 20:20"
       }
      ]
     },
     {
-     "label": "Trump · Washington",
+     "label": "Iran · War",
      "articles": [
       {
-       "title": "Trump says US taking 'very seriously' any Iranian plot against Washington",
-       "url": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss",
-       "source": "BBC World",
-       "published_at": "2026-11-17 17:37"
-      },
-      {
-       "title": "Trump claims US is ‘looking into’ Iranian bomb plot in Washington despite ‘no credible threats’",
-       "url": "https://www.theguardian.com/world/2026/nov/17/trump-reported-iranian-plot-dirty-bomb-washington",
-       "source": "Guardian World",
-       "published_at": "2026-11-17 16:03"
-      },
-      {
-       "title": "Trump warns Iran over reported ‘dirty bomb’ threat plans against Washington",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/trump-warns-iran-over-reported-dirty-bomb-threat-plans-against-washington?traffic_source=rss",
+       "title": "Iran war live: Kuwait says intercepting ‘hostile’ drone attacks",
+       "url": "https://www.aljazeera.com/news/liveblog/2026/11/18/iran-war-live-kuwait-says-intercepting-hostile-drone-attacks?traffic_source=rss",
        "source": "Al Jazeera",
-       "published_at": "2026-11-17 15:13"
-      }
-     ]
-    },
-    {
-     "label": "Israel",
-     "articles": [
-      {
-       "title": "Anti-Arab hate speech surged on social media during Israel’s election, report finds",
-       "url": "https://www.theguardian.com/world/2026/nov/17/anti-arab-hate-speech-surged-on-social-media-during-israel-election-report",
-       "source": "Guardian World",
-       "published_at": "2026-11-17 17:44"
+       "published_at": "2026-11-18 00:00"
       },
       {
-       "title": "Religious ruling revives memories in Israel of Rabin assassination",
-       "url": "https://www.aljazeera.com/news/2026/11/17/religious-ruling-revives-memories-in-israel-of-rabin-assassination?traffic_source=rss",
+       "title": "Kuwait reports drone attacks as Iran, US trade attacks on Qeshm and Bahrain",
+       "url": "https://www.aljazeera.com/news/2026/11/17/kuwait-reports-drone-attacks-as-iran-us-trade-attacks-on-qeshm-and-bahrain?traffic_source=rss",
        "source": "Al Jazeera",
-       "published_at": "2026-11-17 17:33"
+       "published_at": "2026-11-17 23:38"
+      },
+      {
+       "title": "US Navy chief says Iran war has put ‘strain’ on maritime forces",
+       "url": "https://www.aljazeera.com/news/2026/11/17/us-navy-chief-says-iran-war-has-put-strain-on-maritime-forces?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-11-17 20:57"
       }
      ]
     },
@@ -518,22 +502,28 @@
      "label": "More headlines",
      "articles": [
       {
-       "title": "Iraqi PM heads to Lebanon amid push to explore oil routes beyond Hormuz",
-       "url": "https://www.aljazeera.com/economy/2026/11/17/iraq-pm-heads-to-lebanon-amid-push-to-explore-oil-routes-beyond-hormuz?traffic_source=rss",
+       "title": "Board of Peace warns Gaza ceasefire faces imminent collapse without action",
+       "url": "https://www.aljazeera.com/news/2026/11/18/board-of-peace-warns-gaza-ceasefire-faces-imminent-collapse-without-action?traffic_source=rss",
        "source": "Al Jazeera",
-       "published_at": "2026-11-17 17:34"
+       "published_at": "2026-11-18 01:07"
       },
       {
-       "title": "Yemeni parliament approves law designating Houthis as ‘terrorists’",
-       "url": "https://www.aljazeera.com/news/2026/11/17/yemeni-parliament-approves-law-designating-houthis-as-terrorists?traffic_source=rss",
+       "title": "Top IRGC commander in Iraq for talks amid Kataib Hezbollah tensions",
+       "url": "https://www.aljazeera.com/news/2026/11/18/top-irgc-commander-in-iraq-for-talks-amid-kataib-hezbollah-tensions?traffic_source=rss",
        "source": "Al Jazeera",
-       "published_at": "2026-11-17 16:53"
+       "published_at": "2026-11-18 00:33"
       },
       {
-       "title": "Houthi advance on Aden may spur resurgence of Yemen’s southern separatists",
-       "url": "https://www.aljazeera.com/news/2026/11/17/houthi-advance-on-aden-sparks-resurgence-of-yemens-southern-separatists?traffic_source=rss",
+       "title": "Israel parliament elects Gadi Eisenkot ally Matan Kahana as new speaker",
+       "url": "https://www.aljazeera.com/news/2026/11/17/israel-parliament-elects-gadi-eisenkot-ally-matan-kahana-as-new-speaker?traffic_source=rss",
        "source": "Al Jazeera",
-       "published_at": "2026-11-17 15:26"
+       "published_at": "2026-11-17 23:28"
+      },
+      {
+       "title": "UK sanctions firms over Israeli West Bank settlements",
+       "url": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
+       "source": "BBC World",
+       "published_at": "2026-11-17 18:27"
       }
      ]
     }
@@ -547,83 +537,83 @@
    "note": null,
    "clusters": [
     {
-     "label": "Ukraine · Zelensky",
+     "label": "Russian · Crash",
      "articles": [
       {
-       "title": "Ukraine war latest: Entire section of Crimean Bridge collapses after 'seven-phase operation,' Zelensky reveals",
-       "url": "https://kyivindependent.com/ukraine-war-latest-entire-section-of-crimean-bridge-collapses-after-seven-phase-operation-zelensky-reveals/",
+       "title": "Ukraine protests IAEA chief's plan to appoint sanctioned Russian official as deputy",
+       "url": "https://kyivindependent.com/ukraine-protests-iaea-chiefs-plan-to-appoint-sanctioned-russian-official-as-deputy-2/",
        "source": "Kyiv Independent",
-       "published_at": "2026-11-17 19:20"
+       "published_at": "2026-11-18 00:07"
       },
       {
-       "title": "7 drones cross into Moldovan airspace during latest Russian attack against Ukraine, 1 spotted over Chisinau",
-       "url": "https://kyivindependent.com/7-drones-cross-into-moldovan-airspace-during-latest-russian-attack-against-ukraine-1-spotted-over-chisinau/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-11-17 18:37"
+       "title": "Russian military plane crash in Siberia kills 19",
+       "url": "https://www.aljazeera.com/news/2026/11/17/russian-military-plane-crash-in-siberia-kills-19?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-11-17 22:21"
       },
       {
-       "title": "Ukraine has proposed Oleshky-like humanitarian operation in 10 more occupied settlements, Zelensky says",
-       "url": "https://kyivindependent.com/ukraine-has-proposed-oleshky-like-humanitarian-operation-in-10-more-occupied-settlements-zelensky-says/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-11-17 17:49"
+       "title": "Moment Russian military plane crashes in Siberia, killing 19",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/moment-russian-military-plane-crashes-in-siberia-killing-19?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-11-17 21:25"
       },
       {
-       "title": "How Ukraine struck the Kerch bridge, a symbol of Putin’s rule",
-       "url": "https://www.theguardian.com/world/2026/nov/17/how-ukraine-struck-kerch-bridge-symbol-vladimir-putin-rule",
+       "title": "Ukrainian food producer shuts down after devastating Russian strike",
+       "url": "https://kyivindependent.com/ukrainian-food-producer-shuts-down-after-devastating-russian-strike/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-11-17 21:15"
+      },
+      {
+       "title": "Russian military plane crashes, killing all 19 on board",
+       "url": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
+       "source": "BBC World",
+       "published_at": "2026-11-17 21:06"
+      }
+     ]
+    },
+    {
+     "label": "Russia · Military",
+     "articles": [
+      {
+       "title": "American soldier held in UK suspected of spying for Russia taken into US military custody",
+       "url": "https://www.theguardian.com/uk-news/2026/nov/17/american-soldier-brandon-carroll-tyner-spying-us-military-custody",
        "source": "Guardian World",
-       "published_at": "2026-11-17 17:30"
+       "published_at": "2026-11-18 00:16"
+      },
+      {
+       "title": "UK hands NATO-assigned US soldier accused of Russia spying to US military",
+       "url": "https://www.aljazeera.com/news/2026/11/17/uk-hands-nato-assigned-us-soldier-accused-of-russia-spying-to-us-military?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-11-17 21:35"
+      }
+     ]
+    },
+    {
+     "label": "Ukraine · Provide",
+     "articles": [
+      {
+       "title": "Norway, Sweden to provide over $370 million in weapons funding for Ukraine",
+       "url": "https://kyivindependent.com/norway-sweden-to-provide-over-370-million-in-weapons-funding-for-ukraine/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-11-17 22:21"
+      },
+      {
+       "title": "Exclusive: EU proposes additional 45 billion euros for Ukraine, seeks to incentivize allies to step up",
+       "url": "https://kyivindependent.com/exclusive-eu-proposes-additional-45-billion-euros-for-ukraine-seeks-to-incentivize-allies-to-step-up/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-11-17 21:30"
       },
       {
        "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
        "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
        "source": "BBC World",
-       "published_at": "2026-11-17 16:56"
-      }
-     ]
-    },
-    {
-     "label": "Bridge · Kyiv",
-     "articles": [
-      {
-       "title": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
-       "url": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&at_campaign=rss",
-       "source": "BBC World",
-       "published_at": "2026-11-17 17:19"
+       "published_at": "2026-11-17 21:24"
       },
       {
-       "title": "Analysis: Why Ukraine's strike on the Crimean Bridge is such a big deal",
-       "url": "https://kyivindependent.com/analysis-why-ukraines-strike-on-the-crimean-bridge-is-such-a-big-deal/",
+       "title": "Zelensky calls on allies to exchange missiles, provide 40 more F-16 jets for Ukraine",
+       "url": "https://kyivindependent.com/zelensky-calls-on-allies-to-exchange-missiles-provide-40-more-f-16-jets-for-ukraine/",
        "source": "Kyiv Independent",
-       "published_at": "2026-11-17 16:49"
-      },
-      {
-       "title": "‘They were keeping it for a rainy day’: Ukraine’s Kerch bridge attack is proof Kyiv still has cards to play",
-       "url": "https://www.theguardian.com/world/2026/nov/17/ukraine-kerch-bridge-attack-russia-crimea-analysis",
-       "source": "Guardian World",
-       "published_at": "2026-11-17 16:40"
-      },
-      {
-       "title": "Russian milbloggers are furious about the Crimean Bridge attack",
-       "url": "https://kyivindependent.com/russian-milbloggers-are-furious-about-the-crimean-bridge-attack/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-11-17 16:22"
-      }
-     ]
-    },
-    {
-     "label": "Zelenskyy",
-     "articles": [
-      {
-       "title": "Joe Biden criticizes Zelenskyy as ‘moody’ and ‘not as grateful’ in new memoir",
-       "url": "https://www.theguardian.com/us-news/2026/nov/17/biden-memoir-zelenskyy-ukraine",
-       "source": "Guardian World",
-       "published_at": "2026-11-17 18:27"
-      },
-      {
-       "title": "Zelenskyy urges allies to send air defence deliveries without delay as Russia intensifies attacks – as it happened",
-       "url": "https://www.theguardian.com/world/live/2026/nov/17/europe-ukraine-russia-crimea-kerch-bridge-attack-latest-news-updates",
-       "source": "Guardian World",
-       "published_at": "2026-11-17 16:40"
+       "published_at": "2026-11-17 21:15"
       }
      ]
     },
@@ -631,10 +621,10 @@
      "label": "More headlines",
      "articles": [
       {
-       "title": "15 Ukrainians among 46 injured in Prague train collision",
-       "url": "https://kyivindependent.com/15-ukrainians-among-46-injured-in-prague-train-collision-2/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-11-17 17:35"
+       "title": "Trump in Asia ahead of talks with Russian and Chinese presidents",
+       "url": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&at_campaign=rss",
+       "source": "BBC World",
+       "published_at": "2026-11-17 20:25"
       }
      ]
     }
