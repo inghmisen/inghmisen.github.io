@@ -1,12 +1,12 @@
 {
  "date": "Wednesday 18 November 2026",
- "generated_at": "02:14 UTC",
- "error": null,
- "total_stories": 78,
+ "generated_at": "10:33 UTC",
+ "error": "All feeds failed for Morocco: TelQuel (HTTPError: 403 Client Error: Forbidden for url: https://telquel.ma/feed/); Hespress (HTTPError: 403 Client Error: Forbidden for url: https://hespress.com/rss/)",
+ "total_stories": 51,
  "fx": {
   "pair": "EUR/MAD",
   "rate": 10.972,
-  "change_pct": -0.05
+  "change_pct": 0.0
  },
  "lanes": [
   {
@@ -16,36 +16,19 @@
    "note": null,
    "clusters": [
     {
-     "label": "Agent",
+     "label": "Google",
      "articles": [
+      {
+       "title": "Google's AI answers reducing search traffic by 40%",
+       "url": "https://revscope.co/blog/search-seo-geo-2026/",
+       "source": "Hacker News",
+       "published_at": "2026-11-18 00:17"
+      },
       {
        "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
        "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
        "source": "Verge AI",
        "published_at": "2026-11-17 18:58"
-      },
-      {
-       "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-       "url": "https://huggingface.co/blog/qvac/botpsy",
-       "source": "HuggingFace",
-       "published_at": "2026-11-11 05:01"
-      }
-     ]
-    },
-    {
-     "label": "Llm",
-     "articles": [
-      {
-       "title": "Not Everything Needs an LLM",
-       "url": "https://newsletter.posthog.com/p/decision-models",
-       "source": "Hacker News",
-       "published_at": "2026-11-17 18:16"
-      },
-      {
-       "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-       "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
-       "source": "HuggingFace",
-       "published_at": "2026-11-12 19:07"
       }
      ]
     },
@@ -59,7 +42,7 @@
        "published_at": "2026-11-17 14:53"
       },
       {
-       "title": "harness-hub/Qwen3.8-27B-pi-adapted · 146 ♥",
+       "title": "harness-hub/Qwen3.8-27B-pi-adapted · 250 ♥",
        "url": "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted",
        "source": "HF new models",
        "published_at": "2026-11-16 06:52"
@@ -67,25 +50,26 @@
      ]
     },
     {
-     "label": "Models",
-     "articles": [
-      {
-       "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
-       "url": "https://huggingface.co/blog/openrouter",
-       "source": "HuggingFace",
-       "published_at": "2026-11-16 00:00"
-      },
-      {
-       "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
-       "url": "https://huggingface.co/blog/3d-lora-finetuning",
-       "source": "HuggingFace",
-       "published_at": "2026-11-12 00:00"
-      }
-     ]
-    },
-    {
      "label": "More headlines",
      "articles": [
+      {
+       "title": "AI is killing All About Berlin",
+       "url": "https://nicolasbouliane.com/blog/death-by-ai",
+       "source": "Hacker News",
+       "published_at": "2026-11-18 06:47"
+      },
+      {
+       "title": "Why is Gemini 4 Carbon taking so long?",
+       "url": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/",
+       "source": "Hacker News",
+       "published_at": "2026-11-18 04:14"
+      },
+      {
+       "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+       "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+       "source": "Hacker News",
+       "published_at": "2026-11-17 21:16"
+      },
       {
        "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
        "url": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
@@ -99,13 +83,7 @@
        "published_at": "2026-11-17 17:46"
       },
       {
-       "title": "How the Claude Code team thinks about verification",
-       "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
-       "source": "Hacker News",
-       "published_at": "2026-11-17 10:20"
-      },
-      {
-       "title": "sensenova/SenseNova-Loop-9B · 195 ♥",
+       "title": "sensenova/SenseNova-Loop-9B · 281 ♥",
        "url": "https://huggingface.co/sensenova/SenseNova-Loop-9B",
        "source": "HF new models",
        "published_at": "2026-11-17 10:16"
@@ -117,7 +95,13 @@
        "published_at": "2026-11-16 20:46"
       },
       {
-       "title": "n4ze3m/tiny-voca · 232 ♥",
+       "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+       "url": "https://huggingface.co/blog/openrouter",
+       "source": "HuggingFace",
+       "published_at": "2026-11-16 00:00"
+      },
+      {
+       "title": "n4ze3m/tiny-voca · 262 ♥",
        "url": "https://huggingface.co/n4ze3m/tiny-voca",
        "source": "HF new models",
        "published_at": "2026-11-14 15:46"
@@ -129,22 +113,28 @@
        "published_at": "2026-11-13 14:05"
       },
       {
-       "title": "meituan-longcat/LongCat-Video-Avatar-1.6 · 203 ♥",
+       "title": "meituan-longcat/LongCat-Video-Avatar-1.6 · 236 ♥",
        "url": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.6",
        "source": "HF new models",
        "published_at": "2026-11-13 02:45"
       },
       {
-       "title": "higurashi-ai/Haru-4B · 508 ♥",
+       "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+       "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+       "source": "HuggingFace",
+       "published_at": "2026-11-12 19:07"
+      },
+      {
+       "title": "higurashi-ai/Haru-4B · 567 ♥",
        "url": "https://huggingface.co/higurashi-ai/Haru-4B",
        "source": "HF new models",
        "published_at": "2026-11-12 11:05"
       },
       {
-       "title": "Zyphra/ZONOS3-Mini · 510 ♥",
-       "url": "https://huggingface.co/Zyphra/ZONOS3-Mini",
+       "title": "Edge0/Edge0-145B-NVFP4 · 514 ♥",
+       "url": "https://huggingface.co/Edge0/Edge0-145B-NVFP4",
        "source": "HF new models",
-       "published_at": "2026-11-09 05:03"
+       "published_at": "2026-11-11 05:22"
       }
      ]
     }
@@ -158,13 +148,13 @@
    "note": null,
    "clusters": [
     {
-     "label": "Naar",
+     "label": "Studenten",
      "articles": [
       {
-       "title": "UT’ers kunnen overstap maken naar Linux",
-       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ycXJNb0xiZ0V2UW9OeGw2eVpWUW9kSXZRUV92azBOVzFNTkRkYTVrQktRLUlVOGNBcjBQTHVjSmlWbnh5OEtya0JTcEhnYkk2d1kzYjI3ZldMb21PMmFUQ2RUYUxnbkFOaEFMUEM2R2dyVDNxUGhvT040OA?oc=5",
+       "title": "Studenten lesgeven in geldzaken? Minister van Sociale Zaken ziet er wel iets in",
+       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOVp0TkFSNG1Bc1FJR3VuakkwU1NrTVB3Ui05dm1rcFRHY3BTTFVXaS1yRExXS0FFWjJHVlQyTTk1VVIyVkRfZy1ETnBnY0FleFVWX0V5eHBaZlhaV1JWUWNpNFEteThpd1BUSlMxeDl6X0lrU2gtd2hESFJwWFVPWmdnS1hRNW91NFRUYWpuNXZva3U1T1FxOXFlRk5qWXM5czBmYUJrLUFNTFhoRk5IWQ?oc=5",
        "source": "UToday",
-       "published_at": "2026-11-17 12:53"
+       "published_at": "2026-11-18 09:11"
       },
       {
        "title": "Weinig Caribische studenten komen met Koninkrijksbeurs naar Europees Nederland",
@@ -177,6 +167,24 @@
     {
      "label": "More headlines",
      "articles": [
+      {
+       "title": "‘Soms staat er een draak van een berekening op je bord’",
+       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQjlVZmI3U1R0SHRhRkUycmN5TkwtdVZxZXVSdzdYUDI3eDJxc2hkLW92NklJUW1RM3FrbmQtRkhsd2VKT1U5MERuN3dPTXZmMWhvRjRHYi1oVDB1akU4ZVpTTXZlRzdZSUluZ05OOFRWZHdIeFdkRWNELUVsOExoWTFLVzU2ckg5OXJybmd4YW5Tbjdrc1E?oc=5",
+       "source": "UToday",
+       "published_at": "2026-11-18 10:20"
+      },
+      {
+       "title": "Anne Olde Loohuis nu definitief directeur Strategie & Beleid",
+       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNajJVYmx4a2p3d0dPeHhVakhETGF3eTJhek9BSjdENWdOLXdoV183bVZXekpYdmgtamRnZjBTSzFlRXFfU3p3ZVgwN0JZaklHNlRBajZ3S1BfWWFXRVZDU0tuMTBZMmw2aUU2dVZ1TE9LOWdGMnk4MGhxSzlYb3pJS3poMjN5dlBaUHV1WEx6aFJCVmVuRFE?oc=5",
+       "source": "UToday",
+       "published_at": "2026-11-18 09:00"
+      },
+      {
+       "title": "UT’ers kunnen overstap maken naar Linux",
+       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ycXJNb0xiZ0V2UW9OeGw2eVpWUW9kSXZRUV92azBOVzFNTkRkYTVrQktRLUlVOGNBcjBQTHVjSmlWbnh5OEtya0JTcEhnYkk2d1kzYjI3ZldMb21PMmFUQ2RUYUxnbkFOaEFMUEM2R2dyVDNxUGhvT040OA?oc=5",
+       "source": "UToday",
+       "published_at": "2026-11-17 12:53"
+      },
       {
        "title": "Vrouwen presteren beter in het onderwijs, maar krijgen minder vaak vwo-advies",
        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSW41aUl0c2EzdTVYaEQ4NDBDUW9PcWRXeExYaHA5YmwyQTVCZUNqUEk2VkZMVVhIUnNBVEpUVUdEUm9JdzZIblBaLTdzOHBRMmd2MEE1aVhycUNRRmtDU0I0TmVjdGdBZ1NncVlodklzeW9Zcl9UZHozNUlTQ0hIMEo3eXZyUVo3MWNWbTNxM2cyTG44U0RnUHRZTVdvaS13cDBZelF0T2pqUXNFSFE?oc=5",
@@ -206,24 +214,6 @@
        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbEFEazBCYzBtMEZEZFhIXzdZdVZMOTYxTVB4aWZYSjd1UWd3S2hmVkl6V1FfRVpHTlVHX3BjQmFwLXFVNkNBaU5nUWdsQ3U0cG5uMlVVQ3lJMzdnUWYzREhDRlNUX1N6WHBBTGNIS2QtTnRrczhtWWlHT24yRlppS0JRaWlMSDUzRmpEbG1nbTAwLUhWTkZz?oc=5",
        "source": "UToday",
        "published_at": "2026-11-17 09:00"
-      },
-      {
-       "title": "ET staff urge stricter enforcement of smoking policy",
-       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNFR5Y1dIZi14VC1jSUU5VVBtbjlMQkg5ZHpKcXNIUS1oMDdJd0dXSTE3U2tuTFE0b05HejctdWlJbTVVZlcwNWhsdFQzQVYwQTFPMml5RDd5b0lUUmVBNkRzVGwzTzhoSThIcnpqWV84c3hOMkRaZmJwQlhLUDdsWEc1bDdmNkpqM3kyd21SM0g3TFhFQjF5WHRBdW5VSk5naFI1NXR3Y1N3Q1YzMEFBQzR5dmdXUQ?oc=5",
-       "source": "UToday",
-       "published_at": "2026-11-17 08:27"
-      },
-      {
-       "title": "ET-medewerkers over rookbeleid: ‘UT moet regels handhaven’",
-       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNM0xvbDFMcm93aXYtbTc4M2JxYUd6VVhVZngyNENGZWE2VzNmZGFxdkhjUnJSMTdfZGdxSFBNZDVQbUg3eHU1aFBpS2RVYmtJUUNSRFAtaExybVpjNGpfTEYxYVdaM2ZESkRKcWNET2Jvc21CRTJEdDE2YldmOHVtaFlKdWpGUXVHNkItbE9SSnVsTWc5YVVLUDZJYW9GY0ZM?oc=5",
-       "source": "UToday",
-       "published_at": "2026-11-17 08:27"
-      },
-      {
-       "title": "Opnieuw forse daling internationale studenten in de VS",
-       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNT0lhZmFoU1Y2bDZaSFFuLW1vYk5xM3NuXzR6Q2F5MHhHbC1nVXVheEQ4M1hmdGNSZkdwWXFhV0huWTJPZ2EwaVgyUFFJbElpUkdBT3ptcjZBajRMOXFud3hZekpZdXpIS192aXhXQUg2QVZMd2xtT1pRVUxBSTh1SWZielNIYkNoYW1iLV9tUEU?oc=5",
-       "source": "UToday",
-       "published_at": "2026-11-16 14:23"
       }
      ]
     }
@@ -234,133 +224,9 @@
    "key": "morocco",
    "title": "Morocco",
    "icon": "🇲🇦",
-   "note": null,
-   "clusters": [
-    {
-     "label": "إلى",
-     "articles": [
-      {
-       "title": "وهبي: نطمح إلى التتويج بكأس إفريقيا",
-       "url": "https://www.hespress.com/%d9%88%d9%87%d8%a8%d9%8a-%d9%86%d8%b7%d9%85%d8%ad-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d8%aa%d8%aa%d9%88%d9%8a%d8%ac-%d8%a8%d9%83%d8%a3%d8%b3-%d8%a5%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7-1841650.html",
-       "source": "Hespress",
-       "published_at": "2026-11-17 23:29"
-      },
-      {
-       "title": "رصيف الصحافة: رفض التجنيد يدفع شباب تندوف إلى الفرار من المخيمات",
-       "url": "https://www.hespress.com/%d8%b1%d8%b5%d9%8a%d9%81-%d8%a7%d9%84%d8%b5%d8%ad%d8%a7%d9%81%d8%a9-%d8%b1%d9%81%d8%b6-%d8%a7%d9%84%d8%aa%d8%ac%d9%86%d9%8a%d8%af-%d9%8a%d8%af%d9%81%d8%b9-%d8%b4%d8%a8%d8%a7%d8%a8-%d8%aa%d9%86%d8%af-1841602.html",
-       "source": "Hespress",
-       "published_at": "2026-11-17 23:00"
-      },
-      {
-       "title": "كدمات تلميذة تجر أستاذا إلى التحقيق",
-       "url": "https://www.hespress.com/%d9%83%d8%af%d9%85%d8%a7%d8%aa-%d8%aa%d9%84%d9%85%d9%8a%d8%b0%d8%a9-%d8%aa%d8%ac%d8%b1-%d8%a3%d8%b3%d8%aa%d8%a7%d8%b0%d8%a7-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d8%aa%d8%ad%d9%82%d9%8a%d9%82-1841628.html",
-       "source": "Hespress",
-       "published_at": "2026-11-17 22:58"
-      }
-     ]
-    },
-    {
-     "label": "Sécurité",
-     "articles": [
-      {
-       "title": "Sahara : À Rabat, Mike Waltz maintient le cap sur l’autonomie après le veto au Conseil de sécurité",
-       "url": "https://telquel.ma/instant-t/2026/11/17/sahara-a-rabat-mike-waltz-maintient-le-cap-sur-lautonomie-apres-le-veto-au-conseil-de-securite_2018621/",
-       "source": "TelQuel",
-       "published_at": "2026-11-17 17:14"
-      },
-      {
-       "title": "Sécurité : la DGSN crée deux unités cynotechniques à Meknès et à Taza",
-       "url": "https://telquel.ma/instant-t/2026/11/17/securite-la-dgsn-cree-deux-unites-cynotechniques-a-meknes-et-a-taza_2018635/",
-       "source": "TelQuel",
-       "published_at": "2026-11-17 15:30"
-      }
-     ]
-    },
-    {
-     "label": "More headlines",
-     "articles": [
-      {
-       "title": "الحركة الطلابية تدخل برلمان صربيا وتطوي 14 عاما من هيمنة الحزب الحاكم",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%ad%d8%b1%d9%83%d8%a9-%d8%a7%d9%84%d8%b7%d9%84%d8%a7%d8%a8%d9%8a%d8%a9-%d8%aa%d8%af%d8%ae%d9%84-%d8%a8%d8%b1%d9%84%d9%85%d8%a7%d9%86-%d8%b5%d8%b1%d8%a8%d9%8a%d8%a7-%d9%88%d8%aa%d8%b7-1841582.html",
-       "source": "Hespress",
-       "published_at": "2026-11-18 02:00"
-      },
-      {
-       "title": "الوداد يؤدي 320 مليونا للنادي البوليفي",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%88%d8%af%d8%a7%d8%af-%d9%8a%d8%a4%d8%af%d9%8a-320-%d9%85%d9%84%d9%8a%d9%88%d9%86%d8%a7-%d9%84%d9%84%d9%86%d8%a7%d8%af%d9%8a-%d8%a7%d9%84%d8%a8%d9%88%d9%84%d9%8a%d9%81%d9%8a-1841644.html",
-       "source": "Hespress",
-       "published_at": "2026-11-18 01:33"
-      },
-      {
-       "title": "الحكومة تضخ 600 مليون درهم إضافية لتسريع الاستفادة من دعم السكن",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d8%a9-%d8%aa%d8%b6%d8%ae-600-%d9%85%d9%84%d9%8a%d9%88%d9%86-%d8%af%d8%b1%d9%87%d9%85-%d8%a5%d8%b6%d8%a7%d9%81%d9%8a%d8%a9-%d9%84%d8%aa%d8%b3%d8%b1%d9%8a%d8%b9-1841460.html",
-       "source": "Hespress",
-       "published_at": "2026-11-18 01:00"
-      },
-      {
-       "title": "إيران تنفي التخطيط لهجوم في واشنطن",
-       "url": "https://www.hespress.com/%d8%a5%d9%8a%d8%b1%d8%a7%d9%86-%d8%aa%d9%86%d9%81%d9%8a-%d8%a7%d9%84%d8%aa%d8%ae%d8%b7%d9%8a%d8%b7-%d9%84%d9%87%d8%ac%d9%88%d9%85-%d9%81%d9%8a-%d9%88%d8%a7%d8%b4%d9%86%d8%b7%d9%86-1841510.html",
-       "source": "Hespress",
-       "published_at": "2026-11-18 00:42"
-      },
-      {
-       "title": "إيرادات \"إنفيديا\" تتجاوز 115 مليار دولار",
-       "url": "https://www.hespress.com/%d8%a5%d9%8a%d8%b1%d8%a7%d8%af%d8%a7%d8%aa-%d8%a5%d9%86%d9%81%d9%8a%d8%af%d9%8a%d8%a7-%d8%aa%d8%aa%d8%ac%d8%a7%d9%88%d8%b2-115-%d9%85%d9%84%d9%8a%d8%a7%d8%b1-%d8%af%d9%88%d9%84%d8%a7%d8%b1-1841609.html",
-       "source": "Hespress",
-       "published_at": "2026-11-18 00:01"
-      },
-      {
-       "title": "تصفيات كأس أمم إفريقيا تكشف أول المتأهلين وتشهد تعثرات لافتة",
-       "url": "https://www.hespress.com/9-%d9%85%d9%86%d8%aa%d8%ae%d8%a8%d8%a7%d8%aa-%d8%aa%d8%aa%d8%a3%d9%87%d9%84-%d8%a5%d9%84%d9%89-%d9%83%d8%a3%d8%b3-%d8%a5%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7-2027-1841636.html",
-       "source": "Hespress",
-       "published_at": "2026-11-18 00:00"
-      },
-      {
-       "title": "احتجاجات الأجور تهز المدن الفرنسية",
-       "url": "https://www.hespress.com/%d8%a7%d8%ad%d8%aa%d8%ac%d8%a7%d8%ac%d8%a7%d8%aa-%d8%a7%d9%84%d8%a3%d8%ac%d9%88%d8%b1-%d8%aa%d9%87%d8%b2-%d8%a7%d9%84%d9%85%d8%af%d9%86-%d8%a7%d9%84%d9%81%d8%b1%d9%86%d8%b3%d9%8a%d8%a9-1841578.html",
-       "source": "Hespress",
-       "published_at": "2026-11-17 23:14"
-      },
-      {
-       "title": "ميطا 3 | تحليل \"الأسود\" أمام النيجر",
-       "url": "https://www.hespress.com/%d9%85%d9%8a%d8%b7%d8%a7-3-%d8%aa%d8%ad%d9%84%d9%8a%d9%84-%d9%85%d9%88%d8%a7%d8%ac%d9%87%d8%a9-%d8%a7%d9%84%d8%a3%d8%b3%d9%88%d8%af-%d8%a3%d9%85%d8%a7%d9%85-%d8%a7%d9%84%d9%86%d9%8a%d8%ac%d8%b1-1841594.html",
-       "source": "Hespress",
-       "published_at": "2026-11-17 22:38"
-      },
-      {
-       "title": "انفراج مرتقب في انتقالات مهنيي الصحة",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%b5%d8%ad%d8%a9-%d8%aa%d8%a8%d8%ad%d8%ab-%d8%aa%d8%b3%d9%88%d9%8a%d8%a9-%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d9%82%d8%a7%d9%84%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d8%aa%d8%b9%d9%8a%d9%8a%d9%86-1841532.html",
-       "source": "Hespress",
-       "published_at": "2026-11-17 22:30"
-      },
-      {
-       "title": "Inondations : Nizar Baraka annonce un dispositif d’alerte par SMS en préparation",
-       "url": "https://telquel.ma/instant-t/2026/11/17/inondations-nizar-baraka-annonce-un-dispositif-dalerte-par-sms-en-preparation_2018666/",
-       "source": "TelQuel",
-       "published_at": "2026-11-17 18:30"
-      },
-      {
-       "title": "Souveraineté alimentaire : Fouzi Lekjaa veut donner la priorité au marché intérieur",
-       "url": "https://telquel.ma/instant-t/2026/11/17/souverainete-alimentaire-fouzi-lekjaa-veut-donner-la-priorite-au-marche-interieur_2018657/",
-       "source": "TelQuel",
-       "published_at": "2026-11-17 18:00"
-      },
-      {
-       "title": "Grand Stade Hassan II : l’américain Otis fournira les ascenseurs, escaliers mécaniques et trottoirs roulants",
-       "url": "https://telquel.ma/instant-t/2026/11/17/grand-stade-hassan-ii-lamericain-otis-fournira-les-ascenseurs-escaliers-mecaniques-et-trottoirs-roulants_2018646/",
-       "source": "TelQuel",
-       "published_at": "2026-11-17 16:30"
-      },
-      {
-       "title": "Santé en bourse : les performances de la semaine du 9 au 13 novembre",
-       "url": "https://telquel.ma/2026/11/17/sante-en-bourse-les-performances-de-la-semaine-du-9-au-13-novembre_2018650",
-       "source": "TelQuel",
-       "published_at": "2026-11-17 16:15"
-      }
-     ]
-    }
-   ],
-   "count": 18
+   "note": "Feeds unreachable right now.",
+   "clusters": [],
+   "count": 0
   },
   {
    "key": "netherlands",
@@ -369,70 +235,30 @@
    "note": null,
    "clusters": [
     {
-     "label": "Kabinet",
+     "label": "",
      "articles": [
       {
-       "title": "Sybrand Buma moet vastgelopen kabinet redden, maar twijfel over zijn rol en kansen",
-       "url": "https://www.telegraaf.nl/politiek/sybrand-buma-moet-vastgelopen-kabinet-redden-maar-twijfel-over-zijn-rol-en-kansen/164711568.html",
-       "source": "de Telegraaf",
-       "published_at": "2026-11-17 21:25"
-      },
-      {
-       "title": "Ondanks ellende in Syrië houdt kabinet voet bij stuk: asielzoekers niet welkom in Nederland",
-       "url": "https://www.telegraaf.nl/politiek/ondanks-ellende-in-syrie-houdt-kabinet-voet-bij-stuk-asielzoekers-niet-welkom-in-nederland/164706862.html",
-       "source": "de Telegraaf",
-       "published_at": "2026-11-17 19:02"
-      },
-      {
-       "title": "Jesse Klaver na nieuw vertrouwen kabinet: ‘Blokkades VVD nog niet weg’",
-       "url": "https://www.telegraaf.nl/video/jesse-klaver-na-nieuw-vertrouwen-kabinet-blokkades-vvd-nog-niet-weg/164705407.html",
-       "source": "de Telegraaf",
-       "published_at": "2026-11-17 18:31"
-      },
-      {
-       "title": "Dagenlang praten om een conflict op te lossen, zoals het kabinet deed, vaak verrassend effectief: ’Dan hoor je soms ineens: hé, dat wist ik helemaal niet’",
-       "url": "https://www.telegraaf.nl/binnenland/dagenlang-praten-om-een-conflict-op-te-lossen-zoals-het-kabinet-deed-vaak-verrassend-effectief-dan-hoor-je-soms-ineens-he-dat-wist-ik-helemaal-niet/164659224.html",
-       "source": "de Telegraaf",
-       "published_at": "2026-11-17 17:55"
-      }
-     ]
-    },
-    {
-     "label": "Hier",
-     "articles": [
-      {
-       "title": "Premier Jetten wil het ’Scandinavische model’ verder uitbreiden: vooraf afspraken maken met oppositie, maar werkt dat hier wel?",
-       "url": "https://www.telegraaf.nl/buitenland/premier-jetten-wil-het-scandinavische-model-verder-uitbreiden-vooraf-afspraken-maken-met-oppositie-maar-werkt-dat-hier-wel/164682365.html",
-       "source": "de Telegraaf",
-       "published_at": "2026-11-17 19:35"
-      },
-      {
-       "title": "Livestream | Kijk hier het debat in de Tweede Kamer over de ontstane politieke situatie",
-       "url": "https://www.nu.nl/332378/video/kijk-hier-het-debat-in-de-tweede-kamer-over-de-ontstane-politieke-situatie.html",
+       "title": "Amsterdam is eerste gemeente met ligtoilet voor mensen met ernstige beperking",
+       "url": "https://www.nu.nl/binnenland/6416966/amsterdam-is-eerste-gemeente-met-ligtoilet-voor-mensen-met-ernstige-beperking.html",
        "source": "NU.nl",
-       "published_at": "2026-11-17 16:42"
-      }
-     ]
-    },
-    {
-     "label": "More headlines",
-     "articles": [
-      {
-       "title": "Asielminister Van den Brink vindt Syrië veilig voor terugkeer in nieuwe beoordeling",
-       "url": "https://www.nu.nl/politiek/6416916/asielminister-van-den-brink-vindt-syrie-veilig-voor-terugkeer-in-nieuwe-beoordeling.html",
-       "source": "NU.nl",
-       "published_at": "2026-11-17 19:25"
+       "published_at": "2026-11-18 09:59"
       },
       {
-       "title": "Diamantroof Schiphol gereconstrueerd in docureeks: ’Met een ijskoude blik vertelde hij dat er nog een rekening openstond’",
-       "url": "https://www.telegraaf.nl/entertainment/media/diamantroof-schiphol-gereconstrueerd-in-docureeks-met-een-ijskoude-blik-vertelde-hij-dat-er-nog-een-rekening-openstond/164680974.html",
-       "source": "de Telegraaf",
-       "published_at": "2026-11-17 19:15"
+       "title": "Krijgt VVD meer invloed in kabinet na crisis? 'Verhoudingen staan op scherp'",
+       "url": "https://www.nu.nl/nujij/6416893/krijgt-vvd-meer-invloed-in-kabinet-na-crisis-verhoudingen-staan-op-scherp.html",
+       "source": "NU.nl",
+       "published_at": "2026-11-18 09:38"
+      },
+      {
+       "title": "Rechtszaak tegen Selena Gomez en haar bedrijf wegens fraude ingetrokken",
+       "url": "https://www.nu.nl/achterklap/6416952/rechtszaak-tegen-selena-gomez-en-haar-bedrijf-wegens-fraude-ingetrokken.html",
+       "source": "NU.nl",
+       "published_at": "2026-11-18 08:53"
       }
      ]
     }
    ],
-   "count": 8
+   "count": 3
   },
   {
    "key": "mideast",
@@ -441,19 +267,13 @@
    "note": null,
    "clusters": [
     {
-     "label": "Israeli · West",
+     "label": "Israeli · Dead",
      "articles": [
       {
        "title": "Israeli parliament elects new speaker backed by Netanyahu’s opponents",
        "url": "https://www.theguardian.com/world/2026/nov/17/israeli-parliament-elects-new-knesset-speaker-backed-netanyahus-opponents",
        "source": "Guardian World",
        "published_at": "2026-11-17 22:30"
-      },
-      {
-       "title": "UK sanctions Israeli settlement firms to protect two-state solution",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/aje-onl-nf_uk-sanctions-eight-israeli-settlement-firms-171126?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-11-17 21:28"
       },
       {
        "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
@@ -476,25 +296,19 @@
      ]
     },
     {
-     "label": "Iran · War",
+     "label": "War",
      "articles": [
       {
-       "title": "Iran war live: Kuwait says intercepting ‘hostile’ drone attacks",
-       "url": "https://www.aljazeera.com/news/liveblog/2026/11/18/iran-war-live-kuwait-says-intercepting-hostile-drone-attacks?traffic_source=rss",
+       "title": "How the Houthis fund war effort and tighten grip on Yemen",
+       "url": "https://www.aljazeera.com/news/2026/11/18/how-the-houthis-fund-war-effort-and-tighten-grip-on-yemen?traffic_source=rss",
        "source": "Al Jazeera",
-       "published_at": "2026-11-18 00:00"
+       "published_at": "2026-11-18 06:19"
       },
       {
-       "title": "Kuwait reports drone attacks as Iran, US trade attacks on Qeshm and Bahrain",
-       "url": "https://www.aljazeera.com/news/2026/11/17/kuwait-reports-drone-attacks-as-iran-us-trade-attacks-on-qeshm-and-bahrain?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-11-17 23:38"
-      },
-      {
-       "title": "US Navy chief says Iran war has put ‘strain’ on maritime forces",
-       "url": "https://www.aljazeera.com/news/2026/11/17/us-navy-chief-says-iran-war-has-put-strain-on-maritime-forces?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-11-17 20:57"
+       "title": "Hundreds arrested in anti-Trump protests in Philippines amid anger over Iran war and AI pact",
+       "url": "https://www.theguardian.com/world/2026/nov/17/hundreds-arrested-manila-anti-trump-protests-philippines",
+       "source": "Guardian World",
+       "published_at": "2026-11-17 11:00"
       }
      ]
     },
@@ -502,33 +316,21 @@
      "label": "More headlines",
      "articles": [
       {
-       "title": "Board of Peace warns Gaza ceasefire faces imminent collapse without action",
-       "url": "https://www.aljazeera.com/news/2026/11/18/board-of-peace-warns-gaza-ceasefire-faces-imminent-collapse-without-action?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-11-18 01:07"
+       "title": "Anti-Arab hate speech surged on social media during Israel’s election, report finds",
+       "url": "https://www.theguardian.com/world/2026/nov/17/anti-arab-hate-speech-surged-on-social-media-during-israel-election-report",
+       "source": "Guardian World",
+       "published_at": "2026-11-17 17:44"
       },
       {
-       "title": "Top IRGC commander in Iraq for talks amid Kataib Hezbollah tensions",
-       "url": "https://www.aljazeera.com/news/2026/11/18/top-irgc-commander-in-iraq-for-talks-amid-kataib-hezbollah-tensions?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-11-18 00:33"
-      },
-      {
-       "title": "Israel parliament elects Gadi Eisenkot ally Matan Kahana as new speaker",
-       "url": "https://www.aljazeera.com/news/2026/11/17/israel-parliament-elects-gadi-eisenkot-ally-matan-kahana-as-new-speaker?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-11-17 23:28"
-      },
-      {
-       "title": "UK sanctions firms over Israeli West Bank settlements",
-       "url": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
+       "title": "Trump says US taking 'very seriously' any Iranian plot against Washington",
+       "url": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss",
        "source": "BBC World",
-       "published_at": "2026-11-17 18:27"
+       "published_at": "2026-11-17 17:37"
       }
      ]
     }
    ],
-   "count": 12
+   "count": 8
   },
   {
    "key": "ukraine",
@@ -537,83 +339,77 @@
    "note": null,
    "clusters": [
     {
-     "label": "Russian · Crash",
+     "label": "Russia · Ukraine",
      "articles": [
+      {
+       "title": "Russia strikes central Odesa, kills 3, injures 7",
+       "url": "https://kyivindependent.com/russian-strikes-central-odesa-kills-3-injures-7/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-11-18 10:24"
+      },
+      {
+       "title": "What do Deutsche Bank leaks reveal about Trump, Epstein and Russia?",
+       "url": "https://www.aljazeera.com/news/2026/11/18/what-do-deutsche-bank-leaks-reveal-about-trump-epstein-and-russia?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-11-18 09:42"
+      },
+      {
+       "title": "Russian attacks kill 5, injure 15, across Ukraine over past day, as Russia continues energy assault",
+       "url": "https://kyivindependent.com/russian-attacks-kill-5-injure-15-across-ukraine-over-past-day-as-russia-continues-energy-assault/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-11-18 09:06"
+      },
+      {
+       "title": "Russia, China should ‘lead’ push to multipolar world, Xi tells APEC summit",
+       "url": "https://www.aljazeera.com/news/2026/11/18/president-xi-says-russia-and-china-should-lead-push-to-multipolar-world?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-11-18 07:50"
+      },
+      {
+       "title": "General Staff: Russia has lost 1,629,010 troops in Ukraine since Feb. 24, 2022",
+       "url": "https://kyivindependent.com/general-staff-russia-has-lost-1-629-010-troops-in-ukraine-since-feb-24-2022/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-11-18 07:21"
+      }
+     ]
+    },
+    {
+     "label": "Ukraine",
+     "articles": [
+      {
+       "title": "Strongest earthquake in years hits Romania, tremors felt in Ukraine",
+       "url": "https://kyivindependent.com/strongest-earthquake-in-years-hits-romania-tremors-felt-in-ukraine/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-11-18 09:49"
+      },
+      {
+       "title": "Germany, UK push back after US criticizes Ukraine's deep strikes into Russia",
+       "url": "https://kyivindependent.com/germany-uk-push-back-after-us-criticizes-ukraines-deep-strikes-into-russia/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-11-18 03:54"
+      },
       {
        "title": "Ukraine protests IAEA chief's plan to appoint sanctioned Russian official as deputy",
        "url": "https://kyivindependent.com/ukraine-protests-iaea-chiefs-plan-to-appoint-sanctioned-russian-official-as-deputy-2/",
        "source": "Kyiv Independent",
        "published_at": "2026-11-18 00:07"
-      },
-      {
-       "title": "Russian military plane crash in Siberia kills 19",
-       "url": "https://www.aljazeera.com/news/2026/11/17/russian-military-plane-crash-in-siberia-kills-19?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-11-17 22:21"
-      },
-      {
-       "title": "Moment Russian military plane crashes in Siberia, killing 19",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/moment-russian-military-plane-crashes-in-siberia-killing-19?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-11-17 21:25"
-      },
-      {
-       "title": "Ukrainian food producer shuts down after devastating Russian strike",
-       "url": "https://kyivindependent.com/ukrainian-food-producer-shuts-down-after-devastating-russian-strike/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-11-17 21:15"
-      },
-      {
-       "title": "Russian military plane crashes, killing all 19 on board",
-       "url": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
-       "source": "BBC World",
-       "published_at": "2026-11-17 21:06"
       }
      ]
     },
     {
-     "label": "Russia · Military",
+     "label": "Russian",
      "articles": [
       {
-       "title": "American soldier held in UK suspected of spying for Russia taken into US military custody",
-       "url": "https://www.theguardian.com/uk-news/2026/nov/17/american-soldier-brandon-carroll-tyner-spying-us-military-custody",
-       "source": "Guardian World",
-       "published_at": "2026-11-18 00:16"
-      },
-      {
-       "title": "UK hands NATO-assigned US soldier accused of Russia spying to US military",
-       "url": "https://www.aljazeera.com/news/2026/11/17/uk-hands-nato-assigned-us-soldier-accused-of-russia-spying-to-us-military?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-11-17 21:35"
-      }
-     ]
-    },
-    {
-     "label": "Ukraine · Provide",
-     "articles": [
-      {
-       "title": "Norway, Sweden to provide over $370 million in weapons funding for Ukraine",
-       "url": "https://kyivindependent.com/norway-sweden-to-provide-over-370-million-in-weapons-funding-for-ukraine/",
+       "title": "Russian strike on Kharkiv Oblast market injures at least 11, including child",
+       "url": "https://kyivindependent.com/russian-strike-on-kharkiv-oblast-market-injures-at-least-11-including-child/",
        "source": "Kyiv Independent",
-       "published_at": "2026-11-17 22:21"
+       "published_at": "2026-11-18 09:40"
       },
       {
-       "title": "Exclusive: EU proposes additional 45 billion euros for Ukraine, seeks to incentivize allies to step up",
-       "url": "https://kyivindependent.com/exclusive-eu-proposes-additional-45-billion-euros-for-ukraine-seeks-to-incentivize-allies-to-step-up/",
+       "title": "2 Russian oil refineries reportedly targeted in overnight drone attack on Krasnodar Krai",
+       "url": "https://kyivindependent.com/2-russian-oil-refineries-reportedly-targeted-in-overnight-drone-attack-on-krasnodar-krai/",
        "source": "Kyiv Independent",
-       "published_at": "2026-11-17 21:30"
-      },
-      {
-       "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-       "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
-       "source": "BBC World",
-       "published_at": "2026-11-17 21:24"
-      },
-      {
-       "title": "Zelensky calls on allies to exchange missiles, provide 40 more F-16 jets for Ukraine",
-       "url": "https://kyivindependent.com/zelensky-calls-on-allies-to-exchange-missiles-provide-40-more-f-16-jets-for-ukraine/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-11-17 21:15"
+       "published_at": "2026-11-18 04:56"
       }
      ]
     },
@@ -621,10 +417,16 @@
      "label": "More headlines",
      "articles": [
       {
-       "title": "Trump in Asia ahead of talks with Russian and Chinese presidents",
-       "url": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&at_campaign=rss",
-       "source": "BBC World",
-       "published_at": "2026-11-17 20:25"
+       "title": "Apec summit live: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’ in speech",
+       "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
+       "source": "Guardian World",
+       "published_at": "2026-11-18 09:58"
+      },
+      {
+       "title": "International hockey federation hit by cyberattack after Russia barred from World Juniors",
+       "url": "https://kyivindependent.com/international-hockey-federation-hit-by-cyberattack-after-russia-barred-from-world-juniors/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-11-18 02:31"
       }
      ]
     }
