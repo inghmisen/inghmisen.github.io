@@ -1,8 +1,8 @@
 {
  "date": "Thursday 19 November 2026",
- "generated_at": "09:17 UTC",
+ "generated_at": "18:32 UTC",
  "error": null,
- "total_stories": 74,
+ "total_stories": 78,
  "fx": {
   "pair": "EUR/MAD",
   "rate": 10.934,
@@ -16,53 +16,48 @@
    "note": null,
    "clusters": [
     {
-     "label": "Gemini · Neon",
+     "label": "Your",
      "articles": [
       {
-       "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
-       "url": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/",
-       "source": "Hacker News",
-       "published_at": "2026-11-19 00:29"
-      },
-      {
-       "title": "Gemini 4 Neon",
-       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
-       "source": "Hacker News",
-       "published_at": "2026-11-18 21:34"
-      }
-     ]
-    },
-    {
-     "label": "Hub",
-     "articles": [
-      {
-       "title": "Trump’s latest land grab is an AI hub in the Philippines",
-       "url": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica",
+       "title": "Gemini on Mac can now use your computer",
+       "url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
        "source": "Verge AI",
-       "published_at": "2026-11-18 19:40"
+       "published_at": "2026-11-19 18:21"
       },
       {
-       "title": "harness-hub/Qwen3.8-27B-pi-adapted · 641 ♥",
-       "url": "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted",
-       "source": "HF new models",
-       "published_at": "2026-11-16 06:52"
-      }
-     ]
-    },
-    {
-     "label": "Than",
-     "articles": [
+       "title": "Fuck Your AI Safeguards",
+       "url": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/",
+       "source": "Hacker News",
+       "published_at": "2026-11-19 16:30"
+      },
       {
        "title": "Why your fine-tuning job takes longer than the FLOPs say",
        "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
        "source": "HuggingFace",
        "published_at": "2026-11-18 18:53"
+      }
+     ]
+    },
+    {
+     "label": "Anthropic",
+     "articles": [
+      {
+       "title": "Anthropic hits $2T in Nasdaq debut",
+       "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+       "source": "Hacker News",
+       "published_at": "2026-11-19 17:02"
       },
       {
-       "title": "AI agents ask better questions than KPMG accountants in audit trial",
-       "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
-       "source": "Hacker News",
-       "published_at": "2026-11-18 15:49"
+       "title": "Anthropic starts trading on Wall Street",
+       "url": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq",
+       "source": "Verge AI",
+       "published_at": "2026-11-19 16:52"
+      },
+      {
+       "title": "With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line",
+       "url": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure",
+       "source": "Verge AI",
+       "published_at": "2026-11-19 14:25"
       }
      ]
     },
@@ -70,16 +65,33 @@
      "label": "Models",
      "articles": [
       {
-       "title": "Advancing chip design with OpenAI models",
-       "url": "https://openai.com/index/advancing-chip-design-with-our-models/",
+       "title": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
+       "url": "https://thedataexchange.media/pete-warden-moonshine/",
        "source": "Hacker News",
-       "published_at": "2026-11-18 17:45"
+       "published_at": "2026-11-19 15:38"
       },
       {
-       "title": "Seven new models at scalable price-performance",
-       "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
-       "source": "Hacker News",
-       "published_at": "2026-11-18 16:08"
+       "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+       "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+       "source": "HuggingFace",
+       "published_at": "2026-11-18 15:00"
+      }
+     ]
+    },
+    {
+     "label": "Apple",
+     "articles": [
+      {
+       "title": "I let Apple’s always-listening AI summarize my life for two weeks",
+       "url": "https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on",
+       "source": "Verge AI",
+       "published_at": "2026-11-19 13:00"
+      },
+      {
+       "title": "apple/FastFrames-L · 288 ♥",
+       "url": "https://huggingface.co/apple/FastFrames-L",
+       "source": "HF new models",
+       "published_at": "2026-11-16 17:21"
       }
      ]
     },
@@ -87,61 +99,49 @@
      "label": "More headlines",
      "articles": [
       {
-       "title": "Anthropic prices initial public offering",
-       "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
-       "source": "Hacker News",
-       "published_at": "2026-11-18 23:30"
-      },
-      {
-       "title": "LLM assisted reverse engineering",
-       "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
-       "source": "Hacker News",
-       "published_at": "2026-11-18 22:29"
-      },
-      {
-       "title": "What is Nvidia without AI’s sugar daddy in charge?",
-       "url": "https://www.theverge.com/ai-artificial-intelligence/1036776/nvidia-earnings-kress-jensen-huang-petition",
+       "title": "ChatGPT can transcribe as you speak now with Live Dictation",
+       "url": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation",
        "source": "Verge AI",
-       "published_at": "2026-11-18 18:34"
+       "published_at": "2026-11-19 15:16"
       },
       {
-       "title": "Disney’s new Star Wars animatronics interact with guests using AI",
-       "url": "https://www.theverge.com/tech/1036729/disney-star-wars-anzellans-animatronic-amazon-aws-cloud-ai",
+       "title": "Canva adds an AI ‘off’ button",
+       "url": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button",
        "source": "Verge AI",
-       "published_at": "2026-11-18 17:50"
+       "published_at": "2026-11-19 12:30"
       },
       {
-       "title": "Remember the frontier AI pause? Chip companies don’t either",
-       "url": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
+       "title": "Trump’s latest land grab is an AI hub in the Philippines",
+       "url": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica",
        "source": "Verge AI",
-       "published_at": "2026-11-18 15:44"
+       "published_at": "2026-11-18 19:40"
       },
       {
-       "title": "sensenova/SenseNova-Loop-9B · 350 ♥",
-       "url": "https://huggingface.co/sensenova/SenseNova-Loop-9B",
-       "source": "HF new models",
-       "published_at": "2026-11-17 10:16"
-      },
-      {
-       "title": "tencent/Hy4-flash · 269 ♥",
+       "title": "tencent/Hy4-flash · 313 ♥",
        "url": "https://huggingface.co/tencent/Hy4-flash",
        "source": "HF new models",
        "published_at": "2026-11-17 03:44"
       },
       {
-       "title": "apple/FastFrames-L · 241 ♥",
-       "url": "https://huggingface.co/apple/FastFrames-L",
+       "title": "harness-hub/Qwen3.8-27B-pi-adapted · 696 ♥",
+       "url": "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted",
        "source": "HF new models",
-       "published_at": "2026-11-16 17:21"
+       "published_at": "2026-11-16 06:52"
       },
       {
-       "title": "n4ze3m/tiny-voca · 304 ♥",
+       "title": "n4ze3m/tiny-voca · 318 ♥",
        "url": "https://huggingface.co/n4ze3m/tiny-voca",
        "source": "HF new models",
        "published_at": "2026-11-14 15:46"
       },
       {
-       "title": "meituan-longcat/LongCat-Video-Avatar-1.6 · 284 ♥",
+       "title": "inworld/voice-isolator · 209 ♥",
+       "url": "https://huggingface.co/inworld/voice-isolator",
+       "source": "HF new models",
+       "published_at": "2026-11-14 02:14"
+      },
+      {
+       "title": "meituan-longcat/LongCat-Video-Avatar-1.6 · 313 ♥",
        "url": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.6",
        "source": "HF new models",
        "published_at": "2026-11-13 02:45"
@@ -187,37 +187,42 @@
      ]
     },
     {
-     "label": "More headlines",
+     "label": "Student",
      "articles": [
       {
-       "title": "Students find their way to ‘accessible addiction prevention consultations’",
-       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM1AxQzJKZTNKZ1cwZ1Axb2hiRHhaeUVTMEIxWFhvUE1BYlZmSENHRVB6MlRVQS1ac1JEV0VtVFpaMmpwZHpqejh5c0VFMVprYmxvNHJQX185eGtkT3VTcVdYY0NBMjY1WTdKcUE5WTlWYkUycUI1TGZLMG5kVWlGelFyWWd1Vk9mbHd2bGRVT2EzNUZGYTBHU3FyWkNsZi1tb0FpTEVlREg?oc=5",
+       "title": "Student eist 20 duizend euro van Tilburg University na mislukte beschuldiging van plagiaat",
+       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWlRSQW5aLTJBc3ZaSE5IOUl1c0k0a1RYeDU4YXQtWWRWYlNyMlpKaVBQbUZ4ekQ5TDdyVzNHOFBaQzJMT1NDa3NwOFktTUI5c2F0RVRPdl9YR3JXQUktYnhfQ2NQc0YtZXhYV3BUVk95MTN6Yy16UkNpanBiV09PbmYyQ3JkREVxMnVuVEJQMnZIMkl3MUlXZFY0S1oyN0VfNl9JLV9uT1BxZmxMUUQ2OFRURzdsaE82NVN4ZFRtZWM?oc=5",
        "source": "UToday",
-       "published_at": "2026-11-19 07:00"
+       "published_at": "2026-11-19 15:22"
       },
       {
        "title": "UT-student vrijgesproken: doorsturen toetsuitwerking geen fraude",
        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONmZCc09XZWZyRE5HNGcxc1d4MTZxWHdqZWIzX1QxRnljQ2F2ZnJ0TEljZEdhbGJCRzl5MjFUZEZNMWZnSE15WmoxWm4tY3c2R0hFc0xVd094d01EMjdzd3F1QUJ5OTZOaVJBYS00SUxJeURpcTZGMG9hUG5QakxQZm1EMXNJbkFPUGdrNnJiYzl2a1BXN3NHdk42SkY?oc=5",
        "source": "UToday",
        "published_at": "2026-11-18 14:51"
+      }
+     ]
+    },
+    {
+     "label": "More headlines",
+     "articles": [
+      {
+       "title": "Kennisveiligheid: samenwerking met Chinese universiteiten opnieuw onder vuur",
+       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZllWRnFQZ0VVaGRJRlVoQU1qZ3d0YXAxZEx2OW55Y3RJMEYxTlYtRVJvWTZwTVRDREhEQ3hWaWYwQXRpNGM2Y1VhamFTcVo1eVhob0FKWkxzZ3BHemVLWjhtVkpEREQzR2ZWc1RTWVdmTmtZa1Fid3hrc3lRaE0wZklBS0g1dWZIckp0X04wTi1iVkxscDJ2RzJQVDY5eG1vNUQ0YzgzXzEzSUFT?oc=5",
+       "source": "UToday",
+       "published_at": "2026-11-19 12:51"
       },
       {
-       "title": "‘Ik lag lekker op de bank, en opeens hoorde ik wat piepen’",
-       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQWZ3SWZBeWJBV1ExUktIM2ZLRzN2QU5yVWdBQ3lvRDduMTMwU2VuOFhtM1dMc05teWNGR1VrcmVfYy1IcE1INlRrOS10aXVQbnNaZTh6dEpmaEhiUkZuOFFVY0JNYzlNbEpESmRpTW9rUkVLQVVrQmluSGlrZTJMbGVsRHZGZTZjZWQzVVZ3aXo4cVlmaUY0MEtn?oc=5",
+       "title": "Students find their way to addiction support consultations",
+       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM1AxQzJKZTNKZ1cwZ1Axb2hiRHhaeUVTMEIxWFhvUE1BYlZmSENHRVB6MlRVQS1ac1JEV0VtVFpaMmpwZHpqejh5c0VFMVprYmxvNHJQX185eGtkT3VTcVdYY0NBMjY1WTdKcUE5WTlWYkUycUI1TGZLMG5kVWlGelFyWWd1Vk9mbHd2bGRVT2EzNUZGYTBHU3FyWkNsZi1tb0FpTEVlREg?oc=5",
        "source": "UToday",
-       "published_at": "2026-11-18 13:14"
+       "published_at": "2026-11-19 07:00"
       },
       {
        "title": "‘Soms staat er een draak van een berekening op je bord’",
        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQjlVZmI3U1R0SHRhRkUycmN5TkwtdVZxZXVSdzdYUDI3eDJxc2hkLW92NklJUW1RM3FrbmQtRkhsd2VKT1U5MERuN3dPTXZmMWhvRjRHYi1oVDB1akU4ZVpTTXZlRzdZSUluZ05OOFRWZHdIeFdkRWNELUVsOExoWTFLVzU2ckg5OXJybmd4YW5Tbjdrc1E?oc=5",
        "source": "UToday",
        "published_at": "2026-11-18 10:20"
-      },
-      {
-       "title": "Anne Olde Loohuis nu definitief directeur Strategie & Beleid",
-       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNajJVYmx4a2p3d0dPeHhVakhETGF3eTJhek9BSjdENWdOLXdoV183bVZXekpYdmgtamRnZjBTSzFlRXFfU3p3ZVgwN0JZaklHNlRBajZ3S1BfWWFXRVZDU0tuMTBZMmw2aUU2dVZ1TE9LOWdGMnk4MGhxSzlYb3pJS3poMjN5dlBaUHV1WEx6aFJCVmVuRFE?oc=5",
-       "source": "UToday",
-       "published_at": "2026-11-18 09:00"
       },
       {
        "title": "UT’ers kunnen overstap maken naar Linux",
@@ -237,42 +242,19 @@
    "note": null,
    "clusters": [
     {
-     "label": "المغرب",
+     "label": "Entreprises",
      "articles": [
       {
-       "title": "فيروس \"توبيرف\" يوسع دائرة القلق وسط منتجي الطماطم في المغرب",
-       "url": "https://www.hespress.com/%d9%81%d9%8a%d8%b1%d9%88%d8%b3-%d8%aa%d9%88%d8%a8%d9%8a%d8%b1%d9%81-%d9%8a%d9%88%d8%b3%d8%b9-%d8%af%d8%a7%d8%a6%d8%b1%d8%a9-%d8%a7%d9%84%d9%82%d9%84%d9%82-%d9%88%d8%b3%d8%b7-%d9%85%d9%86%d8%aa-1841974.html",
-       "source": "Hespress",
-       "published_at": "2026-11-19 09:00"
-      },
-      {
-       "title": "المونديال يعزز حضور الشركات الفرنسية في تطوير السكك الحديدية المغربية",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%85%d9%88%d9%86%d8%af%d9%8a%d8%a7%d9%84-%d9%8a%d8%b9%d8%b2%d8%b2-%d8%ad%d8%b6%d9%88%d8%b1-%d8%a7%d9%84%d8%b4%d8%b1%d9%83%d8%a7%d8%aa-%d8%a7%d9%84%d9%81%d8%b1%d9%86%d8%b3%d9%8a%d8%a9-1841866.html",
-       "source": "Hespress",
-       "published_at": "2026-11-19 07:00"
-      },
-      {
-       "title": "دول المغرب وتركيا وبريطانيا تتحرك لمواجهة قيود مبادرة \"صنع في أوروبا\"",
-       "url": "https://www.hespress.com/%d8%af%d9%88%d9%84-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d9%88%d8%aa%d8%b1%d9%83%d9%8a%d8%a7-%d9%88%d8%a8%d8%b1%d9%8a%d8%b7%d8%a7%d9%86%d9%8a%d8%a7-%d8%aa%d8%aa%d8%ad%d8%b1%d9%83-%d9%84%d9%85%d9%88-1841926.html",
-       "source": "Hespress",
-       "published_at": "2026-11-19 05:00"
-      }
-     ]
-    },
-    {
-     "label": "Maroc",
-     "articles": [
-      {
-       "title": "Ford défend l’inclusion du Maroc, du Royaume-Uni et de la Turquie dans le « Made in Europe »",
-       "url": "https://telquel.ma/instant-t/2026/11/18/ford-defend-linclusion-du-maroc-du-royaume-uni-et-de-la-turquie-dans-le-made-in-europe_2018787/",
+       "title": "Tamwilcom lance “Tamwil Moumtaz”, une nouvelle offre de cofinancement destinée aux entreprises",
+       "url": "https://telquel.ma/instant-t/2026/11/19/tamwilcom-lance-tamwil-moumtaz-une-nouvelle-offre-de-cofinancement-destinee-aux-entreprises_2019046/",
        "source": "TelQuel",
-       "published_at": "2026-11-18 17:00"
+       "published_at": "2026-11-19 17:54"
       },
       {
-       "title": "Défense : le roi Mohammed VI approuve l’« Offre Maroc » de la base technologique et industrielle",
-       "url": "https://telquel.ma/instant-t/2026/11/18/defense-le-roi-mohammed-vi-approuve-l-offre-maroc-de-la-base-technologique-et-industrielle_2018785/",
+       "title": "Capital investissement : ce que les fonds changent dans les entreprises marocaines",
+       "url": "https://telquel.ma/2026/11/19/capital-investissement-ce-que-les-fonds-changent-dans-les-entreprises-marocaines_2018966",
        "source": "TelQuel",
-       "published_at": "2026-11-18 16:06"
+       "published_at": "2026-11-19 16:01"
       }
      ]
     },
@@ -280,82 +262,100 @@
      "label": "More headlines",
      "articles": [
       {
-       "title": "Dakhla inaugure son CHU international : 259 lits et un campus de 3.000 places",
-       "url": "https://telquel.ma/2026/11/19/dakhla-inaugure-son-chu-international-259-lits-et-un-campus-de-3-000-places_2018824",
+       "title": "العيناوي يستعيد الجاهزية مع لايبزيغ",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%b9%d9%8a%d9%86%d8%a7%d9%88%d9%8a-%d9%8a%d8%b3%d8%aa%d8%b9%d9%8a%d8%af-%d8%a7%d9%84%d8%ac%d8%a7%d9%87%d8%b2%d9%8a%d8%a9-%d9%85%d8%b9-%d9%84%d8%a7%d9%8a%d8%a8%d8%b2%d9%8a%d8%ba-1842439.html",
+       "source": "Hespress",
+       "published_at": "2026-11-19 18:12"
+      },
+      {
+       "title": "المداوي يعلن تعديلات جديدة بالنظام الأساسي للأساتذة وتسوية ملفات عالقة",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%85%d8%af%d8%a7%d9%88%d9%8a-%d9%8a%d8%b9%d9%84%d9%86-%d8%aa%d8%b9%d8%af%d9%8a%d9%84%d8%a7%d8%aa-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d9%86%d8%b8%d8%a7%d9%85-%d8%a7-1842399.html",
+       "source": "Hespress",
+       "published_at": "2026-11-19 18:00"
+      },
+      {
+       "title": "حصيلة الدعم المباشر للسكن",
+       "url": "https://www.hespress.com/%d8%ad%d8%b5%d9%8a%d9%84%d8%a9-%d8%a7%d9%84%d8%af%d8%b9%d9%85-%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-%d9%84%d9%84%d8%b3%d9%83%d9%86-1842345.html",
+       "source": "Hespress",
+       "published_at": "2026-11-19 17:44"
+      },
+      {
+       "title": "[Tribune] Résilience stratégique : faire de la continuité une responsabilité nationale",
+       "url": "https://telquel.ma/2026/11/19/tribune-resilience-strategique-faire-de-la-continuite-une-responsabilite-nationale_2018387",
        "source": "TelQuel",
-       "published_at": "2026-11-19 08:56"
+       "published_at": "2026-11-19 17:37"
       },
       {
-       "title": "صناعة الدفاع تدعم الاقتصاد المغربي",
-       "url": "https://www.hespress.com/%d8%b5%d9%86%d8%a7%d8%b9%d8%a9-%d8%a7%d9%84%d8%af%d9%81%d8%a7%d8%b9-%d8%aa%d8%af%d8%b9%d9%85-%d8%a7%d9%84%d8%a7%d9%82%d8%aa%d8%b5%d8%a7%d8%af-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8%d9%8a-1842135.html",
+       "title": "قمة ثلاثية في الصين تخفف عزلة موسكو وتعيد بوتين لواجهة المشهد الدولي",
+       "url": "https://www.hespress.com/%d9%82%d9%85%d8%a9-%d8%ab%d9%84%d8%a7%d8%ab%d9%8a%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d8%b5%d9%8a%d9%86-%d8%aa%d8%ae%d9%81%d9%81-%d8%b9%d8%b2%d9%84%d8%a9-%d9%85%d9%88%d8%b3%d9%83%d9%88-%d9%88%d8%aa%d8%b9-1842396.html",
        "source": "Hespress",
-       "published_at": "2026-11-19 08:48"
+       "published_at": "2026-11-19 17:30"
       },
       {
-       "title": "التشغيل يعاكس إيقاع البطالة",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%aa%d8%b4%d8%ba%d9%8a%d9%84-%d9%8a%d8%b9%d8%a7%d9%83%d8%b3-%d8%a5%d9%8a%d9%82%d8%a7%d8%b9-%d8%a7%d9%84%d8%a8%d8%b7%d8%a7%d9%84%d8%a9-1841838.html",
-       "source": "Hespress",
-       "published_at": "2026-11-19 08:36"
-      },
-      {
-       "title": "فرنسا أمام سيناريو العزوف الانتخابي",
-       "url": "https://www.hespress.com/%d9%81%d8%b1%d9%86%d8%b3%d8%a7-%d8%a3%d9%85%d8%a7%d9%85-%d8%b3%d9%8a%d9%86%d8%a7%d8%b1%d9%8a%d9%88-%d8%a7%d9%84%d8%b9%d8%b2%d9%88%d9%81-%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d9%8a-1842099.html",
-       "source": "Hespress",
-       "published_at": "2026-11-19 08:26"
-      },
-      {
-       "title": "تضريب هامش الربح يعيد رسم قواعد المنافسة بين تجار العقارات والمنعشين",
-       "url": "https://www.hespress.com/%d8%aa%d8%b6%d8%b1%d9%8a%d8%a8-%d9%87%d8%a7%d9%85%d8%b4-%d8%a7%d9%84%d8%b1%d8%a8%d8%ad-%d9%8a%d8%b9%d9%8a%d8%af-%d8%b1%d8%b3%d9%85-%d9%82%d9%88%d8%a7%d8%b9%d8%af-%d8%a7%d9%84%d9%85%d9%86%d8%a7%d9%81-1841436.html",
-       "source": "Hespress",
-       "published_at": "2026-11-19 08:00"
-      },
-      {
-       "title": "تحذيرات من فقاعة الذكاء الاصطناعي",
-       "url": "https://www.hespress.com/%d8%aa%d8%ad%d8%b0%d9%8a%d8%b1%d8%a7%d8%aa-%d9%85%d9%86-%d9%81%d9%82%d8%a7%d8%b9%d8%a9-%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1-%d8%a7%d9%84%d8%a7%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a-1842078.html",
-       "source": "Hespress",
-       "published_at": "2026-11-19 07:47"
-      },
-      {
-       "title": "توقعات طقس اليوم الخميس بالمغرب",
-       "url": "https://www.hespress.com/%d8%a3%d8%ac%d9%88%d8%a7%d8%a1-%d8%ba%d8%a7%d8%a6%d9%85%d8%a9-%d9%88%d8%a3%d9%85%d8%b7%d8%a7%d8%b1-%d8%ae%d9%81%d9%8a%d9%81%d8%a9-%d8%a8%d8%a7%d9%84%d9%85%d9%85%d9%84%d9%83%d8%a9-1842058.html",
-       "source": "Hespress",
-       "published_at": "2026-11-19 07:35"
-      },
-      {
-       "title": "أوراق رابحة في صفوف \"أشبال U17\"",
-       "url": "https://www.hespress.com/%d8%a3%d9%88%d8%b1%d8%a7%d9%82-%d8%b1%d8%a7%d8%a8%d8%ad%d8%a9-%d9%81%d9%8a-%d8%b5%d9%81%d9%88%d9%81-%d8%a3%d8%b4%d8%a8%d8%a7%d9%84-u17-1841699.html",
-       "source": "Hespress",
-       "published_at": "2026-11-19 06:41"
-      },
-      {
-       "title": "مكاتب التواصل البرلمانية تختبر رصد النواب لانشغالات الساكنة المحلية",
-       "url": "https://www.hespress.com/%d9%85%d9%83%d8%a7%d8%aa%d8%a8-%d8%a7%d9%84%d8%aa%d9%88%d8%a7%d8%b5%d9%84-%d8%a7%d9%84%d8%a8%d8%b1%d9%84%d9%85%d8%a7%d9%86%d9%8a%d8%a9-%d8%aa%d8%ae%d8%aa%d8%a8%d8%b1-%d8%b1%d8%b5%d8%af-%d8%a7%d9%84-1841896.html",
-       "source": "Hespress",
-       "published_at": "2026-11-19 06:00"
-      },
-      {
-       "title": "كرماح يسرع الخطى على أرصفة التيه",
-       "url": "https://www.hespress.com/%d9%83%d8%b1%d9%85%d8%a7%d8%ad-%d9%8a%d8%b3%d8%b1%d8%b9-%d8%a7%d9%84%d8%ae%d8%b7%d9%89-%d8%b9%d9%84%d9%89-%d8%a3%d8%b1%d8%b5%d9%81%d8%a9-%d8%a7%d9%84%d8%aa%d9%8a%d9%87-1841750.html",
-       "source": "Hespress",
-       "published_at": "2026-11-19 05:32"
-      },
-      {
-       "title": "Marrakech réservée aux plus aisés ? Jalal Charaf s’explique au Parlement",
-       "url": "https://telquel.ma/instant-t/2026/11/18/marrakech-reservee-aux-plus-aises-jalal-charaf-sexplique-au-parlement_2018769/",
+       "title": "Mort d’une randonneuse sur le Toubkal : le drame aurait-il pu être évité ?",
+       "url": "https://telquel.ma/2026/11/19/mort-dune-randonneuse-sur-le-toubkal-le-drame-aurait-il-pu-etre-evite_2018710",
        "source": "TelQuel",
-       "published_at": "2026-11-18 17:30"
+       "published_at": "2026-11-19 17:24"
       },
       {
-       "title": "Présidence de la FIFA : Infantino, Diallo, Tashima et Vega à l’approche de la clôture des candidatures",
-       "url": "https://telquel.ma/instant-t/2026/11/18/presidence-de-la-fifa-infantino-diallo-tashima-et-vega-a-lapproche-de-la-cloture-des-candidatures_2018742/",
-       "source": "TelQuel",
-       "published_at": "2026-11-18 15:00"
+       "title": "إعلان تعاون قضائي بين المغرب وفرنسا",
+       "url": "https://www.hespress.com/%d8%a5%d8%b9%d9%84%d8%a7%d9%86-%d8%aa%d8%b9%d8%a7%d9%88%d9%86-%d9%82%d8%b6%d8%a7%d8%a6%d9%8a-%d8%a8%d9%8a%d9%86-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d9%88%d9%81%d8%b1%d9%86%d8%b3%d8%a7-1842261.html",
+       "source": "Hespress",
+       "published_at": "2026-11-19 17:23"
       },
       {
-       "title": "Xi Jinping, Donald Trump et Vladimir Poutine à pied d'oeuvre en Chine avant un sommet inédit",
-       "url": "https://telquel.ma/instant-t/2026/11/18/xi-jinping-donald-trump-et-vladimir-poutine-a-pied-doeuvre-en-chine-avant-un-sommet-inedit_2018734/",
+       "title": "Dans GTA 6, un morceau de Fadoul, le “James Brown” marocain",
+       "url": "https://telquel.ma/instant-t/2026/11/19/dans-gta-6-un-clin-doeil-au-vin-marocain-avant-de-passer-fadoul_2019015/",
        "source": "TelQuel",
-       "published_at": "2026-11-18 12:57"
+       "published_at": "2026-11-19 17:12"
+      },
+      {
+       "title": "\"تداولات حمراء\" لبورصة الدار البيضاء",
+       "url": "https://www.hespress.com/%d8%aa%d8%af%d8%a7%d9%88%d9%84%d8%a7%d8%aa-%d8%ad%d9%85%d8%b1%d8%a7%d8%a1-%d9%84%d8%a8%d9%88%d8%b1%d8%b5%d8%a9-%d8%a7%d9%84%d8%af%d8%a7%d8%b1-%d8%a7%d9%84%d8%a8%d9%8a%d8%b6%d8%a7%d8%a1-6-1842410.html",
+       "source": "Hespress",
+       "published_at": "2026-11-19 17:03"
+      },
+      {
+       "title": "بلفقيه: اجتماع الأغلبية مطلع الأسبوع المقبل.. والحكومة تستعد لمواجهة البرد",
+       "url": "https://www.hespress.com/%d8%a8%d9%84%d9%81%d9%82%d9%8a%d9%87-%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9-%d8%a7%d9%84%d8%a3%d8%ba%d9%84%d8%a8%d9%8a%d8%a9-%d9%85%d8%b7%d9%84%d8%b9-%d8%a7%d9%84%d8%a3%d8%b3%d8%a8%d9%88%d8%b9-%d8%a7-1842414.html",
+       "source": "Hespress",
+       "published_at": "2026-11-19 17:00"
+      },
+      {
+       "title": "Arnaque à l’investissement : l’AMMC alerte sur les groupes WhatsApp “Alliance Décisive YEM” et la plateforme DIROVEX",
+       "url": "https://telquel.ma/instant-t/2026/11/19/arnaque-a-linvestissement-lammc-alerte-sur-les-groupes-whatsapp-alliance-decisive-yem-et-la-plateforme-dirovex_2018980/",
+       "source": "TelQuel",
+       "published_at": "2026-11-19 16:53"
+      },
+      {
+       "title": "إدانة صحافييْن بأربع سنوات حبسا نافذا تجلب موجة من التضامن بالمغرب",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%a5%d8%af%d8%a7%d9%86%d8%a9-%d8%a8%d8%a3%d8%b1%d8%a8%d8%b9-%d8%b3%d9%86%d9%88%d8%a7%d8%aa-%d8%ad%d8%a8%d8%b3%d8%a7-%d9%86%d8%a7%d9%81%d8%b0%d8%a7-%d9%84%d8%b5%d8%ad%d8%a7%d9%81%d9%8a-1842408.html",
+       "source": "Hespress",
+       "published_at": "2026-11-19 16:40"
+      },
+      {
+       "title": "Le Conseil de gouvernement adopte un projet de décret relatif à la réforme des CRI et à la création des CRUI",
+       "url": "https://telquel.ma/instant-t/2026/11/19/le-conseil-de-gouvernement-adopte-un-projet-de-decret-relatif-a-la-reforme-des-cri-et-a-la-creation-des-crui_2019010/",
+       "source": "TelQuel",
+       "published_at": "2026-11-19 16:31"
+      },
+      {
+       "title": "الركراكي يقترب من قيادة منتخب قطر",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%b1%d9%83%d8%b1%d8%a7%d9%83%d9%8a-%d9%8a%d9%82%d8%aa%d8%b1%d8%a8-%d9%85%d9%86-%d9%82%d9%8a%d8%a7%d8%af%d8%a9-%d8%a7%d9%84%d9%85%d9%86%d8%aa%d8%ae%d8%a8-%d8%a7%d9%84%d9%82%d8%b7%d8%b1-1842256.html",
+       "source": "Hespress",
+       "published_at": "2026-11-19 16:20"
+      },
+      {
+       "title": "Maroc-France : Darmanin et Balaoui scellent un accord contre la criminalité transfrontalière",
+       "url": "https://telquel.ma/instant-t/2026/11/19/maroc-france-darmanin-et-balaoui-scellent-un-accord-contre-la-criminalite-transfrontaliere_2018987/",
+       "source": "TelQuel",
+       "published_at": "2026-11-19 16:13"
+      },
+      {
+       "title": "تعيينات عليا في ختام مجلس الحكومة",
+       "url": "https://www.hespress.com/%d8%aa%d8%b9%d9%8a%d9%8a%d9%86%d8%a7%d8%aa-%d8%b9%d9%84%d9%8a%d8%a7-%d9%81%d9%8a-%d8%ae%d8%aa%d8%a7%d9%85-%d9%85%d8%ac%d9%84%d8%b3-%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d8%a9-1842342.html",
+       "source": "Hespress",
+       "published_at": "2026-11-19 16:08"
       }
      ]
     }
@@ -369,19 +369,36 @@
    "note": null,
    "clusters": [
     {
-     "label": "Oorlog",
+     "label": "Kamer",
      "articles": [
       {
-       "title": "Energiecrisis door oorlog in Midden-Oosten raakt alle uithoeken van de wereld",
-       "url": "https://www.nu.nl/economie/6417058/energiecrisis-door-oorlog-in-midden-oosten-raakt-alle-uithoeken-van-de-wereld.html",
-       "source": "NU.nl",
-       "published_at": "2026-11-19 07:19"
+       "title": "Peter Berdowski: Schaf de Eerste Kamer af en voer een kiesdrempel in",
+       "url": "https://www.telegraaf.nl/financieel/peter-berdowski-schaf-de-eerste-kamer-af-en-voer-een-kiesdrempel-in/164688669.html",
+       "source": "de Telegraaf",
+       "published_at": "2026-11-19 18:00"
       },
       {
-       "title": "Trump wil oorlog in Oekraïne alsnog bespreken tijdens ontmoeting Xi en Poetin",
-       "url": "https://www.nu.nl/buitenland/6417046/trump-wil-oorlog-in-oekraine-alsnog-bespreken-tijdens-ontmoeting-xi-en-poetin.html",
+       "title": "Tweede Kamer wil niet dat treinkaartjes in 2027 duurder worden",
+       "url": "https://www.nu.nl/economie/6417139/tweede-kamer-wil-niet-dat-treinkaartjes-in-2027-duurder-worden.html",
        "source": "NU.nl",
-       "published_at": "2026-11-19 05:22"
+       "published_at": "2026-11-19 15:47"
+      }
+     ]
+    },
+    {
+     "label": "Kabinet",
+     "articles": [
+      {
+       "title": "Reconstructie: hoe kabinet-Jetten bijna viel",
+       "url": "https://www.telegraaf.nl/politiek/reconstructie-hoe-kabinet-jetten-bijna-viel/164815060.html",
+       "source": "de Telegraaf",
+       "published_at": "2026-11-19 17:30"
+      },
+      {
+       "title": "Kabinet gaat lozen van pfas niet verbieden: te duur en milieueffecten te onzeker",
+       "url": "https://www.nu.nl/binnenland/6417143/kabinet-gaat-lozen-van-pfas-niet-verbieden-te-duur-en-milieueffecten-te-onzeker.html",
+       "source": "NU.nl",
+       "published_at": "2026-11-19 16:58"
       }
      ]
     },
@@ -389,27 +406,33 @@
      "label": "More headlines",
      "articles": [
       {
-       "title": "PRO wint bijzondere gemeenteraadsverkiezingen Hilversum, grote winst FVD",
-       "url": "https://www.nu.nl/binnenland/6417059/pro-wint-bijzondere-gemeenteraadsverkiezingen-hilversum-grote-winst-fvd.html",
+       "title": "Marcel Peereboom Voller: gemeenten verdwalen in een woud van niet-handhaafbare vuurwerkregels",
+       "url": "https://www.telegraaf.nl/opinie/marcel-peereboom-voller-gemeenten-verdwalen-in-een-woud-van-niet-handhaafbare-vuurwerkregels/164657163.html",
+       "source": "de Telegraaf",
+       "published_at": "2026-11-19 18:00"
+      },
+      {
+       "title": "AOW beschermt ouderen goed tegen armoede, grote hervorming niet nodig",
+       "url": "https://www.nu.nl/economie/6417150/aow-beschermt-ouderen-goed-tegen-armoede-grote-hervorming-niet-nodig.html",
        "source": "NU.nl",
-       "published_at": "2026-11-19 07:29"
+       "published_at": "2026-11-19 17:23"
       },
       {
-       "title": "Hoofdredactie: werking Rwanda-deal cruciaal voor draagvlak asielsysteem",
-       "url": "https://www.telegraaf.nl/opinie/hoofdredactie-werking-rwanda-deal-cruciaal-voor-draagvlak-asielsysteem/164758034.html",
+       "title": "Dit verandert er in januari op je loonstrookje door het belastingplan: ’Werkenden houden meer salaris over’",
+       "url": "https://www.telegraaf.nl/financieel/geld/dit-verandert-er-in-januari-op-je-loonstrookje-door-het-belastingplan-werkenden-houden-meer-salaris-over/164806085.html",
        "source": "de Telegraaf",
-       "published_at": "2026-11-19 05:00"
+       "published_at": "2026-11-19 15:05"
       },
       {
-       "title": "Toeristenbelasting voor kampeerders in Europa schiet alle kanten op: ’Soms betaal je een kwart extra’",
-       "url": "https://www.telegraaf.nl/binnenland/toeristenbelasting-voor-kampeerders-in-europa-schiet-alle-kanten-op-soms-betaal-je-een-kwart-extra/164715464.html",
-       "source": "de Telegraaf",
-       "published_at": "2026-11-19 04:45"
+       "title": "Minister Van Weel over Zembla-uitzending: 'FVD'ers hebben wat uit te leggen'",
+       "url": "https://www.nu.nl/politiek/6417124/minister-van-weel-over-zembla-uitzending-fvders-hebben-wat-uit-te-leggen.html",
+       "source": "NU.nl",
+       "published_at": "2026-11-19 14:44"
       }
      ]
     }
    ],
-   "count": 5
+   "count": 8
   },
   {
    "key": "mideast",
@@ -418,37 +441,60 @@
    "note": null,
    "clusters": [
     {
-     "label": "Israeli · Gaza",
+     "label": "Israel · Genocide",
      "articles": [
       {
-       "title": "Gaza Syndrome: Why Israeli soldiers’ trauma erases Palestinian victims",
-       "url": "https://www.aljazeera.com/features/2026/11/19/gaza-syndrome-why-israeli-soldiers-trauma-erases-palestinian-victims?traffic_source=rss",
+       "title": "Myanmar ruling gives new relevance to genocide convention and is ‘full of messages’ for Israel",
+       "url": "https://www.theguardian.com/law/2026/nov/19/myanmar-ruling-new-relevance-genocide-convention-messages-israel",
+       "source": "Guardian World",
+       "published_at": "2026-11-19 17:14"
+      },
+      {
+       "title": "‘Gaza Syndrome’: Israel’s Soldiers Haunted by Genocide – Cost of War",
+       "url": "https://www.aljazeera.com/video/al-jazeera-originals/2026/11/19/gaza-syndrome-israels-soldiers-haunted-by-genocide-cost-of-war?traffic_source=rss",
        "source": "Al Jazeera",
-       "published_at": "2026-11-19 07:51"
+       "published_at": "2026-11-19 13:54"
+      },
+      {
+       "title": "Mosque set on fire in Israel, politicians blame Netanyahu’s ‘incitement’",
+       "url": "https://www.aljazeera.com/news/2026/11/19/mosque-set-on-fire-in-israel-politicians-blame-netanyahus-incitement?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-11-19 13:24"
+      },
+      {
+       "title": "Eight injured after driver in Israel repeatedly rams car into Palestinians",
+       "url": "https://www.theguardian.com/world/2026/nov/19/car-rams-into-palestinian-residents-four-times-in-israeli-city-kafr-qasim",
+       "source": "Guardian World",
+       "published_at": "2026-11-19 12:36"
+      },
+      {
+       "title": "Israel delays building contracts for West Bank settlement after UK sanctions",
+       "url": "https://www.theguardian.com/world/2026/nov/18/israel-construction-contracts-e1-west-bank-settlement-uk-sanctions",
+       "source": "Guardian World",
+       "published_at": "2026-11-18 14:05"
+      }
+     ]
+    },
+    {
+     "label": "Israeli · Yellow",
+     "articles": [
+      {
+       "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
+       "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+       "source": "BBC World",
+       "published_at": "2026-11-19 17:03"
+      },
+      {
+       "title": "Canada’s beloved Tim Hortons brews ire over ‘excessive’ Israeli data deal",
+       "url": "https://www.aljazeera.com/features/2026/11/19/canadas-beloved-tim-hortons-brews-ire-over-excessive-israeli-data-deal?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-11-19 13:49"
       },
       {
        "title": "Israeli tanks cross ‘yellow line’ boundary into Hamas-controlled central Gaza",
        "url": "https://www.theguardian.com/world/2026/nov/18/israeli-tanks-cross-yellow-line-boundary-into-hamas-controlled-central-gaza",
        "source": "Guardian World",
-       "published_at": "2026-11-18 23:25"
-      },
-      {
-       "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
-       "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
-       "source": "BBC World",
-       "published_at": "2026-11-18 22:34"
-      },
-      {
-       "title": "Israeli parliament elects new speaker backed by Netanyahu’s opponents",
-       "url": "https://www.theguardian.com/world/2026/nov/17/israeli-parliament-elects-new-knesset-speaker-backed-netanyahus-opponents",
-       "source": "Guardian World",
-       "published_at": "2026-11-17 22:30"
-      },
-      {
-       "title": "Palestinian woman shot dead by Israeli settlers near Jericho, witnesses say",
-       "url": "https://www.theguardian.com/world/2026/nov/17/palestinian-woman-shot-dead-israeli-settlers-near-jericho-witnesses-say",
-       "source": "Guardian World",
-       "published_at": "2026-11-17 20:21"
+       "published_at": "2026-11-19 12:40"
       }
      ]
     },
@@ -456,16 +502,16 @@
      "label": "Iran",
      "articles": [
       {
-       "title": "‘Too early’ to determine impact of US blockade on Iran, with Tehran defiant",
-       "url": "https://www.aljazeera.com/economy/2026/11/19/too-early-to-determine-impact-of-us-siege-on-iran-with-tehran-defiant?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-11-19 07:08"
+       "title": "China, Russia and US agree peace declaration with no mention of Ukraine and Iran wars",
+       "url": "https://www.theguardian.com/world/2026/nov/19/china-russia-us-agree-peace-statement-no-mention-ukraine-iran-wars",
+       "source": "Guardian World",
+       "published_at": "2026-11-19 17:13"
       },
       {
-       "title": "Pakistani man sentenced to 27 years for Iran-backed plot to kill Trump",
-       "url": "https://www.bbc.co.uk/news/articles/cm15ezz8n394o?at_medium=RSS&at_campaign=rss",
-       "source": "BBC World",
-       "published_at": "2026-11-18 02:29"
+       "title": "Trump claims Iran is developing bioweapons: Is there any evidence?",
+       "url": "https://www.aljazeera.com/news/2026/11/19/trump-claims-iran-is-developing-bioweapons-is-there-any-evidence?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-11-19 11:38"
       }
      ]
     },
@@ -473,33 +519,21 @@
      "label": "More headlines",
      "articles": [
       {
-       "title": "Saudi-led coalition intercepts Houthi missiles targeting Riyadh and south",
-       "url": "https://www.aljazeera.com/news/2026/11/19/saudi-led-coalition-intercepts-houthi-missiles-targeting-riyadh-and-south?traffic_source=rss",
+       "title": "Yemen’s besieged city of Taiz faces a deepening water crisis",
+       "url": "https://www.aljazeera.com/news/2026/11/19/yemens-besieged-city-of-taiz-faces-a-deepening-water-crisis?traffic_source=rss",
        "source": "Al Jazeera",
-       "published_at": "2026-11-19 08:19"
+       "published_at": "2026-11-19 16:59"
       },
       {
-       "title": "Netanyahu’s last stand and the dangerous politics of survival",
-       "url": "https://www.aljazeera.com/news/2026/11/19/netanyahus-last-stand-and-the-dangerous-politics-of-survival?traffic_source=rss",
+       "title": "A geography of hearts: Turkiye and Lebanon, building the Levant together",
+       "url": "https://www.aljazeera.com/opinions/2026/11/19/a-geography-of-hearts-turkiye-and-lebanon-building-the-levant-together?traffic_source=rss",
        "source": "Al Jazeera",
-       "published_at": "2026-11-19 06:58"
-      },
-      {
-       "title": "Israel delays building contracts for West Bank settlement after UK sanctions",
-       "url": "https://www.theguardian.com/world/2026/nov/18/israel-construction-contracts-e1-west-bank-settlement-uk-sanctions",
-       "source": "Guardian World",
-       "published_at": "2026-11-18 14:05"
-      },
-      {
-       "title": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
-       "url": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o?at_medium=RSS&at_campaign=rss",
-       "source": "BBC World",
-       "published_at": "2026-11-18 13:04"
+       "published_at": "2026-11-19 14:41"
       }
      ]
     }
    ],
-   "count": 11
+   "count": 12
   },
   {
    "key": "ukraine",
@@ -508,37 +542,37 @@
    "note": null,
    "clusters": [
     {
-     "label": "Putin · Trump",
+     "label": "Ukraine · Peace",
      "articles": [
       {
-       "title": "Tusk appears to mock Trump’s Putin comment as Ukraine’s allies meet in Berlin – Europe live",
+       "title": "Ukraine allies warn ‘Yalta format’ will not bring about peace – as it happened",
        "url": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates",
        "source": "Guardian World",
-       "published_at": "2026-11-19 09:04"
+       "published_at": "2026-11-19 18:03"
       },
       {
-       "title": "Trump says he hopes 'friend' Putin wants to end war in Ukraine as he meets Russian, Chinese leaders",
-       "url": "https://kyivindependent.com/trump-sits-down-with-his-friend-putin-chinas-xi-for-unprecedented-trilateral-talks/",
+       "title": "Ukraine deploys experimental laser air defense system in Kyiv",
+       "url": "https://kyivindependent.com/ukraine-deploys-experimental-laser-air-defense-system-in-kyiv/",
        "source": "Kyiv Independent",
-       "published_at": "2026-11-19 08:46"
+       "published_at": "2026-11-19 17:55"
       },
       {
-       "title": "Trump meets Putin and Xi as trilateral US, Russia, China talks begin",
-       "url": "https://www.aljazeera.com/news/2026/11/19/trump-meets-putin-and-xi-ahead-of-us-russia-china-trilateral-talks?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-11-19 08:32"
+       "title": "Interview: Move fast to secure Kyiv's future, Brussels economy chief tells Ukraine, EU countries",
+       "url": "https://kyivindependent.com/interview-move-fast-to-secure-kyivs-future-brussels-economy-chief-tells-ukraine-eu-countries/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-11-19 17:52"
       },
       {
-       "title": "Is Trump helping rehabilitate Putin on the world stage?",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/is-trump-helping-rehabilitate-putin-on-the-world-stage?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-11-19 08:31"
+       "title": "'We will not negotiate' — Putin addresses Ukraine's strikes on Crimean Bridge",
+       "url": "https://kyivindependent.com/we-will-not-negotiate-putin-addresses-ukraines-strikes-on-crimean-bridge/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-11-19 17:23"
       },
       {
-       "title": "‘It’s my friend’: Moment Trump greets Putin at China summit",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/its-my-friend-moment-trump-greets-putin-at-china-summit?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-11-19 06:44"
+       "title": "China, Russia and US agree peace declaration with no mention of Ukraine and Iran wars",
+       "url": "https://www.theguardian.com/world/2026/nov/19/china-russia-us-agree-peace-statement-no-mention-ukraine-iran-wars",
+       "source": "Guardian World",
+       "published_at": "2026-11-19 17:13"
       }
      ]
     },
@@ -546,45 +580,28 @@
      "label": "Putin · Trump",
      "articles": [
       {
-       "title": "Could Trump, Putin and Xi end the nuclear age?",
-       "url": "https://www.aljazeera.com/opinions/2026/11/19/could-trump-putin-and-xi-end-the-nuclear-age?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-11-19 06:15"
+       "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
+       "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
+       "source": "BBC World",
+       "published_at": "2026-11-19 17:38"
       },
       {
-       "title": "The Xi-Putin-Trump summit will not be a ‘new Yalta’",
-       "url": "https://www.aljazeera.com/opinions/2026/11/19/the-xi-putin-trump-summit-will-not-be-a-new-yalta?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-11-19 06:07"
+       "title": "What did Trump, Xi and Putin get out of their historic meeting?",
+       "url": "https://www.bbc.co.uk/news/videos/c63rgnq05pdwo?at_medium=RSS&at_campaign=rss",
+       "source": "BBC World",
+       "published_at": "2026-11-19 17:23"
       },
       {
-       "title": "Far from Trump-Putin meeting, Europe to count cost of Ukraine’s defence",
-       "url": "https://www.aljazeera.com/news/2026/11/19/far-from-trump-putin-meeting-europe-to-count-cost-of-ukraines-defence?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-11-19 04:58"
+       "title": "Is Europe now in the shadow of a Trump, Putin and Xi alliance? – podcast",
+       "url": "https://www.theguardian.com/politics/audio/2026/nov/19/is-europe-in-shadow-of-trump-putin-xi-alliance-podcast",
+       "source": "Guardian World",
+       "published_at": "2026-11-19 17:23"
       },
       {
-       "title": "Trump wants to talk nuclear with Putin and Xi",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-wants-to-talk-nuclear-with-putin-and-xi?traffic_source=rss",
+       "title": "Trump and Putin ‘hijacked’ China summit",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-and-putin-hijacked-china-summit?traffic_source=rss",
        "source": "Al Jazeera",
-       "published_at": "2026-11-19 04:50"
-      }
-     ]
-    },
-    {
-     "label": "Ukraine",
-     "articles": [
-      {
-       "title": "General Staff: Russia has lost 1,630,980 troops in Ukraine since Feb. 24, 2022",
-       "url": "https://kyivindependent.com/general-staff-russia-has-lost-1-630-980-troops-in-ukraine-since-feb-24-2022/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-11-19 07:27"
-      },
-      {
-       "title": "'We don't count on anyone' – How Ukraine's internally displaced people struggle for housing",
-       "url": "https://kyivindependent.com/we-dont-count-on-anyone-how-ukraines-internally-displaced-people-struggle-for-housing/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-11-19 07:11"
+       "published_at": "2026-11-19 17:02"
       }
      ]
     },
@@ -592,10 +609,22 @@
      "label": "More headlines",
      "articles": [
       {
-       "title": "Crimean Bridge attacked again, Russia says",
-       "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
-       "source": "BBC World",
-       "published_at": "2026-11-19 07:32"
+       "title": "'No viable suggestions' on Russian assets yet, Belgium's Euroclear tells European Parliament",
+       "url": "https://kyivindependent.com/no-viable-suggestions-on-russian-assets-yet-belgiums-euroclear-tells-european-parliament/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-11-19 18:25"
+      },
+      {
+       "title": "China’s Xi urges US and Russia to join forces to safeguard world peace",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/aje-onl-nf_chinas-xi-urges-us-and-russia-for-world-peace-191126?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-11-19 17:50"
+      },
+      {
+       "title": "Exclusive: Ukrainian authorities agree on landmark bill regulating crypto market",
+       "url": "https://kyivindependent.com/exclusive-ukrainian-authorities-agree-on-landmark-bill-regulating-crypto-market/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-11-19 16:07"
       }
      ]
     }
