@@ -1,8 +1,8 @@
 {
- "date": "Wednesday 25 November 2026",
- "generated_at": "23:30 UTC",
+ "date": "Thursday 26 November 2026",
+ "generated_at": "07:41 UTC",
  "error": null,
- "total_stories": 69,
+ "total_stories": 71,
  "fx": {
   "pair": "EUR/MAD",
   "rate": 10.95,
@@ -16,7 +16,7 @@
    "note": null,
    "clusters": [
     {
-     "label": "Inkling · Mini",
+     "label": "Mini · Inkling",
      "articles": [
       {
        "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
@@ -25,19 +25,19 @@
        "published_at": "2026-11-25 00:00"
       },
       {
-       "title": "AtomicChat/Inkling-2-Mini-Uncensored-GGUF · 838 ♥",
+       "title": "AtomicChat/Inkling-2-Mini-Uncensored-GGUF · 857 ♥",
        "url": "https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
        "source": "HF new models",
        "published_at": "2026-11-20 20:42"
       },
       {
-       "title": "unsloth/Inkling-2-Mini-GGUF · 1367 ♥",
+       "title": "unsloth/Inkling-2-Mini-GGUF · 1394 ♥",
        "url": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
        "source": "HF new models",
        "published_at": "2026-11-20 13:09"
       },
       {
-       "title": "thinkingmachines/Inkling-2-Mini · 6019 ♥",
+       "title": "thinkingmachines/Inkling-2-Mini · 6091 ♥",
        "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
        "source": "HF new models",
        "published_at": "2026-11-17 00:26"
@@ -45,25 +45,48 @@
      ]
     },
     {
-     "label": "Being",
+     "label": "Open",
      "articles": [
       {
-       "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
-       "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
-       "source": "Hacker News",
-       "published_at": "2026-11-25 02:34"
+       "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+       "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+       "source": "HuggingFace",
+       "published_at": "2026-11-26 05:05"
       },
       {
-       "title": "David Fincher is being dragged for suspected use of AI in his latest film",
-       "url": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
+       "title": "Has vibe coding made open source the new normal for synths?",
+       "url": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
        "source": "Verge AI",
-       "published_at": "2026-11-24 18:15"
+       "published_at": "2026-11-25 13:00"
+      }
+     ]
+    },
+    {
+     "label": "Qwen",
+     "articles": [
+      {
+       "title": "Bare Metal Qwen",
+       "url": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
+       "source": "Hacker News",
+       "published_at": "2026-11-25 22:15"
+      },
+      {
+       "title": "harness-hub/Qwen3.8-27B-pi-adapted · 1120 ♥",
+       "url": "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted",
+       "source": "HF new models",
+       "published_at": "2026-11-16 06:52"
       }
      ]
     },
     {
      "label": "More headlines",
      "articles": [
+      {
+       "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+       "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
+       "source": "Hacker News",
+       "published_at": "2026-11-26 03:36"
+      },
       {
        "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
        "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
@@ -95,46 +118,28 @@
        "published_at": "2026-11-25 14:12"
       },
       {
-       "title": "Has vibe coding made open source the new normal for synths?",
-       "url": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
-       "source": "Verge AI",
-       "published_at": "2026-11-25 13:00"
-      },
-      {
        "title": "An Indic Voice Agent with CUGA",
        "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
        "source": "HuggingFace",
        "published_at": "2026-11-25 10:22"
       },
       {
-       "title": "Predicting LoRA size for any dataset",
-       "url": "https://engram.com/blog/lora-size",
-       "source": "Hacker News",
-       "published_at": "2026-11-24 22:34"
-      },
-      {
-       "title": "Tidal will start banning AI-generated music next month",
-       "url": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
+       "title": "David Fincher is being dragged for suspected use of AI in his latest film",
+       "url": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
        "source": "Verge AI",
-       "published_at": "2026-11-24 17:17"
+       "published_at": "2026-11-24 18:15"
       },
       {
-       "title": "prism-ml/Ternary-Bonsai-2.5-27B-GGUF · 316 ♥",
+       "title": "prism-ml/Ternary-Bonsai-2.5-27B-GGUF · 387 ♥",
        "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2.5-27B-GGUF",
        "source": "HF new models",
        "published_at": "2026-11-24 16:32"
       },
       {
-       "title": "inclusionAI/Ling-3.2-air · 234 ♥",
+       "title": "inclusionAI/Ling-3.2-air · 239 ♥",
        "url": "https://huggingface.co/inclusionAI/Ling-3.2-air",
        "source": "HF new models",
        "published_at": "2026-11-23 03:55"
-      },
-      {
-       "title": "harness-hub/Qwen3.8-27B-pi-adapted · 1116 ♥",
-       "url": "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted",
-       "source": "HF new models",
-       "published_at": "2026-11-16 06:52"
       }
      ]
     }
@@ -148,67 +153,72 @@
    "note": null,
    "clusters": [
     {
-     "label": "",
+     "label": "Onder",
      "articles": [
       {
-       "title": "Martin van den Brink: ‘Deze erkenning is niet voor mij, maar voor alle ingenieurs’",
-       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSFFqQUo0bThtTWN1VWRBNmhUWG9mSzVEbHlVc0pnTjZIY1VYcnpFZEQ5QjcwZWlCbnM2ZXRoWnRBNlR0dzlhY0p0Sl9fNEFDOEZDOEVwT0VuTWRFekNQNmpGdnlQNUJUeUtnT0FicFpxaHlDZ0FhdThIWVlYNloxYzNlc3BEUTVlM29RWC0tbXNESmVEdmxxOTcwMFZFTkhpam1Da3lYbXo?oc=5",
+       "title": "UT brengt DesignLab onder bij faculteit BMS",
+       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPd0VDOXJyaU1PUE9jX3MwVWFVVXhsRFl4dERONWtzcUEtbkJZX0d5WGJYZkhpNW90SVhVU2R3Vm9NVnF1YW43cGFJci1SbVRHZmJHVEZZWTFtQlVnUTg1TmJudjdlSlJkRnd2M2NZNHBDYzh1YXJXLWg2bmFmLTc5cVJn?oc=5",
        "source": "UToday",
-       "published_at": "2026-11-24 07:40"
+       "published_at": "2026-11-25 12:30"
       },
       {
-       "title": "In de rij voor het Hubertusfeest: 'Ik verwacht een tien uit tien van een kater'",
-       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOS1FWVXg0WmhGUjJVbXNXd1F1MEQ2bmFsalFtc0VuZkN0R0NIM3AzOVZiWDVBdGg1THRUVENuODF0eHJEeWEtZmVBS0pIRkR0TEdkVkxRNHY3V3k0NnBZblNad2VXbEgzNTZLUFY5TF9Gc0E3cWZLdXBOcEw1R3NfWUtGVXlUaU9adzctRzl1VVJTdlZuMEs4SjB1bDJ6Qkx1NGV3aVc1dFFBUU5OZmU4?oc=5",
+       "title": "Kennisveiligheid: samenwerking met Chinese universiteiten opnieuw onder vuur",
+       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZllWRnFQZ0VVaGRJRlVoQU1qZ3d0YXAxZEx2OW55Y3RJMEYxTlYtRVJvWTZwTVRDREhEQ3hWaWYwQXRpNGM2Y1VhamFTcVo1eVhob0FKWkxzZ3BHemVLWjhtVkpEREQzR2ZWc1RTWVdmTmtZa1Fid3hrc3lRaE0wZklBS0g1dWZIckp0X04wTi1iVkxscDJ2RzJQVDY5eG1vNUQ0YzgzXzEzSUFT?oc=5",
        "source": "UToday",
-       "published_at": "2026-11-23 15:05"
+       "published_at": "2026-11-19 12:51"
+      }
+     ]
+    },
+    {
+     "label": "More headlines",
+     "articles": [
+      {
+       "title": "Bijna helft jonge vrouwen slachtoffer van seksueel wangedrag",
+       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMHMyLVJ2cnRMUlhUaEFBUVVFRDlDSG5xdkM0Wk05akp2eFp5TWJaOVNJcGJFeW01ZHlJSmdsVzNOb1pjX1BCX0syY2NJZUJTM290MExJeWZsWkFCaUpEZ3ZIRTd6WWVnbXhjYjFtZTA0S3IxRnpzbEZwUXdaRmtDVXlxYUVrRWtnUzl5aGVPMXVMSnNoVUs0Vw?oc=5",
+       "source": "UToday",
+       "published_at": "2026-11-25 10:21"
       },
       {
-       "title": "‘Soms staat er een draak van een berekening op je bord’",
-       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQjlVZmI3U1R0SHRhRkUycmN5TkwtdVZxZXVSdzdYUDI3eDJxc2hkLW92NklJUW1RM3FrbmQtRkhsd2VKT1U5MERuN3dPTXZmMWhvRjRHYi1oVDB1akU4ZVpTTXZlRzdZSUluZ05OOFRWZHdIeFdkRWNELUVsOExoWTFLVzU2ckg5OXJybmd4YW5Tbjdrc1E?oc=5",
+       "title": "Eredoctoraten 1981-2026",
+       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBZZlVfM0lKN1A4RFZpcU1oMlFxQnVUZ2lUTXA2SEhfLWlRMWxpcG4wS0V3UGI1endETEJFMWduclR4bThZQWNtejZOSQ?oc=5",
        "source": "UToday",
-       "published_at": "2026-11-18 10:20"
+       "published_at": "2026-11-25 10:12"
       },
       {
-       "title": "UT’ers kunnen overstap maken naar Linux",
-       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ycXJNb0xiZ0V2UW9OeGw2eVpWUW9kSXZRUV92azBOVzFNTkRkYTVrQktRLUlVOGNBcjBQTHVjSmlWbnh5OEtya0JTcEhnYkk2d1kzYjI3ZldMb21PMmFUQ2RUYUxnbkFOaEFMUEM2R2dyVDNxUGhvT040OA?oc=5",
+       "title": "‘Probeer emoties te zien en te voelen in plaats van weg te drukken’",
+       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTXFOWHl2N3Y4N1dkMU1OZS1kTU52d201NEpNb3Ytc2tXNUUyM05Wd2s0cjJrQ1JGaHZ5TDhBdU80NGVMQll6V1Uzdkc4WEdqMXd1dDA3UFpVc3RJOUVfdUZURC1BWDJuYjBWUzFTRjF2ZjR5cTFHOHp2SnNBWHdFcENWQVBMai1FNFl6RHFaVDZUZFNvd1R2cTlaczU2ZDQ?oc=5",
        "source": "UToday",
-       "published_at": "2026-11-17 08:00"
+       "published_at": "2026-11-25 09:58"
       },
       {
-       "title": "Achtergrond",
-       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5kQ1poNmxyXzF4N3FVTnBPcXBNeUVMdmRmUU9IbHBwY2psZGREbjJHV1c0bWhmRTlwRGQ3cnlkdk1LdFl0UzFyYQ?oc=5",
+       "title": "‘Als een soort Mission Impossible-missie vingen we een wesp’",
+       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONlJtaTRtTW1iN3M1b0dNV3d6VFFaOElQU2s4YjhJNFJzQlFoc2w2VV9nckdPbHlybWhQdEM4MXRpbmlrZHB3WFQ2dXJMN0R0RXdFLWhVSlA1RUdPTnpHU05Xc3BicGFFdnJJbmJkZVJUeG1EUkpBYnBvZjlOcmFJd1ZjZ3Q0QWF0Y085dDRudjJGbFRucjBaN3NjZkF6Zw?oc=5",
        "source": "UToday",
-       "published_at": "2026-11-03 08:00"
+       "published_at": "2026-11-25 09:23"
       },
       {
-       "title": "UT en Navitas starten schakeljaar voor Beethoven-student",
-       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaWtySzlYVXBBQUhHeEd2NUdMbzBHSVl0YmJFaEpHTkM3V0lEUHlXdEoyeWJnbFJ4RGowTWRyRmR3OFNhVDZRd2J4dEVjNUh5VVFfOUxfYk1jRlBjU25jY19LcU5aR3FMdzBaYzQ0Q3dsTy1ITlRoQ3d4YkJyTm9XMHl4RFRDVWJzODdpTmFMQjZZSXM?oc=5",
+       "title": "Kabinet mag doorwerken aan militaire opkomstplicht, vindt Tweede Kamer",
+       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQkNab2tQLW5zc2xodXRLNDFZTzBxc1dTR3FpQkdHdHJPdjJyVEszTy1DTjBJOGNOQnpXSkFYM0dNcWotb0VnN0QyS0JiemhLVGdYWmxmV0pYYUVSbXRHWkJEZVJnM2p6bnhYODlwWnZsSmVrb2tULUZYWlFqQmxkTG9SOTM5UDhTb0pMRG9kM0VzMTBURkdtRVl0UHR3NGdIclExTw?oc=5",
        "source": "UToday",
-       "published_at": "2026-10-22 07:00"
+       "published_at": "2026-11-25 07:40"
       },
       {
-       "title": "Postume promotie voor Sakshi Kannan: ‘Laten zien wat voor sterke vrouw ze was’",
-       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYjVxTVBBRmlTYlQ3NjlwNkFwOEROd0c3MGQ5QnAtZFkta0cxa1VfQnV6RXRmajc2Tngzb3REcEpDVHhmck9NLXBlNnRHYlRRUGJpbHZTNENtYlMxa2NfX3l0cEdCMEg3QWdRb2xNeFBwbmhIUkJmU2pGeXJuRWZoV1ZDQ2VVUzg3SGgwLVZaeEFoVm5MX0ZxUDMzSkUyMjU4dmJPWHlYNGJRUDNWM3VNUkFfRQ?oc=5",
+       "title": "Onderhandelingen met Verenigd Koninkrijk: waarom is het collegegeld een heet hangijzer?",
+       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeDJaaTEtWE92aEVUTlpVWHE1WDZRRmtmWUpSVXdLZ0ZhcG1fTTFDSzdOdVFKMkhVVnBYX0R3cEdQV3E5WFM3bkNtVnJkZm5tYTFYeHJRbHBOd21TU0pYUEhmemZrR09fZ1JZcXNCZEdiTmpVNm84YXNCMFVlcEdBOUUtenFINGFzbmY3QVYwTndBUHd0U2xKX0x0ZlFUdGROMmZScEd5RlJLOEQwclo3VUhjVkhOS3VEM0E?oc=5",
        "source": "UToday",
-       "published_at": "2026-10-07 07:00"
+       "published_at": "2026-11-24 12:34"
       },
       {
-       "title": "Zes Nederlandse universiteiten betalen nog steeds tonnen voor instituut in Rusland",
-       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaHNwWmpjMHZGdkFMcldBRGo1TFZ3ODgtS3RGNmwtbW1PYzRiQjhmVGNPbG1Yd2lSdVJsWGNjbDc5NjNldVBORjJuYXhzWGlRUVUwT0pIaEtKd3c5RnlXSDhZT3NqVE56aEpNOTlCR2RDOXVzd0gyUi11d0pLSVlkdGktcmI2V3ZrdHJRSXBhYlRtNDlsb0RhNTAtbVNnOWllU0pFSDRLX05QU1hMWjJ5cU1fNEpWUQ?oc=5",
+       "title": "Vrede vraagt kennis",
+       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1yN3dRdkdraS1JY3YxUkotSDBjbEdHeXpOaDYtNm15bF9MZ3ZBUEoyV0NwQk5kazNYUVZabFZXM1Q5VFB1UHh5N0JXU3daalBNX0xFSmJKWW8wc01ndzJIQWR4QlBKUQ?oc=5",
        "source": "UToday",
-       "published_at": "2026-10-02 07:00"
+       "published_at": "2026-11-20 10:01"
       },
       {
-       "title": "UT’er kraakt twintig jaar oud wiskundeprobleem",
-       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbVg5WVlNWkxoeWcyZS1xSjdjam9ab0RGR1hWMXpkTnhBNHR0SUQyaXZVN2Jza016N1JvQmtzdTBjMmhlSE13Y01UaUJtOEdRbUtlNWhVTGc1UTJPRy1NTk5YNHBncEFkVjhMRzNtLVkyNVowMnlJUFF1UUhETEhqUTRTQ18?oc=5",
+       "title": "Studenten in actie tegen ‘militarisering’ hoger onderwijs",
+       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPR21XWjlfejB4OTd4c3lTZnUtWkRCbFJ5d0JwY3Q1YUpxbE04QWVtTi1ObVp3VmN0REhLdzBWS3NfZUlHUllWOXJUNlRqTW0xLWNkaThMVDMtOW1aOFVGbWdDQzBhNl9XYUQ1Z0hNdF96M1RBTHpBaEpGVXJnalNHSjBnT2NZOUJWWkFNQTdLQ0JuZw?oc=5",
        "source": "UToday",
-       "published_at": "2026-08-25 07:00"
-      },
-      {
-       "title": "Rouwprofessor Lonneke Lenferink: ‘Ik voelde me nooit heel erg thuis op de universiteit’",
-       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaW9yV1BjbmFhVDVrY21qQ3BsOVlDejlnWHQxYWFyYnBCcDctcVUxWmZaeFh1RXlwWlJKYVhwSFJZeU9Sa2hCU0J1WUlQcktHRDNrb1Y2Q25Yc1VPMDFxTnE4c1pHQjZuX2kza1UwTGsteDg4ZDhEX3FpX3dJaXgyNkwxWG56YS15RlEwSjhJamRnRzM5NTczWF9RRnRvd3F5UDM4YXU0NUpqZU0zUGU1aE03YW1vRHlNbFlOS2hJcw?oc=5",
-       "source": "UToday",
-       "published_at": "2026-07-08 07:00"
+       "published_at": "2026-11-19 06:00"
       }
      ]
     }
@@ -222,41 +232,58 @@
    "note": null,
    "clusters": [
     {
-     "label": "الأطراف · مبتوري",
+     "label": "بالمغرب",
      "articles": [
       {
-       "title": "مديرية الأمن تهنئ مبتوري الأطراف",
-       "url": "https://www.hespress.com/%d9%85%d8%af%d9%8a%d8%b1%d9%8a%d8%a9-%d8%a7%d9%84%d8%a3%d9%85%d9%86-%d8%aa%d9%87%d9%86%d8%a6-%d9%85%d8%a8%d8%aa%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%a3%d8%b7%d8%b1%d8%a7%d9%81-1846012.html",
+       "title": "توقعات طقس اليوم الخميس بالمغرب",
+       "url": "https://www.hespress.com/%d8%aa%d9%88%d9%82%d8%b9%d8%a7%d8%aa-%d8%b7%d9%82%d8%b3-%d8%a7%d9%84%d9%8a%d9%88%d9%85-%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3-%d8%a8%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-103-1845969.html",
        "source": "Hespress",
-       "published_at": "2026-11-25 22:10"
+       "published_at": "2026-11-26 07:08"
       },
       {
-       "title": "ميطا 3 | مشاركة تاريخية لمنتخب مبتوري الأطراف",
-       "url": "https://www.hespress.com/%d9%85%d9%8a%d8%b7%d8%a7-3-%d9%85%d8%b4%d8%a7%d8%b1%d9%83%d8%a9-%d8%aa%d8%a7%d8%b1%d9%8a%d8%ae%d9%8a%d8%a9-%d9%84%d9%85%d9%86%d8%aa%d8%ae%d8%a8-%d9%85%d8%a8%d8%aa%d9%88%d8%b1%d9%8a-%d8%a7%d9%84-1846008.html",
+       "title": "أرقام سوق الشغل بالمغرب تكشف فجوة بين تراجع البطالة وواقع فرص العمل",
+       "url": "https://www.hespress.com/%d8%a3%d8%b1%d9%82%d8%a7%d9%85-%d8%b3%d9%88%d9%82-%d8%a7%d9%84%d8%b4%d8%ba%d9%84-%d8%a8%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d8%aa%d9%83%d8%b4%d9%81-%d9%81%d8%ac%d9%88%d8%a9-%d8%a8%d9%8a%d9%86-%d8%aa-1842905.html",
        "source": "Hespress",
-       "published_at": "2026-11-25 22:02"
+       "published_at": "2026-11-26 05:00"
       }
      ]
     },
     {
-     "label": "المغرب",
+     "label": "على",
      "articles": [
       {
-       "title": "المغرب يظفر باهتمام مقاولات هولندا",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d9%8a%d8%b8%d9%81%d8%b1-%d8%a8%d8%a7%d9%87%d8%aa%d9%85%d8%a7%d9%85-%d9%85%d9%82%d8%a7%d9%88%d9%84%d8%a7%d8%aa-%d9%87%d9%88%d9%84%d9%86%d8%af%d8%a7-1845608.html",
+       "title": "الكربون يضغط على الصادرات المغربية",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%83%d8%b1%d8%a8%d9%88%d9%86-%d9%8a%d8%b6%d8%ba%d8%b7-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d8%b5%d8%a7%d8%af%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8%d9%8a%d8%a9-1845431.html",
        "source": "Hespress",
-       "published_at": "2026-11-25 21:45"
+       "published_at": "2026-11-26 06:22"
       },
       {
-       "title": "اتفاق إعلامي يجمع المغرب وجيبوتي",
-       "url": "https://www.hespress.com/%d8%a7%d8%aa%d9%81%d8%a7%d9%82-%d8%a5%d8%b9%d9%84%d8%a7%d9%85%d9%8a-%d9%8a%d8%ac%d9%85%d8%b9-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d9%88%d8%ac%d9%8a%d8%a8%d9%88%d8%aa%d9%8a-1845824.html",
+       "title": "إسبانيا على إيقاع 1936.. حين تعود أشباح الحرب الأهلية إلى المشهد الانتخابي",
+       "url": "https://www.hespress.com/%d8%a5%d8%b3%d8%a8%d8%a7%d9%86%d9%8a%d8%a7-%d8%b9%d9%84%d9%89-%d8%a5%d9%8a%d9%82%d8%a7%d8%b9-1936-%d8%ad%d9%8a%d9%86-%d8%aa%d8%b9%d9%88%d8%af-%d8%a3%d8%b4%d8%a8%d8%a7%d8%ad-%d8%a7%d9%84%d8%ad%d8%b1-1845914.html",
        "source": "Hespress",
-       "published_at": "2026-11-25 21:13"
+       "published_at": "2026-11-26 01:00"
       }
      ]
     },
     {
-     "label": "Mohammed · Défense",
+     "label": "دراسة",
+     "articles": [
+      {
+       "title": "دراسة تكشف اختلالات معالجة عصارة النفايات بعشرة مطارح مغربية",
+       "url": "https://www.hespress.com/%d8%af%d8%b1%d8%a7%d8%b3%d8%a9-%d8%aa%d9%83%d8%b4%d9%81-%d8%a7%d8%ae%d8%aa%d9%84%d8%a7%d9%84%d8%a7%d8%aa-%d9%85%d8%b9%d8%a7%d9%84%d8%ac%d8%a9-%d8%b9%d8%b5%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d9%86%d9%81-1845459.html",
+       "source": "Hespress",
+       "published_at": "2026-11-26 04:00"
+      },
+      {
+       "title": "دراسة تفسر التهابات عند أطفال مغاربة",
+       "url": "https://www.hespress.com/%d8%af%d8%b1%d8%a7%d8%b3%d8%a9-%d8%aa%d9%81%d8%b3%d8%b1-%d8%a7%d9%84%d8%aa%d9%87%d8%a7%d8%a8%d8%a7%d8%aa-%d8%b9%d9%86%d8%af-%d8%a3%d8%b7%d9%81%d8%a7%d9%84-%d9%85%d8%ba%d8%a7%d8%b1%d8%a8%d8%a9-1845737.html",
+       "source": "Hespress",
+       "published_at": "2026-11-26 01:15"
+      }
+     ]
+    },
+    {
+     "label": "Conventions · Roi",
      "articles": [
       {
        "title": "Industrie de défense et de sécurité : ce qu’il faut savoir sur les deux conventions signées en présence du Roi Mohammed VI",
@@ -276,52 +303,40 @@
      "label": "More headlines",
      "articles": [
       {
-       "title": "''كاغول'' يخطف أنظار الجمهور",
-       "url": "https://www.hespress.com/%d9%83%d8%a7%d8%ba%d9%88%d9%84-%d9%8a%d8%ae%d8%b7%d9%81-%d8%a3%d9%86%d8%b8%d8%a7%d8%b1-%d8%a7%d9%84%d8%ac%d9%85%d9%87%d9%88%d8%b1-1846027.html",
+       "title": "العزوزي ينال الاعتراف بابتكارات تدعم الدورة الدموية لدى مرضى القلب",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%b9%d8%b2%d9%88%d8%b2%d9%8a-%d9%8a%d9%86%d8%a7%d9%84-%d8%a7%d9%84%d8%a7%d8%b9%d8%aa%d8%b1%d8%a7%d9%81-%d8%a8%d8%a7%d8%a8%d8%aa%d9%83%d8%a7%d8%b1%d8%a7%d8%aa-%d8%aa%d8%af%d8%b9%d9%85-1845782.html",
        "source": "Hespress",
-       "published_at": "2026-11-25 23:10"
+       "published_at": "2026-11-26 07:00"
       },
       {
-       "title": "\"مفتشو الثانوي\" يطالبون بنموذج جديد",
-       "url": "https://www.hespress.com/%d9%85%d9%81%d8%aa%d8%b4%d9%88-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%88%d9%8a-%d9%8a%d8%b7%d8%a7%d9%84%d8%a8%d9%88%d9%86-%d8%a8%d9%86%d9%85%d9%88%d8%b0%d8%ac-%d8%ac%d8%af%d9%8a%d8%af-1845967.html",
+       "title": "مفتكر: العنف لا يرتبط بالفقر وحده .. والتربية ليست مجرد حلال وحرام",
+       "url": "https://www.hespress.com/%d9%85%d9%81%d8%aa%d9%83%d8%b1-%d8%a7%d9%84%d8%b9%d9%86%d9%81-%d9%84%d8%a7-%d9%8a%d8%b1%d8%aa%d8%a8%d8%b7-%d8%a8%d8%a7%d9%84%d9%81%d9%82%d8%b1-%d9%88%d8%ad%d8%af%d9%87-%d9%88%d8%a7%d9%84%d8%aa-1845414.html",
        "source": "Hespress",
-       "published_at": "2026-11-25 23:09"
+       "published_at": "2026-11-26 06:00"
       },
       {
-       "title": "العجلاوي: أزمة بناء الدولة تغذي العداء الجزائري للمغرب منذ الاستقلال",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%b9%d8%ac%d9%84%d8%a7%d9%88%d9%8a-%d8%a3%d8%b2%d9%85%d8%a9-%d8%a8%d9%86%d8%a7%d8%a1-%d8%a7%d9%84%d8%af%d9%88%d9%84%d8%a9-%d8%aa%d8%ba%d8%b0%d9%8a-%d8%a7%d9%84%d8%b9%d8%af%d8%a7%d8%a1-1845567.html",
+       "title": "الإنجليزية تطرح تحديات بكليات الطب",
+       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%a5%d9%86%d8%ac%d9%84%d9%8a%d8%b2%d9%8a%d8%a9-%d8%aa%d8%b7%d8%b1%d8%ad-%d8%aa%d8%ad%d8%af%d9%8a%d8%a7%d8%aa-%d8%a8%d9%83%d9%84%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d8%b7%d8%a8-1845410.html",
        "source": "Hespress",
-       "published_at": "2026-11-25 23:00"
+       "published_at": "2026-11-26 05:31"
       },
       {
-       "title": "\"الأشبال\" ينهون التحضير للقاء إسبانيا",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%a3%d8%b4%d8%a8%d8%a7%d9%84-%d9%8a%d9%86%d9%87%d9%88%d9%86-%d8%a7%d9%84%d8%aa%d8%ad%d8%b6%d9%8a%d8%b1-%d9%84%d9%84%d9%82%d8%a7%d8%a1-%d8%a5%d8%b3%d8%a8%d8%a7%d9%86%d9%8a%d8%a7-1846016.html",
+       "title": "صيغة تفاوضية أوروبية تستبعد المغرب من امتيازات قطاع السيارات",
+       "url": "https://www.hespress.com/%d8%b5%d9%8a%d8%ba%d8%a9-%d8%aa%d9%81%d8%a7%d9%88%d8%b6%d9%8a%d8%a9-%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d9%8a%d8%a9-%d8%aa%d8%b3%d8%aa%d8%a8%d8%b9%d8%af-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d9%85%d9%86-1845483.html",
        "source": "Hespress",
-       "published_at": "2026-11-25 22:30"
+       "published_at": "2026-11-26 03:00"
       },
       {
-       "title": "رصيف الصحافة: الصحة النفسية بالمغرب.. معاناة متفاقمة ورعاية ضعيفة",
-       "url": "https://www.hespress.com/%d8%b1%d8%b5%d9%8a%d9%81-%d8%a7%d9%84%d8%b5%d8%ad%d8%a7%d9%81%d8%a9-%d8%a7%d9%84%d8%b5%d8%ad%d8%a9-%d8%a7%d9%84%d9%86%d9%81%d8%b3%d9%8a%d8%a9-%d8%a8%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d9%85%d8%b9-1846007.html",
+       "title": "استثمارات التأمين تناهز 247 مليار درهم",
+       "url": "https://www.hespress.com/%d8%a7%d8%b3%d8%aa%d8%ab%d9%85%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%aa%d9%86%d8%a7%d9%87%d8%b2-247-%d9%85%d9%84%d9%8a%d8%a7%d8%b1-%d8%af%d8%b1%d9%87%d9%85-1845527.html",
        "source": "Hespress",
-       "published_at": "2026-11-25 22:00"
+       "published_at": "2026-11-26 02:12"
       },
       {
-       "title": "الممثل والموسيقي المغربي البارز يونس ميكري يرفع نجمة مهرجان مراكش",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d9%85%d9%85%d8%ab%d9%84-%d9%88%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%8a%d9%82%d9%8a-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8%d9%8a-%d8%a7%d9%84%d8%a8%d8%a7%d8%b1%d8%b2-%d9%8a%d9%88%d9%86%d8%b3-1845964.html",
+       "title": "فيلم وثائقي يكشف جوانب من المسار الفكري للأكاديمي الراحل إدوارد سعيد",
+       "url": "https://www.hespress.com/%d9%81%d9%8a%d9%84%d9%85-%d9%88%d8%ab%d8%a7%d8%a6%d9%82%d9%8a-%d9%8a%d9%83%d8%b4%d9%81-%d8%ac%d9%88%d8%a7%d9%86%d8%a8-%d9%85%d9%86-%d8%a7%d9%84%d9%85%d8%b3%d8%a7%d8%b1-%d8%a7%d9%84%d9%81%d9%83%d8%b1-1845920.html",
        "source": "Hespress",
-       "published_at": "2026-11-25 21:30"
-      },
-      {
-       "title": "الإعلام وهيمنة الإسلاميين",
-       "url": "https://www.hespress.com/%d8%a7%d9%84%d8%a5%d8%b9%d9%84%d8%a7%d9%85-%d9%88%d9%87%d9%8a%d9%85%d9%86%d8%a9-%d8%a7%d9%84%d8%a5%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d9%8a%d9%86-1845849.html",
-       "source": "Hespress",
-       "published_at": "2026-11-25 21:20"
-      },
-      {
-       "title": "نحو ثورة تربوية",
-       "url": "https://www.hespress.com/%d9%86%d8%ad%d9%88-%d8%ab%d9%88%d8%b1%d8%a9-%d8%aa%d8%b1%d8%a8%d9%88%d9%8a%d8%a9-1845863.html",
-       "source": "Hespress",
-       "published_at": "2026-11-25 21:19"
+       "published_at": "2026-11-26 02:00"
       },
       {
        "title": "Souveraineté : l'épargne peut-elle payer la facture ?",
@@ -359,19 +374,19 @@
    "note": null,
    "clusters": [
     {
-     "label": "Nieuwe",
+     "label": "Rutte · Rusland",
      "articles": [
       {
-       "title": "Bijna 8000 huurwoningen in een kwartaal verdwenen naar koopsector: ’Dit is het nieuwe normaal’",
-       "url": "https://www.telegraaf.nl/financieel/bijna-8000-huurwoningen-in-een-kwartaal-verdwenen-naar-koopsector-dit-is-het-nieuwe-normaal/165110459.html",
-       "source": "de Telegraaf",
-       "published_at": "2026-11-25 23:01"
+       "title": "Rutte en Trump roepen Rusland op de oorlog niet verder te laten escaleren",
+       "url": "https://www.nu.nl/spanningen-oekraine/6417817/rutte-en-trump-roepen-rusland-op-de-oorlog-niet-verder-te-laten-escaleren.html",
+       "source": "NU.nl",
+       "published_at": "2026-11-26 04:52"
       },
       {
-       "title": "Nieuwe cao: medewerkers supermarkten en speciaalzaken krijgen er 7,5 procent loon bij",
-       "url": "https://www.telegraaf.nl/financieel/geld/nieuwe-cao-medewerkers-supermarkten-en-speciaalzaken-krijgen-er-75-procent-loon-bij/165107448.html",
+       "title": "LIVE | Rutte en Trump roepen Rusland op Oekraïne-oorlog ’niet groter te maken’",
+       "url": "https://www.telegraaf.nl/buitenland/live-rutte-en-trump-roepen-rusland-op-oekrane-oorlog-niet-groter-te-maken/165113062.html",
        "source": "de Telegraaf",
-       "published_at": "2026-11-25 18:00"
+       "published_at": "2026-11-26 04:37"
       }
      ]
     },
@@ -379,21 +394,27 @@
      "label": "More headlines",
      "articles": [
       {
+       "title": "Kamer wil term ’remigratie’ uit wet schrappen, maar deskundigen waarschuwen: ’Dan schuif je op richting duistere tijden’",
+       "url": "https://www.telegraaf.nl/binnenland/kamer-wil-term-remigratie-uit-wet-schrappen-maar-deskundigen-waarschuwen-dan-schuif-je-op-richting-duistere-tijden/165068266.html",
+       "source": "de Telegraaf",
+       "published_at": "2026-11-26 04:45"
+      },
+      {
+       "title": "Bijna 8000 huurwoningen in een kwartaal verdwenen naar koopsector: ’Dit is het nieuwe normaal’",
+       "url": "https://www.telegraaf.nl/financieel/bijna-8000-huurwoningen-in-een-kwartaal-verdwenen-naar-koopsector-dit-is-het-nieuwe-normaal/165110459.html",
+       "source": "de Telegraaf",
+       "published_at": "2026-11-25 23:01"
+      },
+      {
        "title": "Deense premier Mette Frederiksen onder vuur: linkse bondgenoten woest over uitspraak ’bevolkingsvervanging’",
        "url": "https://www.telegraaf.nl/buitenland/deense-premier-mette-frederiksen-onder-vuur-linkse-bondgenoten-woest-over-uitspraak-bevolkingsvervanging/165080856.html",
        "source": "de Telegraaf",
        "published_at": "2026-11-25 21:00"
-      },
-      {
-       "title": "Sergio Herman moet ruim 2600 euro dokken voor beschadigde huurwoning in Knokke",
-       "url": "https://www.telegraaf.nl/entertainment/cultuur/sergio-herman-moet-ruim-2600-euro-dokken-voor-beschadigde-huurwoning-in-knokke/165109725.html",
-       "source": "de Telegraaf",
-       "published_at": "2026-11-25 16:55"
       }
      ]
     }
    ],
-   "count": 4
+   "count": 5
   },
   {
    "key": "mideast",
@@ -405,10 +426,10 @@
      "label": "Gaza",
      "articles": [
       {
-       "title": "Winter rains threaten 1,000 Gaza shelter sites, councils warn",
-       "url": "https://www.aljazeera.com/news/2026/11/25/winter-rains-threaten-1000-gaza-shelter-sites-councils-warn?traffic_source=rss",
+       "title": "Gaza meningitis cases surge as collapsing infrastructure fuels health fears",
+       "url": "https://www.aljazeera.com/news/2026/11/26/gaza-meningitis-cases-surge-as-collapsing-infrastructure-fuels-health-fears?traffic_source=rss",
        "source": "Al Jazeera",
-       "published_at": "2026-11-25 21:03"
+       "published_at": "2026-11-26 06:14"
       },
       {
        "title": "Israeli strike kills senior Hamas security official and family in Gaza City",
@@ -419,30 +440,13 @@
      ]
     },
     {
-     "label": "Dropping · Netanyahu",
+     "label": "Israel",
      "articles": [
       {
-       "title": "Netanyahu says corruption trial ‘must end’ as court suggests dropping case",
-       "url": "https://www.aljazeera.com/news/2026/11/25/netanyahu-says-corruption-trial-must-end-as-court-suggests-dropping-case?traffic_source=rss",
+       "title": "How Silicon Valley became central to Israel’s war on Palestinians",
+       "url": "https://www.aljazeera.com/news/2026/11/26/how-silicon-valley-central-israel-war-palestinians?traffic_source=rss",
        "source": "Al Jazeera",
-       "published_at": "2026-11-25 20:29"
-      },
-      {
-       "title": "Israeli judges recommend dropping most serious charges against Netanyahu",
-       "url": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o?at_medium=RSS&at_campaign=rss",
-       "source": "BBC World",
-       "published_at": "2026-11-25 19:47"
-      }
-     ]
-    },
-    {
-     "label": "Free · Held",
-     "articles": [
-      {
-       "title": "Colombian police storm supermarket to free 76 held hostage for 17 hours",
-       "url": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss",
-       "source": "BBC World",
-       "published_at": "2026-11-25 18:41"
+       "published_at": "2026-11-26 06:12"
       },
       {
        "title": "Protesters call on Israel to free Palestinian student held without charge",
@@ -453,18 +457,41 @@
      ]
     },
     {
-     "label": "More headlines",
+     "label": "Supermarket · Hostage",
      "articles": [
       {
-       "title": "Could renewed strikes on Hodeidah port worsen Yemen’s humanitarian crisis?",
-       "url": "https://www.aljazeera.com/news/2026/11/25/could-renewed-strikes-on-hodeidah-port-worsen-yemens-humanitarian-crisis?traffic_source=rss",
+       "title": "Colombian president taunts arrested supermarket hostage-takers",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/colombian-president-taunts-arrested-supermarket-hostage-takers?traffic_source=rss",
        "source": "Al Jazeera",
-       "published_at": "2026-11-25 19:15"
+       "published_at": "2026-11-26 03:23"
+      },
+      {
+       "title": "Colombian police storm supermarket to free 76 held hostage for 17 hours",
+       "url": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss",
+       "source": "BBC World",
+       "published_at": "2026-11-25 18:41"
+      }
+     ]
+    },
+    {
+     "label": "Against · Recommend",
+     "articles": [
+      {
+       "title": "Judges recommend prosecutors end corruption case against Netanyahu",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/judges-recommend-prosecutors-end-corruption-case-against-netanyahu?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-11-26 01:08"
+      },
+      {
+       "title": "Israeli judges recommend dropping most serious charges against Netanyahu",
+       "url": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o?at_medium=RSS&at_campaign=rss",
+       "source": "BBC World",
+       "published_at": "2026-11-25 19:47"
       }
      ]
     }
    ],
-   "count": 7
+   "count": 8
   },
   {
    "key": "ukraine",
@@ -476,10 +503,22 @@
      "label": "Russian · Ukrainian",
      "articles": [
       {
-       "title": "Ukrainian laser downs Russian jet-powered drone in world first",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/ukrainian-laser-downs-russian-jet-powered-drone-in-world-first?traffic_source=rss",
-       "source": "Al Jazeera",
-       "published_at": "2026-11-25 19:16"
+       "title": "Exclusive: EU report confirms Trump threw Russian energy sector an economic lifeline even as sanctions, Ukrainian drones, bite hard",
+       "url": "https://kyivindependent.com/exclusive-eu-report-confirms-trump-threw-russian-energy-sector-an-economic-lifeline-even-as-sanctions-ukrainian-drones-bite-hard/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-11-26 05:00"
+      },
+      {
+       "title": "Ukrainian drones attack key Russian fertilizer plant linked to explosives production, Stavropol Krai governor says",
+       "url": "https://kyivindependent.com/ukrainian-drones-attack-key-russian-fertilizer-plant-linked-to-explosives-production-in-stavropol-krai-local-official-says/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-11-26 03:14"
+      },
+      {
+       "title": "US billionaire, government agency ink deal to acquire sanctioned Russian oil giant Lukoil's global assets",
+       "url": "https://kyivindependent.com/us-consortium-announces-deal-to-acquire-sanctioned-russian-oil-company-lukoils-global-subsidiary/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-11-26 01:06"
       },
       {
        "title": "Ukraine war latest: Poland plans no-fly zone near Ukraine border, asks NATO to intercept Russian missiles over Ukraine",
@@ -492,53 +531,35 @@
        "url": "https://kyivindependent.com/ukrainian-journalists-outnumbered-30-to-1-by-russian-propagandists-during-oleshky-evacuation-reporter-says/",
        "source": "Kyiv Independent",
        "published_at": "2026-11-25 18:21"
-      },
-      {
-       "title": "Ukrainian combat laser intercepts Russian jet-powered drone for first time",
-       "url": "https://kyivindependent.com/ukrainian-combat-lasers-intercept-russian-jet-powered-drone-for-first-time/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-11-25 17:47"
-      },
-      {
-       "title": "Estonia deports Russian national over suspected ties to Russian intelligence",
-       "url": "https://kyivindependent.com/estonia-deports-russian-national-over-suspected-ties-to-russian-intelligence/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-11-25 16:58"
       }
      ]
     },
     {
-     "label": "Ukraine · Russian",
+     "label": "Ukraine · Russia",
      "articles": [
+      {
+       "title": "General Staff: Russia has lost 1,645,899 troops in Ukraine since Feb. 24, 2022",
+       "url": "https://kyivindependent.com/general-staff-russia-has-lost-1-645-899-troops-in-ukraine-since-feb-24-2022/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-11-26 07:13"
+      },
+      {
+       "title": "Over 30 countries demand Russia stop using chemical agents as weapons of war in Ukraine",
+       "url": "https://kyivindependent.com/over-30-countries-demand-russia-stop-using-chemical-agents-as-weapons-of-war-in-ukraine/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-11-26 02:18"
+      },
+      {
+       "title": "Ukraine says five jets damaged in attack on Russia’s Savasleyka airbase",
+       "url": "https://www.aljazeera.com/news/2026/11/26/ukraine-attacks-russian-military-base-says-five-planes-struck?traffic_source=rss",
+       "source": "Al Jazeera",
+       "published_at": "2026-11-26 01:39"
+      },
       {
        "title": "Ukraine's next election",
        "url": "https://kyivindependent.com/ukraines-next-election/",
        "source": "Kyiv Independent",
        "published_at": "2026-11-25 17:29"
-      },
-      {
-       "title": "Black Sea port blockade could cost Ukraine $9.8 billion in 2027, study says",
-       "url": "https://kyivindependent.com/black-sea-port-blockade-could-cost-ukraine-9-8-billion-in-2027-study-says/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-11-25 17:07"
-      },
-      {
-       "title": "Poland plans no-fly zone near Ukraine border, asks NATO to intercept Russian missiles over Ukraine",
-       "url": "https://kyivindependent.com/poland-plans-no-fly-zone-near-ukraine-border-asks-nato-to-intercept-russian-missiles-over-ukraine/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-11-25 16:13"
-      },
-      {
-       "title": "Finland, Norway pledge nearly $60 million to support Ukraine's energy sector repairs",
-       "url": "https://kyivindependent.com/finland-norway-pledge-nearly-60-million-to-support-ukraines-energy-sector-repairs/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-11-25 15:50"
-      },
-      {
-       "title": "Parliament backs Ukraine's joining management committee of special tribunal on Russian aggression",
-       "url": "https://kyivindependent.com/parliament-backs-ukraines-joining-management-committee-of-special-tribunal-on-russian-aggression/",
-       "source": "Kyiv Independent",
-       "published_at": "2026-11-25 15:49"
       }
      ]
     },
@@ -552,10 +573,21 @@
        "published_at": "2026-11-25 23:05"
       },
       {
-       "title": "Russia slams Kyiv in ballistic missile attack, hits shopping center, injures 4",
+       "title": "Russia slams Kyiv in ballistic missile attack, hits shopping center, injures 7",
        "url": "https://kyivindependent.com/russia-slams-kyiv-in-ballistic-missile-attack-hits-shopping-center/",
        "source": "Kyiv Independent",
        "published_at": "2026-11-25 21:42"
+      }
+     ]
+    },
+    {
+     "label": "More headlines",
+     "articles": [
+      {
+       "title": "Ukrainian combat laser intercepts Russian jet-powered drone for first time",
+       "url": "https://kyivindependent.com/ukrainian-combat-lasers-intercept-russian-jet-powered-drone-for-first-time/",
+       "source": "Kyiv Independent",
+       "published_at": "2026-11-25 17:47"
       }
      ]
     }
